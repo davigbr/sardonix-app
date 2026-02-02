@@ -10,7 +10,11 @@ const Conjugator = {
         principalParts: null,
         toggleBtn: null,
         fullConjugation: null,
-        relatedVerbs: null
+        relatedVerbs: null,
+        // Phrasal Verbs Elements
+        phrasalSection: null,
+        togglePhrasalBtn: null,
+        phrasalContainer: null
     },
     currentVerb: null,
 
@@ -32,6 +36,11 @@ const Conjugator = {
         this.elements.toggleBtn = document.getElementById('toggleFullConjugation');
         this.elements.fullConjugation = document.getElementById('fullConjugation');
         this.elements.relatedVerbs = document.getElementById('relatedVerbs');
+
+        // Phrasal Verbs Elements
+        this.elements.phrasalSection = document.getElementById('phrasalSection');
+        this.elements.togglePhrasalBtn = document.getElementById('togglePhrasalVerbs');
+        this.elements.phrasalContainer = document.getElementById('phrasalVerbsContainer');
     },
 
     bindEvents() {
@@ -40,6 +49,7 @@ const Conjugator = {
             if (e.target === this.elements.overlay) this.close();
         });
         this.elements.toggleBtn.addEventListener('click', () => this.toggleFullConjugation());
+        this.elements.togglePhrasalBtn.addEventListener('click', () => this.togglePhrasalVerbs());
 
         document.addEventListener('keydown', (e) => {
             if (e.key === 'Escape' && this.isOpen()) {
@@ -62,6 +72,8 @@ const Conjugator = {
         this.elements.overlay.classList.remove('active');
         document.body.style.overflow = '';
         this.elements.toggleBtn.classList.remove('active');
+        this.elements.togglePhrasalBtn.classList.remove('active');
+        this.elements.phrasalContainer.classList.remove('active');
     },
 
     isOpen() {
@@ -76,6 +88,10 @@ const Conjugator = {
         this.elements.tags.innerHTML = verb.tags.map(tag =>
             `<span class="verb-tag ${tag}">${tag}</span>`
         ).join('');
+
+        if (verb.phrasal) {
+            this.elements.tags.innerHTML += `<span class="verb-tag phrasal">Phrasal</span>`;
+        }
 
         // Principal parts
         this.elements.principalParts.innerHTML = `
@@ -108,6 +124,29 @@ const Conjugator = {
             this.elements.examplesList.innerHTML = '<li class="no-examples">Nenhum exemplo disponível</li>';
         }
 
+        // Phrasal Verbs Section
+        if (verb.phrasal && verb.phrasal.length > 0) {
+            this.elements.phrasalSection.style.display = 'block';
+            this.elements.togglePhrasalBtn.querySelector('span').textContent = `Ver ${verb.phrasal.length} Phrasal Verbs`;
+
+            this.elements.phrasalContainer.innerHTML = verb.phrasal.map(p => `
+                <div class="phrasal-item">
+                    <div class="phrasal-header">
+                        <span class="phrasal-verb-name">${p.verb}</span>
+                    </div>
+                    <p class="phrasal-definition">${p.definition}</p>
+                    <div class="phrasal-example">
+                        <div class="phrasal-example-en speakable" data-speak="${p.example.en}">
+                            "${p.example.en}"
+                        </div>
+                        <div class="phrasal-example-pt">${p.example.pt}</div>
+                    </div>
+                </div>
+            `).join('');
+        } else {
+            this.elements.phrasalSection.style.display = 'none';
+        }
+
         // Full conjugation
         this.elements.fullConjugation.innerHTML = this.renderFullConjugation(verb);
 
@@ -115,7 +154,7 @@ const Conjugator = {
         this.renderRelatedVerbs(verb.related);
 
         // Bind speak events
-        this.bindSpeakEvents();
+        this.bindSpeakEvents(this.elements.modal);
     },
 
     renderFullConjugation(verb) {
@@ -130,7 +169,7 @@ const Conjugator = {
             html += `<td><strong>${tenseName}</strong></td>`;
             for (const pronoun of pronouns) {
                 const form = conjugations[pronoun] || '-';
-                // Include pronoun in speech for context (e.g., "I am" instead of just "am")
+                // Include pronoun in speech for context
                 const speakText = pronoun === 'he/she/it' ? `he ${form}` : `${pronoun} ${form}`;
                 html += `<td><button class="speakable" data-speak="${speakText}">${form}</button></td>`;
             }
@@ -167,8 +206,14 @@ const Conjugator = {
         this.elements.toggleBtn.classList.toggle('active');
     },
 
-    bindSpeakEvents() {
-        this.elements.modal.querySelectorAll('.speakable').forEach(el => {
+    togglePhrasalVerbs() {
+        this.elements.togglePhrasalBtn.classList.toggle('active');
+        this.elements.phrasalContainer.classList.toggle('active');
+    },
+
+    bindSpeakEvents(container) {
+        if (!container) return;
+        container.querySelectorAll('.speakable').forEach(el => {
             el.addEventListener('click', (e) => {
                 e.stopPropagation();
                 const text = el.dataset.speak || el.textContent;
@@ -178,7 +223,8 @@ const Conjugator = {
                 setTimeout(() => el.classList.remove('speaking'), 500);
             });
         });
-    }
+    },
+
 };
 
 window.Conjugator = Conjugator;

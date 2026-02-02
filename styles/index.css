@@ -318,7 +318,7 @@ input {
 
 .verb-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: var(--space-4);
 }
 
@@ -355,6 +355,7 @@ input {
 .verb-card-content {
     position: relative;
     z-index: 1;
+    padding-bottom: var(--space-6);
 }
 
 .verb-infinitive {
@@ -420,6 +421,7 @@ input {
     border-radius: var(--radius-full);
     opacity: 0;
     transition: all var(--transition-fast);
+    z-index: 10;
 }
 
 .verb-card:hover .verb-speak-btn {
@@ -1209,4 +1211,90 @@ input {
     50% {
         opacity: 0.6;
     }
+}
+
+/* ========================================
+   PHRASAL VERBS SECTION
+   ======================================== */
+
+/* ========================================
+   PHRASAL VERBS SECTION
+   ======================================== */
+
+.phrasal-section {
+    margin-bottom: var(--space-6);
+}
+
+.phrasal-list-container {
+    display: none;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: var(--space-4);
+    margin-top: var(--space-4);
+    animation: slideUp 0.3s ease;
+}
+
+.phrasal-list-container.active {
+    display: grid;
+}
+
+
+
+.phrasal-item {
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-lg);
+    padding: var(--space-5);
+    transition: all var(--transition-fast);
+}
+
+.phrasal-item:hover {
+    border-color: var(--accent-primary);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+.phrasal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: var(--space-3);
+}
+
+.phrasal-verb-name {
+    font-size: var(--font-size-lg);
+    font-weight: 700;
+    color: var(--accent-secondary);
+}
+
+.phrasal-definition {
+    font-size: var(--font-size-sm);
+    color: var(--text-primary);
+    margin-bottom: var(--space-4);
+    line-height: 1.5;
+}
+
+.phrasal-example {
+    background: var(--bg-elevated);
+    padding: var(--space-3);
+    border-radius: var(--radius-md);
+    border-left: 2px solid var(--accent-primary);
+}
+
+.phrasal-example-en {
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    color: var(--text-primary);
+    margin-bottom: var(--space-1);
+    cursor: pointer;
+    transition: color var(--transition-fast);
+}
+
+.phrasal-example-en:hover {
+    color: var(--accent-primary);
+}
+
+.phrasal-example-pt {
+    font-size: var(--font-size-xs);
+    color: var(--text-muted);
+    font-style: italic;
 }
