@@ -658,8 +658,13 @@ input {
 .conjugation-table th,
 .conjugation-table td {
     padding: var(--space-3) var(--space-4);
-    text-align: left;
+    text-align: center;
     border-bottom: 1px solid var(--border-subtle);
+}
+
+.conjugation-table th:first-child,
+.conjugation-table td:first-child {
+    text-align: left;
 }
 
 .conjugation-table th {
