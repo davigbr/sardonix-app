@@ -464,7 +464,7 @@ input {
     border-radius: var(--radius-2xl);
     box-shadow: var(--shadow-xl);
     z-index: var(--z-modal);
-    overflow: hidden;
+    overflow-y: auto;
     opacity: 0;
     visibility: hidden;
     transition: all var(--transition-base);
@@ -635,12 +635,13 @@ input {
 
 .full-conjugation {
     max-height: 0;
-    overflow: hidden;
+    overflow: visible;
     transition: max-height var(--transition-slow);
 }
 
 .section-toggle.active+.full-conjugation {
-    max-height: 2000px;
+    max-height: 600px;
+    overflow-y: auto;
 }
 
 /* Conjugation Table */
