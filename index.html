@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Sardonix - Ferramenta de conjugação de verbos em inglês para falantes de português">
+    <title>Sardonix | Verb Conjugator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/index.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <span class="logo-icon">💎</span>
+                <h1>Sardonix</h1>
+            </div>
+            <button class="settings-btn" id="settingsBtn" aria-label="Configurações">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="12" cy="12" r="3"></circle>
+                    <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
+                </svg>
+            </button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <!-- Search Section -->
+        <section class="search-section">
+            <div class="search-container">
+                <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+                <input 
+                    type="text" 
+                    id="searchInput" 
+                    class="search-input" 
+                    placeholder="Buscar verbo (ex: go, went, gone...)"
+                    autocomplete="off"
+                >
+                <button class="search-clear" id="searchClear" aria-label="Limpar busca">×</button>
+            </div>
+            <p class="search-hint">Busque por infinitivo, formas conjugadas ou tradução em português</p>
+        </section>
+
+        <!-- Verb Grid -->
+        <section class="verb-section">
+            <div class="verb-grid" id="verbGrid">
+                <!-- Verb cards will be dynamically inserted here -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Conjugation Modal -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal" id="conjugationModal">
+            <button class="modal-close" id="modalClose" aria-label="Fechar">×</button>
+            
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <div class="verb-title">
+                    <h2 id="modalVerbTitle">go</h2>
+                    <span class="verb-translation" id="modalVerbTranslation">ir</span>
+                </div>
+                <div class="verb-tags" id="modalVerbTags">
+                    <!-- Tags inserted dynamically -->
+                </div>
+            </div>
+
+            <!-- Main Forms (3 Principal Parts) -->
+            <div class="principal-parts" id="principalParts">
+                <div class="principal-part">
+                    <span class="part-label">Base Form</span>
+                    <button class="part-value speakable" data-speak="">go</button>
+                </div>
+                <div class="principal-part">
+                    <span class="part-label">Past Simple</span>
+                    <button class="part-value speakable" data-speak="">went</button>
+                </div>
+                <div class="principal-part">
+                    <span class="part-label">Past Participle</span>
+                    <button class="part-value speakable" data-speak="">gone</button>
+                </div>
+            </div>
+
+            <!-- Full Conjugation Table -->
+            <div class="conjugation-section">
+                <button class="section-toggle" id="toggleFullConjugation">
+                    <span>Ver conjugação completa</span>
+                    <svg class="toggle-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline points="6 9 12 15 18 9"></polyline>
+                    </svg>
+                </button>
+                <div class="full-conjugation" id="fullConjugation">
+                    <!-- Full conjugation table inserted dynamically -->
+                </div>
+            </div>
+
+            <!-- Related Verbs -->
+            <div class="related-section">
+                <h3 class="related-title">Verbos relacionados</h3>
+                <div class="related-verbs" id="relatedVerbs">
+                    <!-- Related verbs inserted dynamically -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Settings Panel -->
+    <div class="settings-overlay" id="settingsOverlay">
+        <div class="settings-panel" id="settingsPanel">
+            <div class="settings-header">
+                <h2>Configurações</h2>
+                <button class="settings-close" id="settingsClose" aria-label="Fechar">×</button>
+            </div>
+            
+            <div class="settings-content">
+                <!-- Pronunciation Preference -->
+                <div class="setting-group">
+                    <label class="setting-label">Preferência de pronúncia</label>
+                    <div class="toggle-group">
+                        <button class="toggle-option" data-accent="en-US" id="accentUS">
+                            <span class="flag">🇺🇸</span>
+                            <span>American</span>
+                        </button>
+                        <button class="toggle-option" data-accent="en-GB" id="accentUK">
+                            <span class="flag">🇬🇧</span>
+                            <span>British</span>
+                        </button>
+                    </div>
+                    <p class="setting-hint">Variações de escrita são sempre mostradas</p>
+                </div>
+
+                <!-- Speech Speed -->
+                <div class="setting-group">
+                    <label class="setting-label">Velocidade da pronúncia</label>
+                    <div class="speed-control">
+                        <span class="speed-label">0.5x</span>
+                        <input 
+                            type="range" 
+                            id="speedSlider" 
+                            min="0.5" 
+                            max="2" 
+                            step="0.1" 
+                            value="1"
+                            class="speed-slider"
+                        >
+                        <span class="speed-label">2x</span>
+                    </div>
+                    <p class="speed-value">Atual: <span id="currentSpeed">1.0</span>x</p>
+                </div>
+
+                <!-- Voice Preview -->
+                <div class="setting-group">
+                    <button class="preview-btn" id="previewVoice">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                            <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                            <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+                        </svg>
+                        Testar pronúncia
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="js/verbData.js"></script>
+    <script src="js/tts.js"></script>
+    <script src="js/settings.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/conjugator.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
