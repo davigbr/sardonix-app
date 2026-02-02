@@ -27,6 +27,8 @@ const Conjugator = {
         this.elements.translation = document.getElementById('modalVerbTranslation');
         this.elements.tags = document.getElementById('modalVerbTags');
         this.elements.principalParts = document.getElementById('principalParts');
+        this.elements.explanation = document.getElementById('verbExplanation');
+        this.elements.examplesList = document.getElementById('examplesList');
         this.elements.toggleBtn = document.getElementById('toggleFullConjugation');
         this.elements.fullConjugation = document.getElementById('fullConjugation');
         this.elements.relatedVerbs = document.getElementById('relatedVerbs');
@@ -90,6 +92,21 @@ const Conjugator = {
                 <button class="part-value speakable" data-speak="${verb.forms.pastParticiple}">${verb.forms.pastParticiple}</button>
             </div>
         `;
+
+        // Explanation
+        this.elements.explanation.textContent = verb.explanation || '';
+
+        // Examples
+        if (verb.examples && verb.examples.length > 0) {
+            this.elements.examplesList.innerHTML = verb.examples.map(ex => `
+                <li class="example-item">
+                    <button class="example-en speakable" data-speak="${ex.en}">${ex.en}</button>
+                    <span class="example-pt">${ex.pt}</span>
+                </li>
+            `).join('');
+        } else {
+            this.elements.examplesList.innerHTML = '<li class="no-examples">Nenhum exemplo disponível</li>';
+        }
 
         // Full conjugation
         this.elements.fullConjugation.innerHTML = this.renderFullConjugation(verb);

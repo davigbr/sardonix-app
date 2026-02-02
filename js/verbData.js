@@ -1,18 +1,18 @@
-// Sardonix Verb Database
+// Sardonix Verb Database with Examples and Explanations
 const verbDatabase = {
     "be": {
         infinitive: "be",
         translation: "ser/estar",
-        forms: {
-            base: "be",
-            pastSimple: "was/were",
-            pastParticiple: "been",
-            presentParticiple: "being",
-            thirdPerson: "is"
-        },
+        forms: { base: "be", pastSimple: "was/were", pastParticiple: "been", presentParticiple: "being", thirdPerson: "is" },
         irregular: true,
         tags: ["irregular", "auxiliary", "essential"],
         related: ["become", "exist", "remain"],
+        explanation: "O verbo 'be' é o mais importante do inglês. Funciona como verbo principal ('I am happy') e como auxiliar para formar tempos contínuos ('I am working') e voz passiva ('It was made'). Diferente do português, 'be' une 'ser' e 'estar' em um só verbo.",
+        examples: [
+            { en: "I am a teacher.", pt: "Eu sou professor." },
+            { en: "She was tired yesterday.", pt: "Ela estava cansada ontem." },
+            { en: "They have been friends for years.", pt: "Eles são amigos há anos." }
+        ],
         tenses: {
             simplePresent: { I: "am", you: "are", "he/she/it": "is", we: "are", they: "are" },
             simplePast: { I: "was", you: "were", "he/she/it": "was", we: "were", they: "were" },
@@ -31,6 +31,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "essential"],
         related: ["come", "leave", "arrive", "depart", "travel"],
+        explanation: "'Go' indica movimento para longe do falante. É muito usado com 'going to' para expressar futuro planejado ('I'm going to study'). Phrasal verbs comuns: 'go on' (continuar), 'go out' (sair), 'go back' (voltar).",
+        examples: [
+            { en: "I go to work by bus.", pt: "Eu vou ao trabalho de ônibus." },
+            { en: "She went to Paris last summer.", pt: "Ela foi a Paris no verão passado." },
+            { en: "We are going to have a party.", pt: "Nós vamos ter uma festa." }
+        ],
         tenses: {
             simplePresent: { I: "go", you: "go", "he/she/it": "goes", we: "go", they: "go" },
             simplePast: { I: "went", you: "went", "he/she/it": "went", we: "went", they: "went" },
@@ -49,6 +55,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "auxiliary", "essential"],
         related: ["own", "possess", "hold", "get"],
+        explanation: "'Have' funciona como verbo principal (posse) e auxiliar (tempos perfeitos). 'Have to' expressa obrigação ('I have to go'). 'Have got' é comum no inglês britânico para posse ('I've got a car').",
+        examples: [
+            { en: "I have two brothers.", pt: "Eu tenho dois irmãos." },
+            { en: "She has finished her homework.", pt: "Ela terminou o dever de casa." },
+            { en: "We had a great time at the party.", pt: "Nós nos divertimos muito na festa." }
+        ],
         tenses: {
             simplePresent: { I: "have", you: "have", "he/she/it": "has", we: "have", they: "have" },
             simplePast: { I: "had", you: "had", "he/she/it": "had", we: "had", they: "had" },
@@ -67,6 +79,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "auxiliary", "essential"],
         related: ["make", "perform", "act", "execute"],
+        explanation: "'Do' é usado como verbo principal (fazer ações) e auxiliar para perguntas e negativas no Simple Present/Past. 'Do' vs 'Make': 'do' para atividades/tarefas ('do homework'), 'make' para criar algo ('make a cake').",
+        examples: [
+            { en: "What do you do for a living?", pt: "O que você faz da vida?" },
+            { en: "I did my best on the test.", pt: "Eu fiz o meu melhor na prova." },
+            { en: "She doesn't like coffee.", pt: "Ela não gosta de café." }
+        ],
         tenses: {
             simplePresent: { I: "do", you: "do", "he/she/it": "does", we: "do", they: "do" },
             simplePast: { I: "did", you: "did", "he/she/it": "did", we: "did", they: "did" },
@@ -85,6 +103,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "essential"],
         related: ["tell", "speak", "talk", "express"],
+        explanation: "'Say' foca nas palavras ditas, não no ouvinte. Compare: 'say something' vs 'tell someone something'. Use 'say' para citar diretamente ('He said: Hello') ou indiretamente ('He said that...').",
+        examples: [
+            { en: "What did you say?", pt: "O que você disse?" },
+            { en: "She says she is busy.", pt: "Ela diz que está ocupada." },
+            { en: "They said goodbye and left.", pt: "Eles disseram adeus e foram embora." }
+        ],
         tenses: {
             simplePresent: { I: "say", you: "say", "he/she/it": "says", we: "say", they: "say" },
             simplePast: { I: "said", you: "said", "he/she/it": "said", we: "said", they: "said" },
@@ -103,6 +127,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "essential"],
         related: ["obtain", "receive", "acquire", "have"],
+        explanation: "'Get' é extremamente versátil: obter ('get a job'), receber ('get a gift'), tornar-se ('get angry'), entender ('I get it'). O particípio 'gotten' é americano, 'got' é britânico.",
+        examples: [
+            { en: "I need to get some groceries.", pt: "Eu preciso comprar mantimentos." },
+            { en: "She got a new job last month.", pt: "Ela conseguiu um emprego novo mês passado." },
+            { en: "It's getting cold outside.", pt: "Está ficando frio lá fora." }
+        ],
         tenses: {
             simplePresent: { I: "get", you: "get", "he/she/it": "gets", we: "get", they: "get" },
             simplePast: { I: "got", you: "got", "he/she/it": "got", we: "got", they: "got" },
@@ -121,6 +151,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "essential"],
         related: ["do", "create", "build", "produce"],
+        explanation: "'Make' indica criar ou produzir algo tangível ('make a cake') ou causar um efeito ('make someone happy'). 'Make' + pessoa + verbo base = obrigar ('She made me do it').",
+        examples: [
+            { en: "I make coffee every morning.", pt: "Eu faço café toda manhã." },
+            { en: "This song makes me happy.", pt: "Essa música me faz feliz." },
+            { en: "We made a decision yesterday.", pt: "Nós tomamos uma decisão ontem." }
+        ],
         tenses: {
             simplePresent: { I: "make", you: "make", "he/she/it": "makes", we: "make", they: "make" },
             simplePast: { I: "made", you: "made", "he/she/it": "made", we: "made", they: "made" },
@@ -139,6 +175,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "essential"],
         related: ["understand", "learn", "recognize"],
+        explanation: "'Know' cobre tanto 'saber' (informação) quanto 'conhecer' (pessoas/lugares). Não é usado no contínuo normalmente ('I know' não 'I am knowing'). 'Get to know' = conhecer gradualmente.",
+        examples: [
+            { en: "I know the answer.", pt: "Eu sei a resposta." },
+            { en: "Do you know Maria?", pt: "Você conhece a Maria?" },
+            { en: "He has known her since childhood.", pt: "Ele a conhece desde a infância." }
+        ],
         tenses: {
             simplePresent: { I: "know", you: "know", "he/she/it": "knows", we: "know", they: "know" },
             simplePast: { I: "knew", you: "knew", "he/she/it": "knew", we: "knew", they: "knew" },
@@ -157,6 +199,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "essential"],
         related: ["believe", "consider", "imagine", "suppose"],
+        explanation: "'Think' expressa opinião ('I think it's good'), processo mental ('I'm thinking about it'), ou crença ('I think so'). 'Think of' = lembrar/imaginar. 'Think about' = considerar.",
+        examples: [
+            { en: "I think you are right.", pt: "Eu acho que você está certo." },
+            { en: "What are you thinking about?", pt: "No que você está pensando?" },
+            { en: "She thought it was a great idea.", pt: "Ela pensou que era uma ótima ideia." }
+        ],
         tenses: {
             simplePresent: { I: "think", you: "think", "he/she/it": "thinks", we: "think", they: "think" },
             simplePast: { I: "thought", you: "thought", "he/she/it": "thought", we: "thought", they: "thought" },
@@ -175,6 +223,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "essential"],
         related: ["bring", "carry", "get", "grab"],
+        explanation: "'Take' indica movimento com algo do ponto atual para outro lugar. Compare: 'take' (levar para lá) vs 'bring' (trazer para cá). Muito usado em expressões: 'take a shower', 'take a photo', 'take time'.",
+        examples: [
+            { en: "Take your umbrella, it might rain.", pt: "Leve seu guarda-chuva, pode chover." },
+            { en: "How long does it take to get there?", pt: "Quanto tempo leva para chegar lá?" },
+            { en: "She took a deep breath and smiled.", pt: "Ela respirou fundo e sorriu." }
+        ],
         tenses: {
             simplePresent: { I: "take", you: "take", "he/she/it": "takes", we: "take", they: "take" },
             simplePast: { I: "took", you: "took", "he/she/it": "took", we: "took", they: "took" },
@@ -193,6 +247,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "essential"],
         related: ["look", "watch", "observe", "notice"],
+        explanation: "'See' é percepção visual passiva (acontece naturalmente). Compare: 'see' (perceber) vs 'look at' (direcionar olhar) vs 'watch' (assistir atentamente). 'See' também significa entender ('I see what you mean').",
+        examples: [
+            { en: "I can see the mountains from here.", pt: "Eu consigo ver as montanhas daqui." },
+            { en: "Did you see the news last night?", pt: "Você viu as notícias ontem à noite?" },
+            { en: "We haven't seen each other in years.", pt: "Não nos vimos há anos." }
+        ],
         tenses: {
             simplePresent: { I: "see", you: "see", "he/she/it": "sees", we: "see", they: "see" },
             simplePast: { I: "saw", you: "saw", "he/she/it": "saw", we: "saw", they: "saw" },
@@ -211,6 +271,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "essential"],
         related: ["go", "arrive", "approach", "reach"],
+        explanation: "'Come' indica movimento em direção ao falante ou a um ponto de referência. Oposto de 'go'. Phrasal verbs comuns: 'come in' (entrar), 'come back' (voltar), 'come from' (vir de).",
+        examples: [
+            { en: "Come here, please.", pt: "Venha aqui, por favor." },
+            { en: "She came to visit us last weekend.", pt: "Ela veio nos visitar no fim de semana passado." },
+            { en: "Where do you come from?", pt: "De onde você vem?" }
+        ],
         tenses: {
             simplePresent: { I: "come", you: "come", "he/she/it": "comes", we: "come", they: "come" },
             simplePast: { I: "came", you: "came", "he/she/it": "came", we: "came", they: "came" },
@@ -229,6 +295,12 @@ const verbDatabase = {
         irregular: false,
         tags: ["regular", "essential"],
         related: ["need", "desire", "wish", "require"],
+        explanation: "'Want' expressa desejo ou necessidade. Seguido de 'to + verbo' ('I want to go') ou objeto ('I want coffee'). 'Would like' é a forma mais educada de 'want' ('Would you like some tea?').",
+        examples: [
+            { en: "I want to learn English.", pt: "Eu quero aprender inglês." },
+            { en: "Do you want some water?", pt: "Você quer um pouco de água?" },
+            { en: "She wanted to be a doctor.", pt: "Ela queria ser médica." }
+        ],
         tenses: {
             simplePresent: { I: "want", you: "want", "he/she/it": "wants", we: "want", they: "want" },
             simplePast: { I: "wanted", you: "wanted", "he/she/it": "wanted", we: "wanted", they: "wanted" },
@@ -247,6 +319,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "essential"],
         related: ["receive", "take", "offer", "provide"],
+        explanation: "'Give' transfere algo para alguém. Estrutura: 'give + pessoa + coisa' ou 'give + coisa + to + pessoa'. Phrasal verbs: 'give up' (desistir), 'give back' (devolver), 'give away' (doar).",
+        examples: [
+            { en: "Can you give me some advice?", pt: "Você pode me dar um conselho?" },
+            { en: "He gave her a beautiful ring.", pt: "Ele deu a ela um anel lindo." },
+            { en: "Don't give up on your dreams.", pt: "Não desista dos seus sonhos." }
+        ],
         tenses: {
             simplePresent: { I: "give", you: "give", "he/she/it": "gives", we: "give", they: "give" },
             simplePast: { I: "gave", you: "gave", "he/she/it": "gave", we: "gave", they: "gave" },
@@ -265,6 +343,12 @@ const verbDatabase = {
         irregular: true,
         tags: ["irregular", "essential"],
         related: ["discover", "locate", "search", "seek"],
+        explanation: "'Find' é descobrir ou localizar algo, seja procurando ou por acaso. 'Find out' = descobrir informação. 'Find' + adjetivo = achar/considerar ('I find it interesting').",
+        examples: [
+            { en: "I can't find my keys.", pt: "Não consigo achar minhas chaves." },
+            { en: "She found a great restaurant downtown.", pt: "Ela encontrou um ótimo restaurante no centro." },
+            { en: "Did you find out what happened?", pt: "Você descobriu o que aconteceu?" }
+        ],
         tenses: {
             simplePresent: { I: "find", you: "find", "he/she/it": "finds", we: "find", they: "find" },
             simplePast: { I: "found", you: "found", "he/she/it": "found", we: "found", they: "found" },
