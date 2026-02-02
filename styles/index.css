@@ -708,13 +708,16 @@ input {
 
 .full-conjugation {
     max-height: 0;
-    overflow: visible;
+    overflow: hidden;
     transition: max-height var(--transition-slow);
 }
 
 .section-toggle.active+.full-conjugation {
+    position: relative;
+    z-index: 20;
     max-height: 600px;
     overflow-y: auto;
+    background: var(--bg-secondary);
 }
 
 /* Conjugation Table */
