@@ -790,13 +790,9 @@ input {
 
 /* Related Verbs */
 .related-section {
-    position: relative;
-    z-index: 10;
     padding: var(--space-6) var(--space-8);
     border-top: 1px solid var(--border-subtle);
     background: var(--bg-secondary);
-    max-height: 200px;
-    overflow-y: auto;
 }
 
 .related-title {
