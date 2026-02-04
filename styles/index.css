@@ -1290,7 +1290,7 @@ input {
 }
 
 .phrasal-example-en:hover {
-    color: var(--accent-primary);
+    color: white;
 }
 
 .phrasal-example-pt {
