@@ -15,9 +15,16 @@ const App = {
 
         const count = Object.keys(window.verbDatabase).length;
         console.log(`Loaded ${count} verbs`);
-        // alert(`Debug: Loaded ${count} verbs`); // Use this for debugging if needed
 
-        // Render initial verb list (pagination handles performance)
+        // Setup Infinite Scroll Observer
+        this.observer = new IntersectionObserver((entries) => {
+            if (entries[0].isIntersecting && this.hasMoreItems()) {
+                this.currentPage++;
+                this.renderPage(false);
+            }
+        }, { rootMargin: '100px' });
+
+        // Render initial verb list
         this.renderVerbs(Object.values(window.verbDatabase));
     },
 
@@ -28,6 +35,7 @@ const App = {
     currentVerbs: [],
     currentPage: 1,
     itemsPerPage: 50,
+    observer: null,
 
     renderVerbs(verbs) {
         if (!verbs || verbs.length === 0) {
@@ -46,35 +54,46 @@ const App = {
         this.renderPage(true);
     },
 
-    renderPage(reset = false) {
-        const start = 0;
-        const end = this.currentPage * this.itemsPerPage;
-        const verbsToShow = this.currentVerbs.slice(start, end);
+    hasMoreItems() {
+        return (this.currentPage * this.itemsPerPage) < this.currentVerbs.length;
+    },
 
+    renderPage(reset = false) {
+        const start = reset ? 0 : (this.currentPage - 1) * this.itemsPerPage;
+        const end = this.currentPage * this.itemsPerPage;
+
+        // If resetting, we render from 0 to end (first page)
+        // If appending, we want to render strictly the new page slice
+        // BUT the original code was: const start = 0; const end = this.currentPage * this.itemsPerPage;
+        // which implies re-rendering the whole list every time?
+        // Let's optimize: append if not reset.
+
+        const sliceStart = reset ? 0 : start;
+        const verbsToShow = this.currentVerbs.slice(sliceStart, end);
         const gridContent = verbsToShow.map(verb => this.renderVerbCard(verb)).join('');
 
-        // Add Load More button if there are more verbs
-        let loadMoreHtml = '';
-        if (end < this.currentVerbs.length) {
-            loadMoreHtml = `
-                <div class="load-more-container" style="grid-column: 1/-1; text-align: center; padding: 20px;">
-                    <button id="loadMoreBtn" class="btn-primary" style="padding: 10px 30px;">
-                        Carregar Mais (${this.currentVerbs.length - end} restantes)
-                    </button>
-                </div>
-            `;
+        if (reset) {
+            this.elements.verbGrid.innerHTML = gridContent;
+            window.scrollTo(0, 0); // Reset scroll on fresh search/load
+        } else {
+            // Remove previous sentinel if it exists
+            const sentinel = document.getElementById('scroll-sentinel');
+            if (sentinel) sentinel.remove();
+
+            this.elements.verbGrid.insertAdjacentHTML('beforeend', gridContent);
         }
 
-        this.elements.verbGrid.innerHTML = gridContent + loadMoreHtml;
         this.bindCardEvents();
 
-        // Bind Load More event
-        const loadMoreBtn = document.getElementById('loadMoreBtn');
-        if (loadMoreBtn) {
-            loadMoreBtn.addEventListener('click', () => {
-                this.currentPage++;
-                this.renderPage(false);
-            });
+        // Append Sentinel if there are more items
+        if (this.hasMoreItems()) {
+            const sentinel = document.createElement('div');
+            sentinel.id = 'scroll-sentinel';
+            sentinel.style.height = '20px';
+            sentinel.style.width = '100%';
+            // sentinel.style.background = 'red'; // Debugging
+            this.elements.verbGrid.appendChild(sentinel);
+            this.observer.observe(sentinel);
         }
     },
 
@@ -107,20 +126,37 @@ const App = {
     },
 
     bindCardEvents() {
-        // Card click opens conjugation
-        this.elements.verbGrid.querySelectorAll('.verb-card').forEach(card => {
-            card.addEventListener('click', (e) => {
-                if (e.target.closest('.verb-speak-btn')) return;
-                Conjugator.open(card.dataset.verb);
-            });
-        });
+        // We only need to bind events for NEW items if appending, 
+        // but current implementation binds to ALL queries in verbGrid.
+        // It's safer to re-bind or use event delegation.
+        // For now, to match existing logic style but avoid duplicate listeners:
 
-        // Speak button
-        this.elements.verbGrid.querySelectorAll('.verb-speak-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
+        // Better approach: Use Event Delegation on the grid itself
+        // But to minimize refactor risk of breaking other logic, let's keep it simple.
+        // However, adding listeners repeatedly to existing elements is bad.
+        // Let's use event delegation for the Grid once in init? 
+        // No, let's stick to the plan but be careful.
+
+        // Actually, the original code querySelectorAll('.verb-card') re-binds everything.
+        // Use cloneNode or removeEventListener? 
+        // EASIEST SAFE FIX: Event delegation on #verbGrid.
+    },
+
+    // Changing bindCardEvents to event delegation to support infinite scroll efficiently
+    bindGlobalEvents() {
+        this.elements.verbGrid.addEventListener('click', (e) => {
+            const card = e.target.closest('.verb-card');
+            const speakBtn = e.target.closest('.verb-speak-btn');
+
+            if (speakBtn) {
                 e.stopPropagation();
-                TTS.speak(btn.dataset.speak);
-            });
+                TTS.speak(speakBtn.dataset.speak);
+                return;
+            }
+
+            if (card) {
+                Conjugator.open(card.dataset.verb);
+            }
         });
     }
 };
@@ -128,6 +164,7 @@ const App = {
 // Initialize app when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
     App.init();
+    App.bindGlobalEvents(); // Bind delegation once
 });
 
 window.App = App;
