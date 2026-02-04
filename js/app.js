@@ -13,7 +13,11 @@ const App = {
         Search.init();
         Conjugator.init();
 
-        // Render initial verb list
+        const count = Object.keys(window.verbDatabase).length;
+        console.log(`Loaded ${count} verbs`);
+        // alert(`Debug: Loaded ${count} verbs`); // Use this for debugging if needed
+
+        // Render initial verb list (pagination handles performance)
         this.renderVerbs(Object.values(window.verbDatabase));
     },
 
@@ -21,8 +25,12 @@ const App = {
         this.elements.verbGrid = document.getElementById('verbGrid');
     },
 
+    currentVerbs: [],
+    currentPage: 1,
+    itemsPerPage: 50,
+
     renderVerbs(verbs) {
-        if (verbs.length === 0) {
+        if (!verbs || verbs.length === 0) {
             this.elements.verbGrid.innerHTML = `
                 <div class="no-results">
                     <div class="no-results-icon">🔍</div>
@@ -33,8 +41,41 @@ const App = {
             return;
         }
 
-        this.elements.verbGrid.innerHTML = verbs.map(verb => this.renderVerbCard(verb)).join('');
+        this.currentVerbs = verbs;
+        this.currentPage = 1;
+        this.renderPage(true);
+    },
+
+    renderPage(reset = false) {
+        const start = 0;
+        const end = this.currentPage * this.itemsPerPage;
+        const verbsToShow = this.currentVerbs.slice(start, end);
+
+        const gridContent = verbsToShow.map(verb => this.renderVerbCard(verb)).join('');
+
+        // Add Load More button if there are more verbs
+        let loadMoreHtml = '';
+        if (end < this.currentVerbs.length) {
+            loadMoreHtml = `
+                <div class="load-more-container" style="grid-column: 1/-1; text-align: center; padding: 20px;">
+                    <button id="loadMoreBtn" class="btn-primary" style="padding: 10px 30px;">
+                        Carregar Mais (${this.currentVerbs.length - end} restantes)
+                    </button>
+                </div>
+            `;
+        }
+
+        this.elements.verbGrid.innerHTML = gridContent + loadMoreHtml;
         this.bindCardEvents();
+
+        // Bind Load More event
+        const loadMoreBtn = document.getElementById('loadMoreBtn');
+        if (loadMoreBtn) {
+            loadMoreBtn.addEventListener('click', () => {
+                this.currentPage++;
+                this.renderPage(false);
+            });
+        }
     },
 
     renderVerbCard(verb) {

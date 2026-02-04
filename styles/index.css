@@ -797,7 +797,6 @@ input {
 .related-section {
     padding: var(--space-6) var(--space-8);
     border-top: 1px solid var(--border-subtle);
-    background: var(--bg-secondary);
 }
 
 .related-title {
@@ -1222,7 +1221,8 @@ input {
    ======================================== */
 
 .phrasal-section {
-    margin-bottom: var(--space-6);
+    padding: var(--space-6) var(--space-8);
+    border-top: 1px solid var(--border-subtle);
 }
 
 .phrasal-list-container {

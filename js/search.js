@@ -67,15 +67,17 @@ const Search = {
                 }
             }
 
-            // Match conjugations
-            for (const tense of Object.values(verb.tenses)) {
-                for (const conjugation of Object.values(tense)) {
-                    if (conjugation.toLowerCase().includes(query)) {
-                        score += 20;
-                        break;
+            // Match conjugations (only if hydrated)
+            if (verb.tenses) {
+                for (const tense of Object.values(verb.tenses)) {
+                    for (const conjugation of Object.values(tense)) {
+                        if (conjugation.toLowerCase().includes(query)) {
+                            score += 20;
+                            break;
+                        }
                     }
+                    if (score > 0) break;
                 }
-                if (score > 0) break;
             }
 
             if (score > 0) {

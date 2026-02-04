@@ -59,13 +59,29 @@ const Conjugator = {
     },
 
     open(verbKey) {
-        const verb = window.verbDatabase[verbKey];
-        if (!verb) return;
+        try {
+            const verb = window.verbDatabase[verbKey.toLowerCase()];
+            if (!verb) {
+                console.error('Verb not found:', verbKey);
+                return;
+            }
 
-        this.currentVerb = verb;
-        this.render(verb);
-        this.elements.overlay.classList.add('active');
-        document.body.style.overflow = 'hidden';
+            // Ensure verb is hydrated (tenses generated) before rendering
+            if (!verb.tenses && window.VerbUtils) {
+                verb.tenses = window.VerbUtils.generateTenses(verb);
+            }
+
+            this.currentVerb = verb;
+            this.render(verb);
+            this.elements.modal.scrollTop = 0;
+            this.elements.overlay.classList.add('active');
+            document.body.style.overflow = 'hidden';
+
+            console.log('Opened modal for:', verbKey);
+        } catch (err) {
+            console.error('Error opening conjugator:', err);
+            alert('Erro ao abrir o modal: ' + err.message);
+        }
     },
 
     close() {
@@ -146,6 +162,11 @@ const Conjugator = {
         } else {
             this.elements.phrasalSection.style.display = 'none';
         }
+
+        // Reset accordion states for new verb
+        this.elements.toggleBtn.classList.remove('active');
+        this.elements.togglePhrasalBtn.classList.remove('active');
+        this.elements.phrasalContainer.classList.remove('active');
 
         // Full conjugation
         this.elements.fullConjugation.innerHTML = this.renderFullConjugation(verb);
