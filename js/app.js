@@ -1,12 +1,18 @@
 // Main App Module
 const App = {
     elements: {
-        verbGrid: null
+        verbGrid: null,
+        favoriteFilterBtn: null
     },
+
+    showFavoritesOnly: false,
 
     async init() {
         console.log('App v3.0 - Full JSON Migration');
         this.cacheElements();
+
+        // Initialize Favorites
+        Favorites.init();
 
         // Setup Infinite Scroll Observer FIRST
         this.observer = new IntersectionObserver((entries) => {
@@ -75,6 +81,7 @@ const App = {
 
     cacheElements() {
         this.elements.verbGrid = document.getElementById('verbGrid');
+        this.elements.favoriteFilterBtn = document.getElementById('favoriteFilterBtn');
     },
 
     currentVerbs: [],
@@ -83,6 +90,11 @@ const App = {
     observer: null,
 
     renderVerbs(verbs) {
+        // Apply Favorites Filter if active
+        if (this.showFavoritesOnly) {
+            verbs = verbs.filter(v => Favorites.isFavorite(v.infinitive));
+        }
+
         if (!verbs || verbs.length === 0) {
             this.elements.verbGrid.innerHTML = `
                 <div class="no-results">
@@ -143,8 +155,17 @@ const App = {
             return '';
         }).join('');
 
+        const isFavorite = Favorites.isFavorite(verb.infinitive);
+        const heartClass = isFavorite ? 'active' : '';
+        const heartFill = isFavorite ? 'currentColor' : 'none';
+
         return `
             <article class="verb-card" data-verb="${verb.infinitive}">
+                <button class="verb-favorite-btn ${heartClass}" data-verb="${verb.infinitive}" aria-label="Favoritar">
+                     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="${heartFill}" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                    </svg>
+                </button>
                 <div class="verb-tags-mini">${tagDots}</div>
                 <div class="verb-card-content">
                     <h3 class="verb-infinitive">${verb.infinitive}</h3>
@@ -170,9 +191,39 @@ const App = {
 
     // Changing bindCardEvents to event delegation to support infinite scroll efficiently
     bindGlobalEvents() {
+        // Favorite Filter Toggle
+        this.elements.favoriteFilterBtn.addEventListener('click', () => {
+            this.showFavoritesOnly = !this.showFavoritesOnly;
+            this.elements.favoriteFilterBtn.classList.toggle('active', this.showFavoritesOnly);
+
+            // Re-run search if active, otherwise refresh list
+            if (document.getElementById('searchInput').value.trim()) {
+                Search.runSearch(document.getElementById('searchInput').value);
+            } else {
+                this.refreshVerbs();
+            }
+        });
+
         this.elements.verbGrid.addEventListener('click', (e) => {
             const card = e.target.closest('.verb-card');
             const speakBtn = e.target.closest('.verb-speak-btn');
+            const favBtn = e.target.closest('.verb-favorite-btn');
+
+            if (favBtn) {
+                e.stopPropagation();
+                const verb = favBtn.dataset.verb;
+                const isFav = Favorites.toggle(verb);
+
+                favBtn.classList.toggle('active', isFav);
+                const svg = favBtn.querySelector('svg');
+                svg.setAttribute('fill', isFav ? 'currentColor' : 'none');
+
+                // If in "Favorites Only" mode and un-favorited, remove card
+                if (this.showFavoritesOnly && !isFav) {
+                    this.refreshVerbs();
+                }
+                return;
+            }
 
             if (speakBtn) {
                 e.stopPropagation();

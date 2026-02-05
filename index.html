@@ -47,6 +47,17 @@
                     placeholder="Buscar verbo (ex: go, went, gone...)" autocomplete="off">
                 <button class="search-clear" id="searchClear" aria-label="Limpar busca">×</button>
             </div>
+            <div class="filter-container">
+                <button class="favorite-filter-btn" id="favoriteFilterBtn" aria-label="Mostrar apenas favoritos">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path
+                            d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z">
+                        </path>
+                    </svg>
+                    <span>Meus Favoritos</span>
+                </button>
+            </div>
             <p class="search-hint">Busque por infinitivo, formas conjugadas ou tradução em português</p>
         </section>
 
@@ -203,6 +214,8 @@
     <script>window.verbDatabase = {};</script>
     <!-- Verbs Data -> JSON loaded asynchronously in app.js -->
     <script src="js/verbUtils.js"></script>
+    <script src="js/favorites.js"></script>
+    <script src="js/tts.js"></script>
     <script src="js/tts.js"></script>
     <script src="js/settings.js"></script>
     <script src="js/search.js"></script>

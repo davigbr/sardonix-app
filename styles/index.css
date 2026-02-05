@@ -1297,4 +1297,80 @@ input {
     font-size: var(--font-size-xs);
     color: var(--text-muted);
     font-style: italic;
+}/* Favorites */
+.filter-container {
+    display: flex;
+    justify-content: center;
+    margin-top: var(--space-4);
+}
+
+.favorite-filter-btn {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-4);
+    background: var(--bg-secondary);
+    border: 1px solid var(--border-default);
+    border-radius: var(--radius-full);
+    color: var(--text-secondary);
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    transition: all var(--transition-base);
+}
+
+.favorite-filter-btn:hover {
+    background: var(--bg-tertiary);
+    color: var(--text-primary);
+    border-color: var(--accent-primary);
+}
+
+.favorite-filter-btn.active {
+    background: rgba(239, 68, 68, 0.15);
+    color: var(--error);
+    border-color: var(--error);
+    box-shadow: 0 0 15px rgba(239, 68, 68, 0.2);
+}
+
+.favorite-filter-btn svg {
+    transition: all var(--transition-base);
+}
+
+.favorite-filter-btn.active svg {
+    fill: var(--error);
+    transform: scale(1.1);
+}
+
+.verb-favorite-btn {
+    position: absolute;
+    top: var(--space-3);
+    right: var(--space-3);
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-muted);
+    border-radius: var(--radius-full);
+    z-index: 10;
+    transition: all var(--transition-fast);
+}
+
+.verb-favorite-btn:hover {
+    color: var(--error);
+    background: rgba(255, 255, 255, 0.05);
+    transform: scale(1.1);
+}
+
+.verb-favorite-btn.active {
+    color: var(--error);
+}
+
+.verb-favorite-btn.active svg {
+    fill: var(--error);
+}
+
+/* Adjust tag position to not overlap with heart */
+.verb-tags-mini {
+    right: var(--space-12);
+    /* Move tags to left of heart */
 }

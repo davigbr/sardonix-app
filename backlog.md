@@ -7,11 +7,13 @@ Este arquivo rastreia as próximas funcionalidades e melhorias planejadas para o
 - [x] **Importação/Exportação CSV**
   - Script para exportar verbos para um arquivo CSV (para manipulação em planilhas).
   - Script para importar o CSV e atualizar os arquivos `.json`, com verificação de consistência dos dados.
+- [ ] **Verbos Modais e Defectivos**
+  - Adicionar tags específicas e tratamento especial na exibição de conjugações para verbos modais e defectivos.
 
-- [ ] **Favoritos**
+- [x] **Favoritos**
   - Implementar sistema de "favoritar" verbos.
-  - Criar persistência para os favoritos (ex: `localStorage`).
-  - Adicionar filtro para exibir apenas verbos favoritos.
+  - Salvar favoritos no `localStorage`.
+  - Filtro para exibir apenas favoritos. favoritos.
 
 - [ ] **Novos Filtros**
   - Filtro por **Verbos Irregulares**.
