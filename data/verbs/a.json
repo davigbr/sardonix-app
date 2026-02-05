@@ -1,0 +1,2037 @@
+{
+    "abide": {
+        "infinitive": "abide",
+        "translation": "suportar/obedecer",
+        "forms": {
+            "base": "abide",
+            "pastSimple": "abode",
+            "pastParticiple": "abode",
+            "presentParticiple": "abiding",
+            "thirdPerson": "abides"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "tolerate",
+            "endure",
+            "accept"
+        ],
+        "explanation": "'Abide' é formal e arcaico. Usado em 'abide by' (obedecer, acatar) ou 'can't abide' (não suportar).",
+        "examples": [
+            {
+                "en": "I cannot abide laziness.",
+                "pt": "Eu não suporto preguiça."
+            },
+            {
+                "en": "Competitors must abide by the judge's decision.",
+                "pt": "Os competidores devem acatar a decisão do juiz."
+            }
+        ]
+    },
+    "absorb": {
+        "infinitive": "absorb",
+        "translation": "absorver",
+        "forms": {
+            "base": "absorb",
+            "pastSimple": "absorbed",
+            "pastParticiple": "absorbed",
+            "presentParticiple": "absorbing",
+            "thirdPerson": "absorbs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "soak",
+            "consume"
+        ],
+        "explanation": "Receber e reter líquido, calor, conhecimento, etc.",
+        "examples": [
+            {
+                "en": "The sponge absorbed the water.",
+                "pt": "A esponja absorveu a água."
+            }
+        ]
+    },
+    "abuse": {
+        "infinitive": "abuse",
+        "translation": "abusar",
+        "forms": {
+            "base": "abuse",
+            "pastSimple": "abused",
+            "pastParticiple": "abused",
+            "presentParticiple": "abusing",
+            "thirdPerson": "abuses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mistreat"
+        ],
+        "explanation": "Tratar mal ou usar incorretamente.",
+        "examples": [
+            {
+                "en": "Don't abuse power.",
+                "pt": "Não abuse do poder."
+            }
+        ]
+    },
+    "accelerate": {
+        "infinitive": "accelerate",
+        "translation": "acelerar",
+        "forms": {
+            "base": "accelerate",
+            "pastSimple": "accelerated",
+            "pastParticiple": "accelerated",
+            "presentParticiple": "accelerating",
+            "thirdPerson": "accelerates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "speed",
+            "hasten"
+        ],
+        "explanation": "Aumentar a velocidade.",
+        "examples": [
+            {
+                "en": "The car accelerated.",
+                "pt": "O carro acelerou."
+            }
+        ]
+    },
+    "accept": {
+        "infinitive": "accept",
+        "translation": "aceitar",
+        "forms": {
+            "base": "accept",
+            "pastSimple": "accepted",
+            "pastParticiple": "accepted",
+            "presentParticiple": "accepting",
+            "thirdPerson": "accepts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "receive",
+            "agree",
+            "take"
+        ],
+        "explanation": "'Accept' significa concordar com algo ou receber algo oferecido.",
+        "examples": [
+            {
+                "en": "I accept your apology.",
+                "pt": "Aceito suas desculpas."
+            },
+            {
+                "en": "She accepted the job offer.",
+                "pt": "Ela aceitou a oferta de emprego."
+            },
+            {
+                "en": "Do you accept credit cards?",
+                "pt": "Vocês aceitam cartão de crédito?"
+            }
+        ]
+    },
+    "accommodate": {
+        "infinitive": "accommodate",
+        "translation": "acomodar",
+        "forms": {
+            "base": "accommodate",
+            "pastSimple": "accommodated",
+            "pastParticiple": "accommodated",
+            "presentParticiple": "accommodating",
+            "thirdPerson": "accommodates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "house",
+            "fit"
+        ],
+        "explanation": "Fornecer espaço ou adaptar-se.",
+        "examples": [
+            {
+                "en": "The hotel accommodates 100.",
+                "pt": "O hotel acomoda 100."
+            }
+        ]
+    },
+    "accomplish": {
+        "infinitive": "accomplish",
+        "translation": "realizar/conseguir",
+        "forms": {
+            "base": "accomplish",
+            "pastSimple": "accomplished",
+            "pastParticiple": "accomplished",
+            "presentParticiple": "accomplishing",
+            "thirdPerson": "accomplishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "achieve",
+            "do",
+            "complete"
+        ],
+        "explanation": "'Accomplish' significa completar com sucesso uma tarefa ou objetivo, focando no ato da conclusão.",
+        "examples": [
+            {
+                "en": "She accomplished her goal.",
+                "pt": "Ela realizou seu objetivo."
+            },
+            {
+                "en": "We have accomplished a lot today.",
+                "pt": "Realizamos muito hoje."
+            },
+            {
+                "en": "Mission accomplished!",
+                "pt": "Missão cumprida!"
+            }
+        ]
+    },
+    "accuse": {
+        "infinitive": "accuse",
+        "translation": "acusar",
+        "forms": {
+            "base": "accuse",
+            "pastSimple": "accused",
+            "pastParticiple": "accused",
+            "presentParticiple": "accusing",
+            "thirdPerson": "accuses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "blame",
+            "charge"
+        ],
+        "explanation": "Dizer que alguém fez algo errado ou ilegal.",
+        "examples": [
+            {
+                "en": "They accused him of theft.",
+                "pt": "Acusaram-no de roubo."
+            }
+        ]
+    },
+    "achieve": {
+        "infinitive": "achieve",
+        "translation": "alcançar/conquistar",
+        "forms": {
+            "base": "achieve",
+            "pastSimple": "achieved",
+            "pastParticiple": "achieved",
+            "presentParticiple": "achieving",
+            "thirdPerson": "achieves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "reach",
+            "accomplish",
+            "succeed"
+        ],
+        "explanation": "'Achieve' significa conquistar algo através de esforço, habilidade ou coragem.",
+        "examples": [
+            {
+                "en": "She achieved her dream.",
+                "pt": "Ela conquistou seu sonho."
+            },
+            {
+                "en": "We achieved great results.",
+                "pt": "Alcançamos ótimos resultados."
+            },
+            {
+                "en": "Nothing is achieved without effort.",
+                "pt": "Nada se conquista sem esforço."
+            }
+        ]
+    },
+    "acquire": {
+        "infinitive": "acquire",
+        "translation": "adquirir",
+        "forms": {
+            "base": "acquire",
+            "pastSimple": "acquired",
+            "pastParticiple": "acquired",
+            "presentParticiple": "acquiring",
+            "thirdPerson": "acquires"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "get",
+            "obtain",
+            "gain"
+        ],
+        "explanation": "'Acquire' é mais formal que 'get'. Usado para obter algo (conhecimento, bens) de forma permanente.",
+        "examples": [
+            {
+                "en": "She acquired new skills at work.",
+                "pt": "Ela adquiriu novas habilidades no trabalho."
+            },
+            {
+                "en": "The company acquired a competitor.",
+                "pt": "A empresa adquiriu um concorrente."
+            }
+        ]
+    },
+    "act": {
+        "infinitive": "act",
+        "translation": "agir/atuar",
+        "forms": {
+            "base": "act",
+            "pastSimple": "acted",
+            "pastParticiple": "acted",
+            "presentParticiple": "acting",
+            "thirdPerson": "acts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "perform",
+            "do",
+            "behave"
+        ],
+        "explanation": "'Act' pode significar tomar uma atitude, comportar-se de certa maneira ou atuar artisticamente.",
+        "examples": [
+            {
+                "en": "You need to act quickly.",
+                "pt": "Você precisa agir rapidamente."
+            },
+            {
+                "en": "He acted like a fool.",
+                "pt": "Ele agiu como um tolo."
+            },
+            {
+                "en": "She acts in movies.",
+                "pt": "Ela atua em filmes."
+            }
+        ]
+    },
+    "activate": {
+        "infinitive": "activate",
+        "translation": "ativar",
+        "forms": {
+            "base": "activate",
+            "pastSimple": "activated",
+            "pastParticiple": "activated",
+            "presentParticiple": "activating",
+            "thirdPerson": "activates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "trigger",
+            "start"
+        ],
+        "explanation": "Fazer funcionar.",
+        "examples": [
+            {
+                "en": "Activate the alarm.",
+                "pt": "Ative o alarme."
+            }
+        ]
+    },
+    "add": {
+        "infinitive": "add",
+        "translation": "adicionar/somar",
+        "forms": {
+            "base": "add",
+            "pastSimple": "added",
+            "pastParticiple": "added",
+            "presentParticiple": "adding",
+            "thirdPerson": "adds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "increase",
+            "calculate",
+            "include"
+        ],
+        "explanation": "'Add' é usado para matemática (somar) ou para incluir algo a mais (adicionar).",
+        "examples": [
+            {
+                "en": "Add some salt to the soup.",
+                "pt": "Adicione um pouco de sal à sopa."
+            },
+            {
+                "en": "If you add 2 and 2, you get 4.",
+                "pt": "Se você somar 2 e 2, obtém 4."
+            },
+            {
+                "en": "I have nothing to add.",
+                "pt": "Não tenho nada a acrescentar."
+            }
+        ]
+    },
+    "adhere": {
+        "infinitive": "adhere",
+        "translation": "aderir",
+        "forms": {
+            "base": "adhere",
+            "pastSimple": "adhered",
+            "pastParticiple": "adhered",
+            "presentParticiple": "adhering",
+            "thirdPerson": "adheres"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stick",
+            "cling"
+        ],
+        "explanation": "Grudar firmemente em uma superfície ou seguir uma regra.",
+        "examples": [
+            {
+                "en": "The tape sends to adhere well.",
+                "pt": "A fita parece aderir bem."
+            }
+        ]
+    },
+    "admire": {
+        "infinitive": "admire",
+        "translation": "admirar",
+        "forms": {
+            "base": "admire",
+            "pastSimple": "admired",
+            "pastParticiple": "admired",
+            "presentParticiple": "admiring",
+            "thirdPerson": "admires"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "respect",
+            "praise",
+            "love"
+        ],
+        "explanation": "Olhar para algo ou alguém com respeito e prazer.",
+        "examples": [
+            {
+                "en": "I admire your courage.",
+                "pt": "Eu admiro sua coragem."
+            },
+            {
+                "en": "We stopped to admire the view.",
+                "pt": "Paramos para admirar a vista."
+            }
+        ]
+    },
+    "admit": {
+        "infinitive": "admit",
+        "translation": "admitir",
+        "forms": {
+            "base": "admit",
+            "pastSimple": "admitted",
+            "pastParticiple": "admitted",
+            "presentParticiple": "admitting",
+            "thirdPerson": "admits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "confess",
+            "allow",
+            "accept"
+        ],
+        "explanation": "Concordar que algo é verdade (muitas vezes com relutância) ou permitir entrada.",
+        "examples": [
+            {
+                "en": "He admitted his mistake.",
+                "pt": "Ele admitiu seu erro."
+            },
+            {
+                "en": "The hospital admits 100 patients daily.",
+                "pt": "O hospital admite 100 pacientes diariamente."
+            }
+        ]
+    },
+    "adore": {
+        "infinitive": "adore",
+        "translation": "adorar",
+        "forms": {
+            "base": "adore",
+            "pastSimple": "adored",
+            "pastParticiple": "adored",
+            "presentParticiple": "adoring",
+            "thirdPerson": "adores"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "love",
+            "worship"
+        ],
+        "explanation": "Amar e respeitar muito alguém.",
+        "examples": [
+            {
+                "en": "Calculate adores her children.",
+                "pt": "Ela adora seus filhos."
+            }
+        ]
+    },
+    "adorn": {
+        "infinitive": "adorn",
+        "translation": "adornar, enfeitar",
+        "forms": {
+            "base": "adorn",
+            "pastSimple": "adorned",
+            "pastParticiple": "adorned",
+            "presentParticiple": "adorning",
+            "thirdPerson": "adorns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "decorate",
+            "beautify"
+        ],
+        "explanation": "Tornar algo mais bonito com enfeites.",
+        "examples": [
+            {
+                "en": "Flowers adorned the table.",
+                "pt": "Flores adornavam a mesa."
+            }
+        ]
+    },
+    "advance": {
+        "infinitive": "advance",
+        "translation": "avançar",
+        "forms": {
+            "base": "advance",
+            "pastSimple": "advanced",
+            "pastParticiple": "advanced",
+            "presentParticiple": "advancing",
+            "thirdPerson": "advances"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "proceed",
+            "progress"
+        ],
+        "explanation": "Mover-se para frente.",
+        "examples": [
+            {
+                "en": "The army advanced.",
+                "pt": "O exército avançou."
+            }
+        ]
+    },
+    "advise": {
+        "infinitive": "advise",
+        "translation": "aconselhar",
+        "forms": {
+            "base": "advise",
+            "pastSimple": "advised",
+            "pastParticiple": "advised",
+            "presentParticiple": "advising",
+            "thirdPerson": "advises"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "suggest",
+            "recommend",
+            "help"
+        ],
+        "explanation": "Dar conselhos ou recomendar uma ação.",
+        "examples": [
+            {
+                "en": "I advise you to wait.",
+                "pt": "Eu te aconselho a esperar."
+            },
+            {
+                "en": "He advised against going there.",
+                "pt": "Ele aconselhou não ir lá."
+            }
+        ]
+    },
+    "affect": {
+        "infinitive": "affect",
+        "translation": "afetar",
+        "forms": {
+            "base": "affect",
+            "pastSimple": "affected",
+            "pastParticiple": "affected",
+            "presentParticiple": "affecting",
+            "thirdPerson": "affects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "influence",
+            "change"
+        ],
+        "explanation": "Produzir um efeito ou mudança em algo.",
+        "examples": [
+            {
+                "en": "The weather affects my mood.",
+                "pt": "O clima afeta meu humor."
+            }
+        ]
+    },
+    "afford": {
+        "infinitive": "afford",
+        "translation": "ter condições de pagar/fazer",
+        "forms": {
+            "base": "afford",
+            "pastSimple": "afforded",
+            "pastParticiple": "afforded",
+            "presentParticiple": "affording",
+            "thirdPerson": "affords"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pay",
+            "buy",
+            "manage"
+        ],
+        "explanation": "Geralmente usado com 'can' ou 'cannot' para dizer se alguém tem dinheiro ou tempo suficiente para algo.",
+        "examples": [
+            {
+                "en": "I can't afford a new car.",
+                "pt": "Não posso pagar por um carro novo."
+            },
+            {
+                "en": "We can't afford to waste time.",
+                "pt": "Não podemos nos dar ao luxo de perder tempo."
+            }
+        ]
+    },
+    "agree": {
+        "infinitive": "agree",
+        "translation": "concordar",
+        "forms": {
+            "base": "agree",
+            "pastSimple": "agreed",
+            "pastParticiple": "agreed",
+            "presentParticiple": "agreeing",
+            "thirdPerson": "agrees"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "accept",
+            "consent"
+        ],
+        "explanation": "Ter a mesma opinião ou aceitar uma sugestão.",
+        "examples": [
+            {
+                "en": "I agree with you.",
+                "pt": "Eu concordo com você."
+            },
+            {
+                "en": "They agreed to help us.",
+                "pt": "Eles concordaram em nos ajudar."
+            }
+        ]
+    },
+    "aid": {
+        "infinitive": "aid",
+        "translation": "ajudar, auxiliar",
+        "forms": {
+            "base": "aid",
+            "pastSimple": "aided",
+            "pastParticiple": "aided",
+            "presentParticiple": "aiding",
+            "thirdPerson": "aids"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "help",
+            "assist"
+        ],
+        "explanation": "Oferecer ajuda ou assistência.",
+        "examples": [
+            {
+                "en": "They aided the victims.",
+                "pt": "Eles ajudaram as vítimas."
+            }
+        ]
+    },
+    "aim": {
+        "infinitive": "aim",
+        "translation": "mirar, alvejar, pretender",
+        "forms": {
+            "base": "aim",
+            "pastSimple": "aimed",
+            "pastParticiple": "aimed",
+            "presentParticiple": "aiming",
+            "thirdPerson": "aims"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "point",
+            "target"
+        ],
+        "explanation": "Apontar ou dirigir algo para um alvo ou objetivo.",
+        "examples": [
+            {
+                "en": "He aimed at the target.",
+                "pt": "Ele mirou no alvo."
+            }
+        ]
+    },
+    "air": {
+        "infinitive": "air",
+        "translation": "arejar, transmitir (programa)",
+        "forms": {
+            "base": "air",
+            "pastSimple": "aired",
+            "pastParticiple": "aired",
+            "presentParticiple": "airing",
+            "thirdPerson": "airs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "broadcast",
+            "ventilate"
+        ],
+        "explanation": "Expor ao ar ou transmitir um programa de TV/rádio.",
+        "examples": [
+            {
+                "en": "The show airs tonight.",
+                "pt": "O programa vai ao ar hoje à noite."
+            }
+        ]
+    },
+    "alert": {
+        "infinitive": "alert",
+        "translation": "alertar",
+        "forms": {
+            "base": "alert",
+            "pastSimple": "alerted",
+            "pastParticiple": "alerted",
+            "presentParticiple": "alerting",
+            "thirdPerson": "alerts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "warn",
+            "notify",
+            "tell"
+        ],
+        "explanation": "Avisar alguém sobre um perigo ou situação urgente.",
+        "examples": [
+            {
+                "en": "They alerted the police.",
+                "pt": "Eles alertaram a polícia."
+            },
+            {
+                "en": "We were alerted to the danger.",
+                "pt": "Fomos alertados sobre o perigo."
+            }
+        ]
+    },
+    "align": {
+        "infinitive": "align",
+        "translation": "alinhar",
+        "forms": {
+            "base": "align",
+            "pastSimple": "aligned",
+            "pastParticiple": "aligned",
+            "presentParticiple": "aligning",
+            "thirdPerson": "aligns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "line up"
+        ],
+        "explanation": "Colocar em linha reta.",
+        "examples": [
+            {
+                "en": "Align the text.",
+                "pt": "Alinhe o texto."
+            }
+        ]
+    },
+    "allow": {
+        "infinitive": "allow",
+        "translation": "permitir",
+        "forms": {
+            "base": "allow",
+            "pastSimple": "allowed",
+            "pastParticiple": "allowed",
+            "presentParticiple": "allowing",
+            "thirdPerson": "allows"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "let",
+            "permit",
+            "authorize"
+        ],
+        "explanation": "Dar permissão ou possibilitar que algo aconteça.",
+        "examples": [
+            {
+                "en": "Smoking is not allowed here.",
+                "pt": "Não é permitido fumar aqui."
+            },
+            {
+                "en": "Allow me to help you.",
+                "pt": "Permita-me ajudá-lo."
+            }
+        ]
+    },
+    "alter": {
+        "infinitive": "alter",
+        "translation": "alterar",
+        "forms": {
+            "base": "alter",
+            "pastSimple": "altered",
+            "pastParticiple": "altered",
+            "presentParticiple": "altering",
+            "thirdPerson": "alters"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "change",
+            "modify"
+        ],
+        "explanation": "Mudar ou modificar algo ligeiramente.",
+        "examples": [
+            {
+                "en": "She altered her dress.",
+                "pt": "Ela alterou seu vestido."
+            }
+        ]
+    },
+    "amaze": {
+        "infinitive": "amaze",
+        "translation": "maravilhar, espantar",
+        "forms": {
+            "base": "amaze",
+            "pastSimple": "amazed",
+            "pastParticiple": "amazed",
+            "presentParticiple": "amazing",
+            "thirdPerson": "amazes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "astonish"
+        ],
+        "explanation": "Causar grande surpresa.",
+        "examples": [
+            {
+                "en": "You amaze me.",
+                "pt": "Você me espanta."
+            }
+        ]
+    },
+    "amuse": {
+        "infinitive": "amuse",
+        "translation": "divertir/entreter",
+        "forms": {
+            "base": "amuse",
+            "pastSimple": "amused",
+            "pastParticiple": "amused",
+            "presentParticiple": "amusing",
+            "thirdPerson": "amuses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "entertain",
+            "funny",
+            "pleased"
+        ],
+        "explanation": "Fazer alguém rir ou sorrir; manter alguém entretido.",
+        "examples": [
+            {
+                "en": "The clown amused the children.",
+                "pt": "O palhaço divertiu as crianças."
+            },
+            {
+                "en": "We were amused by his stories.",
+                "pt": "Nos divertimos com as histórias dele."
+            }
+        ]
+    },
+    "analyze": {
+        "infinitive": "analyze",
+        "translation": "analisar",
+        "forms": {
+            "base": "analyze",
+            "pastSimple": "analyzed",
+            "pastParticiple": "analyzed",
+            "presentParticiple": "analyzing",
+            "thirdPerson": "analyzes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "examine",
+            "study",
+            "investigate"
+        ],
+        "explanation": "Examinar algo detalhadamente para entendê-lo ou explicá-lo.",
+        "examples": [
+            {
+                "en": "We need to analyze the data.",
+                "pt": "Precisamos analisar os dados."
+            },
+            {
+                "en": "Scientists analyzed the samples.",
+                "pt": "Cientistas analisaram as amostras."
+            }
+        ]
+    },
+    "announce": {
+        "infinitive": "announce",
+        "translation": "anunciar",
+        "forms": {
+            "base": "announce",
+            "pastSimple": "announced",
+            "pastParticiple": "announced",
+            "presentParticiple": "announcing",
+            "thirdPerson": "announces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "declare",
+            "proclaim",
+            "tell"
+        ],
+        "explanation": "Fazer uma declaração pública ou oficial sobre algo.",
+        "examples": [
+            {
+                "en": "They announced their engagement.",
+                "pt": "Eles anunciaram o noivado."
+            },
+            {
+                "en": "The winner will be announced soon.",
+                "pt": "O vencedor será anunciado em breve."
+            }
+        ]
+    },
+    "annoy": {
+        "infinitive": "annoy",
+        "translation": "irritar",
+        "forms": {
+            "base": "annoy",
+            "pastSimple": "annoyed",
+            "pastParticiple": "annoyed",
+            "presentParticiple": "annoying",
+            "thirdPerson": "annoys"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bother",
+            "irritate",
+            "disturb"
+        ],
+        "explanation": "Deixar alguém um pouco zangado ou impaciente.",
+        "examples": [
+            {
+                "en": "Stop annoying your sister!",
+                "pt": "Pare de irritar sua irmã!"
+            },
+            {
+                "en": "It annoys me when you're late.",
+                "pt": "Me irrita quando você se atrasa."
+            }
+        ]
+    },
+    "answer": {
+        "infinitive": "answer",
+        "translation": "responder",
+        "forms": {
+            "base": "answer",
+            "pastSimple": "answered",
+            "pastParticiple": "answered",
+            "presentParticiple": "answering",
+            "thirdPerson": "answers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "reply",
+            "respond"
+        ],
+        "explanation": "Falar ou escrever algo como reação a uma pergunta ou situação.",
+        "examples": [
+            {
+                "en": "Please answer the question.",
+                "pt": "Por favor, responda à pergunta."
+            },
+            {
+                "en": "She didn't answer the phone.",
+                "pt": "Ela não atendeu o telefone."
+            }
+        ]
+    },
+    "anticipate": {
+        "infinitive": "anticipate",
+        "translation": "antecipar, prever",
+        "forms": {
+            "base": "anticipate",
+            "pastSimple": "anticipated",
+            "pastParticiple": "anticipated",
+            "presentParticiple": "anticipating",
+            "thirdPerson": "anticipates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "expect",
+            "foresee"
+        ],
+        "explanation": "Esperar ou prever que algo aconteça.",
+        "examples": [
+            {
+                "en": "We anticipate good results.",
+                "pt": "Antecipamos bons resultados."
+            }
+        ]
+    },
+    "apologize": {
+        "infinitive": "apologize",
+        "translation": "desculpar-se",
+        "forms": {
+            "base": "apologize",
+            "pastSimple": "apologized",
+            "pastParticiple": "apologized",
+            "presentParticiple": "apologizing",
+            "thirdPerson": "apologizes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "regret",
+            "pardon",
+            "sorry"
+        ],
+        "explanation": "Dizer que sente muito por ter feito algo errado.",
+        "examples": [
+            {
+                "en": "I apologize for the delay.",
+                "pt": "Peço desculpas pelo atraso."
+            },
+            {
+                "en": "You should apologize to him.",
+                "pt": "Você deveria pedir desculpas a ele."
+            }
+        ]
+    },
+    "appear": {
+        "infinitive": "appear",
+        "translation": "aparecer/parecer",
+        "forms": {
+            "base": "appear",
+            "pastSimple": "appeared",
+            "pastParticiple": "appeared",
+            "presentParticiple": "appearing",
+            "thirdPerson": "appears"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "seem",
+            "look",
+            "show up"
+        ],
+        "explanation": "Começar a ser visto (aparecer) ou dar a impressão de ser algo (parecer).",
+        "examples": [
+            {
+                "en": "A ship appeared on the horizon.",
+                "pt": "Um navio apareceu no horizonte."
+            },
+            {
+                "en": "He appears to be tired.",
+                "pt": "Ele parece estar cansado."
+            }
+        ]
+    },
+    "applaud": {
+        "infinitive": "applaud",
+        "translation": "aplaudir",
+        "forms": {
+            "base": "applaud",
+            "pastSimple": "applauded",
+            "pastParticiple": "applauded",
+            "presentParticiple": "applauding",
+            "thirdPerson": "applauds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "clap",
+            "cheer"
+        ],
+        "explanation": "Bater palmas para mostrar aprovação.",
+        "examples": [
+            {
+                "en": "The audience applauded.",
+                "pt": "A plateia aplaudiu."
+            }
+        ]
+    },
+    "apply": {
+        "infinitive": "apply",
+        "translation": "aplicar/candidatar-se",
+        "forms": {
+            "base": "apply",
+            "pastSimple": "applied",
+            "pastParticiple": "applied",
+            "presentParticiple": "applying",
+            "thirdPerson": "applies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "ask",
+            "request",
+            "use"
+        ],
+        "explanation": "Fazer um pedido formal (candidatar-se) ou colocar algo em uso/superfície.",
+        "examples": [
+            {
+                "en": "I applied for a new job.",
+                "pt": "Eu me candidatei a um novo emprego."
+            },
+            {
+                "en": "Apply the cream gently.",
+                "pt": "Aplique o creme suavemente."
+            }
+        ]
+    },
+    "appreciate": {
+        "infinitive": "appreciate",
+        "translation": "apreciar/agradecer",
+        "forms": {
+            "base": "appreciate",
+            "pastSimple": "appreciated",
+            "pastParticiple": "appreciated",
+            "presentParticiple": "appreciating",
+            "thirdPerson": "appreciates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "value",
+            "thank",
+            "enjoy"
+        ],
+        "explanation": "Reconhecer o valor de algo ou ser grato por algo.",
+        "examples": [
+            {
+                "en": "I appreciate your help.",
+                "pt": "Eu agradeço sua ajuda."
+            },
+            {
+                "en": "She appreciates good music.",
+                "pt": "Ela aprecia boa música."
+            }
+        ]
+    },
+    "approach": {
+        "infinitive": "approach",
+        "translation": "aproximar-se/abordar",
+        "forms": {
+            "base": "approach",
+            "pastSimple": "approached",
+            "pastParticiple": "approached",
+            "presentParticiple": "approaching",
+            "thirdPerson": "approaches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "come near",
+            "reach"
+        ],
+        "explanation": "Chegar perto de algo ou alguém; lidar com um problema.",
+        "examples": [
+            {
+                "en": "The train is approaching.",
+                "pt": "O trem está se aproximando."
+            },
+            {
+                "en": "He approached the dog carefully.",
+                "pt": "Ele se aproximou do cachorro com cuidado."
+            }
+        ]
+    },
+    "approve": {
+        "infinitive": "approve",
+        "translation": "aprovar",
+        "forms": {
+            "base": "approve",
+            "pastSimple": "approved",
+            "pastParticiple": "approved",
+            "presentParticiple": "approving",
+            "thirdPerson": "approves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "accept",
+            "agree",
+            "authorize"
+        ],
+        "explanation": "Considerar algo bom ou aceitável; dar permissão oficial.",
+        "examples": [
+            {
+                "en": "My parents didn't approve.",
+                "pt": "Meus pais não aprovaram."
+            },
+            {
+                "en": "The plan was approved.",
+                "pt": "O plano foi aprovado."
+            }
+        ]
+    },
+    "argue": {
+        "infinitive": "argue",
+        "translation": "discutir",
+        "forms": {
+            "base": "argue",
+            "pastSimple": "argued",
+            "pastParticiple": "argued",
+            "presentParticiple": "arguing",
+            "thirdPerson": "argues"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fight",
+            "disagree",
+            "debate"
+        ],
+        "explanation": "Falar com raiva porque discorda de alguém.",
+        "examples": [
+            {
+                "en": "They argue all the time.",
+                "pt": "Eles discutem o tempo todo."
+            },
+            {
+                "en": "Don't argue with me.",
+                "pt": "Não discuta comigo."
+            }
+        ]
+    },
+    "arise": {
+        "infinitive": "arise",
+        "translation": "surgir",
+        "forms": {
+            "base": "arise",
+            "pastSimple": "arose",
+            "pastParticiple": "arisen",
+            "presentParticiple": "arising",
+            "thirdPerson": "arises"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "happen",
+            "occur",
+            "start"
+        ],
+        "explanation": "Começar a existir ou acontecer (geralmente problemas ou situações).",
+        "examples": [
+            {
+                "en": "A problem has arisen.",
+                "pt": "Surgiu um problema."
+            },
+            {
+                "en": "Questions may arise.",
+                "pt": "Perguntas podem surgir."
+            }
+        ]
+    },
+    "arouse": {
+        "infinitive": "arouse",
+        "translation": "despertar, excitar",
+        "forms": {
+            "base": "arouse",
+            "pastSimple": "aroused",
+            "pastParticiple": "aroused",
+            "presentParticiple": "arousing",
+            "thirdPerson": "arouses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "awaken",
+            "stimulate"
+        ],
+        "explanation": "Despertar um sentimento, desejo ou pessoa.",
+        "examples": [
+            {
+                "en": "The noise aroused him.",
+                "pt": "O barulho o despertou."
+            }
+        ]
+    },
+    "arrange": {
+        "infinitive": "arrange",
+        "translation": "arranjar/organizar",
+        "forms": {
+            "base": "arrange",
+            "pastSimple": "arranged",
+            "pastParticiple": "arranged",
+            "presentParticiple": "arranging",
+            "thirdPerson": "arranges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "organize",
+            "plan",
+            "set up"
+        ],
+        "explanation": "Fazer planos ou colocar coisas em uma certa ordem.",
+        "examples": [
+            {
+                "en": "I arranged a meeting.",
+                "pt": "Eu organizei uma reunião."
+            },
+            {
+                "en": "She arranged the flowers.",
+                "pt": "Ela arranjou as flores."
+            }
+        ]
+    },
+    "arrest": {
+        "infinitive": "arrest",
+        "translation": "prender",
+        "forms": {
+            "base": "arrest",
+            "pastSimple": "arrested",
+            "pastParticiple": "arrested",
+            "presentParticiple": "arresting",
+            "thirdPerson": "arrests"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "catch",
+            "capture",
+            "stop"
+        ],
+        "explanation": "Quando a polícia leva alguém preso.",
+        "examples": [
+            {
+                "en": "The thief was arrested.",
+                "pt": "O ladrão foi preso."
+            },
+            {
+                "en": "You are under arrest.",
+                "pt": "Você está preso."
+            }
+        ]
+    },
+    "arrive": {
+        "infinitive": "arrive",
+        "translation": "chegar",
+        "forms": {
+            "base": "arrive",
+            "pastSimple": "arrived",
+            "pastParticiple": "arrived",
+            "presentParticiple": "arriving",
+            "thirdPerson": "arrives"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "come",
+            "reach"
+        ],
+        "explanation": "Chegar a um lugar após uma viagem.",
+        "examples": [
+            {
+                "en": "We arrived late.",
+                "pt": "Chegamos tarde."
+            },
+            {
+                "en": "When do you arrive?",
+                "pt": "Quando você chega?"
+            }
+        ]
+    },
+    "ascend": {
+        "infinitive": "ascend",
+        "translation": "ascender, subir",
+        "forms": {
+            "base": "ascend",
+            "pastSimple": "ascended",
+            "pastParticiple": "ascended",
+            "presentParticiple": "ascending",
+            "thirdPerson": "ascends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "rise",
+            "climb"
+        ],
+        "explanation": "Mover-se para cima.",
+        "examples": [
+            {
+                "en": "The balloon ascended.",
+                "pt": "O balão subiu."
+            }
+        ]
+    },
+    "ask": {
+        "infinitive": "ask",
+        "translation": "perguntar/pedir",
+        "forms": {
+            "base": "ask",
+            "pastSimple": "asked",
+            "pastParticiple": "asked",
+            "presentParticiple": "asking",
+            "thirdPerson": "asks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "inquire",
+            "request",
+            "question"
+        ],
+        "explanation": "Fazer uma pergunta ou solicitar algo.",
+        "examples": [
+            {
+                "en": "Can I ask a question?",
+                "pt": "Posso fazer uma pergunta?"
+            },
+            {
+                "en": "I asked him for help.",
+                "pt": "Pedi ajuda a ele."
+            }
+        ]
+    },
+    "assault": {
+        "infinitive": "assault",
+        "translation": "agredir, assaltar",
+        "forms": {
+            "base": "assault",
+            "pastSimple": "assaulted",
+            "pastParticiple": "assaulted",
+            "presentParticiple": "assaulting",
+            "thirdPerson": "assaults"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "attack",
+            "strike"
+        ],
+        "explanation": "Atacar fisicamente de forma violenta.",
+        "examples": [
+            {
+                "en": "He was assaulted on the street.",
+                "pt": "Ele foi agredido na rua."
+            }
+        ]
+    },
+    "assemble": {
+        "infinitive": "assemble",
+        "translation": "montar, reunir",
+        "forms": {
+            "base": "assemble",
+            "pastSimple": "assembled",
+            "pastParticiple": "assembled",
+            "presentParticiple": "assembling",
+            "thirdPerson": "assembles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "gather",
+            "build"
+        ],
+        "explanation": "Juntar partes ou pessoas em um lugar.",
+        "examples": [
+            {
+                "en": "Assemble the furniture.",
+                "pt": "Monte os móveis."
+            }
+        ]
+    },
+    "assert": {
+        "infinitive": "assert",
+        "translation": "afirmar",
+        "forms": {
+            "base": "assert",
+            "pastSimple": "asserted",
+            "pastParticiple": "asserted",
+            "presentParticiple": "asserting",
+            "thirdPerson": "asserts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "claim",
+            "state"
+        ],
+        "explanation": "Dizer algo de forma confiante e forte.",
+        "examples": [
+            {
+                "en": "She asserted her rights.",
+                "pt": "Ela afirmou seus direitos."
+            }
+        ]
+    },
+    "assess": {
+        "infinitive": "assess",
+        "translation": "avaliar",
+        "forms": {
+            "base": "assess",
+            "pastSimple": "assessed",
+            "pastParticiple": "assessed",
+            "presentParticiple": "assessing",
+            "thirdPerson": "assesses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "evaluate",
+            "judge"
+        ],
+        "explanation": "Julgar ou calcular o valor ou qualidade de algo.",
+        "examples": [
+            {
+                "en": "They assessed the damage.",
+                "pt": "Eles avaliaram o dano."
+            }
+        ]
+    },
+    "assist": {
+        "infinitive": "assist",
+        "translation": "assistir, ajudar",
+        "forms": {
+            "base": "assist",
+            "pastSimple": "assisted",
+            "pastParticiple": "assisted",
+            "presentParticiple": "assisting",
+            "thirdPerson": "assists"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "help",
+            "aid"
+        ],
+        "explanation": "Dar ajuda ou suporte.",
+        "examples": [
+            {
+                "en": "Can I assist you?",
+                "pt": "Posso te ajudar?"
+            }
+        ]
+    },
+    "assume": {
+        "infinitive": "assume",
+        "translation": "presumir/assumir",
+        "forms": {
+            "base": "assume",
+            "pastSimple": "assumed",
+            "pastParticiple": "assumed",
+            "presentParticiple": "assuming",
+            "thirdPerson": "assumes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "suppose",
+            "think",
+            "take on"
+        ],
+        "explanation": "Aceitar algo como verdade sem prova; ou tomar responsabilidade.",
+        "examples": [
+            {
+                "en": "I assume you are tired.",
+                "pt": "Presumo que você esteja cansado."
+            },
+            {
+                "en": "He assumed control of the project.",
+                "pt": "Ele assumiu o controle do projeto."
+            }
+        ]
+    },
+    "assure": {
+        "infinitive": "assure",
+        "translation": "assegurar, garantir",
+        "forms": {
+            "base": "assure",
+            "pastSimple": "assured",
+            "pastParticiple": "assured",
+            "presentParticiple": "assuring",
+            "thirdPerson": "assures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "guarantee",
+            "promise"
+        ],
+        "explanation": "Dizer algo para remover dúvidas ou preocupações.",
+        "examples": [
+            {
+                "en": "I assure you it's safe.",
+                "pt": "Eu te asseguro que é seguro."
+            }
+        ]
+    },
+    "astonish": {
+        "infinitive": "astonish",
+        "translation": "admirar, espantar",
+        "forms": {
+            "base": "astonish",
+            "pastSimple": "astonished",
+            "pastParticiple": "astonished",
+            "presentParticiple": "astonishing",
+            "thirdPerson": "astonishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "surprise",
+            "amaze"
+        ],
+        "explanation": "Surpreender grandemente.",
+        "examples": [
+            {
+                "en": "The news astonished us.",
+                "pt": "A notícia nos espantou."
+            }
+        ]
+    },
+    "attach": {
+        "infinitive": "attach",
+        "translation": "anexar/pegar",
+        "forms": {
+            "base": "attach",
+            "pastSimple": "attached",
+            "pastParticiple": "attached",
+            "presentParticiple": "attaching",
+            "thirdPerson": "attaches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "connect",
+            "fasten",
+            "join"
+        ],
+        "explanation": "Juntar ou conectar uma coisa a outra.",
+        "examples": [
+            {
+                "en": "Attach the file to the email.",
+                "pt": "Anexe o arquivo ao email."
+            },
+            {
+                "en": "A label was attached to the bag.",
+                "pt": "Uma etiqueta estava presa à bolsa."
+            }
+        ]
+    },
+    "attack": {
+        "infinitive": "attack",
+        "translation": "atacar",
+        "forms": {
+            "base": "attack",
+            "pastSimple": "attacked",
+            "pastParticiple": "attacked",
+            "presentParticiple": "attacking",
+            "thirdPerson": "attacks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fight",
+            "assault",
+            "strike"
+        ],
+        "explanation": "Tentar ferir ou causar dano a alguém ou algo.",
+        "examples": [
+            {
+                "en": "The army attacked at dawn.",
+                "pt": "O exército atacou ao amanhecer."
+            },
+            {
+                "en": "The dog attacked the intruder.",
+                "pt": "O cachorro atacou o intruso."
+            }
+        ]
+    },
+    "attempt": {
+        "infinitive": "attempt",
+        "translation": "tentar",
+        "forms": {
+            "base": "attempt",
+            "pastSimple": "attempted",
+            "pastParticiple": "attempted",
+            "presentParticiple": "attempting",
+            "thirdPerson": "attempts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "try",
+            "effort"
+        ],
+        "explanation": "Tentar fazer algo, especialmente algo difícil. Mais formal que 'try'.",
+        "examples": [
+            {
+                "en": "He attempted to escape.",
+                "pt": "Ele tentou escapar."
+            },
+            {
+                "en": "Do not attempt this at home.",
+                "pt": "Não tente isso em casa."
+            }
+        ]
+    },
+    "attend": {
+        "infinitive": "attend",
+        "translation": "comparecer/assistir",
+        "forms": {
+            "base": "attend",
+            "pastSimple": "attended",
+            "pastParticiple": "attended",
+            "presentParticiple": "attending",
+            "thirdPerson": "attends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "go to",
+            "be present"
+        ],
+        "explanation": "Estar presente em um evento, aula ou reunião. Atenção: 'Assistir' TV é 'watch', não 'attend'.",
+        "examples": [
+            {
+                "en": "I attend school every day.",
+                "pt": "Eu vou à escola todos os dias."
+            },
+            {
+                "en": "She attended the meeting.",
+                "pt": "Ela compareceu à reunião."
+            }
+        ]
+    },
+    "attract": {
+        "infinitive": "attract",
+        "translation": "atrair",
+        "forms": {
+            "base": "attract",
+            "pastSimple": "attracted",
+            "pastParticiple": "attracted",
+            "presentParticiple": "attracting",
+            "thirdPerson": "attracts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "draw",
+            "pull",
+            "interest"
+        ],
+        "explanation": "Fazer alguém ou algo vir em sua direção; causar interesse.",
+        "examples": [
+            {
+                "en": "Magnets attract iron.",
+                "pt": "Ímãs atraem ferro."
+            },
+            {
+                "en": "The show attracted a large crowd.",
+                "pt": "O show atraiu uma grande multidão."
+            }
+        ]
+    },
+    "authorize": {
+        "infinitive": "authorize",
+        "translation": "autorizar",
+        "forms": {
+            "base": "authorize",
+            "pastSimple": "authorized",
+            "pastParticiple": "authorized",
+            "presentParticiple": "authorizing",
+            "thirdPerson": "authorizes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "allow",
+            "permit",
+            "approve"
+        ],
+        "explanation": "Dar permissão oficial para algo.",
+        "examples": [
+            {
+                "en": "I authorized the payment.",
+                "pt": "Eu autorizei o pagamento."
+            },
+            {
+                "en": "Only authorized personnel allowed.",
+                "pt": "Apenas pessoal autorizado permitido."
+            }
+        ]
+    },
+    "autograph": {
+        "infinitive": "autograph",
+        "translation": "autografar",
+        "forms": {
+            "base": "autograph",
+            "pastSimple": "autographed",
+            "pastParticiple": "autographed",
+            "presentParticiple": "autographing",
+            "thirdPerson": "autographs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sign"
+        ],
+        "explanation": "Assinar o próprio nome, geralmente para um fã.",
+        "examples": [
+            {
+                "en": "He autographed the book.",
+                "pt": "Ele autografou o livro."
+            }
+        ]
+    },
+    "avoid": {
+        "infinitive": "avoid",
+        "translation": "evitar",
+        "forms": {
+            "base": "avoid",
+            "pastSimple": "avoided",
+            "pastParticiple": "avoided",
+            "presentParticiple": "avoiding",
+            "thirdPerson": "avoids"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "prevent",
+            "stay away",
+            "escape"
+        ],
+        "explanation": "Manter-se longe de algo ou alguém; impedir que algo aconteça.",
+        "examples": [
+            {
+                "en": "You should avoid fatty foods.",
+                "pt": "Você deve evitar comidas gordurosas."
+            },
+            {
+                "en": "She avoids talking to him.",
+                "pt": "Ela evita falar com ele."
+            }
+        ]
+    },
+    "awake": {
+        "infinitive": "awake",
+        "translation": "acordar/despertar",
+        "forms": {
+            "base": "awake",
+            "pastSimple": "awoke",
+            "pastParticiple": "awoken",
+            "presentParticiple": "awaking",
+            "thirdPerson": "awakes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "wake up",
+            "arouse"
+        ],
+        "explanation": "Parar de dormir. Frequentemente substituído por 'wake up' na fala comum.",
+        "examples": [
+            {
+                "en": "I awoke to the sound of rain.",
+                "pt": "Acordei com o som da chuva."
+            },
+            {
+                "en": "He awoke from a deep sleep.",
+                "pt": "Ele despertou de um sono profundo."
+            }
+        ]
+    },
+    "awaken": {
+        "infinitive": "awaken",
+        "translation": "acordar, despertar",
+        "forms": {
+            "base": "awaken",
+            "pastSimple": "awakened",
+            "pastParticiple": "awakened",
+            "presentParticiple": "awakening",
+            "thirdPerson": "awakens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wake",
+            "arouse"
+        ],
+        "explanation": "Parar de dormir; ou fazer alguém parar de dormir.",
+        "examples": [
+            {
+                "en": "I was awakened by the noise.",
+                "pt": "Fui acordado pelo barulho."
+            }
+        ]
+    }
+}

@@ -1,0 +1,1698 @@
+{
+    "face": {
+        "infinitive": "face",
+        "translation": "enfrentar, encarar",
+        "forms": {
+            "base": "face",
+            "pastSimple": "faced",
+            "pastParticiple": "faced",
+            "presentParticiple": "facing",
+            "thirdPerson": "faces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "confront"
+        ],
+        "explanation": "Lidar com um problema ou virar o rosto para algo.",
+        "examples": [
+            {
+                "en": "Face your fears.",
+                "pt": "Enfrente seus medos."
+            }
+        ]
+    },
+    "fade": {
+        "infinitive": "fade",
+        "translation": "desbotar, desaparecer",
+        "forms": {
+            "base": "fade",
+            "pastSimple": "faded",
+            "pastParticiple": "faded",
+            "presentParticiple": "fading",
+            "thirdPerson": "fades"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "disappear"
+        ],
+        "explanation": "Perder a cor ou brilho gradualmente.",
+        "examples": [
+            {
+                "en": "The colors faded.",
+                "pt": "As cores desbotaram."
+            }
+        ]
+    },
+    "fail": {
+        "infinitive": "fail",
+        "translation": "falhar, fracassar, reprovar",
+        "forms": {
+            "base": "fail",
+            "pastSimple": "failed",
+            "pastParticiple": "failed",
+            "presentParticiple": "failing",
+            "thirdPerson": "fails"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "flop"
+        ],
+        "explanation": "Não ter sucesso ou não funcionar.",
+        "examples": [
+            {
+                "en": "He failed the test.",
+                "pt": "Ele reprovou no teste."
+            },
+            {
+                "en": "The engine failed.",
+                "pt": "O motor falhou."
+            }
+        ]
+    },
+    "faint": {
+        "infinitive": "faint",
+        "translation": "desmaiar",
+        "forms": {
+            "base": "faint",
+            "pastSimple": "fainted",
+            "pastParticiple": "fainted",
+            "presentParticiple": "fainting",
+            "thirdPerson": "faints"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pass out"
+        ],
+        "explanation": "Perder a consciência temporariamente.",
+        "examples": [
+            {
+                "en": "She fainted from heat.",
+                "pt": "Ela desmaiou de calor."
+            }
+        ]
+    },
+    "fake": {
+        "infinitive": "fake",
+        "translation": "fingir, falsificar",
+        "forms": {
+            "base": "fake",
+            "pastSimple": "faked",
+            "pastParticiple": "faked",
+            "presentParticiple": "faking",
+            "thirdPerson": "fakes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pretend",
+            "forge"
+        ],
+        "explanation": "Fazer algo parecer real quando não é.",
+        "examples": [
+            {
+                "en": "He faked sickness.",
+                "pt": "Ele fingiu estar doente."
+            }
+        ]
+    },
+    "fall": {
+        "infinitive": "fall",
+        "translation": "cair",
+        "forms": {
+            "base": "fall",
+            "pastSimple": "fell",
+            "pastParticiple": "fallen",
+            "presentParticiple": "falling",
+            "thirdPerson": "falls"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "drop",
+            "tumble"
+        ],
+        "explanation": "Descer rapidamente e sem controle ('fall down').",
+        "examples": [
+            {
+                "en": "Leaves fall in autumn.",
+                "pt": "Folhas caem no outono."
+            },
+            {
+                "en": "Don't fall!",
+                "pt": "Não caia!"
+            }
+        ]
+    },
+    "fall down": {
+        "infinitive": "fall down",
+        "translation": "cair no chão",
+        "forms": {
+            "base": "fall down",
+            "pastSimple": "fell down",
+            "pastParticiple": "fallen down",
+            "presentParticiple": "falling down",
+            "thirdPerson": "falls down"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "collapse",
+            "trip"
+        ],
+        "explanation": "Cair para o chão.",
+        "examples": [
+            {
+                "en": "He fell down the stairs.",
+                "pt": "Ele caiu da escada."
+            }
+        ]
+    },
+    "fan": {
+        "infinitive": "fan",
+        "translation": "abanar, ventilar",
+        "forms": {
+            "base": "fan",
+            "pastSimple": "fanned",
+            "pastParticiple": "fanned",
+            "presentParticiple": "fanning",
+            "thirdPerson": "fans"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Mover o ar com um objeto.",
+        "examples": [
+            {
+                "en": "He fanned the fire.",
+                "pt": "Ele abanou o fogo."
+            }
+        ]
+    },
+    "fancy": {
+        "infinitive": "fancy",
+        "translation": "imaginar, gostar, estar a fim de",
+        "forms": {
+            "base": "fancy",
+            "pastSimple": "fancied",
+            "pastParticiple": "fancied",
+            "presentParticiple": "fancying",
+            "thirdPerson": "fancies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "uk"
+        ],
+        "related": [
+            "like",
+            "imagine"
+        ],
+        "explanation": "Gostar de alguém romanticamente ou desejar algo (UK informal).",
+        "examples": [
+            {
+                "en": "Do you fancy a drink?",
+                "pt": "Você quer uma bebida?"
+            }
+        ]
+    },
+    "fantasize": {
+        "infinitive": "fantasize",
+        "translation": "fantasiar",
+        "forms": {
+            "base": "fantasize",
+            "pastSimple": "fantasized",
+            "pastParticiple": "fantasized",
+            "presentParticiple": "fantasizing",
+            "thirdPerson": "fantasizes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dream",
+            "imagine"
+        ],
+        "explanation": "Imaginar coisas desejáveis mas improváveis.",
+        "examples": [
+            {
+                "en": "He fantasizes about winning.",
+                "pt": "Ele fantasia em ganhar."
+            }
+        ]
+    },
+    "farm": {
+        "infinitive": "farm",
+        "translation": "cultivar",
+        "forms": {
+            "base": "farm",
+            "pastSimple": "farmed",
+            "pastParticiple": "farmed",
+            "presentParticiple": "farming",
+            "thirdPerson": "farms"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cultivate",
+            "grow"
+        ],
+        "explanation": "Usar terra para plantar ou criar animais.",
+        "examples": [
+            {
+                "en": "They farm corn.",
+                "pt": "Eles cultivam milho."
+            }
+        ]
+    },
+    "fascinate": {
+        "infinitive": "fascinate",
+        "translation": "fascinar",
+        "forms": {
+            "base": "fascinate",
+            "pastSimple": "fascinated",
+            "pastParticiple": "fascinated",
+            "presentParticiple": "fascinating",
+            "thirdPerson": "fascinates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "captivate"
+        ],
+        "explanation": "Atrair muito a atenção.",
+        "examples": [
+            {
+                "en": "Science fascinates me.",
+                "pt": "Ciência me fascina."
+            }
+        ]
+    },
+    "fasten": {
+        "infinitive": "fasten",
+        "translation": "apertar, prender",
+        "forms": {
+            "base": "fasten",
+            "pastSimple": "fastened",
+            "pastParticiple": "fastened",
+            "presentParticiple": "fastening",
+            "thirdPerson": "fastens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "secure"
+        ],
+        "explanation": "Fechar ou amarrar algo firmemente.",
+        "examples": [
+            {
+                "en": "Fasten your seatbelt.",
+                "pt": "Aperte o cinto de segurança."
+            }
+        ]
+    },
+    "favor": {
+        "infinitive": "favor",
+        "translation": "favorecer",
+        "forms": {
+            "base": "favor",
+            "pastSimple": "favored",
+            "pastParticiple": "favored",
+            "presentParticiple": "favoring",
+            "thirdPerson": "favors"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "prefer",
+            "support"
+        ],
+        "explanation": "Preferir ou dar vantagem a alguém.",
+        "examples": [
+            {
+                "en": "Fortune favors the bold.",
+                "pt": "A sorte favorece os bravos."
+            }
+        ]
+    },
+    "fear": {
+        "infinitive": "fear",
+        "translation": "temer",
+        "forms": {
+            "base": "fear",
+            "pastSimple": "feared",
+            "pastParticiple": "feared",
+            "presentParticiple": "fearing",
+            "thirdPerson": "fears"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dread"
+        ],
+        "explanation": "Sentir medo.",
+        "examples": [
+            {
+                "en": "Don't fear the dark.",
+                "pt": "Não tema o escuro."
+            }
+        ]
+    },
+    "feed": {
+        "infinitive": "feed",
+        "translation": "alimentar",
+        "forms": {
+            "base": "feed",
+            "pastSimple": "fed",
+            "pastParticiple": "fed",
+            "presentParticiple": "feeding",
+            "thirdPerson": "feeds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "nourish"
+        ],
+        "explanation": "Dar comida a alguém ou animal.",
+        "examples": [
+            {
+                "en": "Feed the dog.",
+                "pt": "Alimente o cachorro."
+            }
+        ]
+    },
+    "feel": {
+        "infinitive": "feel",
+        "translation": "sentir",
+        "forms": {
+            "base": "feel",
+            "pastSimple": "felt",
+            "pastParticiple": "felt",
+            "presentParticiple": "feeling",
+            "thirdPerson": "feels"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential",
+            "sense"
+        ],
+        "related": [
+            "sense",
+            "perceive"
+        ],
+        "explanation": "Ter uma sensação física ou emoção.",
+        "examples": [
+            {
+                "en": "I feel happy.",
+                "pt": "Eu me sinto feliz."
+            },
+            {
+                "en": "Can you feel the wind?",
+                "pt": "Você consegue sentir o vento?"
+            }
+        ]
+    },
+    "fetch": {
+        "infinitive": "fetch",
+        "translation": "buscar",
+        "forms": {
+            "base": "fetch",
+            "pastSimple": "fetched",
+            "pastParticiple": "fetched",
+            "presentParticiple": "fetching",
+            "thirdPerson": "fetches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bring",
+            "get"
+        ],
+        "explanation": "Ir e trazer algo de volta.",
+        "examples": [
+            {
+                "en": "Fetch the ball.",
+                "pt": "Busque a bola."
+            }
+        ]
+    },
+    "fight": {
+        "infinitive": "fight",
+        "translation": "lutar, brigar",
+        "forms": {
+            "base": "fight",
+            "pastSimple": "fought",
+            "pastParticiple": "fought",
+            "presentParticiple": "fighting",
+            "thirdPerson": "fights"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "battle",
+            "argue"
+        ],
+        "explanation": "Usar força física contra alguém ou discutir.",
+        "examples": [
+            {
+                "en": "They fight constantly.",
+                "pt": "Eles brigam constantemente."
+            }
+        ]
+    },
+    "file": {
+        "infinitive": "file",
+        "translation": "arquivar, lixar",
+        "forms": {
+            "base": "file",
+            "pastSimple": "filed",
+            "pastParticiple": "filed",
+            "presentParticiple": "filing",
+            "thirdPerson": "files"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "organize",
+            "smooth"
+        ],
+        "explanation": "Guardar documentos em ordem; ou usar uma lixa.",
+        "examples": [
+            {
+                "en": "File these papers.",
+                "pt": "Arquive estes papéis."
+            }
+        ]
+    },
+    "fill": {
+        "infinitive": "fill",
+        "translation": "encher, preencher",
+        "forms": {
+            "base": "fill",
+            "pastSimple": "filled",
+            "pastParticiple": "filled",
+            "presentParticiple": "filling",
+            "thirdPerson": "fills"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stuff"
+        ],
+        "explanation": "Tornar cheio.",
+        "examples": [
+            {
+                "en": "Fill the glass.",
+                "pt": "Encha o copo."
+            }
+        ]
+    },
+    "film": {
+        "infinitive": "film",
+        "translation": "filmar",
+        "forms": {
+            "base": "film",
+            "pastSimple": "filmed",
+            "pastParticiple": "filmed",
+            "presentParticiple": "filming",
+            "thirdPerson": "films"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "record"
+        ],
+        "explanation": "Gravar vídeo.",
+        "examples": [
+            {
+                "en": "They are filming a movie.",
+                "pt": "Estão filmando um filme."
+            }
+        ]
+    },
+    "find": {
+        "infinitive": "find",
+        "translation": "encontrar",
+        "forms": {
+            "base": "find",
+            "pastSimple": "found",
+            "pastParticiple": "found",
+            "presentParticiple": "finding",
+            "thirdPerson": "finds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "locate",
+            "discover"
+        ],
+        "explanation": "Descobrir onde algo está.",
+        "examples": [
+            {
+                "en": "I found my keys.",
+                "pt": "Encontrei minhas chaves."
+            }
+        ]
+    },
+    "finish": {
+        "infinitive": "finish",
+        "translation": "terminar",
+        "forms": {
+            "base": "finish",
+            "pastSimple": "finished",
+            "pastParticiple": "finished",
+            "presentParticiple": "finishing",
+            "thirdPerson": "finishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "complete",
+            "end"
+        ],
+        "explanation": "Chegar ao fim de uma tarefa.",
+        "examples": [
+            {
+                "en": "Finish your food.",
+                "pt": "Termine sua comida."
+            }
+        ]
+    },
+    "fire": {
+        "infinitive": "fire",
+        "translation": "demitir, disparar",
+        "forms": {
+            "base": "fire",
+            "pastSimple": "fired",
+            "pastParticiple": "fired",
+            "presentParticiple": "firing",
+            "thirdPerson": "fires"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dismiss",
+            "shoot"
+        ],
+        "explanation": "Mandar alguém embora do emprego ou usar uma arma.",
+        "examples": [
+            {
+                "en": "You're fired.",
+                "pt": "Você está demitido."
+            }
+        ]
+    },
+    "fit": {
+        "infinitive": "fit",
+        "translation": "caber, servir",
+        "forms": {
+            "base": "fit",
+            "pastSimple": "fit",
+            "pastParticiple": "fit",
+            "presentParticiple": "fitting",
+            "thirdPerson": "fits"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "regular"
+        ],
+        "related": [
+            "suit"
+        ],
+        "explanation": "Ser do tamanho certo.",
+        "examples": [
+            {
+                "en": "This shirt fits well.",
+                "pt": "Essa camisa serve bem."
+            }
+        ]
+    },
+    "fix": {
+        "infinitive": "fix",
+        "translation": "consertar, fixar",
+        "forms": {
+            "base": "fix",
+            "pastSimple": "fixed",
+            "pastParticiple": "fixed",
+            "presentParticiple": "fixing",
+            "thirdPerson": "fixes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "repair"
+        ],
+        "explanation": "Reparar algo quebrado.",
+        "examples": [
+            {
+                "en": "Can you fix it?",
+                "pt": "Você pode consertar isso?"
+            }
+        ]
+    },
+    "fizz": {
+        "infinitive": "fizz",
+        "translation": "efervescer, chiar",
+        "forms": {
+            "base": "fizz",
+            "pastSimple": "fizzed",
+            "pastParticiple": "fizzed",
+            "presentParticiple": "fizzing",
+            "thirdPerson": "fizzes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bubble",
+            "hiss"
+        ],
+        "explanation": "Fazer som de bolhas estourando.",
+        "examples": [
+            {
+                "en": "The soda fizzed.",
+                "pt": "O refrigerante efervesceu."
+            }
+        ]
+    },
+    "flash": {
+        "infinitive": "flash",
+        "translation": "piscar (luz)",
+        "forms": {
+            "base": "flash",
+            "pastSimple": "flashed",
+            "pastParticiple": "flashed",
+            "presentParticiple": "flashing",
+            "thirdPerson": "flashes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sparkle"
+        ],
+        "explanation": "Brilhar rapidamente.",
+        "examples": [
+            {
+                "en": "Lights flashed.",
+                "pt": "Luzes piscaram."
+            }
+        ]
+    },
+    "flatten": {
+        "infinitive": "flatten",
+        "translation": "achatar",
+        "forms": {
+            "base": "flatten",
+            "pastSimple": "flattened",
+            "pastParticiple": "flattened",
+            "presentParticiple": "flattening",
+            "thirdPerson": "flattens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "level",
+            "smooth"
+        ],
+        "explanation": "Tornar plano.",
+        "examples": [
+            {
+                "en": "Flatten the dough.",
+                "pt": "Achate a massa."
+            }
+        ]
+    },
+    "flavor": {
+        "infinitive": "flavor",
+        "translation": "temperar, dar sabor",
+        "forms": {
+            "base": "flavor",
+            "pastSimple": "flavored",
+            "pastParticiple": "flavored",
+            "presentParticiple": "flavoring",
+            "thirdPerson": "flavors"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "season",
+            "taste"
+        ],
+        "explanation": "Adicionar sabor a comida ou bebida.",
+        "examples": [
+            {
+                "en": "Flavor with salt.",
+                "pt": "Tempere com sal."
+            }
+        ]
+    },
+    "flee": {
+        "infinitive": "flee",
+        "translation": "fugir",
+        "forms": {
+            "base": "flee",
+            "pastSimple": "fled",
+            "pastParticiple": "fled",
+            "presentParticiple": "fleeing",
+            "thirdPerson": "flees"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "escape",
+            "run away"
+        ],
+        "explanation": "Correr para longe de perigo.",
+        "examples": [
+            {
+                "en": "The thieves fled.",
+                "pt": "Os ladrões fugiram."
+            }
+        ]
+    },
+    "flex": {
+        "infinitive": "flex",
+        "translation": "flexionar",
+        "forms": {
+            "base": "flex",
+            "pastSimple": "flexed",
+            "pastParticiple": "flexed",
+            "presentParticiple": "flexing",
+            "thirdPerson": "flexes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bend",
+            "stretch"
+        ],
+        "explanation": "Dobrar um músculo ou parte do corpo.",
+        "examples": [
+            {
+                "en": "Flex your muscles.",
+                "pt": "Flexione seus músculos."
+            }
+        ]
+    },
+    "fling": {
+        "infinitive": "fling",
+        "translation": "arremessar",
+        "forms": {
+            "base": "fling",
+            "pastSimple": "flung",
+            "pastParticiple": "flung",
+            "presentParticiple": "flinging",
+            "thirdPerson": "flings"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "throw"
+        ],
+        "explanation": "Jogar algo com força.",
+        "examples": [
+            {
+                "en": "She flung the door open.",
+                "pt": "Ela abriu a porta com força (arremessou)."
+            }
+        ]
+    },
+    "flip": {
+        "infinitive": "flip",
+        "translation": "virar, girar",
+        "forms": {
+            "base": "flip",
+            "pastSimple": "flipped",
+            "pastParticiple": "flipped",
+            "presentParticiple": "flipping",
+            "thirdPerson": "flips"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "toss",
+            "turn"
+        ],
+        "explanation": "Jogar girando no ar.",
+        "examples": [
+            {
+                "en": "Flip the coin.",
+                "pt": "Gire a moeda."
+            }
+        ]
+    },
+    "float": {
+        "infinitive": "float",
+        "translation": "flutuar",
+        "forms": {
+            "base": "float",
+            "pastSimple": "floated",
+            "pastParticiple": "floated",
+            "presentParticiple": "floating",
+            "thirdPerson": "floats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "drift"
+        ],
+        "explanation": "Ficar na superfície de líquido ou ar.",
+        "examples": [
+            {
+                "en": "Wood floats on water.",
+                "pt": "Madeira flutua na água."
+            }
+        ]
+    },
+    "flood": {
+        "infinitive": "flood",
+        "translation": "inundar",
+        "forms": {
+            "base": "flood",
+            "pastSimple": "flooded",
+            "pastParticiple": "flooded",
+            "presentParticiple": "flooding",
+            "thirdPerson": "floods"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "overflow"
+        ],
+        "explanation": "Cobrir com água.",
+        "examples": [
+            {
+                "en": "The river flooded the town.",
+                "pt": "O rio inundou a cidade."
+            }
+        ]
+    },
+    "flop": {
+        "infinitive": "flop",
+        "translation": "desabar, fracassar",
+        "forms": {
+            "base": "flop",
+            "pastSimple": "flopped",
+            "pastParticiple": "flopped",
+            "presentParticiple": "flopping",
+            "thirdPerson": "flops"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "drop",
+            "fail"
+        ],
+        "explanation": "Cair pesadamente ou fracassar totalmente.",
+        "examples": [
+            {
+                "en": "He flopped onto the bed.",
+                "pt": "Ele se jogou na cama."
+            }
+        ]
+    },
+    "flourish": {
+        "infinitive": "flourish",
+        "translation": "florescer, prosperar",
+        "forms": {
+            "base": "flourish",
+            "pastSimple": "flourished",
+            "pastParticiple": "flourished",
+            "presentParticiple": "flourishing",
+            "thirdPerson": "flourishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "thrive",
+            "prosper"
+        ],
+        "explanation": "Crescer ou desenvolver-se com sucesso.",
+        "examples": [
+            {
+                "en": "The business flourished.",
+                "pt": "O negócio prosperou."
+            }
+        ]
+    },
+    "flow": {
+        "infinitive": "flow",
+        "translation": "fluir",
+        "forms": {
+            "base": "flow",
+            "pastSimple": "flowed",
+            "pastParticiple": "flowed",
+            "presentParticiple": "flowing",
+            "thirdPerson": "flows"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stream"
+        ],
+        "explanation": "Mover-se como água.",
+        "examples": [
+            {
+                "en": "Water flows downhill.",
+                "pt": "A água flui morro abaixo."
+            }
+        ]
+    },
+    "flush": {
+        "infinitive": "flush",
+        "translation": "dar descarga, corar",
+        "forms": {
+            "base": "flush",
+            "pastSimple": "flushed",
+            "pastParticiple": "flushed",
+            "presentParticiple": "flushing",
+            "thirdPerson": "flushes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "blush",
+            "rinse"
+        ],
+        "explanation": "Limpar com fluxo de água ou ficar vermelho.",
+        "examples": [
+            {
+                "en": "Flush the toilet.",
+                "pt": "Dê descarga no vaso."
+            }
+        ]
+    },
+    "fly": {
+        "infinitive": "fly",
+        "translation": "voar",
+        "forms": {
+            "base": "fly",
+            "pastSimple": "flew",
+            "pastParticiple": "flown",
+            "presentParticiple": "flying",
+            "thirdPerson": "flies"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "soar"
+        ],
+        "explanation": "Mover-se pelo ar.",
+        "examples": [
+            {
+                "en": "Birds fly.",
+                "pt": "Pássaros voam."
+            }
+        ]
+    },
+    "focus": {
+        "infinitive": "focus",
+        "translation": "focar, concentrar",
+        "forms": {
+            "base": "focus",
+            "pastSimple": "focused",
+            "pastParticiple": "focused",
+            "presentParticiple": "focusing",
+            "thirdPerson": "focuses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "concentrate"
+        ],
+        "explanation": "Dar atenção central a algo.",
+        "examples": [
+            {
+                "en": "Focus on your work.",
+                "pt": "Foque no seu trabalho."
+            }
+        ]
+    },
+    "fold": {
+        "infinitive": "fold",
+        "translation": "dobrar",
+        "forms": {
+            "base": "fold",
+            "pastSimple": "folded",
+            "pastParticiple": "folded",
+            "presentParticiple": "folding",
+            "thirdPerson": "folds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bend"
+        ],
+        "explanation": "Dobrar papel, roupa, etc.",
+        "examples": [
+            {
+                "en": "Fold the paper.",
+                "pt": "Dobre o papel."
+            }
+        ]
+    },
+    "follow": {
+        "infinitive": "follow",
+        "translation": "seguir",
+        "forms": {
+            "base": "follow",
+            "pastSimple": "followed",
+            "pastParticiple": "followed",
+            "presentParticiple": "following",
+            "thirdPerson": "follows"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "come after"
+        ],
+        "explanation": "Ir atrás de alguém ou obedecer instruções.",
+        "examples": [
+            {
+                "en": "Follow me.",
+                "pt": "Siga-me."
+            },
+            {
+                "en": "Follow the rules.",
+                "pt": "Siga as regras."
+            }
+        ]
+    },
+    "fool": {
+        "infinitive": "fool",
+        "translation": "enganar",
+        "forms": {
+            "base": "fool",
+            "pastSimple": "fooled",
+            "pastParticiple": "fooled",
+            "presentParticiple": "fooling",
+            "thirdPerson": "fools"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "trick",
+            "deceive"
+        ],
+        "explanation": "Fazer alguém de bobo.",
+        "examples": [
+            {
+                "en": "Don't accept being fooled.",
+                "pt": "Não aceite ser enganado."
+            }
+        ]
+    },
+    "forbid": {
+        "infinitive": "forbid",
+        "translation": "proibir",
+        "forms": {
+            "base": "forbid",
+            "pastSimple": "forbade",
+            "pastParticiple": "forbidden",
+            "presentParticiple": "forbidding",
+            "thirdPerson": "forbids"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "ban",
+            "prohibit"
+        ],
+        "explanation": "Não permitir.",
+        "examples": [
+            {
+                "en": "Smoking is forbidden.",
+                "pt": "Fumar é proibido."
+            }
+        ]
+    },
+    "force": {
+        "infinitive": "force",
+        "translation": "forçar",
+        "forms": {
+            "base": "force",
+            "pastSimple": "forced",
+            "pastParticiple": "forced",
+            "presentParticiple": "forcing",
+            "thirdPerson": "forces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "compel"
+        ],
+        "explanation": "Obrigar alguém a fazer algo.",
+        "examples": [
+            {
+                "en": "They forced him to sign.",
+                "pt": "Forçaram-no a assinar."
+            }
+        ]
+    },
+    "forecast": {
+        "infinitive": "forecast",
+        "translation": "prever (tempo/economia)",
+        "forms": {
+            "base": "forecast",
+            "pastSimple": "forecast",
+            "pastParticiple": "forecast",
+            "presentParticiple": "forecasting",
+            "thirdPerson": "forecasts"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "regular"
+        ],
+        "related": [
+            "predict"
+        ],
+        "explanation": "Dizer o que vai acontecer no futuro.",
+        "examples": [
+            {
+                "en": "Rain is forecast.",
+                "pt": "Chuva é prevista."
+            }
+        ]
+    },
+    "foresee": {
+        "infinitive": "foresee",
+        "translation": "prever",
+        "forms": {
+            "base": "foresee",
+            "pastSimple": "foresaw",
+            "pastParticiple": "foreseen",
+            "presentParticiple": "foreseeing",
+            "thirdPerson": "foresees"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "anticipate",
+            "predict"
+        ],
+        "explanation": "Ver ou saber antes de acontecer.",
+        "examples": [
+            {
+                "en": "I foresee trouble.",
+                "pt": "Prevejo problemas."
+            }
+        ]
+    },
+    "foretell": {
+        "infinitive": "foretell",
+        "translation": "predizer",
+        "forms": {
+            "base": "foretell",
+            "pastSimple": "foretold",
+            "pastParticiple": "foretold",
+            "presentParticiple": "foretelling",
+            "thirdPerson": "foretells"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "predict",
+            "prophesy"
+        ],
+        "explanation": "Dizer o que vai acontecer no futuro.",
+        "examples": [
+            {
+                "en": "He foretold the disaster.",
+                "pt": "Ele predisse o desastre."
+            }
+        ]
+    },
+    "forge": {
+        "infinitive": "forge",
+        "translation": "forjar",
+        "forms": {
+            "base": "forge",
+            "pastSimple": "forged",
+            "pastParticiple": "forged",
+            "presentParticiple": "forging",
+            "thirdPerson": "forges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "create",
+            "fake"
+        ],
+        "explanation": "Moldar metal com calor ou criar uma cópia falsa.",
+        "examples": [
+            {
+                "en": "Forge a sword.",
+                "pt": "Forje uma espada."
+            }
+        ]
+    },
+    "forget": {
+        "infinitive": "forget",
+        "translation": "esquecer",
+        "forms": {
+            "base": "forget",
+            "pastSimple": "forgot",
+            "pastParticiple": "forgotten",
+            "presentParticiple": "forgetting",
+            "thirdPerson": "forgets"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [],
+        "explanation": "Não lembrar.",
+        "examples": [
+            {
+                "en": "I forgot his name.",
+                "pt": "Esqueci o nome dele."
+            },
+            {
+                "en": "Don't forget to call.",
+                "pt": "Não esqueça de ligar."
+            }
+        ]
+    },
+    "forgive": {
+        "infinitive": "forgive",
+        "translation": "perdoar",
+        "forms": {
+            "base": "forgive",
+            "pastSimple": "forgave",
+            "pastParticiple": "forgiven",
+            "presentParticiple": "forgiving",
+            "thirdPerson": "forgives"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "pardon"
+        ],
+        "explanation": "Parar de sentir raiva por um erro.",
+        "examples": [
+            {
+                "en": "Please forgive me.",
+                "pt": "Por favor, me perdoe."
+            }
+        ]
+    },
+    "form": {
+        "infinitive": "form",
+        "translation": "formar",
+        "forms": {
+            "base": "form",
+            "pastSimple": "formed",
+            "pastParticiple": "formed",
+            "presentParticiple": "forming",
+            "thirdPerson": "forms"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shape",
+            "create"
+        ],
+        "explanation": "Dar forma ou criar.",
+        "examples": [
+            {
+                "en": "Clouds formed in the sky.",
+                "pt": "Nuvens se formaram no céu."
+            }
+        ]
+    },
+    "forward": {
+        "infinitive": "forward",
+        "translation": "encaminhar",
+        "forms": {
+            "base": "forward",
+            "pastSimple": "forwarded",
+            "pastParticiple": "forwarded",
+            "presentParticiple": "forwarding",
+            "thirdPerson": "forwards"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "send on"
+        ],
+        "explanation": "Enviar algo que você recebeu para outra pessoa.",
+        "examples": [
+            {
+                "en": "Forward this email.",
+                "pt": "Encaminhe este e-mail."
+            }
+        ]
+    },
+    "found": {
+        "infinitive": "found",
+        "translation": "fundar",
+        "forms": {
+            "base": "found",
+            "pastSimple": "founded",
+            "pastParticiple": "founded",
+            "presentParticiple": "founding",
+            "thirdPerson": "founds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "establish"
+        ],
+        "explanation": "Iniciar uma organização ou cidade (NÃO confundir com passado de FIND).",
+        "examples": [
+            {
+                "en": "He founded the company.",
+                "pt": "Ele fundou a empresa."
+            }
+        ]
+    },
+    "fracture": {
+        "infinitive": "fracture",
+        "translation": "fraturar",
+        "forms": {
+            "base": "fracture",
+            "pastSimple": "fractured",
+            "pastParticiple": "fractured",
+            "presentParticiple": "fracturing",
+            "thirdPerson": "fractures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "break",
+            "crack"
+        ],
+        "explanation": "Quebrar ou rachar (geralmente osso).",
+        "examples": [
+            {
+                "en": "He fractured his arm.",
+                "pt": "Ele fraturou o braço."
+            }
+        ]
+    },
+    "free": {
+        "infinitive": "free",
+        "translation": "libertar",
+        "forms": {
+            "base": "free",
+            "pastSimple": "freed",
+            "pastParticiple": "freed",
+            "presentParticiple": "freeing",
+            "thirdPerson": "frees"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "release",
+            "liberate"
+        ],
+        "explanation": "Tornar livre.",
+        "examples": [
+            {
+                "en": "Free the prisoners.",
+                "pt": "Liberte os prisioneiros."
+            }
+        ]
+    },
+    "freeze": {
+        "infinitive": "freeze",
+        "translation": "congelar",
+        "forms": {
+            "base": "freeze",
+            "pastSimple": "froze",
+            "pastParticiple": "frozen",
+            "presentParticiple": "freezing",
+            "thirdPerson": "freezes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "ice"
+        ],
+        "explanation": "Virar gelo ou parar de funcionar (computador).",
+        "examples": [
+            {
+                "en": "Water freezes at 0°C.",
+                "pt": "Água congela a 0°C."
+            },
+            {
+                "en": "My screen froze.",
+                "pt": "Minha tela congelou."
+            }
+        ]
+    },
+    "frighten": {
+        "infinitive": "frighten",
+        "translation": "assustar",
+        "forms": {
+            "base": "frighten",
+            "pastSimple": "frightened",
+            "pastParticiple": "frightened",
+            "presentParticiple": "frightening",
+            "thirdPerson": "frightens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "scare",
+            "terrify"
+        ],
+        "explanation": "Causar medo em alguém.",
+        "examples": [
+            {
+                "en": "The noise frightened me.",
+                "pt": "O barulho me assustou."
+            }
+        ]
+    },
+    "frost": {
+        "infinitive": "frost",
+        "translation": "congelar, cobrir de gelo/açúcar",
+        "forms": {
+            "base": "frost",
+            "pastSimple": "frosted",
+            "pastParticiple": "frosted",
+            "presentParticiple": "frosting",
+            "thirdPerson": "frosts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "ice",
+            "freeze"
+        ],
+        "explanation": "Cobrir com geada ou cobertura de bolo.",
+        "examples": [
+            {
+                "en": "Frost the cake.",
+                "pt": "Cubra o bolo."
+            }
+        ]
+    },
+    "fry": {
+        "infinitive": "fry",
+        "translation": "fritar",
+        "forms": {
+            "base": "fry",
+            "pastSimple": "fried",
+            "pastParticiple": "fried",
+            "presentParticiple": "frying",
+            "thirdPerson": "fries"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "cooking"
+        ],
+        "related": [
+            "cook"
+        ],
+        "explanation": "Cozinhar em óleo quente.",
+        "examples": [
+            {
+                "en": "Fry the eggs.",
+                "pt": "Frite os ovos."
+            }
+        ]
+    },
+    "fulfill": {
+        "infinitive": "fulfill",
+        "translation": "realizar, cumprir",
+        "forms": {
+            "base": "fulfill",
+            "pastSimple": "fulfilled",
+            "pastParticiple": "fulfilled",
+            "presentParticiple": "fulfilling",
+            "thirdPerson": "fulfills"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "achieve",
+            "complete"
+        ],
+        "explanation": "Realizar um desejo ou promessa.",
+        "examples": [
+            {
+                "en": "Fulfill your dreams.",
+                "pt": "Realize seus sonhos."
+            }
+        ]
+    },
+    "fume": {
+        "infinitive": "fume",
+        "translation": "fumegar, enfurecer-se",
+        "forms": {
+            "base": "fume",
+            "pastSimple": "fumed",
+            "pastParticiple": "fumed",
+            "presentParticiple": "fuming",
+            "thirdPerson": "fumes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "smoke",
+            "rage"
+        ],
+        "explanation": "Emitir fumaça ou estar muito bravo.",
+        "examples": [
+            {
+                "en": "He was fuming with anger.",
+                "pt": "Ele estava fumegando de raiva."
+            }
+        ]
+    }
+}

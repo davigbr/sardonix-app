@@ -1,0 +1,3563 @@
+{
+    "calculate": {
+        "infinitive": "calculate",
+        "translation": "calcular",
+        "forms": {
+            "base": "calculate",
+            "pastSimple": "calculated",
+            "pastParticiple": "calculated",
+            "presentParticiple": "calculating",
+            "thirdPerson": "calculates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "compute",
+            "estimate"
+        ],
+        "explanation": "Determinar um número ou valor usando matemática.",
+        "examples": [
+            {
+                "en": "Calculate the total cost.",
+                "pt": "Calcule o custo total."
+            }
+        ]
+    },
+    "call": {
+        "infinitive": "call",
+        "translation": "chamar, ligar",
+        "forms": {
+            "base": "call",
+            "pastSimple": "called",
+            "pastParticiple": "called",
+            "presentParticiple": "calling",
+            "thirdPerson": "calls"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "phone",
+            "name",
+            "shout"
+        ],
+        "explanation": "Dar um nome a alguém, gritar para atrair atenção ou telefonar.",
+        "examples": [
+            {
+                "en": "Call me later.",
+                "pt": "Me ligue mais tarde."
+            },
+            {
+                "en": "They called him John.",
+                "pt": "Chamaram-no de John."
+            }
+        ]
+    },
+    "call on": {
+        "infinitive": "call on",
+        "translation": "visitar, recorrer a",
+        "forms": {
+            "base": "call on",
+            "pastSimple": "called on",
+            "pastParticiple": "called on",
+            "presentParticiple": "calling on",
+            "thirdPerson": "calls on"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "visit",
+            "ask"
+        ],
+        "explanation": "Visitar alguém ou pedir algo a alguém.",
+        "examples": [
+            {
+                "en": "I will call on you tomorrow.",
+                "pt": "Vou te visitar amanhã."
+            }
+        ]
+    },
+    "calm": {
+        "infinitive": "calm",
+        "translation": "acalmar",
+        "forms": {
+            "base": "calm",
+            "pastSimple": "calmed",
+            "pastParticiple": "calmed",
+            "presentParticiple": "calming",
+            "thirdPerson": "calms"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "soothe",
+            "relax"
+        ],
+        "explanation": "Tornar tranquilo ou sereno.",
+        "examples": [
+            {
+                "en": "Calm down.",
+                "pt": "Acalme-se."
+            }
+        ]
+    },
+    "camp": {
+        "infinitive": "camp",
+        "translation": "acampar",
+        "forms": {
+            "base": "camp",
+            "pastSimple": "camped",
+            "pastParticiple": "camped",
+            "presentParticiple": "camping",
+            "thirdPerson": "camps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Dormir ao ar livre, geralmente em uma tenda.",
+        "examples": [
+            {
+                "en": "We camped in the woods.",
+                "pt": "Acampamos na floresta."
+            }
+        ]
+    },
+    "captivate": {
+        "infinitive": "captivate",
+        "translation": "cativar",
+        "forms": {
+            "base": "captivate",
+            "pastSimple": "captivated",
+            "pastParticiple": "captivated",
+            "presentParticiple": "captivating",
+            "thirdPerson": "captivates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "charm",
+            "fascinate"
+        ],
+        "explanation": "Atrair e prender a atenção de alguém.",
+        "examples": [
+            {
+                "en": "Her voice captivated the audience.",
+                "pt": "A voz dela cativou a plateia."
+            }
+        ]
+    },
+    "capture": {
+        "infinitive": "capture",
+        "translation": "capturar",
+        "forms": {
+            "base": "capture",
+            "pastSimple": "captured",
+            "pastParticiple": "captured",
+            "presentParticiple": "capturing",
+            "thirdPerson": "captures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "catch",
+            "arrest"
+        ],
+        "explanation": "Pegar alguém ou algo à força.",
+        "examples": [
+            {
+                "en": "They captured the thief.",
+                "pt": "Eles capturaram o ladrão."
+            }
+        ]
+    },
+    "care": {
+        "infinitive": "care",
+        "translation": "importar-se, cuidar",
+        "forms": {
+            "base": "care",
+            "pastSimple": "cared",
+            "pastParticiple": "cared",
+            "presentParticiple": "caring",
+            "thirdPerson": "cares"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "worry",
+            "look after"
+        ],
+        "explanation": "Sentir interesse ou preocupação; 'care for' = cuidar de.",
+        "examples": [
+            {
+                "en": "I don't care.",
+                "pt": "Eu não me importo."
+            },
+            {
+                "en": "She cares for her sick mother.",
+                "pt": "Ela cuida de sua mãe doente."
+            }
+        ]
+    },
+    "caress": {
+        "infinitive": "caress",
+        "translation": "acariciar",
+        "forms": {
+            "base": "caress",
+            "pastSimple": "caressed",
+            "pastParticiple": "caressed",
+            "presentParticiple": "caressing",
+            "thirdPerson": "caresses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stroke",
+            "pet"
+        ],
+        "explanation": "Tocar suavemente com carinho.",
+        "examples": [
+            {
+                "en": "She caressed the cat.",
+                "pt": "Ela acariciou o gato."
+            }
+        ]
+    },
+    "carry": {
+        "infinitive": "carry",
+        "translation": "carregar, transportar",
+        "forms": {
+            "base": "carry",
+            "pastSimple": "carried",
+            "pastParticiple": "carried",
+            "presentParticiple": "carrying",
+            "thirdPerson": "carries"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "transport",
+            "bear"
+        ],
+        "explanation": "Segurar ou mover algo de um lugar para outro.",
+        "examples": [
+            {
+                "en": "He carried the box.",
+                "pt": "Ele carregou a caixa."
+            },
+            {
+                "en": "Carry on with your work.",
+                "pt": "Continue com seu trabalho."
+            }
+        ]
+    },
+    "carry out": {
+        "infinitive": "carry out",
+        "translation": "realizar, executar",
+        "forms": {
+            "base": "carry out",
+            "pastSimple": "carried out",
+            "pastParticiple": "carried out",
+            "presentParticiple": "carrying out",
+            "thirdPerson": "carries out"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "perform",
+            "execute"
+        ],
+        "explanation": "Completar ou cumprir uma tarefa ou ordem.",
+        "examples": [
+            {
+                "en": "Carry out the plan.",
+                "pt": "Execute o plano."
+            }
+        ]
+    },
+    "carve": {
+        "infinitive": "carve",
+        "translation": "esculpir, talhar",
+        "forms": {
+            "base": "carve",
+            "pastSimple": "carved",
+            "pastParticiple": "carved",
+            "presentParticiple": "carving",
+            "thirdPerson": "carves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sculpt",
+            "cut"
+        ],
+        "explanation": "Cortar material (madeira, pedra) para criar uma forma ou objeto.",
+        "examples": [
+            {
+                "en": "He carved a statue.",
+                "pt": "Ele esculpiu uma estátua."
+            }
+        ]
+    },
+    "cast": {
+        "infinitive": "cast",
+        "translation": "lançar, escalar (atores)",
+        "forms": {
+            "base": "cast",
+            "pastSimple": "cast",
+            "pastParticiple": "cast",
+            "presentParticiple": "casting",
+            "thirdPerson": "casts"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "throw",
+            "project"
+        ],
+        "explanation": "Jogar algo (rede, sombra), votar ou escolher atores para um papel.",
+        "examples": [
+            {
+                "en": "Cast your vote.",
+                "pt": "Dê seu voto (lance seu voto)."
+            },
+            {
+                "en": "The tree blocked the sun and cast a shadow.",
+                "pt": "A árvore bloqueou o sol e projetou uma sombra."
+            }
+        ]
+    },
+    "cast off": {
+        "infinitive": "cast off",
+        "translation": "largar (amarras), descartar",
+        "forms": {
+            "base": "cast off",
+            "pastSimple": "cast off",
+            "pastParticiple": "cast off",
+            "presentParticiple": "casting off",
+            "thirdPerson": "casts off"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "discard",
+            "release"
+        ],
+        "explanation": "Soltar as amarras de um barco ou livrar-se de algo.",
+        "examples": [
+            {
+                "en": "We cast off at dawn.",
+                "pt": "Zarpamos ao amanhecer."
+            }
+        ]
+    },
+    "catch": {
+        "infinitive": "catch",
+        "translation": "pegar, capturar",
+        "forms": {
+            "base": "catch",
+            "pastSimple": "caught",
+            "pastParticiple": "caught",
+            "presentParticiple": "catching",
+            "thirdPerson": "catches"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "capture",
+            "grab"
+        ],
+        "explanation": "Pegar algo que está caindo ou se movendo; contrair doença; entender.",
+        "examples": [
+            {
+                "en": "Catch the ball!",
+                "pt": "Pegue a bola!"
+            },
+            {
+                "en": "I caught a cold.",
+                "pt": "Peguei um resfriado."
+            },
+            {
+                "en": "Did you catch that?",
+                "pt": "Você entendeu isso?"
+            }
+        ]
+    },
+    "cause": {
+        "infinitive": "cause",
+        "translation": "causar",
+        "forms": {
+            "base": "cause",
+            "pastSimple": "caused",
+            "pastParticiple": "caused",
+            "presentParticiple": "causing",
+            "thirdPerson": "causes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "create",
+            "produce"
+        ],
+        "explanation": "Fazer algo acontecer, ser a razão de algo.",
+        "examples": [
+            {
+                "en": "The storm caused damage.",
+                "pt": "A tempestade causou danos."
+            }
+        ]
+    },
+    "caution": {
+        "infinitive": "caution",
+        "translation": "advertir, avisar",
+        "forms": {
+            "base": "caution",
+            "pastSimple": "cautioned",
+            "pastParticiple": "cautioned",
+            "presentParticiple": "cautioning",
+            "thirdPerson": "cautions"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "warn",
+            "alert"
+        ],
+        "explanation": "Avisar alguém para ter cuidado.",
+        "examples": [
+            {
+                "en": "I cautioned him about the risk.",
+                "pt": "Eu o adverti sobre o risco."
+            }
+        ]
+    },
+    "cease": {
+        "infinitive": "cease",
+        "translation": "cessar, parar",
+        "forms": {
+            "base": "cease",
+            "pastSimple": "ceased",
+            "pastParticiple": "ceased",
+            "presentParticiple": "ceasing",
+            "thirdPerson": "ceases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stop",
+            "end"
+        ],
+        "explanation": "Parar de acontecer ou fazer algo.",
+        "examples": [
+            {
+                "en": "The rain ceased.",
+                "pt": "A chuva cessou."
+            }
+        ]
+    },
+    "celebrate": {
+        "infinitive": "celebrate",
+        "translation": "celebrar, comemorar",
+        "forms": {
+            "base": "celebrate",
+            "pastSimple": "celebrated",
+            "pastParticiple": "celebrated",
+            "presentParticiple": "celebrating",
+            "thirdPerson": "celebrates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "party",
+            "rejoice"
+        ],
+        "explanation": "Fazer algo especial para marcar um evento importante.",
+        "examples": [
+            {
+                "en": "We celebrated her birthday.",
+                "pt": "Celebramos o aniversário dela."
+            }
+        ]
+    },
+    "censor": {
+        "infinitive": "censor",
+        "translation": "censurar",
+        "forms": {
+            "base": "censor",
+            "pastSimple": "censored",
+            "pastParticiple": "censored",
+            "presentParticiple": "censoring",
+            "thirdPerson": "censors"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "suppress"
+        ],
+        "explanation": "Remover partes consideradas ofensivas.",
+        "examples": [
+            {
+                "en": "They censored the movie.",
+                "pt": "Eles censuraram o filme."
+            }
+        ]
+    },
+    "challenge": {
+        "infinitive": "challenge",
+        "translation": "desafiar",
+        "forms": {
+            "base": "challenge",
+            "pastSimple": "challenged",
+            "pastParticiple": "challenged",
+            "presentParticiple": "challenging",
+            "thirdPerson": "challenges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dare",
+            "question"
+        ],
+        "explanation": "Convidar alguém para competir ou questionar a verdade/validade de algo.",
+        "examples": [
+            {
+                "en": "I challenge you to a game.",
+                "pt": "Eu te desafio para um jogo."
+            }
+        ]
+    },
+    "change": {
+        "infinitive": "change",
+        "translation": "mudar, trocar",
+        "forms": {
+            "base": "change",
+            "pastSimple": "changed",
+            "pastParticiple": "changed",
+            "presentParticiple": "changing",
+            "thirdPerson": "changes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "alter",
+            "switch"
+        ],
+        "explanation": "Tornar diferente ou substituir uma coisa por outra.",
+        "examples": [
+            {
+                "en": "She changed her mind.",
+                "pt": "Ela mudou de ideia."
+            },
+            {
+                "en": "I need to change my clothes.",
+                "pt": "Preciso trocar de roupa."
+            }
+        ]
+    },
+    "chant": {
+        "infinitive": "chant",
+        "translation": "cantarolar, entoar",
+        "forms": {
+            "base": "chant",
+            "pastSimple": "chanted",
+            "pastParticiple": "chanted",
+            "presentParticiple": "chanting",
+            "thirdPerson": "chants"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sing"
+        ],
+        "explanation": "Repetir palavras ou sons em um tom rítmico.",
+        "examples": [
+            {
+                "en": "The crowd chanted his name.",
+                "pt": "A multidão entoou o nome dele."
+            }
+        ]
+    },
+    "charge": {
+        "infinitive": "charge",
+        "translation": "cobrar, carregar (bateria), acusar",
+        "forms": {
+            "base": "charge",
+            "pastSimple": "charged",
+            "pastParticiple": "charged",
+            "presentParticiple": "charging",
+            "thirdPerson": "charges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bill",
+            "accuse",
+            "attack"
+        ],
+        "explanation": "Pedir dinheiro, encher de energia, ou acusar formalmente.",
+        "examples": [
+            {
+                "en": "How much do you charge?",
+                "pt": "Quanto você cobra?"
+            },
+            {
+                "en": "Charge your phone.",
+                "pt": "Carregue seu telefone."
+            }
+        ]
+    },
+    "charm": {
+        "infinitive": "charm",
+        "translation": "encantar",
+        "forms": {
+            "base": "charm",
+            "pastSimple": "charmed",
+            "pastParticiple": "charmed",
+            "presentParticiple": "charming",
+            "thirdPerson": "charms"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "captivate",
+            "attract"
+        ],
+        "explanation": "Agradar ou atrair muito.",
+        "examples": [
+            {
+                "en": "He charmed everyone.",
+                "pt": "Ele encantou a todos."
+            }
+        ]
+    },
+    "chase": {
+        "infinitive": "chase",
+        "translation": "perseguir",
+        "forms": {
+            "base": "chase",
+            "pastSimple": "chased",
+            "pastParticiple": "chased",
+            "presentParticiple": "chasing",
+            "thirdPerson": "chases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pursue",
+            "run after"
+        ],
+        "explanation": "Correr atrás de alguém ou algo para pegar.",
+        "examples": [
+            {
+                "en": "The dog chased the cat.",
+                "pt": "O cachorro perseguiu o gato."
+            }
+        ]
+    },
+    "cheat": {
+        "infinitive": "cheat",
+        "translation": "trapacear, enganar, trair",
+        "forms": {
+            "base": "cheat",
+            "pastSimple": "cheated",
+            "pastParticiple": "cheated",
+            "presentParticiple": "cheating",
+            "thirdPerson": "cheats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "deceive",
+            "trick"
+        ],
+        "explanation": "Agir desonestamente para ganhar vantagem.",
+        "examples": [
+            {
+                "en": "He cheated on the test.",
+                "pt": "Ele colou (trapaceou) na prova."
+            }
+        ]
+    },
+    "check": {
+        "infinitive": "check",
+        "translation": "verificar, checar",
+        "forms": {
+            "base": "check",
+            "pastSimple": "checked",
+            "pastParticiple": "checked",
+            "presentParticiple": "checking",
+            "thirdPerson": "checks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "verify",
+            "inspect"
+        ],
+        "explanation": "Examinar algo para garantir que está correto ou seguro.",
+        "examples": [
+            {
+                "en": "Check your answers.",
+                "pt": "Verifique suas respostas."
+            },
+            {
+                "en": "Check in at the hotel.",
+                "pt": "Faça o check-in no hotel."
+            }
+        ]
+    },
+    "cheer": {
+        "infinitive": "cheer",
+        "translation": "animar, torcer",
+        "forms": {
+            "base": "cheer",
+            "pastSimple": "cheered",
+            "pastParticiple": "cheered",
+            "presentParticiple": "cheering",
+            "thirdPerson": "cheers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "encourage",
+            "applaud"
+        ],
+        "explanation": "Gritar de alegria/apoio ou fazer alguém se sentir melhor ('cheer up').",
+        "examples": [
+            {
+                "en": "Cheer up!",
+                "pt": "Anime-se!"
+            },
+            {
+                "en": "The crowd cheered.",
+                "pt": "A multidão aplaudiu/torceu."
+            }
+        ]
+    },
+    "chew": {
+        "infinitive": "chew",
+        "translation": "mastigar",
+        "forms": {
+            "base": "chew",
+            "pastSimple": "chewed",
+            "pastParticiple": "chewed",
+            "presentParticiple": "chewing",
+            "thirdPerson": "chews"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bite",
+            "munch"
+        ],
+        "explanation": "Triturar comida com os dentes.",
+        "examples": [
+            {
+                "en": "Chew your food well.",
+                "pt": "Mastigue bem sua comida."
+            }
+        ]
+    },
+    "chill": {
+        "infinitive": "chill",
+        "translation": "esfriar, relaxar",
+        "forms": {
+            "base": "chill",
+            "pastSimple": "chilled",
+            "pastParticiple": "chilled",
+            "presentParticiple": "chilling",
+            "thirdPerson": "chills"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cool",
+            "relax"
+        ],
+        "explanation": "Tornar frio ou ficar relaxado.",
+        "examples": [
+            {
+                "en": "Chill the wine.",
+                "pt": "Resfrie o vinho."
+            }
+        ]
+    },
+    "choke": {
+        "infinitive": "choke",
+        "translation": "engasgar, sufocar",
+        "forms": {
+            "base": "choke",
+            "pastSimple": "choked",
+            "pastParticiple": "choked",
+            "presentParticiple": "choking",
+            "thirdPerson": "chokes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "suffocate",
+            "strangle"
+        ],
+        "explanation": "Não conseguir respirar porque algo bloqueia a garganta.",
+        "examples": [
+            {
+                "en": "He choked on a piece of meat.",
+                "pt": "Ele engasgou com um pedaço de carne."
+            }
+        ]
+    },
+    "choose": {
+        "infinitive": "choose",
+        "translation": "escolher",
+        "forms": {
+            "base": "choose",
+            "pastSimple": "chose",
+            "pastParticiple": "chosen",
+            "presentParticiple": "choosing",
+            "thirdPerson": "chooses"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "select",
+            "pick"
+        ],
+        "explanation": "Decidir qual coisa você quer entre várias opções.",
+        "examples": [
+            {
+                "en": "Choose a color.",
+                "pt": "Escolha uma cor."
+            },
+            {
+                "en": "He was chosen as leader.",
+                "pt": "Ele foi escolhido como líder."
+            }
+        ]
+    },
+    "chop": {
+        "infinitive": "chop",
+        "translation": "picar, cortar",
+        "forms": {
+            "base": "chop",
+            "pastSimple": "chopped",
+            "pastParticiple": "chopped",
+            "presentParticiple": "chopping",
+            "thirdPerson": "chops"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cut",
+            "dice"
+        ],
+        "explanation": "Cortar em pedaços pequenos (geralmente comida ou madeira).",
+        "examples": [
+            {
+                "en": "Chop the onions.",
+                "pt": "Pique as cebolas."
+            }
+        ]
+    },
+    "claim": {
+        "infinitive": "claim",
+        "translation": "reivindicar, alegar",
+        "forms": {
+            "base": "claim",
+            "pastSimple": "claimed",
+            "pastParticiple": "claimed",
+            "presentParticiple": "claiming",
+            "thirdPerson": "claims"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "assert",
+            "demand"
+        ],
+        "explanation": "Dizer que algo é verdade (sem prova) ou exigir algo como seu direito.",
+        "examples": [
+            {
+                "en": "He claims to be rich.",
+                "pt": "Ele alega ser rico."
+            },
+            {
+                "en": "Claim your prize.",
+                "pt": "Reivindique seu prêmio."
+            }
+        ]
+    },
+    "clap": {
+        "infinitive": "clap",
+        "translation": "aplaudir",
+        "forms": {
+            "base": "clap",
+            "pastSimple": "clapped",
+            "pastParticiple": "clapped",
+            "presentParticiple": "clapping",
+            "thirdPerson": "claps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "applaud"
+        ],
+        "explanation": "Bater as mãos juntas para mostrar aprovação ou fazer barulho.",
+        "examples": [
+            {
+                "en": "Everyone clapped.",
+                "pt": "Todos aplaudiram."
+            }
+        ]
+    },
+    "clarify": {
+        "infinitive": "clarify",
+        "translation": "esclarecer",
+        "forms": {
+            "base": "clarify",
+            "pastSimple": "clarified",
+            "pastParticiple": "clarified",
+            "presentParticiple": "clarifying",
+            "thirdPerson": "clarifies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "explain",
+            "clear up"
+        ],
+        "explanation": "Tornar algo mais fácil de entender.",
+        "examples": [
+            {
+                "en": "Please clarify your point.",
+                "pt": "Por favor, esclareça seu ponto."
+            }
+        ]
+    },
+    "clean": {
+        "infinitive": "clean",
+        "translation": "limpar",
+        "forms": {
+            "base": "clean",
+            "pastSimple": "cleaned",
+            "pastParticiple": "cleaned",
+            "presentParticiple": "cleaning",
+            "thirdPerson": "cleans"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "wash",
+            "scrub"
+        ],
+        "explanation": "Remover sujeira ou marcas.",
+        "examples": [
+            {
+                "en": "Clean your room.",
+                "pt": "Limpe seu quarto."
+            }
+        ]
+    },
+    "clear": {
+        "infinitive": "clear",
+        "translation": "esvaziar, clarear, inocentar",
+        "forms": {
+            "base": "clear",
+            "pastSimple": "cleared",
+            "pastParticiple": "cleared",
+            "presentParticiple": "clearing",
+            "thirdPerson": "clears"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "empty",
+            "remove"
+        ],
+        "explanation": "Remover obstruções ou provar inocência ('clear name').",
+        "examples": [
+            {
+                "en": "Clear the table.",
+                "pt": "Limpe (esvazie) a mesa."
+            },
+            {
+                "en": "The sky cleared up.",
+                "pt": "O céu clareou (limpou)."
+            }
+        ]
+    },
+    "clear up": {
+        "infinitive": "clear up",
+        "translation": "esclarecer, limpar, melhorar (tempo)",
+        "forms": {
+            "base": "clear up",
+            "pastSimple": "cleared up",
+            "pastParticiple": "cleared up",
+            "presentParticiple": "clearing up",
+            "thirdPerson": "clears up"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "clarify",
+            "tidy"
+        ],
+        "explanation": "Resolver um problema, explicar algo ou quando o tempo melhora.",
+        "examples": [
+            {
+                "en": "Let's clear up this mess.",
+                "pt": "Vamos limpar essa bagunça."
+            }
+        ]
+    },
+    "click": {
+        "infinitive": "click",
+        "translation": "clicar, estalar",
+        "forms": {
+            "base": "click",
+            "pastSimple": "clicked",
+            "pastParticiple": "clicked",
+            "presentParticiple": "clicking",
+            "thirdPerson": "clicks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "snap"
+        ],
+        "explanation": "Fazer um som curto e agudo; pressionar botão do mouse.",
+        "examples": [
+            {
+                "en": "Click the link.",
+                "pt": "Clique no link."
+            }
+        ]
+    },
+    "climb": {
+        "infinitive": "climb",
+        "translation": "subir, escalar",
+        "forms": {
+            "base": "climb",
+            "pastSimple": "climbed",
+            "pastParticiple": "climbed",
+            "presentParticiple": "climbing",
+            "thirdPerson": "climbs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "ascend",
+            "scale"
+        ],
+        "explanation": "Mover-se para cima usando mãos e pés.",
+        "examples": [
+            {
+                "en": "They climbed the mountain.",
+                "pt": "Eles escalaram a montanha."
+            }
+        ]
+    },
+    "cling": {
+        "infinitive": "cling",
+        "translation": "agarrar-se, aderir",
+        "forms": {
+            "base": "cling",
+            "pastSimple": "clung",
+            "pastParticiple": "clung",
+            "presentParticiple": "clinging",
+            "thirdPerson": "clings"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "stick",
+            "hold on"
+        ],
+        "explanation": "Segurar-se firmemente a algo ou alguém.",
+        "examples": [
+            {
+                "en": "The wet shirt clung to his body.",
+                "pt": "A camisa molhada grudou no corpo dele."
+            }
+        ]
+    },
+    "clip": {
+        "infinitive": "clip",
+        "translation": "cortar, prender (clipe)",
+        "forms": {
+            "base": "clip",
+            "pastSimple": "clipped",
+            "pastParticiple": "clipped",
+            "presentParticiple": "clipping",
+            "thirdPerson": "clips"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cut",
+            "trim",
+            "fasten"
+        ],
+        "explanation": "Cortar uma parte pequena de algo ou prender com um clipe.",
+        "examples": [
+            {
+                "en": "Clip the coupon.",
+                "pt": "Corte o cupom."
+            }
+        ]
+    },
+    "close": {
+        "infinitive": "close",
+        "translation": "fechar",
+        "forms": {
+            "base": "close",
+            "pastSimple": "closed",
+            "pastParticiple": "closed",
+            "presentParticiple": "closing",
+            "thirdPerson": "closes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "shut"
+        ],
+        "explanation": "Tapar uma abertura ('shut') ou encerrar algo (negócios/loja).",
+        "examples": [
+            {
+                "en": "Close the door.",
+                "pt": "Feche a porta."
+            },
+            {
+                "en": "The shop closes at 5.",
+                "pt": "A loja fecha às 5."
+            }
+        ]
+    },
+    "clothe": {
+        "infinitive": "clothe",
+        "translation": "vestir",
+        "forms": {
+            "base": "clothe",
+            "pastSimple": "clothed, clad",
+            "pastParticiple": "clothed, clad",
+            "presentParticiple": "clothing",
+            "thirdPerson": "clothes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dress"
+        ],
+        "explanation": "Prover ou colocar roupas.",
+        "examples": [
+            {
+                "en": "He works hard to clothe his family.",
+                "pt": "Ele trabalha duro para vestir (sustentar) sua família."
+            }
+        ]
+    },
+    "coach": {
+        "infinitive": "coach",
+        "translation": "treinar",
+        "forms": {
+            "base": "coach",
+            "pastSimple": "coached",
+            "pastParticiple": "coached",
+            "presentParticiple": "coaching",
+            "thirdPerson": "coaches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "train",
+            "teach"
+        ],
+        "explanation": "Ensinar ou treinar alguém em esporte ou habilidade.",
+        "examples": [
+            {
+                "en": "He coaches the football team.",
+                "pt": "Ele treina o time de futebol."
+            }
+        ]
+    },
+    "coat": {
+        "infinitive": "coat",
+        "translation": "cobrir, revestir",
+        "forms": {
+            "base": "coat",
+            "pastSimple": "coated",
+            "pastParticiple": "coated",
+            "presentParticiple": "coating",
+            "thirdPerson": "coats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cover",
+            "layer"
+        ],
+        "explanation": "Cobrir algo com uma camada.",
+        "examples": [
+            {
+                "en": "Coat the pan with oil.",
+                "pt": "Cubra a panela com óleo."
+            }
+        ]
+    },
+    "code": {
+        "infinitive": "code",
+        "translation": "codificar, programar",
+        "forms": {
+            "base": "code",
+            "pastSimple": "coded",
+            "pastParticiple": "coded",
+            "presentParticiple": "coding",
+            "thirdPerson": "codes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "program",
+            "encrypt"
+        ],
+        "explanation": "Escrever código de computador ou converter em código.",
+        "examples": [
+            {
+                "en": "He codes in Python.",
+                "pt": "Ele programa em Python."
+            }
+        ]
+    },
+    "coil": {
+        "infinitive": "coil",
+        "translation": "enrolar",
+        "forms": {
+            "base": "coil",
+            "pastSimple": "coiled",
+            "pastParticiple": "coiled",
+            "presentParticiple": "coiling",
+            "thirdPerson": "coils"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wind",
+            "twist"
+        ],
+        "explanation": "Enrolar em anéis ou espiral.",
+        "examples": [
+            {
+                "en": "The snake coiled up.",
+                "pt": "A cobra se enrolou."
+            }
+        ]
+    },
+    "collapse": {
+        "infinitive": "collapse",
+        "translation": "desmoronar, colapsar",
+        "forms": {
+            "base": "collapse",
+            "pastSimple": "collapsed",
+            "pastParticiple": "collapsed",
+            "presentParticiple": "collapsing",
+            "thirdPerson": "collapses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fall down",
+            "crash"
+        ],
+        "explanation": "Cair repentinamente ou falhar completamente.",
+        "examples": [
+            {
+                "en": "The building collapsed.",
+                "pt": "O prédio desmoronou."
+            }
+        ]
+    },
+    "collect": {
+        "infinitive": "collect",
+        "translation": "coletar, colecionar",
+        "forms": {
+            "base": "collect",
+            "pastSimple": "collected",
+            "pastParticiple": "collected",
+            "presentParticiple": "collecting",
+            "thirdPerson": "collects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "gather"
+        ],
+        "explanation": "Juntar coisas (selos, dinheiro, pessoas).",
+        "examples": [
+            {
+                "en": "I collect coins.",
+                "pt": "Eu coleciono moedas."
+            }
+        ]
+    },
+    "collide": {
+        "infinitive": "collide",
+        "translation": "colidir",
+        "forms": {
+            "base": "collide",
+            "pastSimple": "collided",
+            "pastParticiple": "collided",
+            "presentParticiple": "colliding",
+            "thirdPerson": "collides"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "crash",
+            "hit"
+        ],
+        "explanation": "Bater com força contra algo enquanto se move.",
+        "examples": [
+            {
+                "en": "Two cars collided.",
+                "pt": "Dois carros colidiram."
+            }
+        ]
+    },
+    "color": {
+        "infinitive": "color",
+        "translation": "colorir",
+        "forms": {
+            "base": "color",
+            "pastSimple": "colored",
+            "pastParticiple": "colored",
+            "presentParticiple": "coloring",
+            "thirdPerson": "colors"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "paint",
+            "dye"
+        ],
+        "explanation": "Adicionar cor a algo.",
+        "examples": [
+            {
+                "en": "The child colored the picture.",
+                "pt": "A criança coloriu o desenho."
+            }
+        ]
+    },
+    "comb": {
+        "infinitive": "comb",
+        "translation": "pentear, vasculhar",
+        "forms": {
+            "base": "comb",
+            "pastSimple": "combed",
+            "pastParticiple": "combed",
+            "presentParticiple": "combing",
+            "thirdPerson": "combs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "groom",
+            "search"
+        ],
+        "explanation": "Arrumar o cabelo ou procurar minuciosamente.",
+        "examples": [
+            {
+                "en": "Comb your hair.",
+                "pt": "Penteie seu cabelo."
+            }
+        ]
+    },
+    "combine": {
+        "infinitive": "combine",
+        "translation": "combinar",
+        "forms": {
+            "base": "combine",
+            "pastSimple": "combined",
+            "pastParticiple": "combined",
+            "presentParticiple": "combining",
+            "thirdPerson": "combines"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mix",
+            "merge"
+        ],
+        "explanation": "Juntar duas ou mais coisas.",
+        "examples": [
+            {
+                "en": "Combine flour and sugar.",
+                "pt": "Combine farinha e açúcar."
+            }
+        ]
+    },
+    "come": {
+        "infinitive": "come",
+        "translation": "vir",
+        "forms": {
+            "base": "come",
+            "pastSimple": "came",
+            "pastParticiple": "come",
+            "presentParticiple": "coming",
+            "thirdPerson": "comes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common",
+            "essential"
+        ],
+        "related": [
+            "arrive",
+            "approach"
+        ],
+        "explanation": "Mover-se para perto de quem fala.",
+        "examples": [
+            {
+                "en": "Come here.",
+                "pt": "Venha aqui."
+            },
+            {
+                "en": "Here comes the bus.",
+                "pt": "Aí vem o ônibus."
+            }
+        ]
+    },
+    "come after": {
+        "infinitive": "come after",
+        "translation": "seguir, perseguir",
+        "forms": {
+            "base": "come after",
+            "pastSimple": "came after",
+            "pastParticiple": "come after",
+            "presentParticiple": "coming after",
+            "thirdPerson": "comes after"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "chase",
+            "follow"
+        ],
+        "explanation": "Perseguir alguém para pegar ou punir.",
+        "examples": [
+            {
+                "en": "They came after him.",
+                "pt": "Eles vieram atrás dele."
+            }
+        ]
+    },
+    "come back": {
+        "infinitive": "come back",
+        "translation": "voltar",
+        "forms": {
+            "base": "come back",
+            "pastSimple": "came back",
+            "pastParticiple": "come back",
+            "presentParticiple": "coming back",
+            "thirdPerson": "comes back"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "return"
+        ],
+        "explanation": "Retornar a um lugar.",
+        "examples": [
+            {
+                "en": "Come back home.",
+                "pt": "Volte para casa."
+            }
+        ]
+    },
+    "come before": {
+        "infinitive": "come before",
+        "translation": "preceder, vir antes",
+        "forms": {
+            "base": "come before",
+            "pastSimple": "came before",
+            "pastParticiple": "come before",
+            "presentParticiple": "coming before",
+            "thirdPerson": "comes before"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "precede"
+        ],
+        "explanation": "Acontecer ou estar antes de outra coisa.",
+        "examples": [
+            {
+                "en": "B comes before C.",
+                "pt": "B vem antes de C."
+            }
+        ]
+    },
+    "come in": {
+        "infinitive": "come in",
+        "translation": "entrar",
+        "forms": {
+            "base": "come in",
+            "pastSimple": "came in",
+            "pastParticiple": "come in",
+            "presentParticiple": "coming in",
+            "thirdPerson": "comes in"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "enter"
+        ],
+        "explanation": "Entrar em um lugar.",
+        "examples": [
+            {
+                "en": "Please come in.",
+                "pt": "Por favor, entre."
+            }
+        ]
+    },
+    "come near": {
+        "infinitive": "come near",
+        "translation": "aproximar-se",
+        "forms": {
+            "base": "come near",
+            "pastSimple": "came near",
+            "pastParticiple": "come near",
+            "presentParticiple": "coming near",
+            "thirdPerson": "comes near"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "approach"
+        ],
+        "explanation": "Chegar perto.",
+        "examples": [
+            {
+                "en": "Don't come near me.",
+                "pt": "Não chegue perto de mim."
+            }
+        ]
+    },
+    "comfort": {
+        "infinitive": "comfort",
+        "translation": "consolar",
+        "forms": {
+            "base": "comfort",
+            "pastSimple": "comforted",
+            "pastParticiple": "comforted",
+            "presentParticiple": "comforting",
+            "thirdPerson": "comforts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "console",
+            "soothe"
+        ],
+        "explanation": "Fazer alguém se sentir menos triste ou preocupado.",
+        "examples": [
+            {
+                "en": "She comforted the crying child.",
+                "pt": "Ela consolou a criança que chorava."
+            }
+        ]
+    },
+    "command": {
+        "infinitive": "command",
+        "translation": "comandar, ordenar",
+        "forms": {
+            "base": "command",
+            "pastSimple": "commanded",
+            "pastParticiple": "commanded",
+            "presentParticiple": "commanding",
+            "thirdPerson": "commands"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "order",
+            "rule"
+        ],
+        "explanation": "Dar ordens oficiais ou ter controle.",
+        "examples": [
+            {
+                "en": "The general commanded the troops.",
+                "pt": "O general comandou as tropas."
+            }
+        ]
+    },
+    "commence": {
+        "infinitive": "commence",
+        "translation": "começar, iniciar",
+        "forms": {
+            "base": "commence",
+            "pastSimple": "commenced",
+            "pastParticiple": "commenced",
+            "presentParticiple": "commencing",
+            "thirdPerson": "commences"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "start",
+            "begin"
+        ],
+        "explanation": "Dar início a algo (formal).",
+        "examples": [
+            {
+                "en": "The ceremony commenced.",
+                "pt": "A cerimônia começou."
+            }
+        ]
+    },
+    "commend": {
+        "infinitive": "commend",
+        "translation": "elogiar (formal)",
+        "forms": {
+            "base": "commend",
+            "pastSimple": "commended",
+            "pastParticiple": "commended",
+            "presentParticiple": "commending",
+            "thirdPerson": "commends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "praise"
+        ],
+        "explanation": "Elogiar oficialmente.",
+        "examples": [
+            {
+                "en": "I commend your bravery.",
+                "pt": "Elogio sua bravura."
+            }
+        ]
+    },
+    "commit": {
+        "infinitive": "commit",
+        "translation": "comprometer-se, cometer",
+        "forms": {
+            "base": "commit",
+            "pastSimple": "committed",
+            "pastParticiple": "committed",
+            "presentParticiple": "committing",
+            "thirdPerson": "commits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pledge",
+            "perpetrate"
+        ],
+        "explanation": "Fazer algo errado (crime) ou dedicar-se a algo/alguém.",
+        "examples": [
+            {
+                "en": "He committed a crime.",
+                "pt": "Ele cometeu um crime."
+            },
+            {
+                "en": "I am committed to this project.",
+                "pt": "Estou comprometido com este projeto."
+            }
+        ]
+    },
+    "communicate": {
+        "infinitive": "communicate",
+        "translation": "comunicar",
+        "forms": {
+            "base": "communicate",
+            "pastSimple": "communicated",
+            "pastParticiple": "communicated",
+            "presentParticiple": "communicating",
+            "thirdPerson": "communicates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "convey",
+            "talk"
+        ],
+        "explanation": "Trocar informações ou ideias.",
+        "examples": [
+            {
+                "en": "We communicate by email.",
+                "pt": "Nós nos comunicamos por email."
+            }
+        ]
+    },
+    "compare": {
+        "infinitive": "compare",
+        "translation": "comparar",
+        "forms": {
+            "base": "compare",
+            "pastSimple": "compared",
+            "pastParticiple": "compared",
+            "presentParticiple": "comparing",
+            "thirdPerson": "compares"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "contrast"
+        ],
+        "explanation": "Examinar semelhanças e diferenças.",
+        "examples": [
+            {
+                "en": "Don't compare yourself to others.",
+                "pt": "Não se compare aos outros."
+            }
+        ]
+    },
+    "compel": {
+        "infinitive": "compel",
+        "translation": "compelir, forçar",
+        "forms": {
+            "base": "compel",
+            "pastSimple": "compelled",
+            "pastParticiple": "compelled",
+            "presentParticiple": "compelling",
+            "thirdPerson": "compels"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "force",
+            "oblige"
+        ],
+        "explanation": "Forçar alguém a fazer algo.",
+        "examples": [
+            {
+                "en": "Logic compels me to agree.",
+                "pt": "A lógica me impele a concordar."
+            }
+        ]
+    },
+    "compensate": {
+        "infinitive": "compensate",
+        "translation": "compensar",
+        "forms": {
+            "base": "compensate",
+            "pastSimple": "compensated",
+            "pastParticiple": "compensated",
+            "presentParticiple": "compensating",
+            "thirdPerson": "compensates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "reward",
+            "reimburse"
+        ],
+        "explanation": "Pagar ou dar algo por perda/trabalho.",
+        "examples": [
+            {
+                "en": "Compensate for the loss.",
+                "pt": "Compense a perda."
+            }
+        ]
+    },
+    "compete": {
+        "infinitive": "compete",
+        "translation": "competir",
+        "forms": {
+            "base": "compete",
+            "pastSimple": "competed",
+            "pastParticiple": "competed",
+            "presentParticiple": "competing",
+            "thirdPerson": "competes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "vie",
+            "contest"
+        ],
+        "explanation": "Tentar ganhar de outros em algo.",
+        "examples": [
+            {
+                "en": "Athletes compete for gold.",
+                "pt": "Atletas competem pelo ouro."
+            }
+        ]
+    },
+    "complain": {
+        "infinitive": "complain",
+        "translation": "reclamar",
+        "forms": {
+            "base": "complain",
+            "pastSimple": "complained",
+            "pastParticiple": "complained",
+            "presentParticiple": "complaining",
+            "thirdPerson": "complains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "grumble"
+        ],
+        "explanation": "Dizer que você não está satisfeito ou feliz com algo.",
+        "examples": [
+            {
+                "en": "He is always complaining about the weather.",
+                "pt": "Ele está sempre reclamando do tempo."
+            }
+        ]
+    },
+    "complete": {
+        "infinitive": "complete",
+        "translation": "completar",
+        "forms": {
+            "base": "complete",
+            "pastSimple": "completed",
+            "pastParticiple": "completed",
+            "presentParticiple": "completing",
+            "thirdPerson": "completes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "finish"
+        ],
+        "explanation": "Terminar algo totalmente.",
+        "examples": [
+            {
+                "en": "Mission completed.",
+                "pt": "Missão completada."
+            }
+        ]
+    },
+    "comply": {
+        "infinitive": "comply",
+        "translation": "obedecer, cumprir",
+        "forms": {
+            "base": "comply",
+            "pastSimple": "complied",
+            "pastParticiple": "complied",
+            "presentParticiple": "complying",
+            "thirdPerson": "complies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "obey",
+            "adhere"
+        ],
+        "explanation": "Agir de acordo com uma ordem ou regra.",
+        "examples": [
+            {
+                "en": "They refused to comply.",
+                "pt": "Eles se recusaram a obedecer."
+            }
+        ]
+    },
+    "compose": {
+        "infinitive": "compose",
+        "translation": "compor",
+        "forms": {
+            "base": "compose",
+            "pastSimple": "composed",
+            "pastParticiple": "composed",
+            "presentParticiple": "composing",
+            "thirdPerson": "composes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "write",
+            "create"
+        ],
+        "explanation": "Criar música, texto ou formar um todo.",
+        "examples": [
+            {
+                "en": "He composed a song.",
+                "pt": "Ele compôs uma música."
+            }
+        ]
+    },
+    "comprehend": {
+        "infinitive": "comprehend",
+        "translation": "compreender",
+        "forms": {
+            "base": "comprehend",
+            "pastSimple": "comprehended",
+            "pastParticiple": "comprehended",
+            "presentParticiple": "comprehending",
+            "thirdPerson": "comprehends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "understand"
+        ],
+        "explanation": "Entender completamente.",
+        "examples": [
+            {
+                "en": "I cannot comprehend this.",
+                "pt": "Não consigo compreender isso."
+            }
+        ]
+    },
+    "comprise": {
+        "infinitive": "comprise",
+        "translation": "compreender, abranger, consistir em",
+        "forms": {
+            "base": "comprise",
+            "pastSimple": "comprised",
+            "pastParticiple": "comprised",
+            "presentParticiple": "comprising",
+            "thirdPerson": "comprises"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "consist",
+            "include"
+        ],
+        "explanation": "Ser composto por ou incluir.",
+        "examples": [
+            {
+                "en": "The team comprises five members.",
+                "pt": "O time consiste em cinco membros."
+            }
+        ]
+    },
+    "compute": {
+        "infinitive": "compute",
+        "translation": "computar, calcular",
+        "forms": {
+            "base": "compute",
+            "pastSimple": "computed",
+            "pastParticiple": "computed",
+            "presentParticiple": "computing",
+            "thirdPerson": "computes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "calculate"
+        ],
+        "explanation": "Calcular uma resposta ou resultado.",
+        "examples": [
+            {
+                "en": "Compute the total.",
+                "pt": "Compute o total."
+            }
+        ]
+    },
+    "conceal": {
+        "infinitive": "conceal",
+        "translation": "ocultar, esconder",
+        "forms": {
+            "base": "conceal",
+            "pastSimple": "concealed",
+            "pastParticiple": "concealed",
+            "presentParticiple": "concealing",
+            "thirdPerson": "conceals"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hide"
+        ],
+        "explanation": "Esconder algo ou evitar que seja visto.",
+        "examples": [
+            {
+                "en": "He concealed the weapon.",
+                "pt": "Ele escondeu a arma."
+            }
+        ]
+    },
+    "concentrate": {
+        "infinitive": "concentrate",
+        "translation": "concentrar",
+        "forms": {
+            "base": "concentrate",
+            "pastSimple": "concentrated",
+            "pastParticiple": "concentrated",
+            "presentParticiple": "concentrating",
+            "thirdPerson": "concentrates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "focus"
+        ],
+        "explanation": "Focar toda a atenção em algo.",
+        "examples": [
+            {
+                "en": "I can't concentrate with this noise.",
+                "pt": "Não consigo me concentrar com esse barulho."
+            }
+        ]
+    },
+    "concern": {
+        "infinitive": "concern",
+        "translation": "preocupar, dizer respeito a",
+        "forms": {
+            "base": "concern",
+            "pastSimple": "concerned",
+            "pastParticiple": "concerned",
+            "presentParticiple": "concerning",
+            "thirdPerson": "concerns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "worry",
+            "involve"
+        ],
+        "explanation": "Afetar ou preocupar alguém.",
+        "examples": [
+            {
+                "en": "This matter concerns us all.",
+                "pt": "Este assunto diz respeito a todos nós."
+            }
+        ]
+    },
+    "confess": {
+        "infinitive": "confess",
+        "translation": "confessar",
+        "forms": {
+            "base": "confess",
+            "pastSimple": "confessed",
+            "pastParticiple": "confessed",
+            "presentParticiple": "confessing",
+            "thirdPerson": "confesses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "admit"
+        ],
+        "explanation": "Admitir que fez algo errado.",
+        "examples": [
+            {
+                "en": "He confessed to the theft.",
+                "pt": "Ele confessou o roubo."
+            }
+        ]
+    },
+    "confine": {
+        "infinitive": "confine",
+        "translation": "confinar",
+        "forms": {
+            "base": "confine",
+            "pastSimple": "confined",
+            "pastParticiple": "confined",
+            "presentParticiple": "confining",
+            "thirdPerson": "confines"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "imprison",
+            "restrict"
+        ],
+        "explanation": "Manter dentro de limites ou lugar fechado.",
+        "examples": [
+            {
+                "en": "Confine the dog.",
+                "pt": "Confine o cachorro."
+            }
+        ]
+    },
+    "confirm": {
+        "infinitive": "confirm",
+        "translation": "confirmar",
+        "forms": {
+            "base": "confirm",
+            "pastSimple": "confirmed",
+            "pastParticiple": "confirmed",
+            "presentParticiple": "confirming",
+            "thirdPerson": "confirms"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "verify",
+            "validate"
+        ],
+        "explanation": "Estabelecer a verdade ou validade de algo.",
+        "examples": [
+            {
+                "en": "Please confirm your email.",
+                "pt": "Por favor, confirme seu email."
+            }
+        ]
+    },
+    "confront": {
+        "infinitive": "confront",
+        "translation": "confrontar",
+        "forms": {
+            "base": "confront",
+            "pastSimple": "confronted",
+            "pastParticiple": "confronted",
+            "presentParticiple": "confronting",
+            "thirdPerson": "confronts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "face",
+            "challenge"
+        ],
+        "explanation": "Encarar alguém ou algo difícil.",
+        "examples": [
+            {
+                "en": "He confronted his accuser.",
+                "pt": "Ele confrontou seu acusador."
+            }
+        ]
+    },
+    "confuse": {
+        "infinitive": "confuse",
+        "translation": "confundir",
+        "forms": {
+            "base": "confuse",
+            "pastSimple": "confused",
+            "pastParticiple": "confused",
+            "presentParticiple": "confusing",
+            "thirdPerson": "confuses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mix up",
+            "puzzle"
+        ],
+        "explanation": "Fazer alguém não entender ou misturar coisas na mente.",
+        "examples": [
+            {
+                "en": "You are confusing me.",
+                "pt": "Você está me confundindo."
+            }
+        ]
+    },
+    "connect": {
+        "infinitive": "connect",
+        "translation": "conectar",
+        "forms": {
+            "base": "connect",
+            "pastSimple": "connected",
+            "pastParticiple": "connected",
+            "presentParticiple": "connecting",
+            "thirdPerson": "connects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "link",
+            "join"
+        ],
+        "explanation": "Unir duas coisas ou ligar aparelhos.",
+        "examples": [
+            {
+                "en": "Connect the printer to the computer.",
+                "pt": "Conecte a impressora ao computador."
+            }
+        ]
+    },
+    "conquer": {
+        "infinitive": "conquer",
+        "translation": "conquistar",
+        "forms": {
+            "base": "conquer",
+            "pastSimple": "conquered",
+            "pastParticiple": "conquered",
+            "presentParticiple": "conquering",
+            "thirdPerson": "conquers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "defeat",
+            "overcome"
+        ],
+        "explanation": "Vencer à força ou superar um desafio.",
+        "examples": [
+            {
+                "en": "They conquered the city.",
+                "pt": "Eles conquistaram a cidade."
+            }
+        ]
+    },
+    "consecrate": {
+        "infinitive": "consecrate",
+        "translation": "consagrar",
+        "forms": {
+            "base": "consecrate",
+            "pastSimple": "consecrated",
+            "pastParticiple": "consecrated",
+            "presentParticiple": "consecrating",
+            "thirdPerson": "consecrates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bless",
+            "sanctify"
+        ],
+        "explanation": "Tornar ou declarar sagrado.",
+        "examples": [
+            {
+                "en": "The church was consecrated.",
+                "pt": "A igreja foi consagrada."
+            }
+        ]
+    },
+    "consent": {
+        "infinitive": "consent",
+        "translation": "consentir",
+        "forms": {
+            "base": "consent",
+            "pastSimple": "consented",
+            "pastParticiple": "consented",
+            "presentParticiple": "consenting",
+            "thirdPerson": "consents"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "agree",
+            "permit"
+        ],
+        "explanation": "Dar permissão ou concordar.",
+        "examples": [
+            {
+                "en": "She consented to the marriage.",
+                "pt": "Ela consentiu com o casamento."
+            }
+        ]
+    },
+    "conserve": {
+        "infinitive": "conserve",
+        "translation": "conservar",
+        "forms": {
+            "base": "conserve",
+            "pastSimple": "conserved",
+            "pastParticiple": "conserved",
+            "presentParticiple": "conserving",
+            "thirdPerson": "conserves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "preserve",
+            "save"
+        ],
+        "explanation": "Proteger de perda ou desperdício.",
+        "examples": [
+            {
+                "en": "Conserve water.",
+                "pt": "Conserve água."
+            }
+        ]
+    },
+    "consider": {
+        "infinitive": "consider",
+        "translation": "considerar",
+        "forms": {
+            "base": "consider",
+            "pastSimple": "considered",
+            "pastParticiple": "considered",
+            "presentParticiple": "considering",
+            "thirdPerson": "considers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "think about",
+            "regard"
+        ],
+        "explanation": "Pensar cuidadosamente sobre algo antes de decidir.",
+        "examples": [
+            {
+                "en": "We are considering moving.",
+                "pt": "Estamos considerando nos mudar."
+            }
+        ]
+    },
+    "consist": {
+        "infinitive": "consist",
+        "translation": "consistir",
+        "forms": {
+            "base": "consist",
+            "pastSimple": "consisted",
+            "pastParticiple": "consisted",
+            "presentParticiple": "consisting",
+            "thirdPerson": "consists"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "comprise"
+        ],
+        "explanation": "Ser formado ou composto por.",
+        "examples": [
+            {
+                "en": "The team consists of five members.",
+                "pt": "O time consiste em cinco membros."
+            }
+        ]
+    },
+    "console": {
+        "infinitive": "console",
+        "translation": "consolar",
+        "forms": {
+            "base": "console",
+            "pastSimple": "consoled",
+            "pastParticiple": "consoled",
+            "presentParticiple": "consoling",
+            "thirdPerson": "consoles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "comfort",
+            "soothe"
+        ],
+        "explanation": "Confortar alguém que está triste.",
+        "examples": [
+            {
+                "en": "She consoled her friend.",
+                "pt": "Ela consolou a amiga."
+            }
+        ]
+    },
+    "construct": {
+        "infinitive": "construct",
+        "translation": "construir",
+        "forms": {
+            "base": "construct",
+            "pastSimple": "constructed",
+            "pastParticiple": "constructed",
+            "presentParticiple": "constructing",
+            "thirdPerson": "constructs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "build",
+            "assemble"
+        ],
+        "explanation": "Edificar ou montar algo.",
+        "examples": [
+            {
+                "en": "They constructed a bridge.",
+                "pt": "Eles construíram uma ponte."
+            }
+        ]
+    },
+    "consume": {
+        "infinitive": "consume",
+        "translation": "consumir",
+        "forms": {
+            "base": "consume",
+            "pastSimple": "consumed",
+            "pastParticiple": "consumed",
+            "presentParticiple": "consuming",
+            "thirdPerson": "consumes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "eat",
+            "use"
+        ],
+        "explanation": "Comer, beber ou usar algo.",
+        "examples": [
+            {
+                "en": "The fire consumed the wood.",
+                "pt": "O fogo consumiu a madeira."
+            }
+        ]
+    },
+    "contact": {
+        "infinitive": "contact",
+        "translation": "contatar",
+        "forms": {
+            "base": "contact",
+            "pastSimple": "contacted",
+            "pastParticiple": "contacted",
+            "presentParticiple": "contacting",
+            "thirdPerson": "contacts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "reach",
+            "communicate"
+        ],
+        "explanation": "Comunicar-se com alguém.",
+        "examples": [
+            {
+                "en": "Contact me later.",
+                "pt": "Me contate mais tarde."
+            }
+        ]
+    },
+    "contain": {
+        "infinitive": "contain",
+        "translation": "conter",
+        "forms": {
+            "base": "contain",
+            "pastSimple": "contained",
+            "pastParticiple": "contained",
+            "presentParticiple": "containing",
+            "thirdPerson": "contains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hold",
+            "include"
+        ],
+        "explanation": "Ter algo dentro de si.",
+        "examples": [
+            {
+                "en": "This box contains books.",
+                "pt": "Esta caixa contém livros."
+            }
+        ]
+    },
+    "contest": {
+        "infinitive": "contest",
+        "translation": "contestar, disputar",
+        "forms": {
+            "base": "contest",
+            "pastSimple": "contested",
+            "pastParticiple": "contested",
+            "presentParticiple": "contesting",
+            "thirdPerson": "contests"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "challenge",
+            "dispute"
+        ],
+        "explanation": "Opor-se a uma decisão ou competir por algo.",
+        "examples": [
+            {
+                "en": "He contested the election.",
+                "pt": "Ele contestou a eleição."
+            }
+        ]
+    },
+    "continue": {
+        "infinitive": "continue",
+        "translation": "continuar",
+        "forms": {
+            "base": "continue",
+            "pastSimple": "continued",
+            "pastParticiple": "continued",
+            "presentParticiple": "continuing",
+            "thirdPerson": "continues"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "keep going",
+            "proceed"
+        ],
+        "explanation": "Não parar, seguir fazendo algo.",
+        "examples": [
+            {
+                "en": "Please continue.",
+                "pt": "Por favor, continue."
+            }
+        ]
+    },
+    "contract": {
+        "infinitive": "contract",
+        "translation": "contrair",
+        "forms": {
+            "base": "contract",
+            "pastSimple": "contracted",
+            "pastParticiple": "contracted",
+            "presentParticiple": "contracting",
+            "thirdPerson": "contracts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shrink",
+            "tighten"
+        ],
+        "explanation": "Tornar-se menor ou adquirir uma doença.",
+        "examples": [
+            {
+                "en": "Metal contracts when cooled.",
+                "pt": "Metal contrai quando resfriado."
+            }
+        ]
+    },
+    "contrast": {
+        "infinitive": "contrast",
+        "translation": "contrastar",
+        "forms": {
+            "base": "contrast",
+            "pastSimple": "contrasted",
+            "pastParticiple": "contrasted",
+            "presentParticiple": "contrasting",
+            "thirdPerson": "contrasts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "differ"
+        ],
+        "explanation": "Mostrar diferenças quando comparado.",
+        "examples": [
+            {
+                "en": "This contrasts with that.",
+                "pt": "Isso contrasta com aquilo."
+            }
+        ]
+    },
+    "control": {
+        "infinitive": "control",
+        "translation": "controlar",
+        "forms": {
+            "base": "control",
+            "pastSimple": "controlled",
+            "pastParticiple": "controlled",
+            "presentParticiple": "controlling",
+            "thirdPerson": "controls"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "manage",
+            "direct"
+        ],
+        "explanation": "Ter poder sobre algo ou alguém.",
+        "examples": [
+            {
+                "en": "He can't control his anger.",
+                "pt": "Ele não consegue controlar sua raiva."
+            }
+        ]
+    },
+    "convey": {
+        "infinitive": "convey",
+        "translation": "transmitir, transportar",
+        "forms": {
+            "base": "convey",
+            "pastSimple": "conveyed",
+            "pastParticiple": "conveyed",
+            "presentParticiple": "conveying",
+            "thirdPerson": "conveys"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "communicate",
+            "transport"
+        ],
+        "explanation": "Expressar um pensamento ou levar algo a algum lugar.",
+        "examples": [
+            {
+                "en": "Convey my greetings.",
+                "pt": "Transmita meus cumprimentos."
+            }
+        ]
+    },
+    "cook": {
+        "infinitive": "cook",
+        "translation": "cozinhar",
+        "forms": {
+            "base": "cook",
+            "pastSimple": "cooked",
+            "pastParticiple": "cooked",
+            "presentParticiple": "cooking",
+            "thirdPerson": "cooks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "cooking"
+        ],
+        "related": [
+            "prepare",
+            "make"
+        ],
+        "explanation": "Preparar comida usando calor.",
+        "examples": [
+            {
+                "en": "Who cooked dinner?",
+                "pt": "Quem cozinhou o jantar?"
+            }
+        ]
+    },
+    "cool": {
+        "infinitive": "cool",
+        "translation": "esfriar",
+        "forms": {
+            "base": "cool",
+            "pastSimple": "cooled",
+            "pastParticiple": "cooled",
+            "presentParticiple": "cooling",
+            "thirdPerson": "cools"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "chill"
+        ],
+        "explanation": "Tornar-se menos quente.",
+        "examples": [
+            {
+                "en": "Let the soup cool down.",
+                "pt": "Deixe a sopa esfriar."
+            }
+        ]
+    },
+    "copy": {
+        "infinitive": "copy",
+        "translation": "copiar",
+        "forms": {
+            "base": "copy",
+            "pastSimple": "copied",
+            "pastParticiple": "copied",
+            "presentParticiple": "copying",
+            "thirdPerson": "copies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "duplicate",
+            "imitate"
+        ],
+        "explanation": "Fazer algo igual a outra coisa.",
+        "examples": [
+            {
+                "en": "Don't copy my homework.",
+                "pt": "Não copie minha lição de casa."
+            }
+        ]
+    },
+    "correct": {
+        "infinitive": "correct",
+        "translation": "corrigir",
+        "forms": {
+            "base": "correct",
+            "pastSimple": "corrected",
+            "pastParticiple": "corrected",
+            "presentParticiple": "correcting",
+            "thirdPerson": "corrects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fix",
+            "rectify"
+        ],
+        "explanation": "Consertar erros.",
+        "examples": [
+            {
+                "en": "The teacher corrected the tests.",
+                "pt": "O professor corrigiu as provas."
+            }
+        ]
+    },
+    "cost": {
+        "infinitive": "cost",
+        "translation": "custar",
+        "forms": {
+            "base": "cost",
+            "pastSimple": "cost",
+            "pastParticiple": "cost",
+            "presentParticiple": "costing",
+            "thirdPerson": "costs"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "price"
+        ],
+        "explanation": "Ter um preço específico.",
+        "examples": [
+            {
+                "en": "How much does it cost?",
+                "pt": "Quanto custa?"
+            }
+        ]
+    },
+    "cough": {
+        "infinitive": "cough",
+        "translation": "tossir",
+        "forms": {
+            "base": "cough",
+            "pastSimple": "coughed",
+            "pastParticiple": "coughed",
+            "presentParticiple": "coughing",
+            "thirdPerson": "coughs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "health"
+        ],
+        "related": [],
+        "explanation": "Expulsar ar dos pulmões com barulho (por doença ou engasgo).",
+        "examples": [
+            {
+                "en": "He has been coughing all day.",
+                "pt": "Ele tem tossido o dia todo."
+            }
+        ]
+    },
+    "cough up": {
+        "infinitive": "cough up",
+        "translation": "expectorar, pagar (gíria)",
+        "forms": {
+            "base": "cough up",
+            "pastSimple": "coughed up",
+            "pastParticiple": "coughed up",
+            "presentParticiple": "coughing up",
+            "thirdPerson": "coughs up"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "expectorate"
+        ],
+        "explanation": "Expelir tossindo ou ser forçado a dar dinheiro.",
+        "examples": [
+            {
+                "en": "Cough up the money.",
+                "pt": "Desembolse o dinheiro."
+            }
+        ]
+    },
+    "count": {
+        "infinitive": "count",
+        "translation": "contar",
+        "forms": {
+            "base": "count",
+            "pastSimple": "counted",
+            "pastParticiple": "counted",
+            "presentParticiple": "counting",
+            "thirdPerson": "counts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "math"
+        ],
+        "related": [
+            "tally",
+            "matter"
+        ],
+        "explanation": "Calcular números ou ser importante ('that counts').",
+        "examples": [
+            {
+                "en": "Count to ten.",
+                "pt": "Conte até dez."
+            },
+            {
+                "en": "Every vote counts.",
+                "pt": "Cada voto conta (importa)."
+            }
+        ]
+    },
+    "cover": {
+        "infinitive": "cover",
+        "translation": "cobrir",
+        "forms": {
+            "base": "cover",
+            "pastSimple": "covered",
+            "pastParticiple": "covered",
+            "presentParticiple": "covering",
+            "thirdPerson": "covers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hide",
+            "wrap"
+        ],
+        "explanation": "Colocar algo sobre outra coisa para proteger ou esconder.",
+        "examples": [
+            {
+                "en": "Cover the pot.",
+                "pt": "Cubra a panela."
+            }
+        ]
+    },
+    "crack": {
+        "infinitive": "crack",
+        "translation": "rachar",
+        "forms": {
+            "base": "crack",
+            "pastSimple": "cracked",
+            "pastParticiple": "cracked",
+            "presentParticiple": "cracking",
+            "thirdPerson": "cracks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fracture",
+            "break"
+        ],
+        "explanation": "Quebrar sem separar em pedaços.",
+        "examples": [
+            {
+                "en": "The ice cracked.",
+                "pt": "O gelo rachou."
+            }
+        ]
+    },
+    "cram": {
+        "infinitive": "cram",
+        "translation": "entulhar, estudar muito",
+        "forms": {
+            "base": "cram",
+            "pastSimple": "crammed",
+            "pastParticiple": "crammed",
+            "presentParticiple": "cramming",
+            "thirdPerson": "crams"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stuff",
+            "study"
+        ],
+        "explanation": "Encher em excesso ou estudar intensamente em pouco tempo.",
+        "examples": [
+            {
+                "en": "He crammed for the exam.",
+                "pt": "Ele estudou muito para a prova."
+            }
+        ]
+    },
+    "crash": {
+        "infinitive": "crash",
+        "translation": "bater, travar (computador)",
+        "forms": {
+            "base": "crash",
+            "pastSimple": "crashed",
+            "pastParticiple": "crashed",
+            "presentParticiple": "crashing",
+            "thirdPerson": "crashes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "collide",
+            "break down"
+        ],
+        "explanation": "Bater violentamente ou parar de funcionar (software).",
+        "examples": [
+            {
+                "en": "The car crashed into a tree.",
+                "pt": "O carro bateu (colidiu) numa árvore."
+            },
+            {
+                "en": "My computer crashed.",
+                "pt": "Meu computador travou."
+            }
+        ]
+    },
+    "crave": {
+        "infinitive": "crave",
+        "translation": "desejar intensamente, ansiar",
+        "forms": {
+            "base": "crave",
+            "pastSimple": "craved",
+            "pastParticiple": "craved",
+            "presentParticiple": "craving",
+            "thirdPerson": "craves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "desire",
+            "long for"
+        ],
+        "explanation": "Ter um desejo muito forte por algo (comida, atenção).",
+        "examples": [
+            {
+                "en": "She craves chocolate.",
+                "pt": "Ela deseja muito chocolate."
+            }
+        ]
+    },
+    "crawl": {
+        "infinitive": "crawl",
+        "translation": "rastejar, engatinhar",
+        "forms": {
+            "base": "crawl",
+            "pastSimple": "crawled",
+            "pastParticiple": "crawled",
+            "presentParticiple": "crawling",
+            "thirdPerson": "crawls"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "creep"
+        ],
+        "explanation": "Mover-se no chão sobre mãos e joelhos.",
+        "examples": [
+            {
+                "en": "The baby is crawling.",
+                "pt": "O bebê está engatinhando."
+            }
+        ]
+    },
+    "creak": {
+        "infinitive": "creak",
+        "translation": "ranger",
+        "forms": {
+            "base": "creak",
+            "pastSimple": "creaked",
+            "pastParticiple": "creaked",
+            "presentParticiple": "creaking",
+            "thirdPerson": "creaks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "squeak"
+        ],
+        "explanation": "Fazer um som agudo e áspero.",
+        "examples": [
+            {
+                "en": "The floorboards creaked.",
+                "pt": "O assoalho rangeu."
+            }
+        ]
+    },
+    "crease": {
+        "infinitive": "crease",
+        "translation": "vincar, amassar",
+        "forms": {
+            "base": "crease",
+            "pastSimple": "creased",
+            "pastParticiple": "creased",
+            "presentParticiple": "creasing",
+            "thirdPerson": "creases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wrinkle",
+            "fold"
+        ],
+        "explanation": "Fazer uma linha ou dobra em papel ou tecido.",
+        "examples": [
+            {
+                "en": "The paper creased.",
+                "pt": "O papel vincou."
+            }
+        ]
+    },
+    "create": {
+        "infinitive": "create",
+        "translation": "criar",
+        "forms": {
+            "base": "create",
+            "pastSimple": "created",
+            "pastParticiple": "created",
+            "presentParticiple": "creating",
+            "thirdPerson": "creates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "make",
+            "invent"
+        ],
+        "explanation": "Fazer algo novo existir.",
+        "examples": [
+            {
+                "en": "God created the world.",
+                "pt": "Deus criou o mundo."
+            }
+        ]
+    },
+    "creep": {
+        "infinitive": "creep",
+        "translation": "rastejar, andar sorrateiramente",
+        "forms": {
+            "base": "creep",
+            "pastSimple": "crept",
+            "pastParticiple": "crept",
+            "presentParticiple": "creeping",
+            "thirdPerson": "creeps"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "sneak",
+            "crawl"
+        ],
+        "explanation": "Mover-se silenciosa e lentamente para não ser notado.",
+        "examples": [
+            {
+                "en": "The cat crept closer.",
+                "pt": "O gato se aproximou sorrateiramente."
+            }
+        ]
+    },
+    "cross": {
+        "infinitive": "cross",
+        "translation": "atravessar, cruzar",
+        "forms": {
+            "base": "cross",
+            "pastSimple": "crossed",
+            "pastParticiple": "crossed",
+            "presentParticiple": "crossing",
+            "thirdPerson": "crosses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "go across"
+        ],
+        "explanation": "Ir de um lado para o outro.",
+        "examples": [
+            {
+                "en": "Cross the street carefully.",
+                "pt": "Atravesse a rua com cuidado."
+            }
+        ]
+    },
+    "crunch": {
+        "infinitive": "crunch",
+        "translation": "mastigar barulhentamente",
+        "forms": {
+            "base": "crunch",
+            "pastSimple": "crunched",
+            "pastParticiple": "crunched",
+            "presentParticiple": "crunching",
+            "thirdPerson": "crunches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "munch",
+            "chew"
+        ],
+        "explanation": "Fazer barulho ao morder algo duro.",
+        "examples": [
+            {
+                "en": "Crunch the carrot.",
+                "pt": "Crocante a cenoura."
+            }
+        ]
+    },
+    "crush": {
+        "infinitive": "crush",
+        "translation": "esmagar, triturar",
+        "forms": {
+            "base": "crush",
+            "pastSimple": "crushed",
+            "pastParticiple": "crushed",
+            "presentParticiple": "crushing",
+            "thirdPerson": "crushes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "smash",
+            "squash"
+        ],
+        "explanation": "Apertar algo até quebrar ou perder a forma.",
+        "examples": [
+            {
+                "en": "He crushed the can.",
+                "pt": "Ele esmagou a lata."
+            }
+        ]
+    },
+    "cry": {
+        "infinitive": "cry",
+        "translation": "chorar, gritar",
+        "forms": {
+            "base": "cry",
+            "pastSimple": "cried",
+            "pastParticiple": "cried",
+            "presentParticiple": "crying",
+            "thirdPerson": "cries"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "weep",
+            "shout"
+        ],
+        "explanation": "Derramar lágrimas (tristeza) ou gritar alto.",
+        "examples": [
+            {
+                "en": "Don't cry.",
+                "pt": "Não chore."
+            },
+            {
+                "en": "He cried out for help.",
+                "pt": "Ele gritou por socorro."
+            }
+        ]
+    },
+    "cultivate": {
+        "infinitive": "cultivate",
+        "translation": "cultivar",
+        "forms": {
+            "base": "cultivate",
+            "pastSimple": "cultivated",
+            "pastParticiple": "cultivated",
+            "presentParticiple": "cultivating",
+            "thirdPerson": "cultivates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "grow",
+            "farm"
+        ],
+        "explanation": "Preparar a terra para plantio ou desenvolver uma habilidade.",
+        "examples": [
+            {
+                "en": "Cultivate the garden.",
+                "pt": "Cultive o jardim."
+            }
+        ]
+    },
+    "cure": {
+        "infinitive": "cure",
+        "translation": "curar",
+        "forms": {
+            "base": "cure",
+            "pastSimple": "cured",
+            "pastParticiple": "cured",
+            "presentParticiple": "curing",
+            "thirdPerson": "cures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "health"
+        ],
+        "related": [
+            "heal"
+        ],
+        "explanation": "Fazer uma doença desaparecer.",
+        "examples": [
+            {
+                "en": "Doctors want to cure cancer.",
+                "pt": "Médicos querem curar o câncer."
+            }
+        ]
+    },
+    "curl": {
+        "infinitive": "curl",
+        "translation": "enrolar, encaracolar",
+        "forms": {
+            "base": "curl",
+            "pastSimple": "curled",
+            "pastParticiple": "curled",
+            "presentParticiple": "curling",
+            "thirdPerson": "curls"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "twist"
+        ],
+        "explanation": "Dar forma curva ou espiral (cabelo, papel).",
+        "examples": [
+            {
+                "en": "She curled her hair.",
+                "pt": "Ela enrolou o cabelo."
+            }
+        ]
+    },
+    "curse": {
+        "infinitive": "curse",
+        "translation": "amaldiçoar, xingar",
+        "forms": {
+            "base": "curse",
+            "pastSimple": "cursed",
+            "pastParticiple": "cursed",
+            "presentParticiple": "cursing",
+            "thirdPerson": "curses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "swear",
+            "damn"
+        ],
+        "explanation": "Usar linguagem ofensiva ou desejar mal a alguém.",
+        "examples": [
+            {
+                "en": "The witch cursed him.",
+                "pt": "A bruxa o amaldiçoou."
+            }
+        ]
+    },
+    "curve": {
+        "infinitive": "curve",
+        "translation": "curvar",
+        "forms": {
+            "base": "curve",
+            "pastSimple": "curved",
+            "pastParticiple": "curved",
+            "presentParticiple": "curving",
+            "thirdPerson": "curves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bend"
+        ],
+        "explanation": "Formar uma linha não reta.",
+        "examples": [
+            {
+                "en": "The road curves to the left.",
+                "pt": "A estrada curva para a esquerda."
+            }
+        ]
+    },
+    "cut": {
+        "infinitive": "cut",
+        "translation": "cortar",
+        "forms": {
+            "base": "cut",
+            "pastSimple": "cut",
+            "pastParticiple": "cut",
+            "presentParticiple": "cutting",
+            "thirdPerson": "cuts"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "slice",
+            "chop"
+        ],
+        "explanation": "Dividir algo usando faca ou tesoura.",
+        "examples": [
+            {
+                "en": "I cut my finger.",
+                "pt": "Cortei meu dedo."
+            },
+            {
+                "en": "Cut the paper in half.",
+                "pt": "Corte o papel ao meio."
+            }
+        ]
+    },
+    "cycle": {
+        "infinitive": "cycle",
+        "translation": "pedalar, andar de bicicleta",
+        "forms": {
+            "base": "cycle",
+            "pastSimple": "cycled",
+            "pastParticiple": "cycled",
+            "presentParticiple": "cycling",
+            "thirdPerson": "cycles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bike",
+            "ride"
+        ],
+        "explanation": "Andar de bicicleta.",
+        "examples": [
+            {
+                "en": "He cycles to work.",
+                "pt": "Ele vai de bicicleta para o trabalho."
+            }
+        ]
+    }
+}

@@ -1,0 +1,1137 @@
+{
+    "magnify": {
+        "infinitive": "magnify",
+        "translation": "magnificar, ampliar",
+        "forms": {
+            "base": "magnify",
+            "pastSimple": "magnified",
+            "pastParticiple": "magnified",
+            "presentParticiple": "magnifying",
+            "thirdPerson": "magnifies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "enlarge"
+        ],
+        "explanation": "Fazer algo parecer maior com lentes.",
+        "examples": [
+            {
+                "en": "The lens magnified the ant.",
+                "pt": "A lente ampliou a formiga."
+            }
+        ]
+    },
+    "mail": {
+        "infinitive": "mail",
+        "translation": "enviar pelo correio",
+        "forms": {
+            "base": "mail",
+            "pastSimple": "mailed",
+            "pastParticiple": "mailed",
+            "presentParticiple": "mailing",
+            "thirdPerson": "mails"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "post",
+            "send"
+        ],
+        "explanation": "Enviar carta ou pacote.",
+        "examples": [
+            {
+                "en": "Mail the letter.",
+                "pt": "Envie a carta."
+            }
+        ]
+    },
+    "make": {
+        "infinitive": "make",
+        "translation": "fazer",
+        "forms": {
+            "base": "make",
+            "pastSimple": "made",
+            "pastParticiple": "made",
+            "presentParticiple": "making",
+            "thirdPerson": "makes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "create",
+            "build"
+        ],
+        "explanation": "Criar ou produzir algo ('make a cake'). Diferente de 'Do' (fazer/ação).",
+        "examples": [
+            {
+                "en": "She made a cake.",
+                "pt": "Ela fez um bolo."
+            },
+            {
+                "en": "Make a wish.",
+                "pt": "Faça um pedido."
+            }
+        ]
+    },
+    "make sure": {
+        "infinitive": "make sure",
+        "translation": "certificar-se",
+        "forms": {
+            "base": "make sure",
+            "pastSimple": "made sure",
+            "pastParticiple": "made sure",
+            "presentParticiple": "making sure",
+            "thirdPerson": "makes sure"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "ensure",
+            "verify"
+        ],
+        "explanation": "Garantir que algo seja feito.",
+        "examples": [
+            {
+                "en": "Make sure to lock the door.",
+                "pt": "Certifique-se de trancar a porta."
+            }
+        ]
+    },
+    "manage": {
+        "infinitive": "manage",
+        "translation": "gerenciar, conseguir",
+        "forms": {
+            "base": "manage",
+            "pastSimple": "managed",
+            "pastParticiple": "managed",
+            "presentParticiple": "managing",
+            "thirdPerson": "manages"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "control",
+            "handle"
+        ],
+        "explanation": "Estar no comando ou ter sucesso em fazer algo difícil.",
+        "examples": [
+            {
+                "en": "He manages the store.",
+                "pt": "Ele gerencia a loja."
+            },
+            {
+                "en": "I managed to finish it.",
+                "pt": "Eu consegui terminar."
+            }
+        ]
+    },
+    "march": {
+        "infinitive": "march",
+        "translation": "marchar",
+        "forms": {
+            "base": "march",
+            "pastSimple": "marched",
+            "pastParticiple": "marched",
+            "presentParticiple": "marching",
+            "thirdPerson": "marches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "walk"
+        ],
+        "explanation": "Caminhar com passos regulares parecidos com soldados.",
+        "examples": [
+            {
+                "en": "The soldiers marched.",
+                "pt": "Os soldados marcharam."
+            }
+        ]
+    },
+    "mark": {
+        "infinitive": "mark",
+        "translation": "marcar",
+        "forms": {
+            "base": "mark",
+            "pastSimple": "marked",
+            "pastParticiple": "marked",
+            "presentParticiple": "marking",
+            "thirdPerson": "marks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "indicate"
+        ],
+        "explanation": "Fazer um sinal ou corrigir (provas).",
+        "examples": [
+            {
+                "en": "Mark the date.",
+                "pt": "Marque a data."
+            }
+        ]
+    },
+    "marry": {
+        "infinitive": "marry",
+        "translation": "casar",
+        "forms": {
+            "base": "marry",
+            "pastSimple": "married",
+            "pastParticiple": "married",
+            "presentParticiple": "marrying",
+            "thirdPerson": "marries"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "wed"
+        ],
+        "explanation": "Tornar-se marido ou mulher de alguém.",
+        "examples": [
+            {
+                "en": "Will you marry me?",
+                "pt": "Quer casar comigo?"
+            }
+        ]
+    },
+    "match": {
+        "infinitive": "match",
+        "translation": "combinar",
+        "forms": {
+            "base": "match",
+            "pastSimple": "matched",
+            "pastParticiple": "matched",
+            "presentParticiple": "matching",
+            "thirdPerson": "matches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "suit"
+        ],
+        "explanation": "Ser igual ou ficar bem junto.",
+        "examples": [
+            {
+                "en": "These shoes match your bag.",
+                "pt": "Esses sapatos combinam com sua bolsa."
+            }
+        ]
+    },
+    "matter": {
+        "infinitive": "matter",
+        "translation": "importar",
+        "forms": {
+            "base": "matter",
+            "pastSimple": "mattered",
+            "pastParticiple": "mattered",
+            "presentParticiple": "mattering",
+            "thirdPerson": "matters"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "count"
+        ],
+        "explanation": "Ser importante.",
+        "examples": [
+            {
+                "en": "It doesn't matter.",
+                "pt": "Não importa."
+            }
+        ]
+    },
+    "mean": {
+        "infinitive": "mean",
+        "translation": "significar, querer dizer",
+        "forms": {
+            "base": "mean",
+            "pastSimple": "meant",
+            "pastParticiple": "meant",
+            "presentParticiple": "meaning",
+            "thirdPerson": "means"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "signify"
+        ],
+        "explanation": "Ter um significado ou intenção.",
+        "examples": [
+            {
+                "en": "What do you mean?",
+                "pt": "O que você quer dizer?"
+            },
+            {
+                "en": "I didn't mean to hurt you.",
+                "pt": "Não tive a intenção de te machucar."
+            }
+        ]
+    },
+    "measure": {
+        "infinitive": "measure",
+        "translation": "medir",
+        "forms": {
+            "base": "measure",
+            "pastSimple": "measured",
+            "pastParticiple": "measured",
+            "presentParticiple": "measuring",
+            "thirdPerson": "measures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "gauge"
+        ],
+        "explanation": "Descobrir o tamanho ou quantidade.",
+        "examples": [
+            {
+                "en": "Measure the room.",
+                "pt": "Meça o quarto."
+            }
+        ]
+    },
+    "meddle": {
+        "infinitive": "meddle",
+        "translation": "intrometer-se",
+        "forms": {
+            "base": "meddle",
+            "pastSimple": "meddled",
+            "pastParticiple": "meddled",
+            "presentParticiple": "meddling",
+            "thirdPerson": "meddles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "interfere"
+        ],
+        "explanation": "Interferir em assuntos alheios.",
+        "examples": [
+            {
+                "en": "Don't meddle in my life.",
+                "pt": "Não se intrometa na minha vida."
+            }
+        ]
+    },
+    "meet": {
+        "infinitive": "meet",
+        "translation": "encontrar, conhecer",
+        "forms": {
+            "base": "meet",
+            "pastSimple": "met",
+            "pastParticiple": "met",
+            "presentParticiple": "meeting",
+            "thirdPerson": "meets"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "encounter"
+        ],
+        "explanation": "Ver alguém (encontrar) ou ser apresentado pela 1ª vez (conhecer).",
+        "examples": [
+            {
+                "en": "Nice to meet you.",
+                "pt": "Prazer em conhecê-lo."
+            },
+            {
+                "en": "Let's meet at 5.",
+                "pt": "Vamos nos encontrar às 5."
+            }
+        ]
+    },
+    "melt": {
+        "infinitive": "melt",
+        "translation": "derreter",
+        "forms": {
+            "base": "melt",
+            "pastSimple": "melted",
+            "pastParticiple": "melted",
+            "presentParticiple": "melting",
+            "thirdPerson": "melts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "thaw"
+        ],
+        "explanation": "Tornar-se líquido pelo calor.",
+        "examples": [
+            {
+                "en": "The ice melted.",
+                "pt": "O gelo derreteu."
+            }
+        ]
+    },
+    "memorize": {
+        "infinitive": "memorize",
+        "translation": "memorizar",
+        "forms": {
+            "base": "memorize",
+            "pastSimple": "memorized",
+            "pastParticiple": "memorized",
+            "presentParticiple": "memorizing",
+            "thirdPerson": "memorizes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "remember"
+        ],
+        "explanation": "Aprender algo para lembrar exatamente.",
+        "examples": [
+            {
+                "en": "Memorize these words.",
+                "pt": "Memorize estas palavras."
+            }
+        ]
+    },
+    "mend": {
+        "infinitive": "mend",
+        "translation": "consertar",
+        "forms": {
+            "base": "mend",
+            "pastSimple": "mended",
+            "pastParticiple": "mended",
+            "presentParticiple": "mending",
+            "thirdPerson": "mends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "repair",
+            "fix"
+        ],
+        "explanation": "Reparar algo quebrado (roupas, relações).",
+        "examples": [
+            {
+                "en": "Mend the clothes.",
+                "pt": "Conserte as roupas."
+            }
+        ]
+    },
+    "mention": {
+        "infinitive": "mention",
+        "translation": "mencionar",
+        "forms": {
+            "base": "mention",
+            "pastSimple": "mentioned",
+            "pastParticiple": "mentioned",
+            "presentParticiple": "mentioning",
+            "thirdPerson": "mentions"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "say"
+        ],
+        "explanation": "Falar brevemente sobre algo.",
+        "examples": [
+            {
+                "en": "Did he mention me?",
+                "pt": "Ele me mencionou?"
+            }
+        ]
+    },
+    "merge": {
+        "infinitive": "merge",
+        "translation": "fundir, mesclar",
+        "forms": {
+            "base": "merge",
+            "pastSimple": "merged",
+            "pastParticiple": "merged",
+            "presentParticiple": "merging",
+            "thirdPerson": "merges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "combine",
+            "unite"
+        ],
+        "explanation": "Juntar duas coisas em uma.",
+        "examples": [
+            {
+                "en": "Merge the lanes.",
+                "pt": "Mescle as faixas."
+            }
+        ]
+    },
+    "merit": {
+        "infinitive": "merit",
+        "translation": "merecer",
+        "forms": {
+            "base": "merit",
+            "pastSimple": "merited",
+            "pastParticiple": "merited",
+            "presentParticiple": "meriting",
+            "thirdPerson": "merits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "deserve",
+            "earn"
+        ],
+        "explanation": "Ser digno de recompensa ou atenção.",
+        "examples": [
+            {
+                "en": "This merits further discussion.",
+                "pt": "Isso merece mais discussão."
+            }
+        ]
+    },
+    "message": {
+        "infinitive": "message",
+        "translation": "enviar mensagem",
+        "forms": {
+            "base": "message",
+            "pastSimple": "messaged",
+            "pastParticiple": "messaged",
+            "presentParticiple": "messaging",
+            "thirdPerson": "messages"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "text",
+            "contact"
+        ],
+        "explanation": "Enviar uma mensagem eletrônica.",
+        "examples": [
+            {
+                "en": "Message me later.",
+                "pt": "Me mande mensagem mais tarde."
+            }
+        ]
+    },
+    "mill": {
+        "infinitive": "mill",
+        "translation": "moer",
+        "forms": {
+            "base": "mill",
+            "pastSimple": "milled",
+            "pastParticiple": "milled",
+            "presentParticiple": "milling",
+            "thirdPerson": "mills"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "grind",
+            "crush"
+        ],
+        "explanation": "Triturar grãos em farinha.",
+        "examples": [
+            {
+                "en": "Mill the wheat.",
+                "pt": "Mora o trigo."
+            }
+        ]
+    },
+    "mimic": {
+        "infinitive": "mimic",
+        "translation": "imitar",
+        "forms": {
+            "base": "mimic",
+            "pastSimple": "mimicked",
+            "pastParticiple": "mimicked",
+            "presentParticiple": "mimicking",
+            "thirdPerson": "mimics"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "imitate",
+            "copy"
+        ],
+        "explanation": "Copiar ações ou voz.",
+        "examples": [
+            {
+                "en": "He mimicked her voice.",
+                "pt": "Ele imitou a voz dela."
+            }
+        ]
+    },
+    "mind": {
+        "infinitive": "mind",
+        "translation": "importar-se",
+        "forms": {
+            "base": "mind",
+            "pastSimple": "minded",
+            "pastParticiple": "minded",
+            "presentParticiple": "minding",
+            "thirdPerson": "minds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "care"
+        ],
+        "explanation": "Estar incomodado ou preocupado com algo.",
+        "examples": [
+            {
+                "en": "I don't mind.",
+                "pt": "Eu não me importo."
+            },
+            {
+                "en": "Mind the gap.",
+                "pt": "Cuidado com o vão (atenção)."
+            }
+        ]
+    },
+    "mirror": {
+        "infinitive": "mirror",
+        "translation": "refletir, espelhar",
+        "forms": {
+            "base": "mirror",
+            "pastSimple": "mirrored",
+            "pastParticiple": "mirrored",
+            "presentParticiple": "mirroring",
+            "thirdPerson": "mirrors"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "reflect"
+        ],
+        "explanation": "Refletir como um espelho.",
+        "examples": [
+            {
+                "en": "The lake mirrored the sky.",
+                "pt": "O lago espelhou o céu."
+            }
+        ]
+    },
+    "misplace": {
+        "infinitive": "misplace",
+        "translation": "perder (temporariamente)",
+        "forms": {
+            "base": "misplace",
+            "pastSimple": "misplaced",
+            "pastParticiple": "misplaced",
+            "presentParticiple": "misplacing",
+            "thirdPerson": "misplaces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "lose"
+        ],
+        "explanation": "Colocar algo em lugar errado e esquecer onde.",
+        "examples": [
+            {
+                "en": "I misplaced my keys.",
+                "pt": "Perdi minhas chaves (não sei onde pus)."
+            }
+        ]
+    },
+    "miss": {
+        "infinitive": "miss",
+        "translation": "sentir falta, perder",
+        "forms": {
+            "base": "miss",
+            "pastSimple": "missed",
+            "pastParticiple": "missed",
+            "presentParticiple": "missing",
+            "thirdPerson": "misses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "lose"
+        ],
+        "explanation": "Sentir saudade de alguém ou não acertar/pegar algo (ônibus, alvo).",
+        "examples": [
+            {
+                "en": "I miss you.",
+                "pt": "Sinto sua falta."
+            },
+            {
+                "en": "I missed the bus.",
+                "pt": "Perdi o ônibus."
+            }
+        ]
+    },
+    "mistake": {
+        "infinitive": "mistake",
+        "translation": "confundir",
+        "forms": {
+            "base": "mistake",
+            "pastSimple": "mistook",
+            "pastParticiple": "mistaken",
+            "presentParticiple": "mistaking",
+            "thirdPerson": "mistakes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "confuse"
+        ],
+        "explanation": "Pensar errado que alguém é outra pessoa.",
+        "examples": [
+            {
+                "en": "I mistook him for his brother.",
+                "pt": "Confundi ele com o irmão dele."
+            }
+        ]
+    },
+    "mistreat": {
+        "infinitive": "mistreat",
+        "translation": "maltratar",
+        "forms": {
+            "base": "mistreat",
+            "pastSimple": "mistreated",
+            "pastParticiple": "mistreated",
+            "presentParticiple": "mistreating",
+            "thirdPerson": "mistreats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "abuse",
+            "harm"
+        ],
+        "explanation": "Tratar alguém mal ou com crueldade.",
+        "examples": [
+            {
+                "en": "Don't mistreat animals.",
+                "pt": "Não maltrate animais."
+            }
+        ]
+    },
+    "mix": {
+        "infinitive": "mix",
+        "translation": "misturar",
+        "forms": {
+            "base": "mix",
+            "pastSimple": "mixed",
+            "pastParticiple": "mixed",
+            "presentParticiple": "mixing",
+            "thirdPerson": "mixes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "blend",
+            "stir"
+        ],
+        "explanation": "Combinar coisas.",
+        "examples": [
+            {
+                "en": "Mix the ingredients.",
+                "pt": "Misture os ingredientes."
+            }
+        ]
+    },
+    "mix up": {
+        "infinitive": "mix up",
+        "translation": "confundir, misturar",
+        "forms": {
+            "base": "mix up",
+            "pastSimple": "mixed up",
+            "pastParticiple": "mixed up",
+            "presentParticiple": "mixing up",
+            "thirdPerson": "mixes up"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "confuse",
+            "jumble"
+        ],
+        "explanation": "Confundir coisas ou pessoas.",
+        "examples": [
+            {
+                "en": "I mixed up the dates.",
+                "pt": "Confundi as datas."
+            }
+        ]
+    },
+    "moan": {
+        "infinitive": "moan",
+        "translation": "gemer",
+        "forms": {
+            "base": "moan",
+            "pastSimple": "moaned",
+            "pastParticiple": "moaned",
+            "presentParticiple": "moaning",
+            "thirdPerson": "moans"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "groan"
+        ],
+        "explanation": "Fazer som baixo de dor ou prazer.",
+        "examples": [
+            {
+                "en": "He moaned in pain.",
+                "pt": "Ele gemeu de dor."
+            }
+        ]
+    },
+    "mock": {
+        "infinitive": "mock",
+        "translation": "zombar",
+        "forms": {
+            "base": "mock",
+            "pastSimple": "mocked",
+            "pastParticiple": "mocked",
+            "presentParticiple": "mocking",
+            "thirdPerson": "mocks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "ridicule",
+            "tease"
+        ],
+        "explanation": "Rir de alguém de forma cruel.",
+        "examples": [
+            {
+                "en": "They mocked his shoes.",
+                "pt": "Eles zombaram dos sapatos dele."
+            }
+        ]
+    },
+    "modify": {
+        "infinitive": "modify",
+        "translation": "modificar",
+        "forms": {
+            "base": "modify",
+            "pastSimple": "modified",
+            "pastParticiple": "modified",
+            "presentParticiple": "modifying",
+            "thirdPerson": "modifies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "alter",
+            "change"
+        ],
+        "explanation": "Fazer pequenas mudanças.",
+        "examples": [
+            {
+                "en": "Modify the design.",
+                "pt": "Modifique o design."
+            }
+        ]
+    },
+    "moisten": {
+        "infinitive": "moisten",
+        "translation": "umedecer",
+        "forms": {
+            "base": "moisten",
+            "pastSimple": "moistened",
+            "pastParticiple": "moistened",
+            "presentParticiple": "moistening",
+            "thirdPerson": "moistens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dampen",
+            "wet"
+        ],
+        "explanation": "Tornar ligeiramente molhado.",
+        "examples": [
+            {
+                "en": "Moisten your lips.",
+                "pt": "Umedeça seus lábios."
+            }
+        ]
+    },
+    "mold": {
+        "infinitive": "mold",
+        "translation": "moldar",
+        "forms": {
+            "base": "mold",
+            "pastSimple": "molded",
+            "pastParticiple": "molded",
+            "presentParticiple": "molding",
+            "thirdPerson": "molds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shape",
+            "form"
+        ],
+        "explanation": "Dar forma a material macio.",
+        "examples": [
+            {
+                "en": "Mold the clay.",
+                "pt": "Molde a argila."
+            }
+        ]
+    },
+    "motivate": {
+        "infinitive": "motivate",
+        "translation": "motivar",
+        "forms": {
+            "base": "motivate",
+            "pastSimple": "motivated",
+            "pastParticiple": "motivated",
+            "presentParticiple": "motivating",
+            "thirdPerson": "motivates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "inspire",
+            "encourage"
+        ],
+        "explanation": "Dar motivo ou vontade para agir.",
+        "examples": [
+            {
+                "en": "Motivate your team.",
+                "pt": "Motive sua equipe."
+            }
+        ]
+    },
+    "move": {
+        "infinitive": "move",
+        "translation": "mover, mudar-se",
+        "forms": {
+            "base": "move",
+            "pastSimple": "moved",
+            "pastParticiple": "moved",
+            "presentParticiple": "moving",
+            "thirdPerson": "moves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "go"
+        ],
+        "explanation": "Mudar de posição ou trocar de casa.",
+        "examples": [
+            {
+                "en": "Move your car.",
+                "pt": "Mova seu carro."
+            },
+            {
+                "en": "I'm moving to London.",
+                "pt": "Estou me mudando para Londres."
+            }
+        ]
+    },
+    "multiply": {
+        "infinitive": "multiply",
+        "translation": "multiplicar",
+        "forms": {
+            "base": "multiply",
+            "pastSimple": "multiplied",
+            "pastParticiple": "multiplied",
+            "presentParticiple": "multiplying",
+            "thirdPerson": "multiplies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "increase"
+        ],
+        "explanation": "Aumentar em número.",
+        "examples": [
+            {
+                "en": "Rabbits multiply quickly.",
+                "pt": "Coelhos se multiplicam rápido."
+            }
+        ]
+    },
+    "munch": {
+        "infinitive": "munch",
+        "translation": "mastigar ruidosamente",
+        "forms": {
+            "base": "munch",
+            "pastSimple": "munched",
+            "pastParticiple": "munched",
+            "presentParticiple": "munching",
+            "thirdPerson": "munches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "chew",
+            "crunch"
+        ],
+        "explanation": "Comer fazendo barulho.",
+        "examples": [
+            {
+                "en": "Munching on chips.",
+                "pt": "Mastigando batatas."
+            }
+        ]
+    },
+    "murder": {
+        "infinitive": "murder",
+        "translation": "assassinar",
+        "forms": {
+            "base": "murder",
+            "pastSimple": "murdered",
+            "pastParticiple": "murdered",
+            "presentParticiple": "murdering",
+            "thirdPerson": "murders"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "kill"
+        ],
+        "explanation": "Matar alguém ilegalmente.",
+        "examples": [
+            {
+                "en": "He was murdered.",
+                "pt": "Ele foi assassinado."
+            }
+        ]
+    },
+    "murmur": {
+        "infinitive": "murmur",
+        "translation": "murmurar",
+        "forms": {
+            "base": "murmur",
+            "pastSimple": "murmured",
+            "pastParticiple": "murmured",
+            "presentParticiple": "murmuring",
+            "thirdPerson": "murmurs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "whisper",
+            "mutter"
+        ],
+        "explanation": "Dizer algo em voz muito baixa.",
+        "examples": [
+            {
+                "en": "He murmured a prayer.",
+                "pt": "Ele murmurou uma oração."
+            }
+        ]
+    },
+    "mutter": {
+        "infinitive": "mutter",
+        "translation": "resmungar",
+        "forms": {
+            "base": "mutter",
+            "pastSimple": "muttered",
+            "pastParticiple": "muttered",
+            "presentParticiple": "muttering",
+            "thirdPerson": "mutters"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "murmur",
+            "grumble"
+        ],
+        "explanation": "Falar baixo e de forma pouco clara.",
+        "examples": [
+            {
+                "en": "He muttered a curse.",
+                "pt": "Ele resmungou uma maldição."
+            }
+        ]
+    }
+}

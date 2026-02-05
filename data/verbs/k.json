@@ -1,0 +1,364 @@
+{
+    "keep": {
+        "infinitive": "keep",
+        "translation": "manter, guardar",
+        "forms": {
+            "base": "keep",
+            "pastSimple": "kept",
+            "pastParticiple": "kept",
+            "presentParticiple": "keeping",
+            "thirdPerson": "keeps"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "hold",
+            "store"
+        ],
+        "explanation": "Continuar a ter algo ou continuar fazendo algo.",
+        "examples": [
+            {
+                "en": "Keep the change.",
+                "pt": "Fique com o troco."
+            },
+            {
+                "en": "Keep trying.",
+                "pt": "Continue tentando."
+            }
+        ]
+    },
+    "keep back": {
+        "infinitive": "keep back",
+        "translation": "manter distância, segurar",
+        "forms": {
+            "base": "keep back",
+            "pastSimple": "kept back",
+            "pastParticiple": "kept back",
+            "presentParticiple": "keeping back",
+            "thirdPerson": "keeps back"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "restrain"
+        ],
+        "explanation": "Ficar longe ou impedir de avançar.",
+        "examples": [
+            {
+                "en": "Keep back from the edge.",
+                "pt": "Mantenha distância da borda."
+            }
+        ]
+    },
+    "keep going": {
+        "infinitive": "keep going",
+        "translation": "continuar",
+        "forms": {
+            "base": "keep going",
+            "pastSimple": "kept going",
+            "pastParticiple": "kept going",
+            "presentParticiple": "keeping going",
+            "thirdPerson": "keeps going"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "continue"
+        ],
+        "explanation": "Não parar, prosseguir.",
+        "examples": [
+            {
+                "en": "Keep going straight.",
+                "pt": "Continue indo reto."
+            }
+        ]
+    },
+    "kick": {
+        "infinitive": "kick",
+        "translation": "chutar",
+        "forms": {
+            "base": "kick",
+            "pastSimple": "kicked",
+            "pastParticiple": "kicked",
+            "presentParticiple": "kicking",
+            "thirdPerson": "kicks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Bater com o pé.",
+        "examples": [
+            {
+                "en": "He kicked the ball.",
+                "pt": "Ele chutou a bola."
+            }
+        ]
+    },
+    "kid": {
+        "infinitive": "kid",
+        "translation": "brincar, zoar",
+        "forms": {
+            "base": "kid",
+            "pastSimple": "kidded",
+            "pastParticiple": "kidded",
+            "presentParticiple": "kidding",
+            "thirdPerson": "kids"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "joke",
+            "tease"
+        ],
+        "explanation": "Fazer piada ou não falar sério.",
+        "examples": [
+            {
+                "en": "I'm just kidding.",
+                "pt": "Estou só brincando."
+            }
+        ]
+    },
+    "kill": {
+        "infinitive": "kill",
+        "translation": "matar",
+        "forms": {
+            "base": "kill",
+            "pastSimple": "killed",
+            "pastParticiple": "killed",
+            "presentParticiple": "killing",
+            "thirdPerson": "kills"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "murder"
+        ],
+        "explanation": "Tirar a vida de algo ou alguém.",
+        "examples": [
+            {
+                "en": "Smoking kills.",
+                "pt": "Fumar mata."
+            }
+        ]
+    },
+    "kindle": {
+        "infinitive": "kindle",
+        "translation": "acender (fogo)",
+        "forms": {
+            "base": "kindle",
+            "pastSimple": "kindled",
+            "pastParticiple": "kindled",
+            "presentParticiple": "kindling",
+            "thirdPerson": "kindles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "ignite",
+            "light"
+        ],
+        "explanation": "Começar um fogo.",
+        "examples": [
+            {
+                "en": "Kindle the fire.",
+                "pt": "Acenda o fogo."
+            }
+        ]
+    },
+    "kiss": {
+        "infinitive": "kiss",
+        "translation": "beijar",
+        "forms": {
+            "base": "kiss",
+            "pastSimple": "kissed",
+            "pastParticiple": "kissed",
+            "presentParticiple": "kissing",
+            "thirdPerson": "kisses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Tocar com os lábios como sinal de amor ou cumprimento.",
+        "examples": [
+            {
+                "en": "She kissed him goodbye.",
+                "pt": "Ela o beijou de despedida."
+            }
+        ]
+    },
+    "kneel": {
+        "infinitive": "kneel",
+        "translation": "ajoelhar",
+        "forms": {
+            "base": "kneel",
+            "pastSimple": "knelt",
+            "pastParticiple": "knelt",
+            "presentParticiple": "kneeling",
+            "thirdPerson": "kneels"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [],
+        "explanation": "Ficar de joelhos.",
+        "examples": [
+            {
+                "en": "He knelt to pray.",
+                "pt": "Ele se ajoelhou para rezar."
+            }
+        ]
+    },
+    "knit": {
+        "infinitive": "knit",
+        "translation": "tricotar",
+        "forms": {
+            "base": "knit",
+            "pastSimple": "knitted",
+            "pastParticiple": "knitted",
+            "presentParticiple": "knitting",
+            "thirdPerson": "knits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "weave"
+        ],
+        "explanation": "Fazer roupas com lã e agulhas.",
+        "examples": [
+            {
+                "en": "She knits sweaters.",
+                "pt": "Ela tricota suéteres."
+            }
+        ]
+    },
+    "knock": {
+        "infinitive": "knock",
+        "translation": "bater (porta)",
+        "forms": {
+            "base": "knock",
+            "pastSimple": "knocked",
+            "pastParticiple": "knocked",
+            "presentParticiple": "knocking",
+            "thirdPerson": "knocks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bang"
+        ],
+        "explanation": "Bater na porta ou atingir algo fazendo barulho.",
+        "examples": [
+            {
+                "en": "Someone knocked on the door.",
+                "pt": "Alguém bateu na porta."
+            }
+        ]
+    },
+    "knock down": {
+        "infinitive": "knock down",
+        "translation": "derrubar, demolir",
+        "forms": {
+            "base": "knock down",
+            "pastSimple": "knocked down",
+            "pastParticiple": "knocked down",
+            "presentParticiple": "knocking down",
+            "thirdPerson": "knocks down"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "demolish",
+            "fell"
+        ],
+        "explanation": "Derrubar algo ou alguém.",
+        "examples": [
+            {
+                "en": "Knock down the wall.",
+                "pt": "Derrube a parede."
+            }
+        ]
+    },
+    "knot": {
+        "infinitive": "knot",
+        "translation": "dar nó",
+        "forms": {
+            "base": "knot",
+            "pastSimple": "knotted",
+            "pastParticiple": "knotted",
+            "presentParticiple": "knotting",
+            "thirdPerson": "knots"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tie"
+        ],
+        "explanation": "Amarrar ou fazer um nó.",
+        "examples": [
+            {
+                "en": "Knot the rope.",
+                "pt": "Dê um nó na corda."
+            }
+        ]
+    },
+    "know": {
+        "infinitive": "know",
+        "translation": "saber, conhecer",
+        "forms": {
+            "base": "know",
+            "pastSimple": "knew",
+            "pastParticiple": "known",
+            "presentParticiple": "knowing",
+            "thirdPerson": "knows"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "understand"
+        ],
+        "explanation": "Ter conhecimento ou estar familiarizado com alguém/algo.",
+        "examples": [
+            {
+                "en": "I know him.",
+                "pt": "Eu o conheço."
+            },
+            {
+                "en": "She knows the answer.",
+                "pt": "Ela sabe a resposta."
+            }
+        ]
+    }
+}

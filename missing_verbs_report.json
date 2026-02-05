@@ -1,0 +1,193 @@
+{
+  "count": 46,
+  "missing": [
+    "anxiety",
+    "cherish",
+    "condemn",
+    "danger",
+    "debt",
+    "deter",
+    "effort",
+    "enlist",
+    "envelope",
+    "even",
+    "exam",
+    "fell",
+    "function",
+    "funny",
+    "game",
+    "get back",
+    "hinder",
+    "hold back",
+    "illuminate",
+    "kidding",
+    "laugh at",
+    "lend (oposto)",
+    "liberate",
+    "limit",
+    "look at, observe",
+    "party",
+    "perplex",
+    "pleased",
+    "progress",
+    "put in",
+    "reimburse",
+    "restrict",
+    "sen",
+    "sent",
+    "slope",
+    "solidify",
+    "solve",
+    "sorry",
+    "speed up",
+    "spice",
+    "stifle",
+    "storm",
+    "stuck",
+    "summarize",
+    "waiting",
+    "worsen"
+  ],
+  "references": {
+    "progress": [
+      "advance"
+    ],
+    "funny": [
+      "amuse"
+    ],
+    "pleased": [
+      "amuse"
+    ],
+    "sorry": [
+      "apologize"
+    ],
+    "effort": [
+      "attempt"
+    ],
+    "perplex": [
+      "baffle"
+    ],
+    "lend (oposto)": [
+      "borrow"
+    ],
+    "party": [
+      "celebrate"
+    ],
+    "reimburse": [
+      "compensate"
+    ],
+    "restrict": [
+      "confine"
+    ],
+    "condemn": [
+      "damn"
+    ],
+    "worsen": [
+      "deteriorate"
+    ],
+    "deter": [
+      "discourage"
+    ],
+    "sen": [
+      "email"
+    ],
+    "look at, observe": [
+      "eye"
+    ],
+    "liberate": [
+      "free"
+    ],
+    "solidify": [
+      "harden"
+    ],
+    "speed up": [
+      "hasten"
+    ],
+    "waiting": [
+      "hold on"
+    ],
+    "put in": [
+      "insert"
+    ],
+    "stuck": [
+      "jam"
+    ],
+    "kidding": [
+      "joke"
+    ],
+    "fell": [
+      "knock down"
+    ],
+    "even": [
+      "level"
+    ],
+    "illuminate": [
+      "light up"
+    ],
+    "hinder": [
+      "obstruct"
+    ],
+    "function": [
+      "operate"
+    ],
+    "summarize": [
+      "outline"
+    ],
+    "debt": [
+      "owe"
+    ],
+    "game": [
+      "play"
+    ],
+    "storm": [
+      "rage"
+    ],
+    "enlist": [
+      "recruit"
+    ],
+    "get back": [
+      "regain"
+    ],
+    "hold back": [
+      "repress",
+      "restrain"
+    ],
+    "solve": [
+      "resolve",
+      "work out"
+    ],
+    "limit": [
+      "restrain"
+    ],
+    "laugh at": [
+      "ridicule"
+    ],
+    "danger": [
+      "risk"
+    ],
+    "spice": [
+      "season"
+    ],
+    "slope": [
+      "slant"
+    ],
+    "sent": [
+      "smell"
+    ],
+    "stifle": [
+      "smother"
+    ],
+    "exam": [
+      "test"
+    ],
+    "cherish": [
+      "treasure"
+    ],
+    "anxiety": [
+      "worry"
+    ],
+    "envelope": [
+      "wrap"
+    ]
+  }
+}

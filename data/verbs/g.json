@@ -1,0 +1,1248 @@
+{
+    "gain": {
+        "infinitive": "gain",
+        "translation": "ganhar, obter",
+        "forms": {
+            "base": "gain",
+            "pastSimple": "gained",
+            "pastParticiple": "gained",
+            "presentParticiple": "gaining",
+            "thirdPerson": "gains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "get",
+            "achieve"
+        ],
+        "explanation": "Obter algo útil ou necessário (peso, experiência, velocidade).",
+        "examples": [
+            {
+                "en": "He gained weight.",
+                "pt": "Ele ganhou peso."
+            }
+        ]
+    },
+    "gamble": {
+        "infinitive": "gamble",
+        "translation": "apostar",
+        "forms": {
+            "base": "gamble",
+            "pastSimple": "gambled",
+            "pastParticiple": "gambled",
+            "presentParticiple": "gambling",
+            "thirdPerson": "gambles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bet",
+            "wager"
+        ],
+        "explanation": "Arriscar dinheiro em um jogo.",
+        "examples": [
+            {
+                "en": "He gambles online.",
+                "pt": "Ele aposta online."
+            }
+        ]
+    },
+    "gather": {
+        "infinitive": "gather",
+        "translation": "reunir, juntar",
+        "forms": {
+            "base": "gather",
+            "pastSimple": "gathered",
+            "pastParticiple": "gathered",
+            "presentParticiple": "gathering",
+            "thirdPerson": "gathers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "collect",
+            "assemble"
+        ],
+        "explanation": "Juntar coisas ou pessoas em um lugar.",
+        "examples": [
+            {
+                "en": "Gather your things.",
+                "pt": "Junte suas coisas."
+            }
+        ]
+    },
+    "gauge": {
+        "infinitive": "gauge",
+        "translation": "medir, avaliar",
+        "forms": {
+            "base": "gauge",
+            "pastSimple": "gauged",
+            "pastParticiple": "gauged",
+            "presentParticiple": "gauging",
+            "thirdPerson": "gauges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "measure",
+            "estimate"
+        ],
+        "explanation": "Estimar ou medir a quantidade ou tamanho.",
+        "examples": [
+            {
+                "en": "Gauge the distance.",
+                "pt": "Meça a distância."
+            }
+        ]
+    },
+    "gaze": {
+        "infinitive": "gaze",
+        "translation": "contemplar, olhar fixamente",
+        "forms": {
+            "base": "gaze",
+            "pastSimple": "gazed",
+            "pastParticiple": "gazed",
+            "presentParticiple": "gazing",
+            "thirdPerson": "gazes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stare",
+            "look"
+        ],
+        "explanation": "Olhar por longo tempo.",
+        "examples": [
+            {
+                "en": "She gazed at the stars.",
+                "pt": "Ela contemplou as estrelas."
+            }
+        ]
+    },
+    "generate": {
+        "infinitive": "generate",
+        "translation": "gerar",
+        "forms": {
+            "base": "generate",
+            "pastSimple": "generated",
+            "pastParticiple": "generated",
+            "presentParticiple": "generating",
+            "thirdPerson": "generates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "create",
+            "produce"
+        ],
+        "explanation": "Produzir ou criar algo (energia, ideias).",
+        "examples": [
+            {
+                "en": "Wind generates power.",
+                "pt": "Vento gera energia."
+            }
+        ]
+    },
+    "germinate": {
+        "infinitive": "germinate",
+        "translation": "germinar",
+        "forms": {
+            "base": "germinate",
+            "pastSimple": "germinated",
+            "pastParticiple": "germinated",
+            "presentParticiple": "germinating",
+            "thirdPerson": "germinates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sprout",
+            "grow"
+        ],
+        "explanation": "Começar a crescer (semente).",
+        "examples": [
+            {
+                "en": "Seeds germinate in spring.",
+                "pt": "Sementes germinam na primavera."
+            }
+        ]
+    },
+    "gesture": {
+        "infinitive": "gesture",
+        "translation": "gesticular",
+        "forms": {
+            "base": "gesture",
+            "pastSimple": "gestured",
+            "pastParticiple": "gestured",
+            "presentParticiple": "gesturing",
+            "thirdPerson": "gestures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sign",
+            "signal"
+        ],
+        "explanation": "Fazer movimentos com as mãos para se comunicar.",
+        "examples": [
+            {
+                "en": "He gestured to the door.",
+                "pt": "Ele gesticulou para a porta."
+            }
+        ]
+    },
+    "get": {
+        "infinitive": "get",
+        "translation": "obter, conseguir, chegar, ficar",
+        "forms": {
+            "base": "get",
+            "pastSimple": "got",
+            "pastParticiple": "gotten",
+            "presentParticiple": "getting",
+            "thirdPerson": "gets"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential",
+            "common"
+        ],
+        "related": [
+            "obtain",
+            "receive",
+            "become"
+        ],
+        "explanation": "O verbo mais versátil do inglês. Pode significar obter, receber, tornar-se ('get tired'), entender ('get it'), chegar ('get home').",
+        "examples": [
+            {
+                "en": "I got a new car.",
+                "pt": "Consegui um carro novo."
+            },
+            {
+                "en": "It's getting late.",
+                "pt": "Está ficando tarde."
+            },
+            {
+                "en": "Did you get my email?",
+                "pt": "Você recebeu meu e-mail?"
+            }
+        ]
+    },
+    "get away": {
+        "infinitive": "get away",
+        "translation": "escapar",
+        "forms": {
+            "base": "get away",
+            "pastSimple": "got away",
+            "pastParticiple": "gotten away",
+            "presentParticiple": "getting away",
+            "thirdPerson": "gets away"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "escape",
+            "leave"
+        ],
+        "explanation": "Sair de um lugar ou escapar.",
+        "examples": [
+            {
+                "en": "Get away from me!",
+                "pt": "Saia de perto de mim!"
+            }
+        ]
+    },
+    "giggle": {
+        "infinitive": "giggle",
+        "translation": "rir (risadinha)",
+        "forms": {
+            "base": "giggle",
+            "pastSimple": "giggled",
+            "pastParticiple": "giggled",
+            "presentParticiple": "giggling",
+            "thirdPerson": "giggles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "laugh"
+        ],
+        "explanation": "Rir de forma leve e boba.",
+        "examples": [
+            {
+                "en": "They giggled at the joke.",
+                "pt": "Eles deram risadinhas da piada."
+            }
+        ]
+    },
+    "give": {
+        "infinitive": "give",
+        "translation": "dar",
+        "forms": {
+            "base": "give",
+            "pastSimple": "gave",
+            "pastParticiple": "given",
+            "presentParticiple": "giving",
+            "thirdPerson": "gives"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "offer",
+            "provide"
+        ],
+        "explanation": "Transferir posse de algo para alguém.",
+        "examples": [
+            {
+                "en": "Give me the book.",
+                "pt": "Me dê o livro."
+            },
+            {
+                "en": "He gave up smoking.",
+                "pt": "Ele parou de fumar (desistiu)."
+            }
+        ]
+    },
+    "give out": {
+        "infinitive": "give out",
+        "translation": "distribuir, esgotar-se",
+        "forms": {
+            "base": "give out",
+            "pastSimple": "gave out",
+            "pastParticiple": "given out",
+            "presentParticiple": "giving out",
+            "thirdPerson": "gives out"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "distribute"
+        ],
+        "explanation": "Dar para várias pessoas ou parar de funcionar.",
+        "examples": [
+            {
+                "en": "Give out the papers.",
+                "pt": "Distribua os papéis."
+            }
+        ]
+    },
+    "give up": {
+        "infinitive": "give up",
+        "translation": "desistir",
+        "forms": {
+            "base": "give up",
+            "pastSimple": "gave up",
+            "pastParticiple": "given up",
+            "presentParticiple": "giving up",
+            "thirdPerson": "gives up"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "quit",
+            "surrender"
+        ],
+        "explanation": "Parar de tentar fazer algo.",
+        "examples": [
+            {
+                "en": "Don't give up!",
+                "pt": "Não desista!"
+            }
+        ]
+    },
+    "glance": {
+        "infinitive": "glance",
+        "translation": "olhar de relance",
+        "forms": {
+            "base": "glance",
+            "pastSimple": "glanced",
+            "pastParticiple": "glanced",
+            "presentParticiple": "glancing",
+            "thirdPerson": "glances"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "peek",
+            "look"
+        ],
+        "explanation": "Olhar rapidamente.",
+        "examples": [
+            {
+                "en": "He glanced at the clock.",
+                "pt": "Ele olhou para o relógio."
+            }
+        ]
+    },
+    "glide": {
+        "infinitive": "glide",
+        "translation": "planar, deslizar",
+        "forms": {
+            "base": "glide",
+            "pastSimple": "glided",
+            "pastParticiple": "glided",
+            "presentParticiple": "gliding",
+            "thirdPerson": "glides"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "slide",
+            "fly"
+        ],
+        "explanation": "Mover-se suavemente e sem esforço.",
+        "examples": [
+            {
+                "en": "The bird glided over the water.",
+                "pt": "O pássaro planou sobre a água."
+            }
+        ]
+    },
+    "glimmer": {
+        "infinitive": "glimmer",
+        "translation": "cintilar",
+        "forms": {
+            "base": "glimmer",
+            "pastSimple": "glimmered",
+            "pastParticiple": "glimmered",
+            "presentParticiple": "glimmering",
+            "thirdPerson": "glimmers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shimmer",
+            "shine"
+        ],
+        "explanation": "Brilhar fracamente.",
+        "examples": [
+            {
+                "en": "A light glimmered.",
+                "pt": "Uma luz cintilou."
+            }
+        ]
+    },
+    "glitter": {
+        "infinitive": "glitter",
+        "translation": "brilhar, cintilar",
+        "forms": {
+            "base": "glitter",
+            "pastSimple": "glittered",
+            "pastParticiple": "glittered",
+            "presentParticiple": "glittering",
+            "thirdPerson": "glitters"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sparkle",
+            "shine"
+        ],
+        "explanation": "Brilhar com pequenos flashes de luz.",
+        "examples": [
+            {
+                "en": "The gold glittered.",
+                "pt": "O ouro brilhou."
+            }
+        ]
+    },
+    "glow": {
+        "infinitive": "glow",
+        "translation": "brilhar",
+        "forms": {
+            "base": "glow",
+            "pastSimple": "glowed",
+            "pastParticiple": "glowed",
+            "presentParticiple": "glowing",
+            "thirdPerson": "glows"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shine"
+        ],
+        "explanation": "Emitir luz suave e constante (sem chama).",
+        "examples": [
+            {
+                "en": "The moon glowed.",
+                "pt": "A lua brilhava."
+            }
+        ]
+    },
+    "glue": {
+        "infinitive": "glue",
+        "translation": "colar",
+        "forms": {
+            "base": "glue",
+            "pastSimple": "glued",
+            "pastParticiple": "glued",
+            "presentParticiple": "gluing",
+            "thirdPerson": "glues"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stick"
+        ],
+        "explanation": "Unir com cola.",
+        "examples": [
+            {
+                "en": "Glue the pieces together.",
+                "pt": "Cole as peças juntas."
+            }
+        ]
+    },
+    "go": {
+        "infinitive": "go",
+        "translation": "ir",
+        "forms": {
+            "base": "go",
+            "pastSimple": "went",
+            "pastParticiple": "gone",
+            "presentParticiple": "going",
+            "thirdPerson": "goes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "move",
+            "leave"
+        ],
+        "explanation": "Mover-se de um lugar para outro.",
+        "examples": [
+            {
+                "en": "Let's go home.",
+                "pt": "Vamos para casa."
+            },
+            {
+                "en": "Where did he go?",
+                "pt": "Para onde ele foi?"
+            }
+        ]
+    },
+    "go across": {
+        "infinitive": "go across",
+        "translation": "atravessar",
+        "forms": {
+            "base": "go across",
+            "pastSimple": "went across",
+            "pastParticiple": "gone across",
+            "presentParticiple": "going across",
+            "thirdPerson": "goes across"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "cross"
+        ],
+        "explanation": "Cruzar de um lado para o outro.",
+        "examples": [
+            {
+                "en": "Go across the street.",
+                "pt": "Atravesse a rua."
+            }
+        ]
+    },
+    "go back": {
+        "infinitive": "go back",
+        "translation": "voltar",
+        "forms": {
+            "base": "go back",
+            "pastSimple": "went back",
+            "pastParticiple": "gone back",
+            "presentParticiple": "going back",
+            "thirdPerson": "goes back"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "return"
+        ],
+        "explanation": "Retornar ao lugar anterior.",
+        "examples": [
+            {
+                "en": "Go back home.",
+                "pt": "Volte para casa."
+            }
+        ]
+    },
+    "go by": {
+        "infinitive": "go by",
+        "translation": "passar (tempo/lugar)",
+        "forms": {
+            "base": "go by",
+            "pastSimple": "went by",
+            "pastParticiple": "gone by",
+            "presentParticiple": "going by",
+            "thirdPerson": "goes by"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "pass"
+        ],
+        "explanation": "Passar por algo ou quando o tempo passa.",
+        "examples": [
+            {
+                "en": "Time goes by fast.",
+                "pt": "O tempo passa rápido."
+            }
+        ]
+    },
+    "go down": {
+        "infinitive": "go down",
+        "translation": "descer",
+        "forms": {
+            "base": "go down",
+            "pastSimple": "went down",
+            "pastParticiple": "gone down",
+            "presentParticiple": "going down",
+            "thirdPerson": "goes down"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "descend",
+            "fall"
+        ],
+        "explanation": "Mover-se para um nível inferior.",
+        "examples": [
+            {
+                "en": "Prices go down.",
+                "pt": "Preços caem."
+            }
+        ]
+    },
+    "go in": {
+        "infinitive": "go in",
+        "translation": "entrar",
+        "forms": {
+            "base": "go in",
+            "pastSimple": "went in",
+            "pastParticiple": "gone in",
+            "presentParticiple": "going in",
+            "thirdPerson": "goes in"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "enter"
+        ],
+        "explanation": "Entrar em um lugar.",
+        "examples": [
+            {
+                "en": "Let's go in.",
+                "pt": "Vamos entrar."
+            }
+        ]
+    },
+    "go to": {
+        "infinitive": "go to",
+        "translation": "ir para",
+        "forms": {
+            "base": "go to",
+            "pastSimple": "went to",
+            "pastParticiple": "gone to",
+            "presentParticiple": "going to",
+            "thirdPerson": "goes to"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "attend"
+        ],
+        "explanation": "Dirigir-se a um lugar.",
+        "examples": [
+            {
+                "en": "Go to school.",
+                "pt": "Vá para a escola."
+            }
+        ]
+    },
+    "go up": {
+        "infinitive": "go up",
+        "translation": "subir",
+        "forms": {
+            "base": "go up",
+            "pastSimple": "went up",
+            "pastParticiple": "gone up",
+            "presentParticiple": "going up",
+            "thirdPerson": "goes up"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "ascend",
+            "rise"
+        ],
+        "explanation": "Mover-se para cima ou aumentar.",
+        "examples": [
+            {
+                "en": "Prices go up.",
+                "pt": "Preços sobem."
+            }
+        ]
+    },
+    "govern": {
+        "infinitive": "govern",
+        "translation": "governar",
+        "forms": {
+            "base": "govern",
+            "pastSimple": "governed",
+            "pastParticiple": "governed",
+            "presentParticiple": "governing",
+            "thirdPerson": "governs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "rule",
+            "control"
+        ],
+        "explanation": "Controlar e dirigir os assuntos públicos.",
+        "examples": [
+            {
+                "en": "The president governs the country.",
+                "pt": "O presidente governa o país."
+            }
+        ]
+    },
+    "grab": {
+        "infinitive": "grab",
+        "translation": "agarrar",
+        "forms": {
+            "base": "grab",
+            "pastSimple": "grabbed",
+            "pastParticiple": "grabbed",
+            "presentParticiple": "grabbing",
+            "thirdPerson": "grabs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "seize",
+            "snatch"
+        ],
+        "explanation": "Pegar algo subitamente ou grosseiramente.",
+        "examples": [
+            {
+                "en": "He grabbed my arm.",
+                "pt": "Ele agarrou meu braço."
+            }
+        ]
+    },
+    "grapple": {
+        "infinitive": "grapple",
+        "translation": "lutar, atracar-se",
+        "forms": {
+            "base": "grapple",
+            "pastSimple": "grappled",
+            "pastParticiple": "grappled",
+            "presentParticiple": "grappling",
+            "thirdPerson": "grapples"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wrestle",
+            "struggle"
+        ],
+        "explanation": "Lutar corpo a corpo ou tentar lidar com algo difícil.",
+        "examples": [
+            {
+                "en": "Grapple with the problem.",
+                "pt": "Lute com o problema."
+            }
+        ]
+    },
+    "grasp": {
+        "infinitive": "grasp",
+        "translation": "agarrar, compreender",
+        "forms": {
+            "base": "grasp",
+            "pastSimple": "grasped",
+            "pastParticiple": "grasped",
+            "presentParticiple": "grasping",
+            "thirdPerson": "grasps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hold",
+            "understand"
+        ],
+        "explanation": "Segurar firmemente ou entender um conceito difícil.",
+        "examples": [
+            {
+                "en": "She grasped the concept.",
+                "pt": "Ela compreendeu o conceito."
+            }
+        ]
+    },
+    "grate": {
+        "infinitive": "grate",
+        "translation": "ralar",
+        "forms": {
+            "base": "grate",
+            "pastSimple": "grated",
+            "pastParticiple": "grated",
+            "presentParticiple": "grating",
+            "thirdPerson": "grates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "cooking"
+        ],
+        "related": [
+            "shred"
+        ],
+        "explanation": "Cortar comida em pedaços pequenos esfregando (queijo, cenoura).",
+        "examples": [
+            {
+                "en": "Grate the cheese.",
+                "pt": "Rale o queijo."
+            }
+        ]
+    },
+    "grease": {
+        "infinitive": "grease",
+        "translation": "lubrificar, untar",
+        "forms": {
+            "base": "grease",
+            "pastSimple": "greased",
+            "pastParticiple": "greased",
+            "presentParticiple": "greasing",
+            "thirdPerson": "greases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "lubricate",
+            "oil"
+        ],
+        "explanation": "Passar óleo ou gordura.",
+        "examples": [
+            {
+                "en": "Grease the pan.",
+                "pt": "Unte a frigideira."
+            }
+        ]
+    },
+    "greet": {
+        "infinitive": "greet",
+        "translation": "cumprimentar",
+        "forms": {
+            "base": "greet",
+            "pastSimple": "greeted",
+            "pastParticiple": "greeted",
+            "presentParticiple": "greeting",
+            "thirdPerson": "greets"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "welcome"
+        ],
+        "explanation": "Dizer olá ou dar boas-vindas.",
+        "examples": [
+            {
+                "en": "He greeted us warmly.",
+                "pt": "Ele nos cumprimentou calorosamente."
+            }
+        ]
+    },
+    "grill": {
+        "infinitive": "grill",
+        "translation": "grelhar, interrogar",
+        "forms": {
+            "base": "grill",
+            "pastSimple": "grilled",
+            "pastParticiple": "grilled",
+            "presentParticiple": "grilling",
+            "thirdPerson": "grills"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cook",
+            "interrogate"
+        ],
+        "explanation": "Cozinhar na grelha ou fazer muitas perguntas.",
+        "examples": [
+            {
+                "en": "Grill the steak.",
+                "pt": "Grelhe o bife."
+            }
+        ]
+    },
+    "grin": {
+        "infinitive": "grin",
+        "translation": "sorrir",
+        "forms": {
+            "base": "grin",
+            "pastSimple": "grinned",
+            "pastParticiple": "grinned",
+            "presentParticiple": "grinning",
+            "thirdPerson": "grins"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "smile"
+        ],
+        "explanation": "Dar um sorriso largo.",
+        "examples": [
+            {
+                "en": "He grinned at me.",
+                "pt": "Ele sorriu para mim."
+            }
+        ]
+    },
+    "grind": {
+        "infinitive": "grind",
+        "translation": "moer",
+        "forms": {
+            "base": "grind",
+            "pastSimple": "ground",
+            "pastParticiple": "ground",
+            "presentParticiple": "grinding",
+            "thirdPerson": "grinds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "crush",
+            "mill"
+        ],
+        "explanation": "Triturar algo até virar pó.",
+        "examples": [
+            {
+                "en": "Grind the coffee beans.",
+                "pt": "Moa os grãos de café."
+            }
+        ]
+    },
+    "grip": {
+        "infinitive": "grip",
+        "translation": "agarrar firme",
+        "forms": {
+            "base": "grip",
+            "pastSimple": "gripped",
+            "pastParticiple": "gripped",
+            "presentParticiple": "gripping",
+            "thirdPerson": "grips"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hold",
+            "grasp"
+        ],
+        "explanation": "Segurar com muita força.",
+        "examples": [
+            {
+                "en": "Grip the wheel.",
+                "pt": "Segure firme a roda/volante."
+            }
+        ]
+    },
+    "groan": {
+        "infinitive": "groan",
+        "translation": "gemer",
+        "forms": {
+            "base": "groan",
+            "pastSimple": "groaned",
+            "pastParticiple": "groaned",
+            "presentParticiple": "groaning",
+            "thirdPerson": "groans"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "moan"
+        ],
+        "explanation": "Fazer som de dor ou descontentamento.",
+        "examples": [
+            {
+                "en": "He groaned in pain.",
+                "pt": "Ele gemeu de dor."
+            }
+        ]
+    },
+    "groom": {
+        "infinitive": "groom",
+        "translation": "preparar, cuidar da aparência",
+        "forms": {
+            "base": "groom",
+            "pastSimple": "groomed",
+            "pastParticiple": "groomed",
+            "presentParticiple": "grooming",
+            "thirdPerson": "grooms"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "comb",
+            "prepare"
+        ],
+        "explanation": "Limpar ou cuidar de um animal ou pessoa.",
+        "examples": [
+            {
+                "en": "Groom the horse.",
+                "pt": "Escove o cavalo."
+            }
+        ]
+    },
+    "grow": {
+        "infinitive": "grow",
+        "translation": "crescer, cultivar",
+        "forms": {
+            "base": "grow",
+            "pastSimple": "grew",
+            "pastParticiple": "grown",
+            "presentParticiple": "growing",
+            "thirdPerson": "grows"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "increase"
+        ],
+        "explanation": "Aumentar de tamanho ou plantar.",
+        "examples": [
+            {
+                "en": "Plants grow fast.",
+                "pt": "Plantas crescem rápido."
+            },
+            {
+                "en": "I grow tomatoes.",
+                "pt": "Eu cultivo tomates."
+            }
+        ]
+    },
+    "grumble": {
+        "infinitive": "grumble",
+        "translation": "resmungar",
+        "forms": {
+            "base": "grumble",
+            "pastSimple": "grumbled",
+            "pastParticiple": "grumbled",
+            "presentParticiple": "grumbling",
+            "thirdPerson": "grumbles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "complain",
+            "moan"
+        ],
+        "explanation": "Reclamar em voz baixa.",
+        "examples": [
+            {
+                "en": "He grumbled about the food.",
+                "pt": "Ele resmungou sobre a comida."
+            }
+        ]
+    },
+    "guarantee": {
+        "infinitive": "guarantee",
+        "translation": "garantir",
+        "forms": {
+            "base": "guarantee",
+            "pastSimple": "guaranteed",
+            "pastParticiple": "guaranteed",
+            "presentParticiple": "guaranteeing",
+            "thirdPerson": "guarantees"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "promise",
+            "assure"
+        ],
+        "explanation": "Prometer que algo vai acontecer ou funcionar.",
+        "examples": [
+            {
+                "en": "I guarantee it works.",
+                "pt": "Garanto que funciona."
+            }
+        ]
+    },
+    "guard": {
+        "infinitive": "guard",
+        "translation": "guardar, proteger",
+        "forms": {
+            "base": "guard",
+            "pastSimple": "guarded",
+            "pastParticiple": "guarded",
+            "presentParticiple": "guarding",
+            "thirdPerson": "guards"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "protect",
+            "defend"
+        ],
+        "explanation": "Proteger contra ataque ou perigo.",
+        "examples": [
+            {
+                "en": "The dog guards the house.",
+                "pt": "O cachorro guarda a casa."
+            }
+        ]
+    },
+    "guess": {
+        "infinitive": "guess",
+        "translation": "adivinhar, achar",
+        "forms": {
+            "base": "guess",
+            "pastSimple": "guessed",
+            "pastParticiple": "guessed",
+            "presentParticiple": "guessing",
+            "thirdPerson": "guesses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "suppose",
+            "estimate"
+        ],
+        "explanation": "Dar uma resposta sem ter certeza.",
+        "examples": [
+            {
+                "en": "Guess who?",
+                "pt": "Adivinhe quem?"
+            }
+        ]
+    },
+    "guide": {
+        "infinitive": "guide",
+        "translation": "guiar",
+        "forms": {
+            "base": "guide",
+            "pastSimple": "guided",
+            "pastParticiple": "guided",
+            "presentParticiple": "guiding",
+            "thirdPerson": "guides"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "lead",
+            "direct"
+        ],
+        "explanation": "Mostrar o caminho.",
+        "examples": [
+            {
+                "en": "Stars guided them.",
+                "pt": "Estrelas os guiaram."
+            }
+        ]
+    }
+}

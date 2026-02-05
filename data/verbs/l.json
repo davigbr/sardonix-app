@@ -1,0 +1,1366 @@
+{
+    "label": {
+        "infinitive": "label",
+        "translation": "rotular",
+        "forms": {
+            "base": "label",
+            "pastSimple": "labeled",
+            "pastParticiple": "labeled",
+            "presentParticiple": "labeling",
+            "thirdPerson": "labels"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tag",
+            "name"
+        ],
+        "explanation": "Colocar uma etiqueta ou descrever alguém/algo.",
+        "examples": [
+            {
+                "en": "Label the boxes.",
+                "pt": "Rotule as caixas."
+            }
+        ]
+    },
+    "labor": {
+        "infinitive": "labor",
+        "translation": "trabalhar arduamente",
+        "forms": {
+            "base": "labor",
+            "pastSimple": "labored",
+            "pastParticiple": "labored",
+            "presentParticiple": "laboring",
+            "thirdPerson": "labors"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "work",
+            "toil"
+        ],
+        "explanation": "Trabalhar com muito esforço físico.",
+        "examples": [
+            {
+                "en": "They labored in the fields.",
+                "pt": "Eles trabalharam nos campos."
+            }
+        ]
+    },
+    "land": {
+        "infinitive": "land",
+        "translation": "aterrissar, pousar",
+        "forms": {
+            "base": "land",
+            "pastSimple": "landed",
+            "pastParticiple": "landed",
+            "presentParticiple": "landing",
+            "thirdPerson": "lands"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "arrive"
+        ],
+        "explanation": "Chegar ao chão (avião, pássaro).",
+        "examples": [
+            {
+                "en": "The plane landed safely.",
+                "pt": "O avião aterrissou com segurança."
+            }
+        ]
+    },
+    "lash": {
+        "infinitive": "lash",
+        "translation": "chicotear, amarrar",
+        "forms": {
+            "base": "lash",
+            "pastSimple": "lashed",
+            "pastParticiple": "lashed",
+            "presentParticiple": "lashing",
+            "thirdPerson": "lashes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "whip",
+            "tie"
+        ],
+        "explanation": "Bater com chicote ou prender com corda.",
+        "examples": [
+            {
+                "en": "Rain lashed the window.",
+                "pt": "A chuva chicoteou a janela."
+            }
+        ]
+    },
+    "last": {
+        "infinitive": "last",
+        "translation": "durar",
+        "forms": {
+            "base": "last",
+            "pastSimple": "lasted",
+            "pastParticiple": "lasted",
+            "presentParticiple": "lasting",
+            "thirdPerson": "lasts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "continue",
+            "endure"
+        ],
+        "explanation": "Continuar existindo ou acontecendo por um tempo.",
+        "examples": [
+            {
+                "en": "The meeting lasted two hours.",
+                "pt": "A reunião durou duas horas."
+            }
+        ]
+    },
+    "laugh": {
+        "infinitive": "laugh",
+        "translation": "rir",
+        "forms": {
+            "base": "laugh",
+            "pastSimple": "laughed",
+            "pastParticiple": "laughed",
+            "presentParticiple": "laughing",
+            "thirdPerson": "laughs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "smile",
+            "giggle"
+        ],
+        "explanation": "Fazer sons de alegria ou diversão.",
+        "examples": [
+            {
+                "en": "They laughed at the joke.",
+                "pt": "Eles riram da piada."
+            }
+        ]
+    },
+    "launch": {
+        "infinitive": "launch",
+        "translation": "lançar",
+        "forms": {
+            "base": "launch",
+            "pastSimple": "launched",
+            "pastParticiple": "launched",
+            "presentParticiple": "launching",
+            "thirdPerson": "launches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "start",
+            "release"
+        ],
+        "explanation": "Começar algo grande ou enviar um foguete/navio.",
+        "examples": [
+            {
+                "en": "They launched a new product.",
+                "pt": "Eles lançaram um novo produto."
+            }
+        ]
+    },
+    "lay": {
+        "infinitive": "lay",
+        "translation": "pôr, colocar (com cuidado/ deitado)",
+        "forms": {
+            "base": "lay",
+            "pastSimple": "laid",
+            "pastParticiple": "laid",
+            "presentParticiple": "laying",
+            "thirdPerson": "lays"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "put",
+            "place"
+        ],
+        "explanation": "Colocar algo em uma posição horizontal. Diferente de 'Lie' (deitar-se).",
+        "examples": [
+            {
+                "en": "Lay the baby on the bed.",
+                "pt": "Coloque o bebê na cama."
+            }
+        ]
+    },
+    "layer": {
+        "infinitive": "layer",
+        "translation": "fazer camadas",
+        "forms": {
+            "base": "layer",
+            "pastSimple": "layered",
+            "pastParticiple": "layered",
+            "presentParticiple": "layering",
+            "thirdPerson": "layers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "coat"
+        ],
+        "explanation": "Colocar em camadas.",
+        "examples": [
+            {
+                "en": "Layer the cake.",
+                "pt": "Faça camadas no bolo."
+            }
+        ]
+    },
+    "lead": {
+        "infinitive": "lead",
+        "translation": "liderar, conduzir",
+        "forms": {
+            "base": "lead",
+            "pastSimple": "led",
+            "pastParticiple": "led",
+            "presentParticiple": "leading",
+            "thirdPerson": "leads"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "guide",
+            "direct"
+        ],
+        "explanation": "Ir na frente para mostrar o caminho ou estar no comando.",
+        "examples": [
+            {
+                "en": "She leads the team.",
+                "pt": "Ela lidera a equipe."
+            }
+        ]
+    },
+    "lean": {
+        "infinitive": "lean",
+        "translation": "inclinar-se, apoiar-se",
+        "forms": {
+            "base": "lean",
+            "pastSimple": "leaned",
+            "pastParticiple": "leaned",
+            "presentParticiple": "leaning",
+            "thirdPerson": "leans"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tilt",
+            "rest"
+        ],
+        "explanation": "Mover a parte superior do corpo em uma direção ou apoiar-se contra algo.",
+        "examples": [
+            {
+                "en": "Don't lean on the door.",
+                "pt": "Não se apoie na porta."
+            }
+        ]
+    },
+    "leap": {
+        "infinitive": "leap",
+        "translation": "saltar",
+        "forms": {
+            "base": "leap",
+            "pastSimple": "leapt",
+            "pastParticiple": "leapt",
+            "presentParticiple": "leaping",
+            "thirdPerson": "leaps"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "jump"
+        ],
+        "explanation": "Pular uma grande distância ou altura.",
+        "examples": [
+            {
+                "en": "The frog leaped into the water.",
+                "pt": "O sapo saltou na água."
+            }
+        ]
+    },
+    "learn": {
+        "infinitive": "learn",
+        "translation": "aprender",
+        "forms": {
+            "base": "learn",
+            "pastSimple": "learned",
+            "pastParticiple": "learned",
+            "presentParticiple": "learning",
+            "thirdPerson": "learns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "study"
+        ],
+        "explanation": "Adquirir conhecimento.",
+        "examples": [
+            {
+                "en": "I want to learn French.",
+                "pt": "Quero aprender francês."
+            }
+        ]
+    },
+    "lease": {
+        "infinitive": "lease",
+        "translation": "arrendar, alugar",
+        "forms": {
+            "base": "lease",
+            "pastSimple": "leased",
+            "pastParticiple": "leased",
+            "presentParticiple": "leasing",
+            "thirdPerson": "leases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "rent"
+        ],
+        "explanation": "Alugar propriedade por tempo determinado.",
+        "examples": [
+            {
+                "en": "We lease the car.",
+                "pt": "Nós arrendamos o carro."
+            }
+        ]
+    },
+    "leave": {
+        "infinitive": "leave",
+        "translation": "sair, deixar",
+        "forms": {
+            "base": "leave",
+            "pastSimple": "left",
+            "pastParticiple": "left",
+            "presentParticiple": "leaving",
+            "thirdPerson": "leaves"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "go",
+            "depart"
+        ],
+        "explanation": "Ir embora de um lugar ou permitir que algo permaneça.",
+        "examples": [
+            {
+                "en": "Leave me alone.",
+                "pt": "Me deixe em paz/sozinho."
+            },
+            {
+                "en": "The train leaves at 5.",
+                "pt": "O trem sai às 5."
+            }
+        ]
+    },
+    "leave out": {
+        "infinitive": "leave out",
+        "translation": "deixar de fora, omitir",
+        "forms": {
+            "base": "leave out",
+            "pastSimple": "left out",
+            "pastParticiple": "left out",
+            "presentParticiple": "leaving out",
+            "thirdPerson": "leaves out"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "omit",
+            "exclude"
+        ],
+        "explanation": "Não incluir.",
+        "examples": [
+            {
+                "en": "Don't leave me out.",
+                "pt": "Não me deixe de fora."
+            }
+        ]
+    },
+    "lecture": {
+        "infinitive": "lecture",
+        "translation": "palestrar, dar sermão",
+        "forms": {
+            "base": "lecture",
+            "pastSimple": "lectured",
+            "pastParticiple": "lectured",
+            "presentParticiple": "lecturing",
+            "thirdPerson": "lectures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sermonize",
+            "teach"
+        ],
+        "explanation": "Ensinar formalmente ou criticar.",
+        "examples": [
+            {
+                "en": "Don't lecture me.",
+                "pt": "Não me dê sermão."
+            }
+        ]
+    },
+    "lend": {
+        "infinitive": "lend",
+        "translation": "emprestar (dar)",
+        "forms": {
+            "base": "lend",
+            "pastSimple": "lent",
+            "pastParticiple": "lent",
+            "presentParticiple": "lending",
+            "thirdPerson": "lends"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "loan"
+        ],
+        "explanation": "Dar algo a alguém temporariamente. O oposto de 'Borrow' (pegar emprestado).",
+        "examples": [
+            {
+                "en": "Can you lend me a pen?",
+                "pt": "Pode me emprestar uma caneta?"
+            }
+        ]
+    },
+    "lengthen": {
+        "infinitive": "lengthen",
+        "translation": "alongar",
+        "forms": {
+            "base": "lengthen",
+            "pastSimple": "lengthened",
+            "pastParticiple": "lengthened",
+            "presentParticiple": "lengthening",
+            "thirdPerson": "lengthens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "prolong",
+            "extend"
+        ],
+        "explanation": "Tornar mais longo.",
+        "examples": [
+            {
+                "en": "Lengthen the dress.",
+                "pt": "Alongue o vestido."
+            }
+        ]
+    },
+    "lessen": {
+        "infinitive": "lessen",
+        "translation": "diminuir, reduzir",
+        "forms": {
+            "base": "lessen",
+            "pastSimple": "lessened",
+            "pastParticiple": "lessened",
+            "presentParticiple": "lessening",
+            "thirdPerson": "lessens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "reduce",
+            "decrease"
+        ],
+        "explanation": "Tornar menor ou mais fraco.",
+        "examples": [
+            {
+                "en": "The pain lessened.",
+                "pt": "A dor diminuiu."
+            }
+        ]
+    },
+    "let": {
+        "infinitive": "let",
+        "translation": "deixar, permitir",
+        "forms": {
+            "base": "let",
+            "pastSimple": "let",
+            "pastParticiple": "let",
+            "presentParticiple": "letting",
+            "thirdPerson": "lets"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "allow",
+            "permit"
+        ],
+        "explanation": "Permitir que algo aconteça.",
+        "examples": [
+            {
+                "en": "Let it go.",
+                "pt": "Deixe ir (esqueça)."
+            }
+        ]
+    },
+    "let go": {
+        "infinitive": "let go",
+        "translation": "soltar",
+        "forms": {
+            "base": "let go",
+            "pastSimple": "let go",
+            "pastParticiple": "let go",
+            "presentParticiple": "letting go",
+            "thirdPerson": "lets go"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "release"
+        ],
+        "explanation": "Parar de segurar.",
+        "examples": [
+            {
+                "en": "Let go of my hand.",
+                "pt": "Solte minha mão."
+            }
+        ]
+    },
+    "level": {
+        "infinitive": "level",
+        "translation": "nivelar",
+        "forms": {
+            "base": "level",
+            "pastSimple": "leveled",
+            "pastParticiple": "leveled",
+            "presentParticiple": "leveling",
+            "thirdPerson": "levels"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "even"
+        ],
+        "explanation": "Tornar plano e horizontal.",
+        "examples": [
+            {
+                "en": "Level the ground.",
+                "pt": "Nivele o chão."
+            }
+        ]
+    },
+    "license": {
+        "infinitive": "license",
+        "translation": "licenciar",
+        "forms": {
+            "base": "license",
+            "pastSimple": "licensed",
+            "pastParticiple": "licensed",
+            "presentParticiple": "licensing",
+            "thirdPerson": "licenses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "authorize"
+        ],
+        "explanation": "Dar permissão oficial.",
+        "examples": [
+            {
+                "en": "The restaurant is licensed to sell alcohol.",
+                "pt": "O restaurante é licenciado para vender álcool."
+            }
+        ]
+    },
+    "lick": {
+        "infinitive": "lick",
+        "translation": "lamber",
+        "forms": {
+            "base": "lick",
+            "pastSimple": "licked",
+            "pastParticiple": "licked",
+            "presentParticiple": "licking",
+            "thirdPerson": "licks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Passar a língua sobre algo.",
+        "examples": [
+            {
+                "en": "The dog licked my hand.",
+                "pt": "O cachorro lambeu minha mão."
+            }
+        ]
+    },
+    "lie": {
+        "infinitive": "lie",
+        "translation": "mentir, deitar",
+        "forms": {
+            "base": "lie",
+            "pastSimple": "lied",
+            "pastParticiple": "lied",
+            "presentParticiple": "lying",
+            "thirdPerson": "lies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "irregular",
+            "common"
+        ],
+        "related": [],
+        "explanation": "Atenção: 'Lie' (mentir) é regular (lied/lied). 'Lie' (deitar) é irregular (lay/lain).",
+        "examples": [
+            {
+                "en": "Don't lie to me.",
+                "pt": "Não minta para mim."
+            },
+            {
+                "en": "I need to lie down.",
+                "pt": "Preciso deitar."
+            }
+        ]
+    },
+    "lift": {
+        "infinitive": "lift",
+        "translation": "elevar, levantar",
+        "forms": {
+            "base": "lift",
+            "pastSimple": "lifted",
+            "pastParticiple": "lifted",
+            "presentParticiple": "lifting",
+            "thirdPerson": "lifts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "raise"
+        ],
+        "explanation": "Mover para uma posição mais alta.",
+        "examples": [
+            {
+                "en": "Lift the box.",
+                "pt": "Levante a caixa."
+            }
+        ]
+    },
+    "light": {
+        "infinitive": "light",
+        "translation": "acender, iluminar",
+        "forms": {
+            "base": "light",
+            "pastSimple": "lit",
+            "pastParticiple": "lit",
+            "presentParticiple": "lighting",
+            "thirdPerson": "lights"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "ignite"
+        ],
+        "explanation": "Fazer pegar fogo ou fornecer luz.",
+        "examples": [
+            {
+                "en": "Light the candle.",
+                "pt": "Acenda a vela."
+            }
+        ]
+    },
+    "light up": {
+        "infinitive": "light up",
+        "translation": "iluminar, acender",
+        "forms": {
+            "base": "light up",
+            "pastSimple": "lit up",
+            "pastParticiple": "lit up",
+            "presentParticiple": "lighting up",
+            "thirdPerson": "lights up"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "brighten",
+            "illuminate"
+        ],
+        "explanation": "Tornar luminoso ou feliz.",
+        "examples": [
+            {
+                "en": "His face lit up.",
+                "pt": "O rosto dele se iluminou."
+            }
+        ]
+    },
+    "lighten": {
+        "infinitive": "lighten",
+        "translation": "clarear, aliviar",
+        "forms": {
+            "base": "lighten",
+            "pastSimple": "lightened",
+            "pastParticiple": "lightened",
+            "presentParticiple": "lightening",
+            "thirdPerson": "lightens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "brighten"
+        ],
+        "explanation": "Tornar mais claro ou menos pesado.",
+        "examples": [
+            {
+                "en": "The sky lightened.",
+                "pt": "O céu clareou."
+            }
+        ]
+    },
+    "like": {
+        "infinitive": "like",
+        "translation": "gostar",
+        "forms": {
+            "base": "like",
+            "pastSimple": "liked",
+            "pastParticiple": "liked",
+            "presentParticiple": "liking",
+            "thirdPerson": "likes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "enjoy",
+            "admire"
+        ],
+        "explanation": "Achar agradável ou atraente.",
+        "examples": [
+            {
+                "en": "I like pizza.",
+                "pt": "Eu gosto de pizza."
+            },
+            {
+                "en": "Would you like some coffee?",
+                "pt": "Você gostaria de um pouco de café?"
+            }
+        ]
+    },
+    "line up": {
+        "infinitive": "line up",
+        "translation": "alinhar, fazer fila",
+        "forms": {
+            "base": "line up",
+            "pastSimple": "lined up",
+            "pastParticiple": "lined up",
+            "presentParticiple": "lining up",
+            "thirdPerson": "lines up"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "align"
+        ],
+        "explanation": "Formar uma linha ou fila.",
+        "examples": [
+            {
+                "en": "Line up here.",
+                "pt": "Façam fila aqui."
+            }
+        ]
+    },
+    "link": {
+        "infinitive": "link",
+        "translation": "ligar, conectar",
+        "forms": {
+            "base": "link",
+            "pastSimple": "linked",
+            "pastParticiple": "linked",
+            "presentParticiple": "linking",
+            "thirdPerson": "links"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "connect",
+            "join"
+        ],
+        "explanation": "Fazer conexão entre dois itens.",
+        "examples": [
+            {
+                "en": "The bridge links the cities.",
+                "pt": "A ponte liga as cidades."
+            }
+        ]
+    },
+    "list": {
+        "infinitive": "list",
+        "translation": "listar",
+        "forms": {
+            "base": "list",
+            "pastSimple": "listed",
+            "pastParticiple": "listed",
+            "presentParticiple": "listing",
+            "thirdPerson": "lists"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "record"
+        ],
+        "explanation": "Fazer uma lista.",
+        "examples": [
+            {
+                "en": "List your skills.",
+                "pt": "Liste suas habilidades."
+            }
+        ]
+    },
+    "listen": {
+        "infinitive": "listen",
+        "translation": "escutar",
+        "forms": {
+            "base": "listen",
+            "pastSimple": "listened",
+            "pastParticiple": "listened",
+            "presentParticiple": "listening",
+            "thirdPerson": "listens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "hear"
+        ],
+        "explanation": "Prestar atenção ao som.",
+        "examples": [
+            {
+                "en": "Listen to me.",
+                "pt": "Me escute."
+            }
+        ]
+    },
+    "live": {
+        "infinitive": "live",
+        "translation": "viver, morar",
+        "forms": {
+            "base": "live",
+            "pastSimple": "lived",
+            "pastParticiple": "lived",
+            "presentParticiple": "living",
+            "thirdPerson": "lives"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "reside"
+        ],
+        "explanation": "Estar vivo ou ter residência em.",
+        "examples": [
+            {
+                "en": "Where do you live?",
+                "pt": "Onde você mora?"
+            }
+        ]
+    },
+    "load": {
+        "infinitive": "load",
+        "translation": "carregar",
+        "forms": {
+            "base": "load",
+            "pastSimple": "loaded",
+            "pastParticiple": "loaded",
+            "presentParticiple": "loading",
+            "thirdPerson": "loads"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "fill"
+        ],
+        "explanation": "Colocar carga ou preparar (arma, programa).",
+        "examples": [
+            {
+                "en": "The page is loading.",
+                "pt": "A página está carregando."
+            }
+        ]
+    },
+    "loan": {
+        "infinitive": "loan",
+        "translation": "emprestar (dinheiro)",
+        "forms": {
+            "base": "loan",
+            "pastSimple": "loaned",
+            "pastParticiple": "loaned",
+            "presentParticiple": "loaning",
+            "thirdPerson": "loans"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "lend"
+        ],
+        "explanation": "Dar algo temporariamente, geralmente dinheiro.",
+        "examples": [
+            {
+                "en": "The bank loaned him money.",
+                "pt": "O banco emprestou dinheiro a ele."
+            }
+        ]
+    },
+    "loathe": {
+        "infinitive": "loathe",
+        "translation": "abominar, detestar",
+        "forms": {
+            "base": "loathe",
+            "pastSimple": "loathed",
+            "pastParticiple": "loathed",
+            "presentParticiple": "loathing",
+            "thirdPerson": "loathes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hate",
+            "detest"
+        ],
+        "explanation": "Sentir nojo ou ódio intenso.",
+        "examples": [
+            {
+                "en": "I loathe spinach.",
+                "pt": "Eu detesto espinafre."
+            }
+        ]
+    },
+    "locate": {
+        "infinitive": "locate",
+        "translation": "localizar",
+        "forms": {
+            "base": "locate",
+            "pastSimple": "located",
+            "pastParticiple": "located",
+            "presentParticiple": "locating",
+            "thirdPerson": "locates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "find"
+        ],
+        "explanation": "Descobrir onde algo está.",
+        "examples": [
+            {
+                "en": "We located the error.",
+                "pt": "Localizamos o erro."
+            }
+        ]
+    },
+    "lock": {
+        "infinitive": "lock",
+        "translation": "trancar",
+        "forms": {
+            "base": "lock",
+            "pastSimple": "locked",
+            "pastParticiple": "locked",
+            "presentParticiple": "locking",
+            "thirdPerson": "locks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "secure"
+        ],
+        "explanation": "Fechar com chave.",
+        "examples": [
+            {
+                "en": "Lock the door.",
+                "pt": "Tranque a porta."
+            }
+        ]
+    },
+    "long": {
+        "infinitive": "long",
+        "translation": "ansiar",
+        "forms": {
+            "base": "long",
+            "pastSimple": "longed",
+            "pastParticiple": "longed",
+            "presentParticiple": "longing",
+            "thirdPerson": "longs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "desire",
+            "yearn"
+        ],
+        "explanation": "Querer muito algo.",
+        "examples": [
+            {
+                "en": "She longed for peace.",
+                "pt": "Ela ansiava por paz."
+            }
+        ]
+    },
+    "long for": {
+        "infinitive": "long for",
+        "translation": "ansiar por",
+        "forms": {
+            "base": "long for",
+            "pastSimple": "longed for",
+            "pastParticiple": "longed for",
+            "presentParticiple": "longing for",
+            "thirdPerson": "longs for"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "crave",
+            "desire"
+        ],
+        "explanation": "Desejar muito algo.",
+        "examples": [
+            {
+                "en": "She longs for peace.",
+                "pt": "Ela anseia por paz."
+            }
+        ]
+    },
+    "look": {
+        "infinitive": "look",
+        "translation": "olhar, parecer",
+        "forms": {
+            "base": "look",
+            "pastSimple": "looked",
+            "pastParticiple": "looked",
+            "presentParticiple": "looking",
+            "thirdPerson": "looks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "see",
+            "watch"
+        ],
+        "explanation": "Direcionar os olhos ou ter aparência.",
+        "examples": [
+            {
+                "en": "Look at me.",
+                "pt": "Olhe para mim."
+            },
+            {
+                "en": "You look happy.",
+                "pt": "Você parece feliz."
+            }
+        ]
+    },
+    "look after": {
+        "infinitive": "look after",
+        "translation": "cuidar de",
+        "forms": {
+            "base": "look after",
+            "pastSimple": "looked after",
+            "pastParticiple": "looked after",
+            "presentParticiple": "looking after",
+            "thirdPerson": "looks after"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "care",
+            "tend"
+        ],
+        "explanation": "Tomar conta de alguém ou algo.",
+        "examples": [
+            {
+                "en": "Look after your sister.",
+                "pt": "Cuide da sua irmã."
+            }
+        ]
+    },
+    "look at": {
+        "infinitive": "look at",
+        "translation": "olhar para",
+        "forms": {
+            "base": "look at",
+            "pastSimple": "looked at",
+            "pastParticiple": "looked at",
+            "presentParticiple": "looking at",
+            "thirdPerson": "looks at"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "watch",
+            "observe"
+        ],
+        "explanation": "Dirigir os olhos para algo.",
+        "examples": [
+            {
+                "en": "Look at me.",
+                "pt": "Olhe para mim."
+            }
+        ]
+    },
+    "lose": {
+        "infinitive": "lose",
+        "translation": "perder",
+        "forms": {
+            "base": "lose",
+            "pastSimple": "lost",
+            "pastParticiple": "lost",
+            "presentParticiple": "losing",
+            "thirdPerson": "loses"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "misplace"
+        ],
+        "explanation": "Não ter mais algo ou ser derrotado.",
+        "examples": [
+            {
+                "en": "I lost my phone.",
+                "pt": "Perdi meu telefone."
+            },
+            {
+                "en": "We lost the game.",
+                "pt": "Perdemos o jogo."
+            }
+        ]
+    },
+    "love": {
+        "infinitive": "love",
+        "translation": "amar",
+        "forms": {
+            "base": "love",
+            "pastSimple": "loved",
+            "pastParticiple": "loved",
+            "presentParticiple": "loving",
+            "thirdPerson": "loves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "adore"
+        ],
+        "explanation": "Sentir grande afeto.",
+        "examples": [
+            {
+                "en": "I love you.",
+                "pt": "Eu te amo."
+            }
+        ]
+    },
+    "lower": {
+        "infinitive": "lower",
+        "translation": "abaixar, diminuir",
+        "forms": {
+            "base": "lower",
+            "pastSimple": "lowered",
+            "pastParticiple": "lowered",
+            "presentParticiple": "lowering",
+            "thirdPerson": "lowers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "drop",
+            "reduce"
+        ],
+        "explanation": "Mover para baixo ou reduzir.",
+        "examples": [
+            {
+                "en": "Lower your voice.",
+                "pt": "Abaixe sua voz."
+            }
+        ]
+    },
+    "lubricate": {
+        "infinitive": "lubricate",
+        "translation": "lubrificar",
+        "forms": {
+            "base": "lubricate",
+            "pastSimple": "lubricated",
+            "pastParticiple": "lubricated",
+            "presentParticiple": "lubricating",
+            "thirdPerson": "lubricates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "oil",
+            "grease"
+        ],
+        "explanation": "Aplicar óleo ou graxa para suavizar movimento.",
+        "examples": [
+            {
+                "en": "Lubricate the hinges.",
+                "pt": "Lubrifique as dobradiças."
+            }
+        ]
+    },
+    "lure": {
+        "infinitive": "lure",
+        "translation": "atrair (isca)",
+        "forms": {
+            "base": "lure",
+            "pastSimple": "lured",
+            "pastParticiple": "lured",
+            "presentParticiple": "luring",
+            "thirdPerson": "lures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "attract",
+            "entice"
+        ],
+        "explanation": "Atrair animal ou pessoa para uma armadilha.",
+        "examples": [
+            {
+                "en": "Cheese lures mice.",
+                "pt": "Queijo atrai ratos."
+            }
+        ]
+    },
+    "lurk": {
+        "infinitive": "lurk",
+        "translation": "espreitar",
+        "forms": {
+            "base": "lurk",
+            "pastSimple": "lurked",
+            "pastParticiple": "lurked",
+            "presentParticiple": "lurking",
+            "thirdPerson": "lurks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "skulk",
+            "hide"
+        ],
+        "explanation": "Esperar escondido para atacar.",
+        "examples": [
+            {
+                "en": "Dangers lurk everywhere.",
+                "pt": "Perigos espreitam em todo lugar."
+            }
+        ]
+    }
+}

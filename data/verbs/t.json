@@ -1,0 +1,2255 @@
+{
+    "tackle": {
+        "infinitive": "tackle",
+        "translation": "enfrentar, abordar",
+        "forms": {
+            "base": "tackle",
+            "pastSimple": "tackled",
+            "pastParticiple": "tackled",
+            "presentParticiple": "tackling",
+            "thirdPerson": "tackles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "confront",
+            "handle"
+        ],
+        "explanation": "Lidar com um problema ou derrubar oponente.",
+        "examples": [
+            {
+                "en": "Tackle the issue.",
+                "pt": "Enfrente o problema."
+            }
+        ]
+    },
+    "tag": {
+        "infinitive": "tag",
+        "translation": "etiquetar, marcar",
+        "forms": {
+            "base": "tag",
+            "pastSimple": "tagged",
+            "pastParticiple": "tagged",
+            "presentParticiple": "tagging",
+            "thirdPerson": "tags"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "label",
+            "mark"
+        ],
+        "explanation": "Colocar uma etiqueta ou marcar alguém.",
+        "examples": [
+            {
+                "en": "Tag the photo.",
+                "pt": "Marque a foto."
+            }
+        ]
+    },
+    "take": {
+        "infinitive": "take",
+        "translation": "pegar/levar",
+        "forms": {
+            "base": "take",
+            "pastSimple": "took",
+            "pastParticiple": "taken",
+            "presentParticiple": "taking",
+            "thirdPerson": "takes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "bring",
+            "carry",
+            "get",
+            "grab"
+        ],
+        "explanation": "'Take' indica movimento com algo do ponto atual para outro lugar. Compare: 'take' (levar para lá) vs 'bring' (trazer para cá). Muito usado em expressões: 'take a shower', 'take a photo', 'take time'.",
+        "examples": [
+            {
+                "en": "Take your umbrella, it might rain.",
+                "pt": "Leve seu guarda-chuva, pode chover."
+            },
+            {
+                "en": "How long does it take to get there?",
+                "pt": "Quanto tempo leva para chegar lá?"
+            },
+            {
+                "en": "She took a deep breath and smiled.",
+                "pt": "Ela respirou fundo e sorriu."
+            }
+        ]
+    },
+    "take away": {
+        "infinitive": "take away",
+        "translation": "levar embora, tirar",
+        "forms": {
+            "base": "take away",
+            "pastSimple": "took away",
+            "pastParticiple": "taken away",
+            "presentParticiple": "taking away",
+            "thirdPerson": "takes away"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "remove"
+        ],
+        "explanation": "Remover algo de um lugar.",
+        "examples": [
+            {
+                "en": "Take away the trash.",
+                "pt": "Leve o lixo embora."
+            }
+        ]
+    },
+    "take on": {
+        "infinitive": "take on",
+        "translation": "assumir, enfrentar",
+        "forms": {
+            "base": "take on",
+            "pastSimple": "took on",
+            "pastParticiple": "taken on",
+            "presentParticiple": "taking on",
+            "thirdPerson": "takes on"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "assume",
+            "challenge"
+        ],
+        "explanation": "Aceitar responsabilidade ou competir contra.",
+        "examples": [
+            {
+                "en": "He took on the job.",
+                "pt": "Ele assumiu o trabalho."
+            }
+        ]
+    },
+    "take place": {
+        "infinitive": "take place",
+        "translation": "ocorrer, acontecer",
+        "forms": {
+            "base": "take place",
+            "pastSimple": "took place",
+            "pastParticiple": "taken place",
+            "presentParticiple": "taking place",
+            "thirdPerson": "takes place"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "occur",
+            "happen"
+        ],
+        "explanation": "Acontecer em tempo/lugar específico.",
+        "examples": [
+            {
+                "en": "The event takes place today.",
+                "pt": "O evento ocorre hoje."
+            }
+        ]
+    },
+    "talk": {
+        "infinitive": "talk",
+        "translation": "conversar",
+        "forms": {
+            "base": "talk",
+            "pastSimple": "talked",
+            "pastParticiple": "talked",
+            "presentParticiple": "talking",
+            "thirdPerson": "talks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal",
+            "essential"
+        ],
+        "related": [
+            "speak",
+            "say",
+            "tell"
+        ],
+        "explanation": "'Talk' é mais informal e implica conversa. 'Talk about' = falar sobre. 'Talk to' = falar com.",
+        "examples": [
+            {
+                "en": "Can we talk?",
+                "pt": "Podemos conversar?"
+            },
+            {
+                "en": "They talked for hours.",
+                "pt": "Eles conversaram por horas."
+            },
+            {
+                "en": "What are you talking about?",
+                "pt": "Do que você está falando?"
+            }
+        ]
+    },
+    "talk about": {
+        "infinitive": "talk about",
+        "translation": "falar sobre",
+        "forms": {
+            "base": "talk about",
+            "pastSimple": "talked about",
+            "pastParticiple": "talked about",
+            "presentParticiple": "talking about",
+            "thirdPerson": "talks about"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "discuss"
+        ],
+        "explanation": "Discutir um assunto.",
+        "examples": [
+            {
+                "en": "Let's talk about it.",
+                "pt": "Vamos falar sobre isso."
+            }
+        ]
+    },
+    "tally": {
+        "infinitive": "tally",
+        "translation": "contar, conferir",
+        "forms": {
+            "base": "tally",
+            "pastSimple": "tallied",
+            "pastParticiple": "tallied",
+            "presentParticiple": "tallying",
+            "thirdPerson": "tallies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "count",
+            "match"
+        ],
+        "explanation": "Contar pontos ou concordar.",
+        "examples": [
+            {
+                "en": "Tally the votes.",
+                "pt": "Conte os votos."
+            }
+        ]
+    },
+    "tame": {
+        "infinitive": "tame",
+        "translation": "domesticar, amansar",
+        "forms": {
+            "base": "tame",
+            "pastSimple": "tamed",
+            "pastParticiple": "tamed",
+            "presentParticiple": "taming",
+            "thirdPerson": "tames"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "train",
+            "calm"
+        ],
+        "explanation": "Tornar um animal selvagem dócil ou acostumado com humanos.",
+        "examples": [
+            {
+                "en": "It's hard to tame a lion.",
+                "pt": "É difícil domesticar um leão."
+            }
+        ]
+    },
+    "tap": {
+        "infinitive": "tap",
+        "translation": "bater levemente, explorar",
+        "forms": {
+            "base": "tap",
+            "pastSimple": "tapped",
+            "pastParticiple": "tapped",
+            "presentParticiple": "tapping",
+            "thirdPerson": "taps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "knock",
+            "hit"
+        ],
+        "explanation": "Bater de leve em algo; ou usar um recurso.",
+        "examples": [
+            {
+                "en": "He tapped on the window.",
+                "pt": "Ele bateu levemente na janela."
+            }
+        ]
+    },
+    "tape": {
+        "infinitive": "tape",
+        "translation": "colar com fita, gravar",
+        "forms": {
+            "base": "tape",
+            "pastSimple": "taped",
+            "pastParticiple": "taped",
+            "presentParticiple": "taping",
+            "thirdPerson": "tapes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "record",
+            "bind"
+        ],
+        "explanation": "Prender com fita adesiva ou gravar áudio/vídeo.",
+        "examples": [
+            {
+                "en": "Tape the box.",
+                "pt": "Passe fita na caixa."
+            }
+        ]
+    },
+    "target": {
+        "infinitive": "target",
+        "translation": "visar, alvejar",
+        "forms": {
+            "base": "target",
+            "pastSimple": "targeted",
+            "pastParticiple": "targeted",
+            "presentParticiple": "targeting",
+            "thirdPerson": "targets"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "aim"
+        ],
+        "explanation": "Escolher como alvo.",
+        "examples": [
+            {
+                "en": "Target the audience.",
+                "pt": "Vise o público."
+            }
+        ]
+    },
+    "taste": {
+        "infinitive": "taste",
+        "translation": "provar, ter gosto",
+        "forms": {
+            "base": "taste",
+            "pastSimple": "tasted",
+            "pastParticiple": "tasted",
+            "presentParticiple": "tasting",
+            "thirdPerson": "tastes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "flavor",
+            "savor"
+        ],
+        "explanation": "Sentir o sabor de algo ou ter um sabor específico.",
+        "examples": [
+            {
+                "en": "Taste this soup.",
+                "pt": "Prove esta sopa."
+            },
+            {
+                "en": "It tastes sweet.",
+                "pt": "Tem gosto doce."
+            }
+        ]
+    },
+    "taunt": {
+        "infinitive": "taunt",
+        "translation": "provocar, zombar",
+        "forms": {
+            "base": "taunt",
+            "pastSimple": "taunted",
+            "pastParticiple": "taunted",
+            "presentParticiple": "taunting",
+            "thirdPerson": "taunts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mock",
+            "tease"
+        ],
+        "explanation": "Provocar alguém com insultos.",
+        "examples": [
+            {
+                "en": "They taunted him.",
+                "pt": "Eles o provocaram."
+            }
+        ]
+    },
+    "teach": {
+        "infinitive": "teach",
+        "translation": "ensinar",
+        "forms": {
+            "base": "teach",
+            "pastSimple": "taught",
+            "pastParticiple": "taught",
+            "presentParticiple": "teaching",
+            "thirdPerson": "teaches"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "instruct",
+            "educate"
+        ],
+        "explanation": "Dar conhecimento ou instrução a alguém.",
+        "examples": [
+            {
+                "en": "She teaches English.",
+                "pt": "Ela ensina inglês."
+            }
+        ]
+    },
+    "tear": {
+        "infinitive": "tear",
+        "translation": "rasgar, chorar",
+        "forms": {
+            "base": "tear",
+            "pastSimple": "tore",
+            "pastParticiple": "torn",
+            "presentParticiple": "tearing",
+            "thirdPerson": "tears"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "rip",
+            "shred"
+        ],
+        "explanation": "Separar algo com força, danificando-o.",
+        "examples": [
+            {
+                "en": "He tore the letter.",
+                "pt": "Ele rasgou a carta."
+            }
+        ]
+    },
+    "tease": {
+        "infinitive": "tease",
+        "translation": "provocar, zombar",
+        "forms": {
+            "base": "tease",
+            "pastSimple": "teased",
+            "pastParticiple": "teased",
+            "presentParticiple": "teasing",
+            "thirdPerson": "teases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mock",
+            "taunt"
+        ],
+        "explanation": "Rir de alguém ou chatear por diversão.",
+        "examples": [
+            {
+                "en": "Don't tease your brother.",
+                "pt": "Não provoque seu irmão."
+            }
+        ]
+    },
+    "telephone": {
+        "infinitive": "telephone",
+        "translation": "telefonar",
+        "forms": {
+            "base": "telephone",
+            "pastSimple": "telephoned",
+            "pastParticiple": "telephoned",
+            "presentParticiple": "telephoning",
+            "thirdPerson": "telephones"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "call",
+            "ring"
+        ],
+        "explanation": "Ligar para alguém usando um telefone.",
+        "examples": [
+            {
+                "en": "Please telephone me later.",
+                "pt": "Por favor, me telefone mais tarde."
+            }
+        ]
+    },
+    "tell": {
+        "infinitive": "tell",
+        "translation": "contar/dizer",
+        "forms": {
+            "base": "tell",
+            "pastSimple": "told",
+            "pastParticiple": "told",
+            "presentParticiple": "telling",
+            "thirdPerson": "tells"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "say",
+            "speak",
+            "talk"
+        ],
+        "explanation": "'Tell' precisa de objeto indireto ('tell someone'). 'Say' não precisa.",
+        "examples": [
+            {
+                "en": "Tell me the truth.",
+                "pt": "Diga-me a verdade."
+            },
+            {
+                "en": "She told me a story.",
+                "pt": "Ela me contou uma história."
+            },
+            {
+                "en": "I told you so.",
+                "pt": "Eu te disse."
+            }
+        ]
+    },
+    "tell off": {
+        "infinitive": "tell off",
+        "translation": "dar bronca",
+        "forms": {
+            "base": "tell off",
+            "pastSimple": "told off",
+            "pastParticiple": "told off",
+            "presentParticiple": "telling off",
+            "thirdPerson": "tells off"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "scold",
+            "reprimand"
+        ],
+        "explanation": "Falar com raiva por algo errado.",
+        "examples": [
+            {
+                "en": "She told him off.",
+                "pt": "Ela deu uma bronca nele."
+            }
+        ]
+    },
+    "tempt": {
+        "infinitive": "tempt",
+        "translation": "tentar, atrair",
+        "forms": {
+            "base": "tempt",
+            "pastSimple": "tempted",
+            "pastParticiple": "tempted",
+            "presentParticiple": "tempting",
+            "thirdPerson": "tempts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "lure",
+            "entice"
+        ],
+        "explanation": "Fazer alguém querer algo, muitas vezes algo errado.",
+        "examples": [
+            {
+                "en": "The cake tempted me.",
+                "pt": "O bolo me tentou."
+            }
+        ]
+    },
+    "tend": {
+        "infinitive": "tend",
+        "translation": "tender, cuidar",
+        "forms": {
+            "base": "tend",
+            "pastSimple": "tended",
+            "pastParticiple": "tended",
+            "presentParticiple": "tending",
+            "thirdPerson": "tends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "incline",
+            "care"
+        ],
+        "explanation": "Ter propensão a fazer algo; ou cuidar de alguém.",
+        "examples": [
+            {
+                "en": "He tends to be late.",
+                "pt": "Ele tende a se atrasar."
+            },
+            {
+                "en": "She tends the garden.",
+                "pt": "Ela cuida do jardim."
+            }
+        ]
+    },
+    "terrify": {
+        "infinitive": "terrify",
+        "translation": "apavorar",
+        "forms": {
+            "base": "terrify",
+            "pastSimple": "terrified",
+            "pastParticiple": "terrified",
+            "presentParticiple": "terrifying",
+            "thirdPerson": "terrifies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "frighten",
+            "scare"
+        ],
+        "explanation": "Causar medo extremo.",
+        "examples": [
+            {
+                "en": "Heights terrify me.",
+                "pt": "Alturas me apavoram."
+            }
+        ]
+    },
+    "test": {
+        "infinitive": "test",
+        "translation": "testar",
+        "forms": {
+            "base": "test",
+            "pastSimple": "tested",
+            "pastParticiple": "tested",
+            "presentParticiple": "testing",
+            "thirdPerson": "tests"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "exam",
+            "check"
+        ],
+        "explanation": "Verificar a qualidade ou habilidade de algo/alguém.",
+        "examples": [
+            {
+                "en": "They tested the new car.",
+                "pt": "Eles testaram o carro novo."
+            }
+        ]
+    },
+    "text": {
+        "infinitive": "text",
+        "translation": "enviar mensagem (texto)",
+        "forms": {
+            "base": "text",
+            "pastSimple": "texted",
+            "pastParticiple": "texted",
+            "presentParticiple": "texting",
+            "thirdPerson": "texts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "message"
+        ],
+        "explanation": "Mandar SMS ou mensagem digital.",
+        "examples": [
+            {
+                "en": "Text me later.",
+                "pt": "Me mande mensagem depois."
+            }
+        ]
+    },
+    "thank": {
+        "infinitive": "thank",
+        "translation": "agradecer",
+        "forms": {
+            "base": "thank",
+            "pastSimple": "thanked",
+            "pastParticiple": "thanked",
+            "presentParticiple": "thanking",
+            "thirdPerson": "thanks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "appreciate"
+        ],
+        "explanation": "Expressar gratidão a alguém.",
+        "examples": [
+            {
+                "en": "I thanked him for the gift.",
+                "pt": "Agradeci a ele pelo presente."
+            }
+        ]
+    },
+    "thaw": {
+        "infinitive": "thaw",
+        "translation": "descongelar",
+        "forms": {
+            "base": "thaw",
+            "pastSimple": "thawed",
+            "pastParticiple": "thawed",
+            "presentParticiple": "thawing",
+            "thirdPerson": "thaws"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "melt",
+            "defrost"
+        ],
+        "explanation": "Tornar-se líquido ou macio após estar congelado.",
+        "examples": [
+            {
+                "en": "The ice is thawing.",
+                "pt": "O gelo está descongelando."
+            }
+        ]
+    },
+    "think": {
+        "infinitive": "think",
+        "translation": "pensar",
+        "forms": {
+            "base": "think",
+            "pastSimple": "thought",
+            "pastParticiple": "thought",
+            "presentParticiple": "thinking",
+            "thirdPerson": "thinks"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "believe",
+            "consider",
+            "imagine",
+            "suppose"
+        ],
+        "explanation": "'Think' expressa opinião ('I think it's good'), processo mental ('I'm thinking about it'), ou crença ('I think so'). 'Think of' = lembrar/imaginar. 'Think about' = considerar.",
+        "examples": [
+            {
+                "en": "I think you are right.",
+                "pt": "Eu acho que você está certo."
+            },
+            {
+                "en": "What are you thinking about?",
+                "pt": "No que você está pensando?"
+            },
+            {
+                "en": "She thought it was a great idea.",
+                "pt": "Ela pensou que era uma ótima ideia."
+            }
+        ]
+    },
+    "think about": {
+        "infinitive": "think about",
+        "translation": "pensar em/sobre",
+        "forms": {
+            "base": "think about",
+            "pastSimple": "thought about",
+            "pastParticiple": "thought about",
+            "presentParticiple": "thinking about",
+            "thirdPerson": "thinks about"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "consider",
+            "ponder"
+        ],
+        "explanation": "Considerar na mente.",
+        "examples": [
+            {
+                "en": "I'll think about it.",
+                "pt": "Vou pensar sobre isso."
+            }
+        ]
+    },
+    "thread": {
+        "infinitive": "thread",
+        "translation": "enfiar (linha)",
+        "forms": {
+            "base": "thread",
+            "pastSimple": "threaded",
+            "pastParticiple": "threaded",
+            "presentParticiple": "threading",
+            "thirdPerson": "threads"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "string"
+        ],
+        "explanation": "Passar linha na agulha ou mover-se cuidadosamente.",
+        "examples": [
+            {
+                "en": "Thread the needle.",
+                "pt": "Enfie a linha na agulha."
+            }
+        ]
+    },
+    "thrill": {
+        "infinitive": "thrill",
+        "translation": "emocionar, vibrar",
+        "forms": {
+            "base": "thrill",
+            "pastSimple": "thrilled",
+            "pastParticiple": "thrilled",
+            "presentParticiple": "thrilling",
+            "thirdPerson": "thrills"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "excite"
+        ],
+        "explanation": "Sentir excitação intensa.",
+        "examples": [
+            {
+                "en": "The ride thrilled us.",
+                "pt": "O passeio nos emocionou."
+            }
+        ]
+    },
+    "thrive": {
+        "infinitive": "thrive",
+        "translation": "prosperar",
+        "forms": {
+            "base": "thrive",
+            "pastSimple": "thrived",
+            "pastParticiple": "thrived",
+            "presentParticiple": "thriving",
+            "thirdPerson": "thrives"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "flourish",
+            "succeed"
+        ],
+        "explanation": "Crescer ou se desenvolver bem e com vigor.",
+        "examples": [
+            {
+                "en": "Plants thrive in this soil.",
+                "pt": "Plantas prosperam neste solo."
+            }
+        ]
+    },
+    "throw": {
+        "infinitive": "throw",
+        "translation": "jogar, arremessar",
+        "forms": {
+            "base": "throw",
+            "pastSimple": "threw",
+            "pastParticiple": "thrown",
+            "presentParticiple": "throwing",
+            "thirdPerson": "throws"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "toss",
+            "cast"
+        ],
+        "explanation": "Impulsionar algo pelo ar com a mão.",
+        "examples": [
+            {
+                "en": "Throw me the ball.",
+                "pt": "Jogue a bola para mim."
+            },
+            {
+                "en": "He threw a rock.",
+                "pt": "Ele jogou uma pedra."
+            }
+        ]
+    },
+    "throw away": {
+        "infinitive": "throw away",
+        "translation": "jogar fora",
+        "forms": {
+            "base": "throw away",
+            "pastSimple": "threw away",
+            "pastParticiple": "thrown away",
+            "presentParticiple": "throwing away",
+            "thirdPerson": "throws away"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "discard"
+        ],
+        "explanation": "Descartar algo.",
+        "examples": [
+            {
+                "en": "Throw away the trash.",
+                "pt": "Jogue o lixo fora."
+            }
+        ]
+    },
+    "thrust": {
+        "infinitive": "thrust",
+        "translation": "empurrar com força, enfiar",
+        "forms": {
+            "base": "thrust",
+            "pastSimple": "thrust",
+            "pastParticiple": "thrust",
+            "presentParticiple": "thrusting",
+            "thirdPerson": "thrusts"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "push",
+            "shove"
+        ],
+        "explanation": "Empurrar algo de repente e com força.",
+        "examples": [
+            {
+                "en": "He thrust the money into my hand.",
+                "pt": "Ele enfiou o dinheiro na minha mão."
+            }
+        ]
+    },
+    "tick": {
+        "infinitive": "tick",
+        "translation": "tiquetaquear, marcar",
+        "forms": {
+            "base": "tick",
+            "pastSimple": "ticked",
+            "pastParticiple": "ticked",
+            "presentParticiple": "ticking",
+            "thirdPerson": "ticks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mark"
+        ],
+        "explanation": "O som de um relógio; ou marcar um item em uma lista.",
+        "examples": [
+            {
+                "en": "The clock ticked loudly.",
+                "pt": "O relógio tiquetaqueou alto."
+            }
+        ]
+    },
+    "tickle": {
+        "infinitive": "tickle",
+        "translation": "fazer cócegas",
+        "forms": {
+            "base": "tickle",
+            "pastSimple": "tickled",
+            "pastParticiple": "tickled",
+            "presentParticiple": "tickling",
+            "thirdPerson": "tickles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Tocar alguém de forma leve para fazê-lo rir.",
+        "examples": [
+            {
+                "en": "Stop tickling me!",
+                "pt": "Pare de me fazer cócegas!"
+            }
+        ]
+    },
+    "tidy": {
+        "infinitive": "tidy",
+        "translation": "arrumar, organizar",
+        "forms": {
+            "base": "tidy",
+            "pastSimple": "tidied",
+            "pastParticiple": "tidied",
+            "presentParticiple": "tidying",
+            "thirdPerson": "tidies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "clean",
+            "organize"
+        ],
+        "explanation": "Colocar coisas no lugar.",
+        "examples": [
+            {
+                "en": "Tidy the room.",
+                "pt": "Arrume o quarto."
+            }
+        ]
+    },
+    "tie": {
+        "infinitive": "tie",
+        "translation": "amarrar, dar nó, empatar",
+        "forms": {
+            "base": "tie",
+            "pastSimple": "tied",
+            "pastParticiple": "tied",
+            "presentParticiple": "tying",
+            "thirdPerson": "ties"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bind",
+            "knot"
+        ],
+        "explanation": "Prender com corda ou barbante; ou ter a mesma pontuação.",
+        "examples": [
+            {
+                "en": "Tie your shoes.",
+                "pt": "Amarre seus sapatos."
+            },
+            {
+                "en": "The game ended in a tie.",
+                "pt": "O jogo terminou empatado."
+            }
+        ]
+    },
+    "tighten": {
+        "infinitive": "tighten",
+        "translation": "apertar",
+        "forms": {
+            "base": "tighten",
+            "pastSimple": "tightened",
+            "pastParticiple": "tightened",
+            "presentParticiple": "tightening",
+            "thirdPerson": "tightens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fasten"
+        ],
+        "explanation": "Tornar mais apertado ou firme.",
+        "examples": [
+            {
+                "en": "Tighten the screw.",
+                "pt": "Aperte o parafuso."
+            }
+        ]
+    },
+    "tilt": {
+        "infinitive": "tilt",
+        "translation": "inclinar",
+        "forms": {
+            "base": "tilt",
+            "pastSimple": "tilted",
+            "pastParticiple": "tilted",
+            "presentParticiple": "tilting",
+            "thirdPerson": "tilts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "slant",
+            "lean"
+        ],
+        "explanation": "Mover para posição inclinada.",
+        "examples": [
+            {
+                "en": "Tilt your head.",
+                "pt": "Incline a cabeça."
+            }
+        ]
+    },
+    "time": {
+        "infinitive": "time",
+        "translation": "cronometrar, programar",
+        "forms": {
+            "base": "time",
+            "pastSimple": "timed",
+            "pastParticiple": "timed",
+            "presentParticiple": "timing",
+            "thirdPerson": "times"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "schedule",
+            "measure"
+        ],
+        "explanation": "Medir o tempo de algo; ou escolher o momento certo.",
+        "examples": [
+            {
+                "en": "They timed the race.",
+                "pt": "Eles cronometraram a corrida."
+            }
+        ]
+    },
+    "tip": {
+        "infinitive": "tip",
+        "translation": "inclinar, dar gorjeta",
+        "forms": {
+            "base": "tip",
+            "pastSimple": "tipped",
+            "pastParticiple": "tipped",
+            "presentParticiple": "tipping",
+            "thirdPerson": "tips"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tilt",
+            "reward"
+        ],
+        "explanation": "Mover para uma posição inclinada; ou dar dinheiro extra por serviço.",
+        "examples": [
+            {
+                "en": "Don't tip the chair.",
+                "pt": "Não incline a cadeira."
+            },
+            {
+                "en": "I tipped the waiter.",
+                "pt": "Dei gorjeta ao garçom."
+            }
+        ]
+    },
+    "tire": {
+        "infinitive": "tire",
+        "translation": "cansar",
+        "forms": {
+            "base": "tire",
+            "pastSimple": "tired",
+            "pastParticiple": "tired",
+            "presentParticiple": "tiring",
+            "thirdPerson": "tires"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "exhaust",
+            "weary"
+        ],
+        "explanation": "Perder energia ou ficar entediado.",
+        "examples": [
+            {
+                "en": "The long walk tired me.",
+                "pt": "A longa caminhada me cansou."
+            }
+        ]
+    },
+    "toil": {
+        "infinitive": "toil",
+        "translation": "trabalhar arduamente",
+        "forms": {
+            "base": "toil",
+            "pastSimple": "toiled",
+            "pastParticiple": "toiled",
+            "presentParticiple": "toiling",
+            "thirdPerson": "toils"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "labor",
+            "work"
+        ],
+        "explanation": "Trabalhar muito duro fisicamente.",
+        "examples": [
+            {
+                "en": "Toil in the fields.",
+                "pt": "Labute nos campos."
+            }
+        ]
+    },
+    "tolerate": {
+        "infinitive": "tolerate",
+        "translation": "tolerar",
+        "forms": {
+            "base": "tolerate",
+            "pastSimple": "tolerated",
+            "pastParticiple": "tolerated",
+            "presentParticiple": "tolerating",
+            "thirdPerson": "tolerates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bear",
+            "endure"
+        ],
+        "explanation": "Aceitar algo desagradável sem reclamar.",
+        "examples": [
+            {
+                "en": "I cannot tolerate this.",
+                "pt": "Não posso tolerar isso."
+            }
+        ]
+    },
+    "toss": {
+        "infinitive": "toss",
+        "translation": "arremessar (levemente)",
+        "forms": {
+            "base": "toss",
+            "pastSimple": "tossed",
+            "pastParticiple": "tossed",
+            "presentParticiple": "tossing",
+            "thirdPerson": "tosses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "throw",
+            "flip"
+        ],
+        "explanation": "Jogar algo levemente.",
+        "examples": [
+            {
+                "en": "Toss the coin.",
+                "pt": "Jogue a moeda."
+            }
+        ]
+    },
+    "totter": {
+        "infinitive": "totter",
+        "translation": "cambalear (vacilar)",
+        "forms": {
+            "base": "totter",
+            "pastSimple": "tottered",
+            "pastParticiple": "tottered",
+            "presentParticiple": "tottering",
+            "thirdPerson": "totters"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stagger",
+            "wobble"
+        ],
+        "explanation": "Andar instável quase caindo.",
+        "examples": [
+            {
+                "en": "He tottered on heels.",
+                "pt": "Ele cambaleou nos saltos."
+            }
+        ]
+    },
+    "touch": {
+        "infinitive": "touch",
+        "translation": "tocar",
+        "forms": {
+            "base": "touch",
+            "pastSimple": "touched",
+            "pastParticiple": "touched",
+            "presentParticiple": "touching",
+            "thirdPerson": "touches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "feel",
+            "contact"
+        ],
+        "explanation": "Colocar a mão em algo; ou afetar emocionalmente.",
+        "examples": [
+            {
+                "en": "Don't touch the glass.",
+                "pt": "Não toque no vidro."
+            },
+            {
+                "en": "The story touched me.",
+                "pt": "A história me tocou."
+            }
+        ]
+    },
+    "toughen": {
+        "infinitive": "toughen",
+        "translation": "endurecer",
+        "forms": {
+            "base": "toughen",
+            "pastSimple": "toughened",
+            "pastParticiple": "toughened",
+            "presentParticiple": "toughening",
+            "thirdPerson": "toughens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "harden",
+            "strengthen"
+        ],
+        "explanation": "Tornar mais forte ou duro.",
+        "examples": [
+            {
+                "en": "Exercise toughens you.",
+                "pt": "Exercício te endurece."
+            }
+        ]
+    },
+    "tour": {
+        "infinitive": "tour",
+        "translation": "fazer turismo, visitar",
+        "forms": {
+            "base": "tour",
+            "pastSimple": "toured",
+            "pastParticiple": "toured",
+            "presentParticiple": "touring",
+            "thirdPerson": "tours"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "visit",
+            "sightsee"
+        ],
+        "explanation": "Viajar por um lugar a lazer.",
+        "examples": [
+            {
+                "en": "They toured Europe.",
+                "pt": "Eles fizeram turismo pela Europa."
+            }
+        ]
+    },
+    "tow": {
+        "infinitive": "tow",
+        "translation": "rebocar",
+        "forms": {
+            "base": "tow",
+            "pastSimple": "towed",
+            "pastParticiple": "towed",
+            "presentParticiple": "towing",
+            "thirdPerson": "tows"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pull",
+            "drag"
+        ],
+        "explanation": "Puxar um veículo ou barco com uma corda ou corrente.",
+        "examples": [
+            {
+                "en": "My car was towed.",
+                "pt": "Meu carro foi rebocado."
+            }
+        ]
+    },
+    "trace": {
+        "infinitive": "trace",
+        "translation": "rastrear, traçar",
+        "forms": {
+            "base": "trace",
+            "pastSimple": "traced",
+            "pastParticiple": "traced",
+            "presentParticiple": "tracing",
+            "thirdPerson": "traces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "track",
+            "follow"
+        ],
+        "explanation": "Encontrar a origem de algo ou copiar um desenho.",
+        "examples": [
+            {
+                "en": "Police traced the call.",
+                "pt": "A polícia rastreou a chamada."
+            }
+        ]
+    },
+    "track": {
+        "infinitive": "track",
+        "translation": "rastrear",
+        "forms": {
+            "base": "track",
+            "pastSimple": "tracked",
+            "pastParticiple": "tracked",
+            "presentParticiple": "tracking",
+            "thirdPerson": "tracks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "follow",
+            "trace"
+        ],
+        "explanation": "Seguir o rastro ou progresso.",
+        "examples": [
+            {
+                "en": "Track the package.",
+                "pt": "Rastreie o pacote."
+            }
+        ]
+    },
+    "trade": {
+        "infinitive": "trade",
+        "translation": "comercializar, trocar",
+        "forms": {
+            "base": "trade",
+            "pastSimple": "traded",
+            "pastParticiple": "traded",
+            "presentParticiple": "trading",
+            "thirdPerson": "trades"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "exchange",
+            "swap"
+        ],
+        "explanation": "Trocar bens ou serviços.",
+        "examples": [
+            {
+                "en": "They traded food for water.",
+                "pt": "Eles trocaram comida por água."
+            }
+        ]
+    },
+    "traffic": {
+        "infinitive": "traffic",
+        "translation": "traficar",
+        "forms": {
+            "base": "traffic",
+            "pastSimple": "trafficked",
+            "pastParticiple": "trafficked",
+            "presentParticiple": "trafficking",
+            "thirdPerson": "traffics"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "trade",
+            "deal"
+        ],
+        "explanation": "Comerciar ilegalmente.",
+        "examples": [
+            {
+                "en": "They trafficked drugs.",
+                "pt": "Eles traficaram drogas."
+            }
+        ]
+    },
+    "trail": {
+        "infinitive": "trail",
+        "translation": "seguir rastro, arrastar",
+        "forms": {
+            "base": "trail",
+            "pastSimple": "trailed",
+            "pastParticiple": "trailed",
+            "presentParticiple": "trailing",
+            "thirdPerson": "trails"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "follow",
+            "drag"
+        ],
+        "explanation": "Seguir atrás ou deixar cair atrás.",
+        "examples": [
+            {
+                "en": "Trail the suspect.",
+                "pt": "Siga o suspeito."
+            }
+        ]
+    },
+    "train": {
+        "infinitive": "train",
+        "translation": "treinar",
+        "forms": {
+            "base": "train",
+            "pastSimple": "trained",
+            "pastParticiple": "trained",
+            "presentParticiple": "training",
+            "thirdPerson": "trains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "teach",
+            "practice"
+        ],
+        "explanation": "Ensinar ou aprender habilidades.",
+        "examples": [
+            {
+                "en": "She trains dogs.",
+                "pt": "Ela treina cães."
+            }
+        ]
+    },
+    "transgress": {
+        "infinitive": "transgress",
+        "translation": "transgredir",
+        "forms": {
+            "base": "transgress",
+            "pastSimple": "transgressed",
+            "pastParticiple": "transgressed",
+            "presentParticiple": "transgressing",
+            "thirdPerson": "transgresses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sin",
+            "violate"
+        ],
+        "explanation": "Quebrar uma regra ou lei moral.",
+        "examples": [
+            {
+                "en": "He transgressed the law.",
+                "pt": "Ele transgrediu a lei."
+            }
+        ]
+    },
+    "transmit": {
+        "infinitive": "transmit",
+        "translation": "transmitir",
+        "forms": {
+            "base": "transmit",
+            "pastSimple": "transmitted",
+            "pastParticiple": "transmitted",
+            "presentParticiple": "transmitting",
+            "thirdPerson": "transmits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "send",
+            "broadcast"
+        ],
+        "explanation": "Passar de um lugar/pessoa para outro.",
+        "examples": [
+            {
+                "en": "Mosquitoes transmit disease.",
+                "pt": "Mosquitos transmitem doenças."
+            }
+        ]
+    },
+    "transport": {
+        "infinitive": "transport",
+        "translation": "transportar",
+        "forms": {
+            "base": "transport",
+            "pastSimple": "transported",
+            "pastParticiple": "transported",
+            "presentParticiple": "transporting",
+            "thirdPerson": "transports"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "move",
+            "carry"
+        ],
+        "explanation": "Levar de um lugar para outro.",
+        "examples": [
+            {
+                "en": "Trucks transport goods.",
+                "pt": "Caminhões transportam mercadorias."
+            }
+        ]
+    },
+    "trap": {
+        "infinitive": "trap",
+        "translation": "capturar, prender",
+        "forms": {
+            "base": "trap",
+            "pastSimple": "trapped",
+            "pastParticiple": "trapped",
+            "presentParticiple": "trapping",
+            "thirdPerson": "traps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "catch",
+            "snare"
+        ],
+        "explanation": "Pegar em uma armadilha ou impedir a fuga.",
+        "examples": [
+            {
+                "en": "They trapped the mouse.",
+                "pt": "Eles prenderam o rato."
+            }
+        ]
+    },
+    "travel": {
+        "infinitive": "travel",
+        "translation": "viajar",
+        "forms": {
+            "base": "travel",
+            "pastSimple": "traveled",
+            "pastParticiple": "traveled",
+            "presentParticiple": "traveling",
+            "thirdPerson": "travels"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "go",
+            "move",
+            "walk"
+        ],
+        "explanation": "'Travel' significa viajar, geralmente longas distâncias.",
+        "examples": [
+            {
+                "en": "I love to travel.",
+                "pt": "Eu amo viajar."
+            },
+            {
+                "en": "We traveled to Japan.",
+                "pt": "Viajamos para o Japão."
+            },
+            {
+                "en": "She travels for work.",
+                "pt": "Ela viaja a trabalho."
+            }
+        ]
+    },
+    "tread": {
+        "infinitive": "tread",
+        "translation": "pisar",
+        "forms": {
+            "base": "tread",
+            "pastSimple": "trod",
+            "pastParticiple": "trodden",
+            "presentParticiple": "treading",
+            "thirdPerson": "treads"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "step",
+            "walk"
+        ],
+        "explanation": "Colocar o pé no chão ao andar.",
+        "examples": [
+            {
+                "en": "Don't tread on the grass.",
+                "pt": "Não pise na grama."
+            }
+        ]
+    },
+    "treasure": {
+        "infinitive": "treasure",
+        "translation": "valorizar muito",
+        "forms": {
+            "base": "treasure",
+            "pastSimple": "treasured",
+            "pastParticiple": "treasured",
+            "presentParticiple": "treasuring",
+            "thirdPerson": "treasures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cherish",
+            "value"
+        ],
+        "explanation": "Guardar com carinho.",
+        "examples": [
+            {
+                "en": "I treasure this memory.",
+                "pt": "Eu valorizo essa memória."
+            }
+        ]
+    },
+    "treat": {
+        "infinitive": "treat",
+        "translation": "tratar",
+        "forms": {
+            "base": "treat",
+            "pastSimple": "treated",
+            "pastParticiple": "treated",
+            "presentParticiple": "treating",
+            "thirdPerson": "treats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "handle",
+            "deal"
+        ],
+        "explanation": "Agir de certa maneira com alguém; ou dar cuidados médicos.",
+        "examples": [
+            {
+                "en": "Treat everyone kindly.",
+                "pt": "Trate todos gentilmente."
+            }
+        ]
+    },
+    "tremble": {
+        "infinitive": "tremble",
+        "translation": "tremer",
+        "forms": {
+            "base": "tremble",
+            "pastSimple": "trembled",
+            "pastParticiple": "trembled",
+            "presentParticiple": "trembling",
+            "thirdPerson": "trembles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shake",
+            "shiver"
+        ],
+        "explanation": "Tremer involuntariamente (de medo, frio, etc.).",
+        "examples": [
+            {
+                "en": "She trembled with fear.",
+                "pt": "Ela tremeu de medo."
+            }
+        ]
+    },
+    "trick": {
+        "infinitive": "trick",
+        "translation": "enganar",
+        "forms": {
+            "base": "trick",
+            "pastSimple": "tricked",
+            "pastParticiple": "tricked",
+            "presentParticiple": "tricking",
+            "thirdPerson": "tricks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "deceive",
+            "fool"
+        ],
+        "explanation": "Fazer alguém acreditar em algo falso.",
+        "examples": [
+            {
+                "en": "He tricked me.",
+                "pt": "Ele me enganou."
+            }
+        ]
+    },
+    "trigger": {
+        "infinitive": "trigger",
+        "translation": "desencadear, acionar",
+        "forms": {
+            "base": "trigger",
+            "pastSimple": "triggered",
+            "pastParticiple": "triggered",
+            "presentParticiple": "triggering",
+            "thirdPerson": "triggers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cause",
+            "activate"
+        ],
+        "explanation": "Fazer algo acontecer.",
+        "examples": [
+            {
+                "en": "Smoke triggered the alarm.",
+                "pt": "Fumaça acionou o alarme."
+            }
+        ]
+    },
+    "trim": {
+        "infinitive": "trim",
+        "translation": "aparar",
+        "forms": {
+            "base": "trim",
+            "pastSimple": "trimmed",
+            "pastParticiple": "trimmed",
+            "presentParticiple": "trimming",
+            "thirdPerson": "trims"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cut",
+            "prune"
+        ],
+        "explanation": "Cortar um pouco para deixar arrumado.",
+        "examples": [
+            {
+                "en": "Trim the hedge.",
+                "pt": "Apare a cerca viva."
+            }
+        ]
+    },
+    "trip": {
+        "infinitive": "trip",
+        "translation": "tropeçar, viajar",
+        "forms": {
+            "base": "trip",
+            "pastSimple": "tripped",
+            "pastParticiple": "tripped",
+            "presentParticiple": "tripping",
+            "thirdPerson": "trips"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stumble",
+            "fall"
+        ],
+        "explanation": "Perder o equilíbrio; ou ir em uma viagem curta.",
+        "examples": [
+            {
+                "en": "He tripped on a wire.",
+                "pt": "Ele tropeçou em um fio."
+            }
+        ]
+    },
+    "trot": {
+        "infinitive": "trot",
+        "translation": "trotar",
+        "forms": {
+            "base": "trot",
+            "pastSimple": "trotted",
+            "pastParticiple": "trotted",
+            "presentParticiple": "trotting",
+            "thirdPerson": "trots"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "jog",
+            "run"
+        ],
+        "explanation": "Correr devagar ou andar rápido (como um cavalo).",
+        "examples": [
+            {
+                "en": "The horse trotted away.",
+                "pt": "O cavalo saiu trotando."
+            }
+        ]
+    },
+    "trouble": {
+        "infinitive": "trouble",
+        "translation": "incomodar, preocupar",
+        "forms": {
+            "base": "trouble",
+            "pastSimple": "troubled",
+            "pastParticiple": "troubled",
+            "presentParticiple": "troubling",
+            "thirdPerson": "troubles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bother",
+            "worry"
+        ],
+        "explanation": "Causar problemas ou ansiedade a alguém.",
+        "examples": [
+            {
+                "en": "Sorry to trouble you.",
+                "pt": "Desculpe incomodá-lo."
+            }
+        ]
+    },
+    "trust": {
+        "infinitive": "trust",
+        "translation": "confiar",
+        "forms": {
+            "base": "trust",
+            "pastSimple": "trusted",
+            "pastParticiple": "trusted",
+            "presentParticiple": "trusting",
+            "thirdPerson": "trusts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "believe",
+            "know",
+            "think"
+        ],
+        "explanation": "'Trust' significa ter confiança em alguém ou algo.",
+        "examples": [
+            {
+                "en": "I trust you.",
+                "pt": "Eu confio em você."
+            },
+            {
+                "en": "Trust yourself.",
+                "pt": "Confie em si mesmo."
+            },
+            {
+                "en": "She trusted him.",
+                "pt": "Ela confiou nele."
+            }
+        ]
+    },
+    "try": {
+        "infinitive": "try",
+        "translation": "tentar, experimentar",
+        "forms": {
+            "base": "try",
+            "pastSimple": "tried",
+            "pastParticiple": "tried",
+            "presentParticiple": "trying",
+            "thirdPerson": "tries"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "attempt",
+            "test"
+        ],
+        "explanation": "Fazer um esforço para algo; ou testar algo novo.",
+        "examples": [
+            {
+                "en": "Try to help me.",
+                "pt": "Tente me ajudar."
+            },
+            {
+                "en": "Try this cake.",
+                "pt": "Experimente este bolo."
+            }
+        ]
+    },
+    "tug": {
+        "infinitive": "tug",
+        "translation": "puxar com força",
+        "forms": {
+            "base": "tug",
+            "pastSimple": "tugged",
+            "pastParticiple": "tugged",
+            "presentParticiple": "tugging",
+            "thirdPerson": "tugs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pull",
+            "yank"
+        ],
+        "explanation": "Puxar algo repentina e fortemente.",
+        "examples": [
+            {
+                "en": "The child tugged at her skirt.",
+                "pt": "A criança puxou a saia dela."
+            }
+        ]
+    },
+    "tumble": {
+        "infinitive": "tumble",
+        "translation": "tombar, cair",
+        "forms": {
+            "base": "tumble",
+            "pastSimple": "tumbled",
+            "pastParticiple": "tumbled",
+            "presentParticiple": "tumbling",
+            "thirdPerson": "tumbles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fall",
+            "roll"
+        ],
+        "explanation": "Cair de repente ou rolar.",
+        "examples": [
+            {
+                "en": "Books tumbled off the shelf.",
+                "pt": "Livros caíram da prateleira."
+            }
+        ]
+    },
+    "turn": {
+        "infinitive": "turn",
+        "translation": "virar, tornar-se",
+        "forms": {
+            "base": "turn",
+            "pastSimple": "turned",
+            "pastParticiple": "turned",
+            "presentParticiple": "turning",
+            "thirdPerson": "turns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "rotate",
+            "become"
+        ],
+        "explanation": "Mover-se em círculo; ou mudar de estado.",
+        "examples": [
+            {
+                "en": "Turn right here.",
+                "pt": "Vire à direita aqui."
+            },
+            {
+                "en": "The light turned green.",
+                "pt": "A luz ficou verde."
+            }
+        ]
+    },
+    "turn around": {
+        "infinitive": "turn around",
+        "translation": "virar-se",
+        "forms": {
+            "base": "turn around",
+            "pastSimple": "turned around",
+            "pastParticiple": "turned around",
+            "presentParticiple": "turning around",
+            "thirdPerson": "turns around"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "reverse",
+            "spin"
+        ],
+        "explanation": "Mudar direção para o oposto.",
+        "examples": [
+            {
+                "en": "Turn around now.",
+                "pt": "Vire-se agora."
+            }
+        ]
+    },
+    "twirl": {
+        "infinitive": "twirl",
+        "translation": "girar rapidamente",
+        "forms": {
+            "base": "twirl",
+            "pastSimple": "twirled",
+            "pastParticiple": "twirled",
+            "presentParticiple": "twirling",
+            "thirdPerson": "twirls"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "spin",
+            "whirl"
+        ],
+        "explanation": "Girar algo ou a si mesmo.",
+        "examples": [
+            {
+                "en": "She twirled around.",
+                "pt": "Ela girou."
+            }
+        ]
+    },
+    "twist": {
+        "infinitive": "twist",
+        "translation": "torcer",
+        "forms": {
+            "base": "twist",
+            "pastSimple": "twisted",
+            "pastParticiple": "twisted",
+            "presentParticiple": "twisting",
+            "thirdPerson": "twists"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wind",
+            "bend"
+        ],
+        "explanation": "Girar algo fora de sua forma normal.",
+        "examples": [
+            {
+                "en": "I twisted my ankle.",
+                "pt": "Eu torci meu tornozelo."
+            }
+        ]
+    },
+    "type": {
+        "infinitive": "type",
+        "translation": "digitar",
+        "forms": {
+            "base": "type",
+            "pastSimple": "typed",
+            "pastParticiple": "typed",
+            "presentParticiple": "typing",
+            "thirdPerson": "types"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "write",
+            "enter"
+        ],
+        "explanation": "Escrever usando um teclado.",
+        "examples": [
+            {
+                "en": "She types fast.",
+                "pt": "Ela digita rápido."
+            }
+        ]
+    }
+}

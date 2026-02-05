@@ -1,0 +1,158 @@
+{
+    "yank": {
+        "infinitive": "yank",
+        "translation": "puxar com força, arrancar",
+        "forms": {
+            "base": "yank",
+            "pastSimple": "yanked",
+            "pastParticiple": "yanked",
+            "presentParticiple": "yanking",
+            "thirdPerson": "yanks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pull",
+            "jerk"
+        ],
+        "explanation": "Puxar algo repentina e fortemente.",
+        "examples": [
+            {
+                "en": "He yanked the door open.",
+                "pt": "Ele abriu a porta com um puxão."
+            }
+        ]
+    },
+    "yawn": {
+        "infinitive": "yawn",
+        "translation": "bocejar",
+        "forms": {
+            "base": "yawn",
+            "pastSimple": "yawned",
+            "pastParticiple": "yawned",
+            "presentParticiple": "yawning",
+            "thirdPerson": "yawns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Abrir a boca involuntariamente por cansaço ou tédio.",
+        "examples": [
+            {
+                "en": "He yawned during the movie.",
+                "pt": "Ele bocejou durante o filme."
+            }
+        ]
+    },
+    "yearn": {
+        "infinitive": "yearn",
+        "translation": "ansiar, almejar",
+        "forms": {
+            "base": "yearn",
+            "pastSimple": "yearned",
+            "pastParticiple": "yearned",
+            "presentParticiple": "yearning",
+            "thirdPerson": "yearns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "long",
+            "desire"
+        ],
+        "explanation": "Desejar algo intensamente, especialmente algo difícil de conseguir.",
+        "examples": [
+            {
+                "en": "She yearns for peace.",
+                "pt": "Ela anseia por paz."
+            }
+        ]
+    },
+    "yell": {
+        "infinitive": "yell",
+        "translation": "gritar, berrar",
+        "forms": {
+            "base": "yell",
+            "pastSimple": "yelled",
+            "pastParticiple": "yelled",
+            "presentParticiple": "yelling",
+            "thirdPerson": "yells"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shout",
+            "scream"
+        ],
+        "explanation": "Falar ou gritar muito alto.",
+        "examples": [
+            {
+                "en": "Don't yell at me.",
+                "pt": "Não grite comigo."
+            }
+        ]
+    },
+    "yelp": {
+        "infinitive": "yelp",
+        "translation": "ganir",
+        "forms": {
+            "base": "yelp",
+            "pastSimple": "yelped",
+            "pastParticiple": "yelped",
+            "presentParticiple": "yelping",
+            "thirdPerson": "yelps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cry"
+        ],
+        "explanation": "Dar um grito curto e agudo, geralmente de dor.",
+        "examples": [
+            {
+                "en": "The dog yelped.",
+                "pt": "O cachorro ganiu."
+            }
+        ]
+    },
+    "yield": {
+        "infinitive": "yield",
+        "translation": "ceder, render, produzir",
+        "forms": {
+            "base": "yield",
+            "pastSimple": "yielded",
+            "pastParticiple": "yielded",
+            "presentParticiple": "yielding",
+            "thirdPerson": "yields"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "produce",
+            "surrender"
+        ],
+        "explanation": "Produzir um resultado; ou parar de resistir.",
+        "examples": [
+            {
+                "en": "The investment yields high returns.",
+                "pt": "O investimento rende altos retornos."
+            },
+            {
+                "en": "He yielded to pressure.",
+                "pt": "Ele cedeu à pressão."
+            }
+        ]
+    }
+}

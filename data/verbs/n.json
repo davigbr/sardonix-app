@@ -1,0 +1,424 @@
+{
+    "nail": {
+        "infinitive": "nail",
+        "translation": "pregar, acertar em cheio",
+        "forms": {
+            "base": "nail",
+            "pastSimple": "nailed",
+            "pastParticiple": "nailed",
+            "presentParticiple": "nailing",
+            "thirdPerson": "nails"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fasten"
+        ],
+        "explanation": "Fixar com pregos ou realizar algo perfeitamente (gíria).",
+        "examples": [
+            {
+                "en": "He nailed the picture to the wall.",
+                "pt": "Ele pregou o quadro na parede."
+            },
+            {
+                "en": "You nailed the presentation!",
+                "pt": "Você arrasou na apresentação!"
+            }
+        ]
+    },
+    "name": {
+        "infinitive": "name",
+        "translation": "nomear",
+        "forms": {
+            "base": "name",
+            "pastSimple": "named",
+            "pastParticiple": "named",
+            "presentParticiple": "naming",
+            "thirdPerson": "names"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "call"
+        ],
+        "explanation": "Dar um nome a alguém ou algo.",
+        "examples": [
+            {
+                "en": "They named the baby Bob.",
+                "pt": "Eles nomearam o bebê de Bob."
+            }
+        ]
+    },
+    "nap": {
+        "infinitive": "nap",
+        "translation": "cochilar",
+        "forms": {
+            "base": "nap",
+            "pastSimple": "napped",
+            "pastParticiple": "napped",
+            "presentParticiple": "napping",
+            "thirdPerson": "naps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sleep",
+            "doze"
+        ],
+        "explanation": "Dormir por pouco tempo.",
+        "examples": [
+            {
+                "en": "I napped for an hour.",
+                "pt": "Cochilei por uma hora."
+            }
+        ]
+    },
+    "narrate": {
+        "infinitive": "narrate",
+        "translation": "narrar",
+        "forms": {
+            "base": "narrate",
+            "pastSimple": "narrated",
+            "pastParticiple": "narrated",
+            "presentParticiple": "narrating",
+            "thirdPerson": "narrates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tell",
+            "describe"
+        ],
+        "explanation": "Contar uma história.",
+        "examples": [
+            {
+                "en": "He narrated the events.",
+                "pt": "Ele narrou os eventos."
+            }
+        ]
+    },
+    "navigate": {
+        "infinitive": "navigate",
+        "translation": "navegar",
+        "forms": {
+            "base": "navigate",
+            "pastSimple": "navigated",
+            "pastParticiple": "navigated",
+            "presentParticiple": "navigating",
+            "thirdPerson": "navigates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sail",
+            "steer"
+        ],
+        "explanation": "Guiar um barco ou encontrar o caminho.",
+        "examples": [
+            {
+                "en": "Navigate the ship.",
+                "pt": "Navegue o navio."
+            }
+        ]
+    },
+    "need": {
+        "infinitive": "need",
+        "translation": "precisar",
+        "forms": {
+            "base": "need",
+            "pastSimple": "needed",
+            "pastParticiple": "needed",
+            "presentParticiple": "needing",
+            "thirdPerson": "needs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "require"
+        ],
+        "explanation": "Ter necessidade de algo.",
+        "examples": [
+            {
+                "en": "I need help.",
+                "pt": "Eu preciso de ajuda."
+            },
+            {
+                "en": "We need to talk.",
+                "pt": "Nós precisamos conversar."
+            }
+        ]
+    },
+    "neglect": {
+        "infinitive": "neglect",
+        "translation": "negligenciar",
+        "forms": {
+            "base": "neglect",
+            "pastSimple": "neglected",
+            "pastParticiple": "neglected",
+            "presentParticiple": "neglecting",
+            "thirdPerson": "neglects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "ignore",
+            "disregard"
+        ],
+        "explanation": "Não cuidar ou dar atenção.",
+        "examples": [
+            {
+                "en": "Don't neglect your health.",
+                "pt": "Não negligencie sua saúde."
+            }
+        ]
+    },
+    "nest": {
+        "infinitive": "nest",
+        "translation": "aninhar-se",
+        "forms": {
+            "base": "nest",
+            "pastSimple": "nested",
+            "pastParticiple": "nested",
+            "presentParticiple": "nesting",
+            "thirdPerson": "nests"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Fazer ou usar um ninho.",
+        "examples": [
+            {
+                "en": "Birds nest in trees.",
+                "pt": "Pássaros fazem ninhos em árvores."
+            }
+        ]
+    },
+    "nip": {
+        "infinitive": "nip",
+        "translation": "beliscar, morder de leve",
+        "forms": {
+            "base": "nip",
+            "pastSimple": "nipped",
+            "pastParticiple": "nipped",
+            "presentParticiple": "nipping",
+            "thirdPerson": "nips"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pinch",
+            "bite"
+        ],
+        "explanation": "Dar uma mordida pequena ou beliscão.",
+        "examples": [
+            {
+                "en": "The crab nipped my toe.",
+                "pt": "O caranguejo beliscou meu dedo."
+            }
+        ]
+    },
+    "nod": {
+        "infinitive": "nod",
+        "translation": "acenar com a cabeça",
+        "forms": {
+            "base": "nod",
+            "pastSimple": "nodded",
+            "pastParticiple": "nodded",
+            "presentParticiple": "nodding",
+            "thirdPerson": "nods"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "agree"
+        ],
+        "explanation": "Mover a cabeça para cima e para baixo para dizer sim ou cumprimentar.",
+        "examples": [
+            {
+                "en": "He nodded in agreement.",
+                "pt": "Ele acenou com a cabeça em concordância."
+            }
+        ]
+    },
+    "note": {
+        "infinitive": "note",
+        "translation": "anotar, notar",
+        "forms": {
+            "base": "note",
+            "pastSimple": "noted",
+            "pastParticiple": "noted",
+            "presentParticiple": "noting",
+            "thirdPerson": "notes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "record",
+            "notice"
+        ],
+        "explanation": "Prestar atenção ou escrever algo para lembrar.",
+        "examples": [
+            {
+                "en": "Please note the changes.",
+                "pt": "Por favor, note as mudanças."
+            },
+            {
+                "en": "He noted down the address.",
+                "pt": "Ele anotou o endereço."
+            }
+        ]
+    },
+    "notice": {
+        "infinitive": "notice",
+        "translation": "notar, perceber",
+        "forms": {
+            "base": "notice",
+            "pastSimple": "noticed",
+            "pastParticiple": "noticed",
+            "presentParticiple": "noticing",
+            "thirdPerson": "notices"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "see",
+            "observe"
+        ],
+        "explanation": "Tomar consciência de algo.",
+        "examples": [
+            {
+                "en": "I noticed a leak.",
+                "pt": "Notei um vazamento."
+            }
+        ]
+    },
+    "notify": {
+        "infinitive": "notify",
+        "translation": "notificar",
+        "forms": {
+            "base": "notify",
+            "pastSimple": "notified",
+            "pastParticiple": "notified",
+            "presentParticiple": "notifying",
+            "thirdPerson": "notifies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "inform",
+            "alert"
+        ],
+        "explanation": "Informar alguém oficialmente.",
+        "examples": [
+            {
+                "en": "Notify the police.",
+                "pt": "Notifique a polícia."
+            }
+        ]
+    },
+    "nourish": {
+        "infinitive": "nourish",
+        "translation": "nutrir",
+        "forms": {
+            "base": "nourish",
+            "pastSimple": "nourished",
+            "pastParticiple": "nourished",
+            "presentParticiple": "nourishing",
+            "thirdPerson": "nourishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "feed",
+            "support"
+        ],
+        "explanation": "Fornecer comida ou suporte para crescimento.",
+        "examples": [
+            {
+                "en": "Milk nourishes babies.",
+                "pt": "Leite nutre bebês."
+            }
+        ]
+    },
+    "nudge": {
+        "infinitive": "nudge",
+        "translation": "cutucar (levemente)",
+        "forms": {
+            "base": "nudge",
+            "pastSimple": "nudged",
+            "pastParticiple": "nudged",
+            "presentParticiple": "nudging",
+            "thirdPerson": "nudges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "prod",
+            "push"
+        ],
+        "explanation": "Empurrar levemente com cotovelo.",
+        "examples": [
+            {
+                "en": "She nudged him.",
+                "pt": "Ela o cutucou."
+            }
+        ]
+    },
+    "number": {
+        "infinitive": "number",
+        "translation": "numerar",
+        "forms": {
+            "base": "number",
+            "pastSimple": "numbered",
+            "pastParticiple": "numbered",
+            "presentParticiple": "numbering",
+            "thirdPerson": "numbers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "count"
+        ],
+        "explanation": "Atribuir um número ou contar.",
+        "examples": [
+            {
+                "en": "Please number the pages.",
+                "pt": "Por favor, numere as páginas."
+            }
+        ]
+    }
+}

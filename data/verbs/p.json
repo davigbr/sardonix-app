@@ -1,0 +1,2662 @@
+{
+    "pack": {
+        "infinitive": "pack",
+        "translation": "embalar, fazer as malas, empacotar",
+        "forms": {
+            "base": "pack",
+            "pastSimple": "packed",
+            "pastParticiple": "packed",
+            "presentParticiple": "packing",
+            "thirdPerson": "packs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wrap",
+            "fill"
+        ],
+        "explanation": "Colocar coisas em caixas ou malas.",
+        "examples": [
+            {
+                "en": "Pack your bags.",
+                "pt": "Faça suas malas."
+            }
+        ]
+    },
+    "paddle": {
+        "infinitive": "paddle",
+        "translation": "remar",
+        "forms": {
+            "base": "paddle",
+            "pastSimple": "paddled",
+            "pastParticiple": "paddled",
+            "presentParticiple": "paddling",
+            "thirdPerson": "paddles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "row"
+        ],
+        "explanation": "Mover um barco pequeno com um remo.",
+        "examples": [
+            {
+                "en": "We paddled across the lake.",
+                "pt": "Remamos pelo lago."
+            }
+        ]
+    },
+    "pain": {
+        "infinitive": "pain",
+        "translation": "doer, magoar",
+        "forms": {
+            "base": "pain",
+            "pastSimple": "pained",
+            "pastParticiple": "pained",
+            "presentParticiple": "paining",
+            "thirdPerson": "pains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hurt"
+        ],
+        "explanation": "Causar dor física ou mental.",
+        "examples": [
+            {
+                "en": "It pains me to say this.",
+                "pt": "Me dói dizer isso."
+            }
+        ]
+    },
+    "paint": {
+        "infinitive": "paint",
+        "translation": "pintar",
+        "forms": {
+            "base": "paint",
+            "pastSimple": "painted",
+            "pastParticiple": "painted",
+            "presentParticiple": "painting",
+            "thirdPerson": "paints"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "draw",
+            "color"
+        ],
+        "explanation": "Cobrir com tinta ou criar arte.",
+        "examples": [
+            {
+                "en": "He painted the wall blue.",
+                "pt": "Ele pintou a parede de azul."
+            }
+        ]
+    },
+    "pamper": {
+        "infinitive": "pamper",
+        "translation": "mimar",
+        "forms": {
+            "base": "pamper",
+            "pastSimple": "pampered",
+            "pastParticiple": "pampered",
+            "presentParticiple": "pampering",
+            "thirdPerson": "pampers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "spoil"
+        ],
+        "explanation": "Tratar com excesso de cuidado e conforto.",
+        "examples": [
+            {
+                "en": "She pampers her dog.",
+                "pt": "Ela mima seu cachorro."
+            }
+        ]
+    },
+    "pardon": {
+        "infinitive": "pardon",
+        "translation": "perdoar",
+        "forms": {
+            "base": "pardon",
+            "pastSimple": "pardoned",
+            "pastParticiple": "pardoned",
+            "presentParticiple": "pardoning",
+            "thirdPerson": "pardons"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "forgive",
+            "excuse"
+        ],
+        "explanation": "Desculpar legalmente ou ser educado.",
+        "examples": [
+            {
+                "en": "Pardon me.",
+                "pt": "Perdoe-me (com licença)."
+            }
+        ]
+    },
+    "park": {
+        "infinitive": "park",
+        "translation": "estacionar",
+        "forms": {
+            "base": "park",
+            "pastSimple": "parked",
+            "pastParticiple": "parked",
+            "presentParticiple": "parking",
+            "thirdPerson": "parks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stop"
+        ],
+        "explanation": "Parar um veículo em um lugar específico.",
+        "examples": [
+            {
+                "en": "You can't park here.",
+                "pt": "Você não pode estacionar aqui."
+            }
+        ]
+    },
+    "part": {
+        "infinitive": "part",
+        "translation": "separar, partir",
+        "forms": {
+            "base": "part",
+            "pastSimple": "parted",
+            "pastParticiple": "parted",
+            "presentParticiple": "parting",
+            "thirdPerson": "parts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "separate",
+            "divide"
+        ],
+        "explanation": "Separar-se ou dividir.",
+        "examples": [
+            {
+                "en": "They parted ways.",
+                "pt": "Eles seguiram caminhos diferentes."
+            }
+        ]
+    },
+    "pass": {
+        "infinitive": "pass",
+        "translation": "passar, ser aprovado",
+        "forms": {
+            "base": "pass",
+            "pastSimple": "passed",
+            "pastParticiple": "passed",
+            "presentParticiple": "passing",
+            "thirdPerson": "passes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "go by",
+            "succeed"
+        ],
+        "explanation": "Mover-se adiante, entregar algo ou ter sucesso em teste.",
+        "examples": [
+            {
+                "en": "Time passes quickly.",
+                "pt": "O tempo passa rápido."
+            },
+            {
+                "en": "Pass me the salt.",
+                "pt": "Me passe o sal."
+            },
+            {
+                "en": "She passed the exam.",
+                "pt": "Ela passou no exame."
+            }
+        ]
+    },
+    "pass away": {
+        "infinitive": "pass away",
+        "translation": "falecer",
+        "forms": {
+            "base": "pass away",
+            "pastSimple": "passed away",
+            "pastParticiple": "passed away",
+            "presentParticiple": "passing away",
+            "thirdPerson": "passes away"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "die"
+        ],
+        "explanation": "Morrer (eufemismo).",
+        "examples": [
+            {
+                "en": "He passed away peacefully.",
+                "pt": "Ele faleceu pacificamente."
+            }
+        ]
+    },
+    "pass out": {
+        "infinitive": "pass out",
+        "translation": "desmaiar",
+        "forms": {
+            "base": "pass out",
+            "pastSimple": "passed out",
+            "pastParticiple": "passed out",
+            "presentParticiple": "passing out",
+            "thirdPerson": "passes out"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "faint"
+        ],
+        "explanation": "Perder a consciência.",
+        "examples": [
+            {
+                "en": "Don't pass out.",
+                "pt": "Não desmaie."
+            }
+        ]
+    },
+    "paste": {
+        "infinitive": "paste",
+        "translation": "colar",
+        "forms": {
+            "base": "paste",
+            "pastSimple": "pasted",
+            "pastParticiple": "pasted",
+            "presentParticiple": "pasting",
+            "thirdPerson": "pastes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "stick",
+            "glue"
+        ],
+        "explanation": "Grudar algo ou inserir texto copiado (computador).",
+        "examples": [
+            {
+                "en": "Copy and paste.",
+                "pt": "Copiar e colar."
+            }
+        ]
+    },
+    "pat": {
+        "infinitive": "pat",
+        "translation": "dar tapinhas",
+        "forms": {
+            "base": "pat",
+            "pastSimple": "patted",
+            "pastParticiple": "patted",
+            "presentParticiple": "patting",
+            "thirdPerson": "pats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tap"
+        ],
+        "explanation": "Tocar levemente com a mão aberta.",
+        "examples": [
+            {
+                "en": "She patted the dog.",
+                "pt": "Ela fez carinho (deu tapinhas) no cachorro."
+            }
+        ]
+    },
+    "pause": {
+        "infinitive": "pause",
+        "translation": "pausar",
+        "forms": {
+            "base": "pause",
+            "pastSimple": "paused",
+            "pastParticiple": "paused",
+            "presentParticiple": "pausing",
+            "thirdPerson": "pauses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "stop",
+            "wait"
+        ],
+        "explanation": "Parar temporariamente.",
+        "examples": [
+            {
+                "en": "Pause the movie.",
+                "pt": "Pause o filme."
+            }
+        ]
+    },
+    "pay": {
+        "infinitive": "pay",
+        "translation": "pagar",
+        "forms": {
+            "base": "pay",
+            "pastSimple": "paid",
+            "pastParticiple": "paid",
+            "presentParticiple": "paying",
+            "thirdPerson": "pays"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential",
+            "financial"
+        ],
+        "related": [
+            "spend"
+        ],
+        "explanation": "Dar dinheiro em troca de algo.",
+        "examples": [
+            {
+                "en": "I paid the bill.",
+                "pt": "Eu paguei a conta."
+            }
+        ]
+    },
+    "peck": {
+        "infinitive": "peck",
+        "translation": "bicar",
+        "forms": {
+            "base": "peck",
+            "pastSimple": "pecked",
+            "pastParticiple": "pecked",
+            "presentParticiple": "pecking",
+            "thirdPerson": "pecks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bite"
+        ],
+        "explanation": "Morder ou bater com o bico (pássaros).",
+        "examples": [
+            {
+                "en": "The hen pecked the corn.",
+                "pt": "A galinha bicou o milho."
+            }
+        ]
+    },
+    "pedal": {
+        "infinitive": "pedal",
+        "translation": "pedalar",
+        "forms": {
+            "base": "pedal",
+            "pastSimple": "pedaled",
+            "pastParticiple": "pedaled",
+            "presentParticiple": "pedaling",
+            "thirdPerson": "pedals"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cycle"
+        ],
+        "explanation": "Mover uma bicicleta usando os pedais.",
+        "examples": [
+            {
+                "en": "He pedaled fast.",
+                "pt": "Ele pedalou rápido."
+            }
+        ]
+    },
+    "peek": {
+        "infinitive": "peek",
+        "translation": "espiar, dar uma olhadinha",
+        "forms": {
+            "base": "peek",
+            "pastSimple": "peeked",
+            "pastParticiple": "peeked",
+            "presentParticiple": "peeking",
+            "thirdPerson": "peeks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "glance",
+            "look"
+        ],
+        "explanation": "Olhar rapidamente ou secretamente.",
+        "examples": [
+            {
+                "en": "Don't peek!",
+                "pt": "Não espie!"
+            }
+        ]
+    },
+    "peel": {
+        "infinitive": "peel",
+        "translation": "descascar",
+        "forms": {
+            "base": "peel",
+            "pastSimple": "peeled",
+            "pastParticiple": "peeled",
+            "presentParticiple": "peeling",
+            "thirdPerson": "peels"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "cooking"
+        ],
+        "related": [
+            "skin"
+        ],
+        "explanation": "Remover a casca.",
+        "examples": [
+            {
+                "en": "Peel the potatoes.",
+                "pt": "Descasque as batatas."
+            }
+        ]
+    },
+    "peep": {
+        "infinitive": "peep",
+        "translation": "espiar",
+        "forms": {
+            "base": "peep",
+            "pastSimple": "peeped",
+            "pastParticiple": "peeped",
+            "presentParticiple": "peeping",
+            "thirdPerson": "peeps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "peek"
+        ],
+        "explanation": "Olhar rápida e secretamente.",
+        "examples": [
+            {
+                "en": "He peeped through the keyhole.",
+                "pt": "Ele espiou pelo buraco da fechadura."
+            }
+        ]
+    },
+    "penetrate": {
+        "infinitive": "penetrate",
+        "translation": "penetrar",
+        "forms": {
+            "base": "penetrate",
+            "pastSimple": "penetrated",
+            "pastParticiple": "penetrated",
+            "presentParticiple": "penetrating",
+            "thirdPerson": "penetrates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pierce",
+            "enter"
+        ],
+        "explanation": "Entrar ou passar através de algo.",
+        "examples": [
+            {
+                "en": "The bullet penetrated the wall.",
+                "pt": "A bala penetrou a parede."
+            }
+        ]
+    },
+    "perceive": {
+        "infinitive": "perceive",
+        "translation": "perceber",
+        "forms": {
+            "base": "perceive",
+            "pastSimple": "perceived",
+            "pastParticiple": "perceived",
+            "presentParticiple": "perceiving",
+            "thirdPerson": "perceives"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "notice",
+            "sense"
+        ],
+        "explanation": "Notar ou tornar-se consciente de algo.",
+        "examples": [
+            {
+                "en": "I perceive a change.",
+                "pt": "Percebo uma mudança."
+            }
+        ]
+    },
+    "perform": {
+        "infinitive": "perform",
+        "translation": "realizar, apresentar-se",
+        "forms": {
+            "base": "perform",
+            "pastSimple": "performed",
+            "pastParticiple": "performed",
+            "presentParticiple": "performing",
+            "thirdPerson": "performs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "act",
+            "do"
+        ],
+        "explanation": "Executar uma tarefa ou atuar em público.",
+        "examples": [
+            {
+                "en": "The surgeon performed the operation.",
+                "pt": "O cirurgião realizou a operação."
+            },
+            {
+                "en": "The band performed well.",
+                "pt": "A banda se apresentou bem."
+            }
+        ]
+    },
+    "permit": {
+        "infinitive": "permit",
+        "translation": "permitir",
+        "forms": {
+            "base": "permit",
+            "pastSimple": "permitted",
+            "pastParticiple": "permitted",
+            "presentParticiple": "permitting",
+            "thirdPerson": "permits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "allow",
+            "let"
+        ],
+        "explanation": "Autorizar algo.",
+        "examples": [
+            {
+                "en": "Smoking is not permitted.",
+                "pt": "Não é permitido fumar."
+            }
+        ]
+    },
+    "perpetrate": {
+        "infinitive": "perpetrate",
+        "translation": "perpetrar, cometer",
+        "forms": {
+            "base": "perpetrate",
+            "pastSimple": "perpetrated",
+            "pastParticiple": "perpetrated",
+            "presentParticiple": "perpetrating",
+            "thirdPerson": "perpetrates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "commit"
+        ],
+        "explanation": "Cometer um crime ou erro.",
+        "examples": [
+            {
+                "en": "Who perpetrated this?",
+                "pt": "Quem perpetrou isso?"
+            }
+        ]
+    },
+    "persist": {
+        "infinitive": "persist",
+        "translation": "persistir",
+        "forms": {
+            "base": "persist",
+            "pastSimple": "persisted",
+            "pastParticiple": "persisted",
+            "presentParticiple": "persisting",
+            "thirdPerson": "persists"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "continue",
+            "insist"
+        ],
+        "explanation": "Continuar firmemente apesar de dificuldades.",
+        "examples": [
+            {
+                "en": "He persisted in his efforts.",
+                "pt": "Ele persistiu em seus esforços."
+            }
+        ]
+    },
+    "perspire": {
+        "infinitive": "perspire",
+        "translation": "transpirar",
+        "forms": {
+            "base": "perspire",
+            "pastSimple": "perspired",
+            "pastParticiple": "perspired",
+            "presentParticiple": "perspiring",
+            "thirdPerson": "perspires"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sweat"
+        ],
+        "explanation": "Suar (formal).",
+        "examples": [
+            {
+                "en": "He perspired heavily.",
+                "pt": "Ele transpirou muito."
+            }
+        ]
+    },
+    "pet": {
+        "infinitive": "pet",
+        "translation": "acariciar (animal)",
+        "forms": {
+            "base": "pet",
+            "pastSimple": "petted",
+            "pastParticiple": "petted",
+            "presentParticiple": "petting",
+            "thirdPerson": "pets"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stroke",
+            "caress"
+        ],
+        "explanation": "Fazer carinho em um animal.",
+        "examples": [
+            {
+                "en": "Can I pet your dog?",
+                "pt": "Posso fazer carinho no seu cachorro?"
+            }
+        ]
+    },
+    "phone": {
+        "infinitive": "phone",
+        "translation": "telefonar",
+        "forms": {
+            "base": "phone",
+            "pastSimple": "phoned",
+            "pastParticiple": "phoned",
+            "presentParticiple": "phoning",
+            "thirdPerson": "phones"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "call"
+        ],
+        "explanation": "Ligar para alguém.",
+        "examples": [
+            {
+                "en": "Phone me later.",
+                "pt": "Me ligue mais tarde."
+            }
+        ]
+    },
+    "pick": {
+        "infinitive": "pick",
+        "translation": "escolher, colher, pegar",
+        "forms": {
+            "base": "pick",
+            "pastSimple": "picked",
+            "pastParticiple": "picked",
+            "presentParticiple": "picking",
+            "thirdPerson": "picks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "choose",
+            "select"
+        ],
+        "explanation": "Selecionar ou pegar algo com os dedos.",
+        "examples": [
+            {
+                "en": "Pick a card.",
+                "pt": "Escolha uma carta."
+            },
+            {
+                "en": "Pick up the phone.",
+                "pt": "Atenda o telefone / Pegue o telefone."
+            }
+        ]
+    },
+    "picture": {
+        "infinitive": "picture",
+        "translation": "imaginar",
+        "forms": {
+            "base": "picture",
+            "pastSimple": "pictured",
+            "pastParticiple": "pictured",
+            "presentParticiple": "picturing",
+            "thirdPerson": "pictures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "imagine",
+            "visualize"
+        ],
+        "explanation": "Visualizar na mente.",
+        "examples": [
+            {
+                "en": "I can't picture him as a father.",
+                "pt": "Não consigo imaginá-lo como pai."
+            }
+        ]
+    },
+    "pierce": {
+        "infinitive": "pierce",
+        "translation": "perfurar",
+        "forms": {
+            "base": "pierce",
+            "pastSimple": "pierced",
+            "pastParticiple": "pierced",
+            "presentParticiple": "piercing",
+            "thirdPerson": "pierces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "puncture",
+            "penetrate"
+        ],
+        "explanation": "Fazer um furo através de algo.",
+        "examples": [
+            {
+                "en": "Pierce the ears.",
+                "pt": "Fure as orelhas."
+            }
+        ]
+    },
+    "pile": {
+        "infinitive": "pile",
+        "translation": "empilhar",
+        "forms": {
+            "base": "pile",
+            "pastSimple": "piled",
+            "pastParticiple": "piled",
+            "presentParticiple": "piling",
+            "thirdPerson": "piles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stack",
+            "heap"
+        ],
+        "explanation": "Colocar coisas umas sobre as outras.",
+        "examples": [
+            {
+                "en": "Pile the books.",
+                "pt": "Empilhe os livros."
+            }
+        ]
+    },
+    "pinch": {
+        "infinitive": "pinch",
+        "translation": "beliscar",
+        "forms": {
+            "base": "pinch",
+            "pastSimple": "pinched",
+            "pastParticiple": "pinched",
+            "presentParticiple": "pinching",
+            "thirdPerson": "pinches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "squeeze"
+        ],
+        "explanation": "Apertar a pele com os dedos.",
+        "examples": [
+            {
+                "en": "He pinched my arm.",
+                "pt": "Ele beliscou meu braço."
+            }
+        ]
+    },
+    "place": {
+        "infinitive": "place",
+        "translation": "colocar",
+        "forms": {
+            "base": "place",
+            "pastSimple": "placed",
+            "pastParticiple": "placed",
+            "presentParticiple": "placing",
+            "thirdPerson": "places"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "put",
+            "set"
+        ],
+        "explanation": "Pôr algo em uma posição específica.",
+        "examples": [
+            {
+                "en": "Place your bet.",
+                "pt": "Faça sua aposta (Coloque sua aposta)."
+            }
+        ]
+    },
+    "plait": {
+        "infinitive": "plait",
+        "translation": "trançar",
+        "forms": {
+            "base": "plait",
+            "pastSimple": "plaited",
+            "pastParticiple": "plaited",
+            "presentParticiple": "plaiting",
+            "thirdPerson": "plaits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "braid",
+            "weave"
+        ],
+        "explanation": "Fazer trança.",
+        "examples": [
+            {
+                "en": "Plait her hair.",
+                "pt": "Trance o cabelo dela."
+            }
+        ]
+    },
+    "plan": {
+        "infinitive": "plan",
+        "translation": "planejar",
+        "forms": {
+            "base": "plan",
+            "pastSimple": "planned",
+            "pastParticiple": "planned",
+            "presentParticiple": "planning",
+            "thirdPerson": "plans"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "arrange"
+        ],
+        "explanation": "Decidir antecipadamente o que fazer.",
+        "examples": [
+            {
+                "en": "We are planning a trip.",
+                "pt": "Estamos planejando uma viagem."
+            }
+        ]
+    },
+    "plant": {
+        "infinitive": "plant",
+        "translation": "plantar",
+        "forms": {
+            "base": "plant",
+            "pastSimple": "planted",
+            "pastParticiple": "planted",
+            "presentParticiple": "planting",
+            "thirdPerson": "plants"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sow"
+        ],
+        "explanation": "Colocar sementes ou plantas na terra.",
+        "examples": [
+            {
+                "en": "Plant a tree.",
+                "pt": "Plante uma árvore."
+            }
+        ]
+    },
+    "play": {
+        "infinitive": "play",
+        "translation": "brincar, jogar, tocar",
+        "forms": {
+            "base": "play",
+            "pastSimple": "played",
+            "pastParticiple": "played",
+            "presentParticiple": "playing",
+            "thirdPerson": "plays"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "game"
+        ],
+        "explanation": "Divertir-se, participar de esportes ou usar instrumentos musicais.",
+        "examples": [
+            {
+                "en": "Children play in the park.",
+                "pt": "Crianças brincam no parque."
+            },
+            {
+                "en": "Play soccer.",
+                "pt": "Jogar futebol."
+            },
+            {
+                "en": "Play the guitar.",
+                "pt": "Tocar violão."
+            }
+        ]
+    },
+    "plead": {
+        "infinitive": "plead",
+        "translation": "implorar, alegar",
+        "forms": {
+            "base": "plead",
+            "pastSimple": "pleaded",
+            "pastParticiple": "pleaded",
+            "presentParticiple": "pleading",
+            "thirdPerson": "pleads"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "beg",
+            "argue"
+        ],
+        "explanation": "Pedir com emoção ou declarar-se em tribunal.",
+        "examples": [
+            {
+                "en": "He pleaded guilty.",
+                "pt": "Ele se declarou culpado."
+            }
+        ]
+    },
+    "please": {
+        "infinitive": "please",
+        "translation": "agradar",
+        "forms": {
+            "base": "please",
+            "pastSimple": "pleased",
+            "pastParticiple": "pleased",
+            "presentParticiple": "pleasing",
+            "thirdPerson": "pleases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "satisfy"
+        ],
+        "explanation": "Dar prazer ou satisfação.",
+        "examples": [
+            {
+                "en": "It pleases me to see you happy.",
+                "pt": "Me agrada te ver feliz."
+            }
+        ]
+    },
+    "pledge": {
+        "infinitive": "pledge",
+        "translation": "prometer, empenhar",
+        "forms": {
+            "base": "pledge",
+            "pastSimple": "pledged",
+            "pastParticiple": "pledged",
+            "presentParticiple": "pledging",
+            "thirdPerson": "pledges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "promise",
+            "vow"
+        ],
+        "explanation": "Fazer uma promessa formal.",
+        "examples": [
+            {
+                "en": "They pledged allegiance.",
+                "pt": "Eles juraram lealdade."
+            }
+        ]
+    },
+    "plug": {
+        "infinitive": "plug",
+        "translation": "ligar (na tomada), tampar",
+        "forms": {
+            "base": "plug",
+            "pastSimple": "plugged",
+            "pastParticiple": "plugged",
+            "presentParticiple": "plugging",
+            "thirdPerson": "plugs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "connect",
+            "block"
+        ],
+        "explanation": "Conectar à eletricidade ou fechar um buraco.",
+        "examples": [
+            {
+                "en": "Plug in the TV.",
+                "pt": "Ligue a TV na tomada."
+            }
+        ]
+    },
+    "plunge": {
+        "infinitive": "plunge",
+        "translation": "mergulhar, despencar",
+        "forms": {
+            "base": "plunge",
+            "pastSimple": "plunged",
+            "pastParticiple": "plunged",
+            "presentParticiple": "plunging",
+            "thirdPerson": "plunges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dive",
+            "drop"
+        ],
+        "explanation": "Cair ou mergulhar rapidamente.",
+        "examples": [
+            {
+                "en": "Plunge into the water.",
+                "pt": "Mergulhe na água."
+            }
+        ]
+    },
+    "point": {
+        "infinitive": "point",
+        "translation": "apontar",
+        "forms": {
+            "base": "point",
+            "pastSimple": "pointed",
+            "pastParticiple": "pointed",
+            "presentParticiple": "pointing",
+            "thirdPerson": "points"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "indicate",
+            "aim"
+        ],
+        "explanation": "Mostrar direção com o dedo ou arma.",
+        "examples": [
+            {
+                "en": "Don't point at people.",
+                "pt": "Não aponte para as pessoas."
+            }
+        ]
+    },
+    "poke": {
+        "infinitive": "poke",
+        "translation": "cutucar",
+        "forms": {
+            "base": "poke",
+            "pastSimple": "poked",
+            "pastParticiple": "poked",
+            "presentParticiple": "poking",
+            "thirdPerson": "pokes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "prod"
+        ],
+        "explanation": "Empurrar com o dedo ou objeto pontudo.",
+        "examples": [
+            {
+                "en": "He poked the fire.",
+                "pt": "Ele cutucou o fogo."
+            }
+        ]
+    },
+    "polish": {
+        "infinitive": "polish",
+        "translation": "polir, lustrar",
+        "forms": {
+            "base": "polish",
+            "pastSimple": "polished",
+            "pastParticiple": "polished",
+            "presentParticiple": "polishing",
+            "thirdPerson": "polishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shine"
+        ],
+        "explanation": "Esfregar algo para fazê-lo brilhar.",
+        "examples": [
+            {
+                "en": "Polish your shoes.",
+                "pt": "Engraxe seus sapatos."
+            }
+        ]
+    },
+    "ponder": {
+        "infinitive": "ponder",
+        "translation": "ponderar",
+        "forms": {
+            "base": "ponder",
+            "pastSimple": "pondered",
+            "pastParticiple": "pondered",
+            "presentParticiple": "pondering",
+            "thirdPerson": "ponders"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "consider",
+            "think"
+        ],
+        "explanation": "Pensar cuidadosamente sobre algo.",
+        "examples": [
+            {
+                "en": "Ponder the question.",
+                "pt": "Pondere a questão."
+            }
+        ]
+    },
+    "pop": {
+        "infinitive": "pop",
+        "translation": "estourar, dar um pulo (ir rápido)",
+        "forms": {
+            "base": "pop",
+            "pastSimple": "popped",
+            "pastParticiple": "popped",
+            "presentParticiple": "popping",
+            "thirdPerson": "pops"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "burst"
+        ],
+        "explanation": "Fazer um barulho explosivo curto ou ir a algum lugar rapidamente.",
+        "examples": [
+            {
+                "en": "The balloon popped.",
+                "pt": "O balão estourou."
+            },
+            {
+                "en": "I'll pop into the store.",
+                "pt": "Vou dar um pulo na loja."
+            }
+        ]
+    },
+    "possess": {
+        "infinitive": "possess",
+        "translation": "possuir",
+        "forms": {
+            "base": "possess",
+            "pastSimple": "possessed",
+            "pastParticiple": "possessed",
+            "presentParticiple": "possessing",
+            "thirdPerson": "possesses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "have",
+            "own"
+        ],
+        "explanation": "Ter ou ser dono de algo.",
+        "examples": [
+            {
+                "en": "He possesses great wisdom.",
+                "pt": "Ele possui grande sabedoria."
+            }
+        ]
+    },
+    "post": {
+        "infinitive": "post",
+        "translation": "postar, enviar",
+        "forms": {
+            "base": "post",
+            "pastSimple": "posted",
+            "pastParticiple": "posted",
+            "presentParticiple": "posting",
+            "thirdPerson": "posts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "mail",
+            "publish"
+        ],
+        "explanation": "Enviar carta ou publicar na internet.",
+        "examples": [
+            {
+                "en": "Post a comment.",
+                "pt": "Poste um comentário."
+            }
+        ]
+    },
+    "postpone": {
+        "infinitive": "postpone",
+        "translation": "adiar",
+        "forms": {
+            "base": "postpone",
+            "pastSimple": "postponed",
+            "pastParticiple": "postponed",
+            "presentParticiple": "postponing",
+            "thirdPerson": "postpones"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "delay",
+            "defer"
+        ],
+        "explanation": "Mudar um evento para uma data posterior.",
+        "examples": [
+            {
+                "en": "The game was postponed.",
+                "pt": "O jogo foi adiado."
+            }
+        ]
+    },
+    "pour": {
+        "infinitive": "pour",
+        "translation": "derramar, servir (bebida)",
+        "forms": {
+            "base": "pour",
+            "pastSimple": "poured",
+            "pastParticiple": "poured",
+            "presentParticiple": "pouring",
+            "thirdPerson": "pours"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "spill"
+        ],
+        "explanation": "Fazer um líquido fluir.",
+        "examples": [
+            {
+                "en": "Pour me some water.",
+                "pt": "Me sirva um pouco de água."
+            }
+        ]
+    },
+    "practice": {
+        "infinitive": "practice",
+        "translation": "praticar",
+        "forms": {
+            "base": "practice",
+            "pastSimple": "practiced",
+            "pastParticiple": "practiced",
+            "presentParticiple": "practicing",
+            "thirdPerson": "practices"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "rehearse",
+            "train"
+        ],
+        "explanation": "Fazer algo repetidamente para melhorar.",
+        "examples": [
+            {
+                "en": "Practice makes perfect.",
+                "pt": "A prática leva à perfeição."
+            }
+        ]
+    },
+    "praise": {
+        "infinitive": "praise",
+        "translation": "elogiar, louvar",
+        "forms": {
+            "base": "praise",
+            "pastSimple": "praised",
+            "pastParticiple": "praised",
+            "presentParticiple": "praising",
+            "thirdPerson": "praises"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "commend",
+            "admire"
+        ],
+        "explanation": "Expressar aprovação ou admiração.",
+        "examples": [
+            {
+                "en": "He praised her work.",
+                "pt": "Ele elogiou o trabalho dela."
+            }
+        ]
+    },
+    "pray": {
+        "infinitive": "pray",
+        "translation": "rezar, orar",
+        "forms": {
+            "base": "pray",
+            "pastSimple": "prayed",
+            "pastParticiple": "prayed",
+            "presentParticiple": "praying",
+            "thirdPerson": "prays"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Falar com Deus.",
+        "examples": [
+            {
+                "en": "She prayed for help.",
+                "pt": "Ela rezou por ajuda."
+            }
+        ]
+    },
+    "preach": {
+        "infinitive": "preach",
+        "translation": "pregar (sermão)",
+        "forms": {
+            "base": "preach",
+            "pastSimple": "preached",
+            "pastParticiple": "preached",
+            "presentParticiple": "preaching",
+            "thirdPerson": "preaches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sermonize"
+        ],
+        "explanation": "Dar um sermão religioso ou moral.",
+        "examples": [
+            {
+                "en": "He preaches love.",
+                "pt": "Ele prega o amor."
+            }
+        ]
+    },
+    "precede": {
+        "infinitive": "precede",
+        "translation": "preceder",
+        "forms": {
+            "base": "precede",
+            "pastSimple": "preceded",
+            "pastParticiple": "preceded",
+            "presentParticiple": "preceding",
+            "thirdPerson": "precedes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "come before"
+        ],
+        "explanation": "Acontecer antes de algo.",
+        "examples": [
+            {
+                "en": "Thunder precedes rain.",
+                "pt": "Trovão precede a chuva."
+            }
+        ]
+    },
+    "precipitate": {
+        "infinitive": "precipitate",
+        "translation": "precipitar",
+        "forms": {
+            "base": "precipitate",
+            "pastSimple": "precipitated",
+            "pastParticiple": "precipitated",
+            "presentParticiple": "precipitating",
+            "thirdPerson": "precipitates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "accelerate",
+            "trigger"
+        ],
+        "explanation": "Fazer algo acontecer de repente.",
+        "examples": [
+            {
+                "en": "The crisis precipitated war.",
+                "pt": "A crise precipitou a guerra."
+            }
+        ]
+    },
+    "predict": {
+        "infinitive": "predict",
+        "translation": "prever",
+        "forms": {
+            "base": "predict",
+            "pastSimple": "predicted",
+            "pastParticiple": "predicted",
+            "presentParticiple": "predicting",
+            "thirdPerson": "predicts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "forecast",
+            "foretell"
+        ],
+        "explanation": "Dizer o que vai acontecer.",
+        "examples": [
+            {
+                "en": "Predict the weather.",
+                "pt": "Preveja o tempo."
+            }
+        ]
+    },
+    "prefer": {
+        "infinitive": "prefer",
+        "translation": "preferir",
+        "forms": {
+            "base": "prefer",
+            "pastSimple": "preferred",
+            "pastParticiple": "preferred",
+            "presentParticiple": "preferring",
+            "thirdPerson": "prefers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "favor"
+        ],
+        "explanation": "Gostar mais de uma coisa do que outra.",
+        "examples": [
+            {
+                "en": "I prefer tea to coffee.",
+                "pt": "Prefiro chá a café."
+            }
+        ]
+    },
+    "prepare": {
+        "infinitive": "prepare",
+        "translation": "preparar",
+        "forms": {
+            "base": "prepare",
+            "pastSimple": "prepared",
+            "pastParticiple": "prepared",
+            "presentParticiple": "preparing",
+            "thirdPerson": "prepares"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "ready"
+        ],
+        "explanation": "Deixar pronto.",
+        "examples": [
+            {
+                "en": "Prepare dinner.",
+                "pt": "Prepare o jantar."
+            }
+        ]
+    },
+    "present": {
+        "infinitive": "present",
+        "translation": "apresentar, presentear",
+        "forms": {
+            "base": "present",
+            "pastSimple": "presented",
+            "pastParticiple": "presented",
+            "presentParticiple": "presenting",
+            "thirdPerson": "presents"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "introduce",
+            "give"
+        ],
+        "explanation": "Mostrar algo formalmente ou dar um presente (atenção à pronúncia: pre-SENT).",
+        "examples": [
+            {
+                "en": "She presented her ideas.",
+                "pt": "Ela apresentou suas ideias."
+            }
+        ]
+    },
+    "preserve": {
+        "infinitive": "preserve",
+        "translation": "preservar",
+        "forms": {
+            "base": "preserve",
+            "pastSimple": "preserved",
+            "pastParticiple": "preserved",
+            "presentParticiple": "preserving",
+            "thirdPerson": "preserves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "save",
+            "conserve"
+        ],
+        "explanation": "Manter algo em sua condição original ou protegido.",
+        "examples": [
+            {
+                "en": "Preserve nature.",
+                "pt": "Preserve a natureza."
+            }
+        ]
+    },
+    "preset": {
+        "infinitive": "preset",
+        "translation": "predefinir",
+        "forms": {
+            "base": "preset",
+            "pastSimple": "preset",
+            "pastParticiple": "preset",
+            "presentParticiple": "presetting",
+            "thirdPerson": "presets"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "tech"
+        ],
+        "related": [
+            "set"
+        ],
+        "explanation": "Ajustar antecipadamente.",
+        "examples": [
+            {
+                "en": "The oven is preset.",
+                "pt": "O forno está predefinido."
+            }
+        ]
+    },
+    "press": {
+        "infinitive": "press",
+        "translation": "pressionar, apertar",
+        "forms": {
+            "base": "press",
+            "pastSimple": "pressed",
+            "pastParticiple": "pressed",
+            "presentParticiple": "pressing",
+            "thirdPerson": "presses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "push",
+            "squeeze"
+        ],
+        "explanation": "Aplicar força contra algo.",
+        "examples": [
+            {
+                "en": "Press the button.",
+                "pt": "Aperte o botão."
+            }
+        ]
+    },
+    "pretend": {
+        "infinitive": "pretend",
+        "translation": "fingir",
+        "forms": {
+            "base": "pretend",
+            "pastSimple": "pretended",
+            "pastParticiple": "pretended",
+            "presentParticiple": "pretending",
+            "thirdPerson": "pretends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "fake"
+        ],
+        "explanation": "Agir como se algo fosse verdade quando não é.",
+        "examples": [
+            {
+                "en": "He pretended to be asleep.",
+                "pt": "Ele fingiu estar dormindo."
+            }
+        ]
+    },
+    "prevent": {
+        "infinitive": "prevent",
+        "translation": "prevenir, impedir",
+        "forms": {
+            "base": "prevent",
+            "pastSimple": "prevented",
+            "pastParticiple": "prevented",
+            "presentParticiple": "preventing",
+            "thirdPerson": "prevents"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stop",
+            "avoid"
+        ],
+        "explanation": "Evitar que algo aconteça.",
+        "examples": [
+            {
+                "en": "This vaccine prevents flu.",
+                "pt": "Esta vacina previne gripe."
+            }
+        ]
+    },
+    "price": {
+        "infinitive": "price",
+        "translation": "precificar",
+        "forms": {
+            "base": "price",
+            "pastSimple": "priced",
+            "pastParticiple": "priced",
+            "presentParticiple": "pricing",
+            "thirdPerson": "prices"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "value"
+        ],
+        "explanation": "Definir o preço de algo.",
+        "examples": [
+            {
+                "en": "The item is priced high.",
+                "pt": "O item está precificado alto."
+            }
+        ]
+    },
+    "prick": {
+        "infinitive": "prick",
+        "translation": "picar, furar levemente",
+        "forms": {
+            "base": "prick",
+            "pastSimple": "pricked",
+            "pastParticiple": "pricked",
+            "presentParticiple": "pricking",
+            "thirdPerson": "pricks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pierce"
+        ],
+        "explanation": "Fazer um furo pequeno com ponta fina.",
+        "examples": [
+            {
+                "en": "I pricked my finger.",
+                "pt": "Piquei meu dedo."
+            }
+        ]
+    },
+    "print": {
+        "infinitive": "print",
+        "translation": "imprimir",
+        "forms": {
+            "base": "print",
+            "pastSimple": "printed",
+            "pastParticiple": "printed",
+            "presentParticiple": "printing",
+            "thirdPerson": "prints"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "publish"
+        ],
+        "explanation": "Produzir texto em papel.",
+        "examples": [
+            {
+                "en": "Print the document.",
+                "pt": "Imprima o documento."
+            }
+        ]
+    },
+    "proceed": {
+        "infinitive": "proceed",
+        "translation": "prosseguir",
+        "forms": {
+            "base": "proceed",
+            "pastSimple": "proceeded",
+            "pastParticiple": "proceeded",
+            "presentParticiple": "proceeding",
+            "thirdPerson": "proceeds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "continue",
+            "advance"
+        ],
+        "explanation": "Continuar a fazer algo.",
+        "examples": [
+            {
+                "en": "Proceed with caution.",
+                "pt": "Prossiga com cautela."
+            }
+        ]
+    },
+    "proclaim": {
+        "infinitive": "proclaim",
+        "translation": "proclamar",
+        "forms": {
+            "base": "proclaim",
+            "pastSimple": "proclaimed",
+            "pastParticiple": "proclaimed",
+            "presentParticiple": "proclaiming",
+            "thirdPerson": "proclaims"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "announce",
+            "declare"
+        ],
+        "explanation": "Anunciar publicamente.",
+        "examples": [
+            {
+                "en": "Proclaim the victory.",
+                "pt": "Proclame a vitória."
+            }
+        ]
+    },
+    "prod": {
+        "infinitive": "prod",
+        "translation": "cutucar, incitar",
+        "forms": {
+            "base": "prod",
+            "pastSimple": "prodded",
+            "pastParticiple": "prodded",
+            "presentParticiple": "prodding",
+            "thirdPerson": "prods"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "poke",
+            "nudge"
+        ],
+        "explanation": "Empurrar com dedo ou objeto pontudo.",
+        "examples": [
+            {
+                "en": "Don't prod me.",
+                "pt": "Não me cutuque."
+            }
+        ]
+    },
+    "produce": {
+        "infinitive": "produce",
+        "translation": "produzir",
+        "forms": {
+            "base": "produce",
+            "pastSimple": "produced",
+            "pastParticiple": "produced",
+            "presentParticiple": "producing",
+            "thirdPerson": "produces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "make",
+            "create"
+        ],
+        "explanation": "Fazer, fabricar ou criar.",
+        "examples": [
+            {
+                "en": "They produce cars.",
+                "pt": "Eles produzem carros."
+            }
+        ]
+    },
+    "program": {
+        "infinitive": "program",
+        "translation": "programar",
+        "forms": {
+            "base": "program",
+            "pastSimple": "programmed",
+            "pastParticiple": "programmed",
+            "presentParticiple": "programming",
+            "thirdPerson": "programs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "code"
+        ],
+        "explanation": "Dar instruções a um computador.",
+        "examples": [
+            {
+                "en": "I program in Python.",
+                "pt": "Eu programo em Python."
+            }
+        ]
+    },
+    "prohibit": {
+        "infinitive": "prohibit",
+        "translation": "proibir",
+        "forms": {
+            "base": "prohibit",
+            "pastSimple": "prohibited",
+            "pastParticiple": "prohibited",
+            "presentParticiple": "prohibiting",
+            "thirdPerson": "prohibits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "forbid",
+            "ban"
+        ],
+        "explanation": "Não permitir legalmente.",
+        "examples": [
+            {
+                "en": "Smoking is prohibited.",
+                "pt": "Fumar é proibido."
+            }
+        ]
+    },
+    "project": {
+        "infinitive": "project",
+        "translation": "projetar",
+        "forms": {
+            "base": "project",
+            "pastSimple": "projected",
+            "pastParticiple": "projected",
+            "presentParticiple": "projecting",
+            "thirdPerson": "projects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "forecast",
+            "cast"
+        ],
+        "explanation": "Estimar para o futuro ou exibir imagem.",
+        "examples": [
+            {
+                "en": "Project the image.",
+                "pt": "Projete a imagem."
+            }
+        ]
+    },
+    "prolong": {
+        "infinitive": "prolong",
+        "translation": "prolongar",
+        "forms": {
+            "base": "prolong",
+            "pastSimple": "prolonged",
+            "pastParticiple": "prolonged",
+            "presentParticiple": "prolonging",
+            "thirdPerson": "prolongs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "extend",
+            "lengthen"
+        ],
+        "explanation": "Fazer durar mais tempo.",
+        "examples": [
+            {
+                "en": "Prolong the life.",
+                "pt": "Prolongue a vida."
+            }
+        ]
+    },
+    "promise": {
+        "infinitive": "promise",
+        "translation": "prometer",
+        "forms": {
+            "base": "promise",
+            "pastSimple": "promised",
+            "pastParticiple": "promised",
+            "presentParticiple": "promising",
+            "thirdPerson": "promises"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "swear"
+        ],
+        "explanation": "Dar a palavra de que fará algo.",
+        "examples": [
+            {
+                "en": "I promise to stay.",
+                "pt": "Prometo ficar."
+            }
+        ]
+    },
+    "prophesy": {
+        "infinitive": "prophesy",
+        "translation": "profetizar",
+        "forms": {
+            "base": "prophesy",
+            "pastSimple": "prophesied",
+            "pastParticiple": "prophesied",
+            "presentParticiple": "prophesying",
+            "thirdPerson": "prophesies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "predict",
+            "foretell"
+        ],
+        "explanation": "Dizer o futuro como profeta.",
+        "examples": [
+            {
+                "en": "He prophesied doom.",
+                "pt": "Ele profetizou a desgraça."
+            }
+        ]
+    },
+    "propose": {
+        "infinitive": "propose",
+        "translation": "propor",
+        "forms": {
+            "base": "propose",
+            "pastSimple": "proposed",
+            "pastParticiple": "proposed",
+            "presentParticiple": "proposing",
+            "thirdPerson": "proposes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "suggest",
+            "offer"
+        ],
+        "explanation": "Sugerir um plano ou pedir em casamento.",
+        "examples": [
+            {
+                "en": "I propose a toast.",
+                "pt": "Eu proponho um brinde."
+            }
+        ]
+    },
+    "prosper": {
+        "infinitive": "prosper",
+        "translation": "prosperar",
+        "forms": {
+            "base": "prosper",
+            "pastSimple": "prospered",
+            "pastParticiple": "prospered",
+            "presentParticiple": "prospering",
+            "thirdPerson": "prospers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "thrive",
+            "flourish"
+        ],
+        "explanation": "Ter sucesso financeiro.",
+        "examples": [
+            {
+                "en": "The business prospered.",
+                "pt": "O negócio prosperou."
+            }
+        ]
+    },
+    "protect": {
+        "infinitive": "protect",
+        "translation": "proteger",
+        "forms": {
+            "base": "protect",
+            "pastSimple": "protected",
+            "pastParticiple": "protected",
+            "presentParticiple": "protecting",
+            "thirdPerson": "protects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "guard",
+            "defend"
+        ],
+        "explanation": "Manter seguro de perigo.",
+        "examples": [
+            {
+                "en": "Protect your password.",
+                "pt": "Proteja sua senha."
+            }
+        ]
+    },
+    "protest": {
+        "infinitive": "protest",
+        "translation": "protestar",
+        "forms": {
+            "base": "protest",
+            "pastSimple": "protested",
+            "pastParticiple": "protested",
+            "presentParticiple": "protesting",
+            "thirdPerson": "protests"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "object",
+            "oppose"
+        ],
+        "explanation": "Expressar desacordo publicamente.",
+        "examples": [
+            {
+                "en": "They protested the law.",
+                "pt": "Eles protestaram contra a lei."
+            }
+        ]
+    },
+    "prove": {
+        "infinitive": "prove",
+        "translation": "provar",
+        "forms": {
+            "base": "prove",
+            "pastSimple": "proved",
+            "pastParticiple": "proven, proved",
+            "presentParticiple": "proving",
+            "thirdPerson": "proves"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "demonstrate"
+        ],
+        "explanation": "Mostrar que algo é verdadeiro.",
+        "examples": [
+            {
+                "en": "Prove it.",
+                "pt": "Prove isso."
+            }
+        ]
+    },
+    "provide": {
+        "infinitive": "provide",
+        "translation": "fornecer",
+        "forms": {
+            "base": "provide",
+            "pastSimple": "provided",
+            "pastParticiple": "provided",
+            "presentParticiple": "providing",
+            "thirdPerson": "provides"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "supply",
+            "give"
+        ],
+        "explanation": "Dar ou disponibilizar algo que é necessário.",
+        "examples": [
+            {
+                "en": "They provide food.",
+                "pt": "Eles fornecem comida."
+            }
+        ]
+    },
+    "prune": {
+        "infinitive": "prune",
+        "translation": "podar",
+        "forms": {
+            "base": "prune",
+            "pastSimple": "pruned",
+            "pastParticiple": "pruned",
+            "presentParticiple": "pruning",
+            "thirdPerson": "prunes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "trim",
+            "cut"
+        ],
+        "explanation": "Cortar galhos de árvore.",
+        "examples": [
+            {
+                "en": "Prune the roses.",
+                "pt": "Pode as rosas."
+            }
+        ]
+    },
+    "publish": {
+        "infinitive": "publish",
+        "translation": "publicar",
+        "forms": {
+            "base": "publish",
+            "pastSimple": "published",
+            "pastParticiple": "published",
+            "presentParticiple": "publishing",
+            "thirdPerson": "publishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "print",
+            "issue"
+        ],
+        "explanation": "Produzir e vender livro/jornal ou postar online.",
+        "examples": [
+            {
+                "en": "Publish the article.",
+                "pt": "Publique o artigo."
+            }
+        ]
+    },
+    "pull": {
+        "infinitive": "pull",
+        "translation": "puxar",
+        "forms": {
+            "base": "pull",
+            "pastSimple": "pulled",
+            "pastParticiple": "pulled",
+            "presentParticiple": "pulling",
+            "thirdPerson": "pulls"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "drag",
+            "tow"
+        ],
+        "explanation": "Mover algo em sua direção; oposto de empurrar (Push).",
+        "examples": [
+            {
+                "en": "Pull the door.",
+                "pt": "Puxe a porta."
+            }
+        ]
+    },
+    "pull back": {
+        "infinitive": "pull back",
+        "translation": "recuar, puxar de volta",
+        "forms": {
+            "base": "pull back",
+            "pastSimple": "pulled back",
+            "pastParticiple": "pulled back",
+            "presentParticiple": "pulling back",
+            "thirdPerson": "pulls back"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "retreat",
+            "withdraw"
+        ],
+        "explanation": "Mover para trás.",
+        "examples": [
+            {
+                "en": "Pull back the curtains.",
+                "pt": "Abra (puxe) as cortinas."
+            }
+        ]
+    },
+    "pull out": {
+        "infinitive": "pull out",
+        "translation": "extrair, retirar",
+        "forms": {
+            "base": "pull out",
+            "pastSimple": "pulled out",
+            "pastParticiple": "pulled out",
+            "presentParticiple": "pulling out",
+            "thirdPerson": "pulls out"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "extract",
+            "withdraw"
+        ],
+        "explanation": "Tirar algo de onde estava.",
+        "examples": [
+            {
+                "en": "Pull out the plug.",
+                "pt": "Tire o plugue."
+            }
+        ]
+    },
+    "pump": {
+        "infinitive": "pump",
+        "translation": "bombear",
+        "forms": {
+            "base": "pump",
+            "pastSimple": "pumped",
+            "pastParticiple": "pumped",
+            "presentParticiple": "pumping",
+            "thirdPerson": "pumps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Mover fluidos ou ar com uma bomba.",
+        "examples": [
+            {
+                "en": "Pump the tire.",
+                "pt": "Encha (bombeie) o pneu."
+            }
+        ]
+    },
+    "punch": {
+        "infinitive": "punch",
+        "translation": "socar",
+        "forms": {
+            "base": "punch",
+            "pastSimple": "punched",
+            "pastParticiple": "punched",
+            "presentParticiple": "punching",
+            "thirdPerson": "punches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hit"
+        ],
+        "explanation": "Bater com o punho fechado.",
+        "examples": [
+            {
+                "en": "He punched the bag.",
+                "pt": "Ele socou o saco (de pancadas)."
+            }
+        ]
+    },
+    "puncture": {
+        "infinitive": "puncture",
+        "translation": "perfurar, furar",
+        "forms": {
+            "base": "puncture",
+            "pastSimple": "punctured",
+            "pastParticiple": "punctured",
+            "presentParticiple": "puncturing",
+            "thirdPerson": "punctures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pierce"
+        ],
+        "explanation": "Fazer um furo em algo (pneu, pele).",
+        "examples": [
+            {
+                "en": "A nail punctured the tire.",
+                "pt": "Um prego furou o pneu."
+            }
+        ]
+    },
+    "punish": {
+        "infinitive": "punish",
+        "translation": "punir",
+        "forms": {
+            "base": "punish",
+            "pastSimple": "punished",
+            "pastParticiple": "punished",
+            "presentParticiple": "punishing",
+            "thirdPerson": "punishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "discipline"
+        ],
+        "explanation": "Fazer alguém sofrer consequências por um erro.",
+        "examples": [
+            {
+                "en": "Don't punish him.",
+                "pt": "Não o puna."
+            }
+        ]
+    },
+    "purchase": {
+        "infinitive": "purchase",
+        "translation": "comprar",
+        "forms": {
+            "base": "purchase",
+            "pastSimple": "purchased",
+            "pastParticiple": "purchased",
+            "presentParticiple": "purchasing",
+            "thirdPerson": "purchases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "buy"
+        ],
+        "explanation": "Adquirir pagando dinheiro.",
+        "examples": [
+            {
+                "en": "Purchase a ticket.",
+                "pt": "Compre um bilhete."
+            }
+        ]
+    },
+    "pursue": {
+        "infinitive": "pursue",
+        "translation": "perseguir, buscar",
+        "forms": {
+            "base": "pursue",
+            "pastSimple": "pursued",
+            "pastParticiple": "pursued",
+            "presentParticiple": "pursuing",
+            "thirdPerson": "pursues"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "chase",
+            "follow"
+        ],
+        "explanation": "Seguir alguém para pegar ou tentar alcançar objetivo.",
+        "examples": [
+            {
+                "en": "Pursue your dreams.",
+                "pt": "Persiga seus sonhos."
+            }
+        ]
+    },
+    "push": {
+        "infinitive": "push",
+        "translation": "empurrar",
+        "forms": {
+            "base": "push",
+            "pastSimple": "pushed",
+            "pastParticiple": "pushed",
+            "presentParticiple": "pushing",
+            "thirdPerson": "pushes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "shove",
+            "press"
+        ],
+        "explanation": "Mover algo para longe de você; oposto de puxar (Pull).",
+        "examples": [
+            {
+                "en": "Push the car.",
+                "pt": "Empurre o carro."
+            }
+        ]
+    },
+    "put": {
+        "infinitive": "put",
+        "translation": "colocar, pôr",
+        "forms": {
+            "base": "put",
+            "pastSimple": "put",
+            "pastParticiple": "put",
+            "presentParticiple": "putting",
+            "thirdPerson": "puts"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "place",
+            "set"
+        ],
+        "explanation": "Mover algo para um lugar.",
+        "examples": [
+            {
+                "en": "Put it on the table.",
+                "pt": "Ponha na mesa."
+            }
+        ]
+    },
+    "put on": {
+        "infinitive": "put on",
+        "translation": "vestir, colocar",
+        "forms": {
+            "base": "put on",
+            "pastSimple": "put on",
+            "pastParticiple": "put on",
+            "presentParticiple": "putting on",
+            "thirdPerson": "puts on"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "wear",
+            "dress"
+        ],
+        "explanation": "Vestir roupa ou aplicar algo.",
+        "examples": [
+            {
+                "en": "Put on your coat.",
+                "pt": "Vista seu casaco."
+            }
+        ]
+    },
+    "puzzle": {
+        "infinitive": "puzzle",
+        "translation": "intrigar",
+        "forms": {
+            "base": "puzzle",
+            "pastSimple": "puzzled",
+            "pastParticiple": "puzzled",
+            "presentParticiple": "puzzling",
+            "thirdPerson": "puzzles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "confuse",
+            "baffle"
+        ],
+        "explanation": "Deixar alguém confuso.",
+        "examples": [
+            {
+                "en": "The math problem puzzled me.",
+                "pt": "O problema de matemática me intrigou."
+            }
+        ]
+    }
+}

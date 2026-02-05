@@ -1,0 +1,474 @@
+{
+    "uncover": {
+        "infinitive": "uncover",
+        "translation": "descobrir, revelar",
+        "forms": {
+            "base": "uncover",
+            "pastSimple": "uncovered",
+            "pastParticiple": "uncovered",
+            "presentParticiple": "uncovering",
+            "thirdPerson": "uncovers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "discover",
+            "reveal"
+        ],
+        "explanation": "Remover a cobertura ou revelar algo secreto.",
+        "examples": [
+            {
+                "en": "They uncovered the truth.",
+                "pt": "Eles descobriram a verdade."
+            },
+            {
+                "en": "Uncover the pot.",
+                "pt": "Destampe a panela."
+            }
+        ]
+    },
+    "undergo": {
+        "infinitive": "undergo",
+        "translation": "passar por, submeter-se a",
+        "forms": {
+            "base": "undergo",
+            "pastSimple": "underwent",
+            "pastParticiple": "undergone",
+            "presentParticiple": "undergoing",
+            "thirdPerson": "undergoes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "experience",
+            "endure"
+        ],
+        "explanation": "Vivenciar algo necessário ou desagradável.",
+        "examples": [
+            {
+                "en": "He underwent surgery.",
+                "pt": "Ele passou por uma cirurgia."
+            }
+        ]
+    },
+    "understand": {
+        "infinitive": "understand",
+        "translation": "entender",
+        "forms": {
+            "base": "understand",
+            "pastSimple": "understood",
+            "pastParticiple": "understood",
+            "presentParticiple": "understanding",
+            "thirdPerson": "understands"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "comprehend",
+            "grasp"
+        ],
+        "explanation": "Saber o significado de algo ou como algo funciona.",
+        "examples": [
+            {
+                "en": "Do you understand?",
+                "pt": "Você entende?"
+            },
+            {
+                "en": "I understood the lesson.",
+                "pt": "Entendi a lição."
+            }
+        ]
+    },
+    "undertake": {
+        "infinitive": "undertake",
+        "translation": "empreender, assumir",
+        "forms": {
+            "base": "undertake",
+            "pastSimple": "undertook",
+            "pastParticiple": "undertaken",
+            "presentParticiple": "undertaking",
+            "thirdPerson": "undertakes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "attempt",
+            "tackle"
+        ],
+        "explanation": "Comprometer-se a fazer algo difícil ou demorado.",
+        "examples": [
+            {
+                "en": "They undertook a new project.",
+                "pt": "Eles empreenderam um novo projeto."
+            }
+        ]
+    },
+    "undo": {
+        "infinitive": "undo",
+        "translation": "desfazer",
+        "forms": {
+            "base": "undo",
+            "pastSimple": "undid",
+            "pastParticiple": "undone",
+            "presentParticiple": "undoing",
+            "thirdPerson": "undoes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "reverse"
+        ],
+        "explanation": "Cancelar ou abrir algo fechado.",
+        "examples": [
+            {
+                "en": "Undo the knot.",
+                "pt": "Desfaça o nó."
+            }
+        ]
+    },
+    "undress": {
+        "infinitive": "undress",
+        "translation": "despir-se",
+        "forms": {
+            "base": "undress",
+            "pastSimple": "undressed",
+            "pastParticiple": "undressed",
+            "presentParticiple": "undressing",
+            "thirdPerson": "undresses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "strip"
+        ],
+        "explanation": "Tirar a roupa.",
+        "examples": [
+            {
+                "en": "He undressed quickly.",
+                "pt": "Ele se despiu rapidamente."
+            }
+        ]
+    },
+    "unfasten": {
+        "infinitive": "unfasten",
+        "translation": "desabotoar, soltar",
+        "forms": {
+            "base": "unfasten",
+            "pastSimple": "unfastened",
+            "pastParticiple": "unfastened",
+            "presentParticiple": "unfastening",
+            "thirdPerson": "unfastens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "undo",
+            "release"
+        ],
+        "explanation": "Abrir algo que está preso (como um cinto).",
+        "examples": [
+            {
+                "en": "Please unfasten your seatbelt.",
+                "pt": "Por favor, solte seu cinto de segurança."
+            }
+        ]
+    },
+    "unite": {
+        "infinitive": "unite",
+        "translation": "unir",
+        "forms": {
+            "base": "unite",
+            "pastSimple": "united",
+            "pastParticiple": "united",
+            "presentParticiple": "uniting",
+            "thirdPerson": "unites"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "join",
+            "combine"
+        ],
+        "explanation": "Juntar-se para agir em conjunto.",
+        "examples": [
+            {
+                "en": "We must unite.",
+                "pt": "Devemos nos unir."
+            }
+        ]
+    },
+    "unlock": {
+        "infinitive": "unlock",
+        "translation": "destrancar",
+        "forms": {
+            "base": "unlock",
+            "pastSimple": "unlocked",
+            "pastParticiple": "unlocked",
+            "presentParticiple": "unlocking",
+            "thirdPerson": "unlocks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "open"
+        ],
+        "explanation": "Abrir uma fechadura com uma chave ou código.",
+        "examples": [
+            {
+                "en": "Unlock the door.",
+                "pt": "Destranque a porta."
+            }
+        ]
+    },
+    "unpack": {
+        "infinitive": "unpack",
+        "translation": "desfazer as malas",
+        "forms": {
+            "base": "unpack",
+            "pastSimple": "unpacked",
+            "pastParticiple": "unpacked",
+            "presentParticiple": "unpacking",
+            "thirdPerson": "unpacks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "empty"
+        ],
+        "explanation": "Tirar coisas de uma mala ou caixa.",
+        "examples": [
+            {
+                "en": "I need to unpack.",
+                "pt": "Preciso desfazer as malas."
+            }
+        ]
+    },
+    "unroll": {
+        "infinitive": "unroll",
+        "translation": "desenrolar",
+        "forms": {
+            "base": "unroll",
+            "pastSimple": "unrolled",
+            "pastParticiple": "unrolled",
+            "presentParticiple": "unrolling",
+            "thirdPerson": "unrolls"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "open"
+        ],
+        "explanation": "Abrir algo que estava enrolado.",
+        "examples": [
+            {
+                "en": "Unroll the carpet.",
+                "pt": "Desenrole o tapete."
+            }
+        ]
+    },
+    "untie": {
+        "infinitive": "untie",
+        "translation": "desamarrar",
+        "forms": {
+            "base": "untie",
+            "pastSimple": "untied",
+            "pastParticiple": "untied",
+            "presentParticiple": "untying",
+            "thirdPerson": "unties"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "release"
+        ],
+        "explanation": "Desfazer um nó ou laço.",
+        "examples": [
+            {
+                "en": "Untie the knot.",
+                "pt": "Desamarre o nó."
+            }
+        ]
+    },
+    "unwind": {
+        "infinitive": "unwind",
+        "translation": "desenrolar, relaxar",
+        "forms": {
+            "base": "unwind",
+            "pastSimple": "unwound",
+            "pastParticiple": "unwound",
+            "presentParticiple": "unwinding",
+            "thirdPerson": "unwinds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "relax",
+            "unroll"
+        ],
+        "explanation": "Desfazer algo enrolado; ou descansar após o trabalho.",
+        "examples": [
+            {
+                "en": "I unwind by reading.",
+                "pt": "Eu relaxo lendo."
+            }
+        ]
+    },
+    "upset": {
+        "infinitive": "upset",
+        "translation": "chatear, perturbar",
+        "forms": {
+            "base": "upset",
+            "pastSimple": "upset",
+            "pastParticiple": "upset",
+            "presentParticiple": "upsetting",
+            "thirdPerson": "upsets"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "disturb",
+            "trouble"
+        ],
+        "explanation": "Deixar alguém infeliz, preocupado ou com raiva.",
+        "examples": [
+            {
+                "en": "Don't upset her.",
+                "pt": "Não a chateie."
+            }
+        ]
+    },
+    "use": {
+        "infinitive": "use",
+        "translation": "usar",
+        "forms": {
+            "base": "use",
+            "pastSimple": "used",
+            "pastParticiple": "used",
+            "presentParticiple": "using",
+            "thirdPerson": "uses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "utilize",
+            "employ"
+        ],
+        "explanation": "Fazer algo funcionar com um propósito.",
+        "examples": [
+            {
+                "en": "May I use your pen?",
+                "pt": "Posso usar sua caneta?"
+            }
+        ]
+    },
+    "use up": {
+        "infinitive": "use up",
+        "translation": "gastar tudo",
+        "forms": {
+            "base": "use up",
+            "pastSimple": "used up",
+            "pastParticiple": "used up",
+            "presentParticiple": "using up",
+            "thirdPerson": "uses up"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "consume",
+            "deplete"
+        ],
+        "explanation": "Usar até acabar.",
+        "examples": [
+            {
+                "en": "Use up the resources.",
+                "pt": "Gaste todos os recursos."
+            }
+        ]
+    },
+    "utilize": {
+        "infinitive": "utilize",
+        "translation": "utilizar",
+        "forms": {
+            "base": "utilize",
+            "pastSimple": "utilized",
+            "pastParticiple": "utilized",
+            "presentParticiple": "utilizing",
+            "thirdPerson": "utilizes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "use"
+        ],
+        "explanation": "Usar algo para um propósito (formal).",
+        "examples": [
+            {
+                "en": "Utilize available resources.",
+                "pt": "Utilize os recursos disponíveis."
+            }
+        ]
+    },
+    "utter": {
+        "infinitive": "utter",
+        "translation": "pronunciar",
+        "forms": {
+            "base": "utter",
+            "pastSimple": "uttered",
+            "pastParticiple": "uttered",
+            "presentParticiple": "uttering",
+            "thirdPerson": "utters"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "say",
+            "speak"
+        ],
+        "explanation": "Produzir um som ou dizer algo.",
+        "examples": [
+            {
+                "en": "He uttered a cry.",
+                "pt": "Ele soltou um grito."
+            }
+        ]
+    }
+}

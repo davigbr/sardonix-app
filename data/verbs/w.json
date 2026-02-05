@@ -1,0 +1,1463 @@
+{
+    "wager": {
+        "infinitive": "wager",
+        "translation": "apostar",
+        "forms": {
+            "base": "wager",
+            "pastSimple": "wagered",
+            "pastParticiple": "wagered",
+            "presentParticiple": "wagering",
+            "thirdPerson": "wagers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bet",
+            "gamble"
+        ],
+        "explanation": "Apostar dinheiro ou algo de valor.",
+        "examples": [
+            {
+                "en": "I wager he wins.",
+                "pt": "Aposto que ele ganha."
+            }
+        ]
+    },
+    "wail": {
+        "infinitive": "wail",
+        "translation": "gemer, lamentar",
+        "forms": {
+            "base": "wail",
+            "pastSimple": "wailed",
+            "pastParticiple": "wailed",
+            "presentParticiple": "wailing",
+            "thirdPerson": "wails"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cry",
+            "moan"
+        ],
+        "explanation": "Chorar alto de dor ou tristeza; ou fazer um som agudo.",
+        "examples": [
+            {
+                "en": "The baby wailed.",
+                "pt": "O bebê chorou alto."
+            }
+        ]
+    },
+    "wait": {
+        "infinitive": "wait",
+        "translation": "esperar",
+        "forms": {
+            "base": "wait",
+            "pastSimple": "waited",
+            "pastParticiple": "waited",
+            "presentParticiple": "waiting",
+            "thirdPerson": "waits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "stay",
+            "stop",
+            "expect"
+        ],
+        "explanation": "'Wait' significa permanecer em um lugar até que algo aconteça.",
+        "examples": [
+            {
+                "en": "Wait for me.",
+                "pt": "Espere por mim."
+            },
+            {
+                "en": "She is waiting for the bus.",
+                "pt": "Ela está esperando o ônibus."
+            },
+            {
+                "en": "I can't wait.",
+                "pt": "Não posso esperar."
+            }
+        ]
+    },
+    "wake": {
+        "infinitive": "wake",
+        "translation": "acordar",
+        "forms": {
+            "base": "wake",
+            "pastSimple": "woke",
+            "pastParticiple": "woken",
+            "presentParticiple": "waking",
+            "thirdPerson": "wakes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "awaken",
+            "rouse"
+        ],
+        "explanation": "Parar de dormir.",
+        "examples": [
+            {
+                "en": "Wake up!",
+                "pt": "Acorde!"
+            }
+        ]
+    },
+    "wake up": {
+        "infinitive": "wake up",
+        "translation": "acordar",
+        "forms": {
+            "base": "wake up",
+            "pastSimple": "woke up",
+            "pastParticiple": "woken up",
+            "presentParticiple": "waking up",
+            "thirdPerson": "wakes up"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "awake",
+            "arouse"
+        ],
+        "explanation": "Parar de dormir.",
+        "examples": [
+            {
+                "en": "Wake up early.",
+                "pt": "Acorde cedo."
+            }
+        ]
+    },
+    "walk": {
+        "infinitive": "walk",
+        "translation": "andar/caminhar",
+        "forms": {
+            "base": "walk",
+            "pastSimple": "walked",
+            "pastParticiple": "walked",
+            "presentParticiple": "walking",
+            "thirdPerson": "walks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "go",
+            "move",
+            "travel"
+        ],
+        "explanation": "'Walk' significa mover-se a pé.",
+        "examples": [
+            {
+                "en": "I walk to school.",
+                "pt": "Eu ando para a escola."
+            },
+            {
+                "en": "Let's go for a walk.",
+                "pt": "Vamos dar uma caminhada."
+            },
+            {
+                "en": "She walked away.",
+                "pt": "Ela foi embora andando."
+            }
+        ]
+    },
+    "wander": {
+        "infinitive": "wander",
+        "translation": "vagar, perambular",
+        "forms": {
+            "base": "wander",
+            "pastSimple": "wandered",
+            "pastParticiple": "wandered",
+            "presentParticiple": "wandering",
+            "thirdPerson": "wanders"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "roam",
+            "stroll"
+        ],
+        "explanation": "Andar sem destino certo.",
+        "examples": [
+            {
+                "en": "We wandered around the city.",
+                "pt": "Vagamos pela cidade."
+            }
+        ]
+    },
+    "want": {
+        "infinitive": "want",
+        "translation": "querer",
+        "forms": {
+            "base": "want",
+            "pastSimple": "wanted",
+            "pastParticiple": "wanted",
+            "presentParticiple": "wanting",
+            "thirdPerson": "wants"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "need",
+            "desire",
+            "wish",
+            "require"
+        ],
+        "explanation": "'Want' expressa desejo ou necessidade. Seguido de 'to + verbo' ('I want to go') ou objeto ('I want coffee'). 'Would like' é a forma mais educada de 'want' ('Would you like some tea?').",
+        "examples": [
+            {
+                "en": "I want to learn English.",
+                "pt": "Eu quero aprender inglês."
+            },
+            {
+                "en": "Do you want some water?",
+                "pt": "Você quer um pouco de água?"
+            },
+            {
+                "en": "She wanted to be a doctor.",
+                "pt": "Ela queria ser médica."
+            }
+        ]
+    },
+    "warm": {
+        "infinitive": "warm",
+        "translation": "aquecer",
+        "forms": {
+            "base": "warm",
+            "pastSimple": "warmed",
+            "pastParticiple": "warmed",
+            "presentParticiple": "warming",
+            "thirdPerson": "warms"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "heat"
+        ],
+        "explanation": "Tornar algo quente.",
+        "examples": [
+            {
+                "en": "Warm your hands.",
+                "pt": "Aqueça suas mãos."
+            }
+        ]
+    },
+    "warn": {
+        "infinitive": "warn",
+        "translation": "avisar, alertar",
+        "forms": {
+            "base": "warn",
+            "pastSimple": "warned",
+            "pastParticiple": "warned",
+            "presentParticiple": "warning",
+            "thirdPerson": "warns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "alert",
+            "caution"
+        ],
+        "explanation": "Informar alguém sobre um perigo.",
+        "examples": [
+            {
+                "en": "He warned me about the dog.",
+                "pt": "Ele me avisou sobre o cachorro."
+            }
+        ]
+    },
+    "wash": {
+        "infinitive": "wash",
+        "translation": "lavar",
+        "forms": {
+            "base": "wash",
+            "pastSimple": "washed",
+            "pastParticiple": "washed",
+            "presentParticiple": "washing",
+            "thirdPerson": "washes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "clean"
+        ],
+        "explanation": "Limpar com água e sabão.",
+        "examples": [
+            {
+                "en": "Wash your hands.",
+                "pt": "Lave suas mãos."
+            }
+        ]
+    },
+    "waste": {
+        "infinitive": "waste",
+        "translation": "desperdiçar",
+        "forms": {
+            "base": "waste",
+            "pastSimple": "wasted",
+            "pastParticiple": "wasted",
+            "presentParticiple": "wasting",
+            "thirdPerson": "wastes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "squander"
+        ],
+        "explanation": "Usar algo de forma ineficiente ou sem necessidade.",
+        "examples": [
+            {
+                "en": "Don't waste time.",
+                "pt": "Não desperdice tempo."
+            }
+        ]
+    },
+    "watch": {
+        "infinitive": "watch",
+        "translation": "assistir/observar",
+        "forms": {
+            "base": "watch",
+            "pastSimple": "watched",
+            "pastParticiple": "watched",
+            "presentParticiple": "watching",
+            "thirdPerson": "watches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "see",
+            "look",
+            "observe"
+        ],
+        "explanation": "'Watch' significa olhar atentamente por um período. Diferente de 'see' (perceber) e 'look' (direcionar o olhar).",
+        "examples": [
+            {
+                "en": "Let's watch a movie.",
+                "pt": "Vamos assistir um filme."
+            },
+            {
+                "en": "Watch your step.",
+                "pt": "Cuidado onde pisa."
+            },
+            {
+                "en": "I watched the sunset.",
+                "pt": "Eu assisti o pôr do sol."
+            }
+        ]
+    },
+    "water": {
+        "infinitive": "water",
+        "translation": "regar",
+        "forms": {
+            "base": "water",
+            "pastSimple": "watered",
+            "pastParticiple": "watered",
+            "presentParticiple": "watering",
+            "thirdPerson": "waters"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "moisten"
+        ],
+        "explanation": "Colocar água em plantas ou animais.",
+        "examples": [
+            {
+                "en": "I watered the plants.",
+                "pt": "Eu reguei as plantas."
+            }
+        ]
+    },
+    "wave": {
+        "infinitive": "wave",
+        "translation": "acenar",
+        "forms": {
+            "base": "wave",
+            "pastSimple": "waved",
+            "pastParticiple": "waved",
+            "presentParticiple": "waving",
+            "thirdPerson": "waves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "signal"
+        ],
+        "explanation": "Mover a mão para cumprimentar ou sinalizar.",
+        "examples": [
+            {
+                "en": "She waved goodbye.",
+                "pt": "Ela acenou tchau."
+            }
+        ]
+    },
+    "wear": {
+        "infinitive": "wear",
+        "translation": "vestir, usar",
+        "forms": {
+            "base": "wear",
+            "pastSimple": "wore",
+            "pastParticiple": "worn",
+            "presentParticiple": "wearing",
+            "thirdPerson": "wears"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "dress",
+            "put on"
+        ],
+        "explanation": "Ter roupa, óculos ou joias no corpo.",
+        "examples": [
+            {
+                "en": "He wears glasses.",
+                "pt": "Ele usa óculos."
+            }
+        ]
+    },
+    "weary": {
+        "infinitive": "weary",
+        "translation": "cansar, fatigar",
+        "forms": {
+            "base": "weary",
+            "pastSimple": "wearied",
+            "pastParticiple": "wearied",
+            "presentParticiple": "wearying",
+            "thirdPerson": "wearies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tire"
+        ],
+        "explanation": "Tornar-se muito cansado.",
+        "examples": [
+            {
+                "en": "The journey wearied him.",
+                "pt": "A jornada o cansou."
+            }
+        ]
+    },
+    "weave": {
+        "infinitive": "weave",
+        "translation": "tecer",
+        "forms": {
+            "base": "weave",
+            "pastSimple": "wove",
+            "pastParticiple": "woven",
+            "presentParticiple": "weaving",
+            "thirdPerson": "weaves"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "knit",
+            "braid"
+        ],
+        "explanation": "Fazer tecido entrelaçando fios.",
+        "examples": [
+            {
+                "en": "She weaves rugs.",
+                "pt": "Ela tece tapetes."
+            }
+        ]
+    },
+    "wed": {
+        "infinitive": "wed",
+        "translation": "casar-se",
+        "forms": {
+            "base": "wed",
+            "pastSimple": "wed",
+            "pastParticiple": "wed",
+            "presentParticiple": "wedding",
+            "thirdPerson": "weds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "marry"
+        ],
+        "explanation": "Unir-se em casamento (formal ou antigo).",
+        "examples": [
+            {
+                "en": "They wed last year.",
+                "pt": "Eles se casaram ano passado."
+            }
+        ]
+    },
+    "weep": {
+        "infinitive": "weep",
+        "translation": "chorar",
+        "forms": {
+            "base": "weep",
+            "pastSimple": "wept",
+            "pastParticiple": "wept",
+            "presentParticiple": "weeping",
+            "thirdPerson": "weeps"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "cry",
+            "sob"
+        ],
+        "explanation": "Chorar, geralmente em silêncio ou por dor profunda.",
+        "examples": [
+            {
+                "en": "She wept for joy.",
+                "pt": "Ela chorou de alegria."
+            }
+        ]
+    },
+    "weigh": {
+        "infinitive": "weigh",
+        "translation": "pesar",
+        "forms": {
+            "base": "weigh",
+            "pastSimple": "weighed",
+            "pastParticiple": "weighed",
+            "presentParticiple": "weighing",
+            "thirdPerson": "weighs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "measure"
+        ],
+        "explanation": "Medir o peso de algo ou alguém.",
+        "examples": [
+            {
+                "en": "How much do you weigh?",
+                "pt": "Quanto você pesa?"
+            }
+        ]
+    },
+    "welcome": {
+        "infinitive": "welcome",
+        "translation": "dar as boas-vindas",
+        "forms": {
+            "base": "welcome",
+            "pastSimple": "welcomed",
+            "pastParticiple": "welcomed",
+            "presentParticiple": "welcoming",
+            "thirdPerson": "welcomes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "greet"
+        ],
+        "explanation": "Receber alguém com prazer.",
+        "examples": [
+            {
+                "en": "They welcomed us warmly.",
+                "pt": "Eles nos deram boas-vindas calorosas."
+            }
+        ]
+    },
+    "wend": {
+        "infinitive": "wend",
+        "translation": "seguir (caminho)",
+        "forms": {
+            "base": "wend",
+            "pastSimple": "wended",
+            "pastParticiple": "wended",
+            "presentParticiple": "wending",
+            "thirdPerson": "wends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "go",
+            "travel"
+        ],
+        "explanation": "Seguir seu caminho (literário/arcaico).",
+        "examples": [
+            {
+                "en": "We wended our way home.",
+                "pt": "Seguimos nosso caminho para casa."
+            }
+        ]
+    },
+    "wet": {
+        "infinitive": "wet",
+        "translation": "molhar",
+        "forms": {
+            "base": "wet",
+            "pastSimple": "wet",
+            "pastParticiple": "wet",
+            "presentParticiple": "wetting",
+            "thirdPerson": "wets"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "moisten",
+            "dampen"
+        ],
+        "explanation": "Cobrir ou saturar com líquido.",
+        "examples": [
+            {
+                "en": "He wet the towel.",
+                "pt": "Ele molhou a toalha."
+            }
+        ]
+    },
+    "whine": {
+        "infinitive": "whine",
+        "translation": "choramingar, reclamar",
+        "forms": {
+            "base": "whine",
+            "pastSimple": "whined",
+            "pastParticiple": "whined",
+            "presentParticiple": "whining",
+            "thirdPerson": "whines"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "complain"
+        ],
+        "explanation": "Reclamar com voz chorosa.",
+        "examples": [
+            {
+                "en": "Stop whining!",
+                "pt": "Pare de choramingar!"
+            }
+        ]
+    },
+    "whip": {
+        "infinitive": "whip",
+        "translation": "chicotear, bater (ovos)",
+        "forms": {
+            "base": "whip",
+            "pastSimple": "whipped",
+            "pastParticiple": "whipped",
+            "presentParticiple": "whipping",
+            "thirdPerson": "whips"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "beat",
+            "lash"
+        ],
+        "explanation": "Bater com um chicote; ou bater ingredientes rapidamente.",
+        "examples": [
+            {
+                "en": "Whip the cream.",
+                "pt": "Bata o creme."
+            }
+        ]
+    },
+    "whirl": {
+        "infinitive": "whirl",
+        "translation": "rodopiar",
+        "forms": {
+            "base": "whirl",
+            "pastSimple": "whirled",
+            "pastParticiple": "whirled",
+            "presentParticiple": "whirling",
+            "thirdPerson": "whirls"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "spin",
+            "twirl"
+        ],
+        "explanation": "Girar rapidamente.",
+        "examples": [
+            {
+                "en": "Leaves whirled in the wind.",
+                "pt": "Folhas rodopiaram ao vento."
+            }
+        ]
+    },
+    "whisper": {
+        "infinitive": "whisper",
+        "translation": "sussurrar",
+        "forms": {
+            "base": "whisper",
+            "pastSimple": "whispered",
+            "pastParticiple": "whispered",
+            "presentParticiple": "whispering",
+            "thirdPerson": "whispers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "murmur"
+        ],
+        "explanation": "Falar muito baixo.",
+        "examples": [
+            {
+                "en": "He whispered a secret.",
+                "pt": "Ele sussurrou um segredo."
+            }
+        ]
+    },
+    "whiten": {
+        "infinitive": "whiten",
+        "translation": "branquear",
+        "forms": {
+            "base": "whiten",
+            "pastSimple": "whitened",
+            "pastParticiple": "whitened",
+            "presentParticiple": "whitening",
+            "thirdPerson": "whitens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bleach"
+        ],
+        "explanation": "Tornar branco.",
+        "examples": [
+            {
+                "en": "Whiten your teeth.",
+                "pt": "Clareie seus dentes."
+            }
+        ]
+    },
+    "widen": {
+        "infinitive": "widen",
+        "translation": "alargar",
+        "forms": {
+            "base": "widen",
+            "pastSimple": "widened",
+            "pastParticiple": "widened",
+            "presentParticiple": "widening",
+            "thirdPerson": "widens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "expand",
+            "broaden"
+        ],
+        "explanation": "Tornar mais largo.",
+        "examples": [
+            {
+                "en": "Widen the road.",
+                "pt": "Alargue a estrada."
+            }
+        ]
+    },
+    "wiggle": {
+        "infinitive": "wiggle",
+        "translation": "mexer, balançar",
+        "forms": {
+            "base": "wiggle",
+            "pastSimple": "wiggled",
+            "pastParticiple": "wiggled",
+            "presentParticiple": "wiggling",
+            "thirdPerson": "wiggles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wriggle",
+            "shake"
+        ],
+        "explanation": "Mover-se com movimentos curtos.",
+        "examples": [
+            {
+                "en": "Wiggle your toes.",
+                "pt": "Mexa seus dedos do pé."
+            }
+        ]
+    },
+    "win": {
+        "infinitive": "win",
+        "translation": "ganhar/vencer",
+        "forms": {
+            "base": "win",
+            "pastSimple": "won",
+            "pastParticiple": "won",
+            "presentParticiple": "winning",
+            "thirdPerson": "wins"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "succeed",
+            "get",
+            "achieve"
+        ],
+        "explanation": "'Win' significa vencer uma competição ou ganhar um prêmio.",
+        "examples": [
+            {
+                "en": "We won the game!",
+                "pt": "Ganhamos o jogo!"
+            },
+            {
+                "en": "She won the lottery.",
+                "pt": "Ela ganhou na loteria."
+            },
+            {
+                "en": "May the best team win.",
+                "pt": "Que o melhor time vença."
+            }
+        ]
+    },
+    "wind": {
+        "infinitive": "wind",
+        "translation": "enrolar, dar corda",
+        "forms": {
+            "base": "wind",
+            "pastSimple": "wound",
+            "pastParticiple": "wound",
+            "presentParticiple": "winding",
+            "thirdPerson": "winds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "coil",
+            "twist"
+        ],
+        "explanation": "Girar ou enrolar algo em torno de um centro.",
+        "examples": [
+            {
+                "en": "Wind the clock.",
+                "pt": "Dê corda ao relógio."
+            }
+        ]
+    },
+    "wink": {
+        "infinitive": "wink",
+        "translation": "piscar",
+        "forms": {
+            "base": "wink",
+            "pastSimple": "winked",
+            "pastParticiple": "winked",
+            "presentParticiple": "winking",
+            "thirdPerson": "winks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "blink"
+        ],
+        "explanation": "Fechar e abrir um olho rapidamente como sinal.",
+        "examples": [
+            {
+                "en": "He winked at me.",
+                "pt": "Ele piscou para mim."
+            }
+        ]
+    },
+    "wipe": {
+        "infinitive": "wipe",
+        "translation": "limpar",
+        "forms": {
+            "base": "wipe",
+            "pastSimple": "wiped",
+            "pastParticiple": "wiped",
+            "presentParticiple": "wiping",
+            "thirdPerson": "wipes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "clean",
+            "rub"
+        ],
+        "explanation": "Limpar passando um pano ou a mão.",
+        "examples": [
+            {
+                "en": "Wipe the table.",
+                "pt": "Limpe a mesa."
+            }
+        ]
+    },
+    "wish": {
+        "infinitive": "wish",
+        "translation": "desejar",
+        "forms": {
+            "base": "wish",
+            "pastSimple": "wished",
+            "pastParticiple": "wished",
+            "presentParticiple": "wishing",
+            "thirdPerson": "wishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "want",
+            "hope",
+            "desire"
+        ],
+        "explanation": "'Wish' expressa desejo de algo irreal ou improvável. Diferente de 'hope' (esperança real).",
+        "examples": [
+            {
+                "en": "I wish I could fly.",
+                "pt": "Eu queria poder voar."
+            },
+            {
+                "en": "She wished him good luck.",
+                "pt": "Ela desejou boa sorte a ele."
+            },
+            {
+                "en": "I wish you were here.",
+                "pt": "Queria que você estivesse aqui."
+            }
+        ]
+    },
+    "withdraw": {
+        "infinitive": "withdraw",
+        "translation": "retirar, sacar",
+        "forms": {
+            "base": "withdraw",
+            "pastSimple": "withdrew",
+            "pastParticiple": "withdrawn",
+            "presentParticiple": "withdrawing",
+            "thirdPerson": "withdraws"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "remove",
+            "retreat"
+        ],
+        "explanation": "Tirar algo de um lugar; ou sair de uma situação.",
+        "examples": [
+            {
+                "en": "I withdrew money from the ATM.",
+                "pt": "Saquei dinheiro do caixa eletrônico."
+            }
+        ]
+    },
+    "withhold": {
+        "infinitive": "withhold",
+        "translation": "reter, negar",
+        "forms": {
+            "base": "withhold",
+            "pastSimple": "withheld",
+            "pastParticiple": "withheld",
+            "presentParticiple": "withholding",
+            "thirdPerson": "withholds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "keep back"
+        ],
+        "explanation": "Recusar-se a dar algo.",
+        "examples": [
+            {
+                "en": "They withheld payment.",
+                "pt": "Eles retiveram o pagamento."
+            }
+        ]
+    },
+    "withstand": {
+        "infinitive": "withstand",
+        "translation": "resistir, suportar",
+        "forms": {
+            "base": "withstand",
+            "pastSimple": "withstood",
+            "pastParticiple": "withstood",
+            "presentParticiple": "withstanding",
+            "thirdPerson": " withstands"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "resist",
+            "endure"
+        ],
+        "explanation": "Permanecer forte contra algo.",
+        "examples": [
+            {
+                "en": "The house withstood the storm.",
+                "pt": "A casa resistiu à tempestade."
+            }
+        ]
+    },
+    "wobble": {
+        "infinitive": "wobble",
+        "translation": "balançar, oscilar",
+        "forms": {
+            "base": "wobble",
+            "pastSimple": "wobbled",
+            "pastParticiple": "wobbled",
+            "presentParticiple": "wobbling",
+            "thirdPerson": "wobbles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shake"
+        ],
+        "explanation": "Mover-se instavelmente de um lado para o outro.",
+        "examples": [
+            {
+                "en": "The table wobbles.",
+                "pt": "A mesa balança."
+            }
+        ]
+    },
+    "wonder": {
+        "infinitive": "wonder",
+        "translation": "imaginar, perguntar-se",
+        "forms": {
+            "base": "wonder",
+            "pastSimple": "wondered",
+            "pastParticiple": "wondered",
+            "presentParticiple": "wondering",
+            "thirdPerson": "wonders"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "think",
+            "ponder"
+        ],
+        "explanation": "Pensar sobre algo com curiosidade ou dúvida.",
+        "examples": [
+            {
+                "en": "I wonder where he is.",
+                "pt": "Eu me pergunto onde ele está."
+            }
+        ]
+    },
+    "work": {
+        "infinitive": "work",
+        "translation": "trabalhar, funcionar",
+        "forms": {
+            "base": "work",
+            "pastSimple": "worked",
+            "pastParticiple": "worked",
+            "presentParticiple": "working",
+            "thirdPerson": "works"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "labor",
+            "operate"
+        ],
+        "explanation": "Realizar uma tarefa ou funcionar corretamente.",
+        "examples": [
+            {
+                "en": "She works hard.",
+                "pt": "Ela trabalha duro."
+            },
+            {
+                "en": "The machine isn't working.",
+                "pt": "A máquina não está funcionando."
+            }
+        ]
+    },
+    "work out": {
+        "infinitive": "work out",
+        "translation": "exercitar-se, resolver",
+        "forms": {
+            "base": "work out",
+            "pastSimple": "worked out",
+            "pastParticiple": "worked out",
+            "presentParticiple": "working out",
+            "thirdPerson": "works out"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "exercise",
+            "solve"
+        ],
+        "explanation": "Fazer exercício físico ou resolver algo.",
+        "examples": [
+            {
+                "en": "I work out daily.",
+                "pt": "Eu malho diariamente."
+            }
+        ]
+    },
+    "worry": {
+        "infinitive": "worry",
+        "translation": "preocupar-se",
+        "forms": {
+            "base": "worry",
+            "pastSimple": "worried",
+            "pastParticiple": "worried",
+            "presentParticiple": "worrying",
+            "thirdPerson": "worries"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "anxiety"
+        ],
+        "explanation": "Sentir-se ansioso ou apreensivo.",
+        "examples": [
+            {
+                "en": "Don't worry, be happy.",
+                "pt": "Não se preocupe, seja feliz."
+            }
+        ]
+    },
+    "worship": {
+        "infinitive": "worship",
+        "translation": "adorar, louvar",
+        "forms": {
+            "base": "worship",
+            "pastSimple": "worshipped",
+            "pastParticiple": "worshipped",
+            "presentParticiple": "worshipping",
+            "thirdPerson": "worships"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "praise",
+            "honor"
+        ],
+        "explanation": "Amar e respeitar profundamente, geralmente em contexto religioso.",
+        "examples": [
+            {
+                "en": "They worship in this church.",
+                "pt": "Eles adoram nesta igreja."
+            }
+        ]
+    },
+    "wound": {
+        "infinitive": "wound",
+        "translation": "ferir",
+        "forms": {
+            "base": "wound",
+            "pastSimple": "wounded",
+            "pastParticiple": "wounded",
+            "presentParticiple": "wounding",
+            "thirdPerson": "wounds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hurt",
+            "injure"
+        ],
+        "explanation": "Causar ferimento (geralmente com arma).",
+        "examples": [
+            {
+                "en": "The bullet wounded him.",
+                "pt": "A bala o feriu."
+            }
+        ]
+    },
+    "wrap": {
+        "infinitive": "wrap",
+        "translation": "embrulhar, envolver",
+        "forms": {
+            "base": "wrap",
+            "pastSimple": "wrapped",
+            "pastParticiple": "wrapped",
+            "presentParticiple": "wrapping",
+            "thirdPerson": "wraps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cover",
+            "envelope"
+        ],
+        "explanation": "Cobrir algo com papel ou tecido.",
+        "examples": [
+            {
+                "en": "Wrap the gift.",
+                "pt": "Embrulhe o presente."
+            }
+        ]
+    },
+    "wreck": {
+        "infinitive": "wreck",
+        "translation": "destruir, arruinar",
+        "forms": {
+            "base": "wreck",
+            "pastSimple": "wrecked",
+            "pastParticiple": "wrecked",
+            "presentParticiple": "wrecking",
+            "thirdPerson": "wrecks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "destroy",
+            "ruin"
+        ],
+        "explanation": "Causar grande dano ou destruição.",
+        "examples": [
+            {
+                "en": "The storm wrecked the ship.",
+                "pt": "A tempestade destruiu o navio."
+            }
+        ]
+    },
+    "wrestle": {
+        "infinitive": "wrestle",
+        "translation": "lutar",
+        "forms": {
+            "base": "wrestle",
+            "pastSimple": "wrestled",
+            "pastParticiple": "wrestled",
+            "presentParticiple": "wrestling",
+            "thirdPerson": "wrestles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fight",
+            "grapple"
+        ],
+        "explanation": "Lutar corpo a corpo tentando derrubar o oponente.",
+        "examples": [
+            {
+                "en": "They wrestled on the floor.",
+                "pt": "Eles lutaram no chão."
+            }
+        ]
+    },
+    "wriggle": {
+        "infinitive": "wriggle",
+        "translation": "contorcer-se",
+        "forms": {
+            "base": "wriggle",
+            "pastSimple": "wriggled",
+            "pastParticiple": "wriggled",
+            "presentParticiple": "wriggling",
+            "thirdPerson": "wriggles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "squirm",
+            "wiggle"
+        ],
+        "explanation": "Mexer-se com movimentos curtos e rápidos.",
+        "examples": [
+            {
+                "en": "The worm wriggled.",
+                "pt": "A minhoca se contorceu."
+            }
+        ]
+    },
+    "wring": {
+        "infinitive": "wring",
+        "translation": "torcer",
+        "forms": {
+            "base": "wring",
+            "pastSimple": "wrung",
+            "pastParticiple": "wrung",
+            "presentParticiple": "wringing",
+            "thirdPerson": "wrings"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "twist",
+            "squeeze"
+        ],
+        "explanation": "Torcer algo (como pano molhado) para tirar água.",
+        "examples": [
+            {
+                "en": "Wring out the towel.",
+                "pt": "Torça a toalha."
+            }
+        ]
+    },
+    "wrinkle": {
+        "infinitive": "wrinkle",
+        "translation": "enrugar",
+        "forms": {
+            "base": "wrinkle",
+            "pastSimple": "wrinkled",
+            "pastParticiple": "wrinkled",
+            "presentParticiple": "wrinkling",
+            "thirdPerson": "wrinkles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "crease"
+        ],
+        "explanation": "Fazer pequenas linhas ou dobras em algo.",
+        "examples": [
+            {
+                "en": "The shirt wrinkled.",
+                "pt": "A camisa enrugou."
+            }
+        ]
+    },
+    "write": {
+        "infinitive": "write",
+        "translation": "escrever",
+        "forms": {
+            "base": "write",
+            "pastSimple": "wrote",
+            "pastParticiple": "written",
+            "presentParticiple": "writing",
+            "thirdPerson": "writes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "record",
+            "compose"
+        ],
+        "explanation": "Marcar letras ou palavras em uma superfície.",
+        "examples": [
+            {
+                "en": "Write your name.",
+                "pt": "Escreva seu nome."
+            },
+            {
+                "en": "She wrote a letter.",
+                "pt": "Ela escreveu uma carta."
+            }
+        ]
+    },
+    "wrong": {
+        "infinitive": "wrong",
+        "translation": "injustiçar",
+        "forms": {
+            "base": "wrong",
+            "pastSimple": "wronged",
+            "pastParticiple": "wronged",
+            "presentParticiple": "wronging",
+            "thirdPerson": "wrongs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mistreat"
+        ],
+        "explanation": "Tratar alguém de forma injusta.",
+        "examples": [
+            {
+                "en": "He felt he had been wronged.",
+                "pt": "Ele sentiu que tinha sido injustiçado."
+            }
+        ]
+    }
+}

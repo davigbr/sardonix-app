@@ -1,0 +1,1884 @@
+{
+    "earn": {
+        "infinitive": "earn",
+        "translation": "ganhar (dinheiro/mérito)",
+        "forms": {
+            "base": "earn",
+            "pastSimple": "earned",
+            "pastParticiple": "earned",
+            "presentParticiple": "earning",
+            "thirdPerson": "earns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "gain",
+            "get"
+        ],
+        "explanation": "Receber dinheiro por trabalho ('earn money') ou merecer ('earn respect').",
+        "examples": [
+            {
+                "en": "He earns a good salary.",
+                "pt": "Ele ganha um bom salário."
+            },
+            {
+                "en": "You earned it.",
+                "pt": "Você mereceu."
+            }
+        ]
+    },
+    "ease": {
+        "infinitive": "ease",
+        "translation": "aliviar, facilitar",
+        "forms": {
+            "base": "ease",
+            "pastSimple": "eased",
+            "pastParticiple": "eased",
+            "presentParticiple": "easing",
+            "thirdPerson": "eases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "relieve",
+            "calm"
+        ],
+        "explanation": "Tornar algo menos doloroso ou difícil.",
+        "examples": [
+            {
+                "en": "Medicine eased the pain.",
+                "pt": "O remédio aliviou a dor."
+            }
+        ]
+    },
+    "eat": {
+        "infinitive": "eat",
+        "translation": "comer",
+        "forms": {
+            "base": "eat",
+            "pastSimple": "ate",
+            "pastParticiple": "eaten",
+            "presentParticiple": "eating",
+            "thirdPerson": "eats"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential",
+            "food"
+        ],
+        "related": [
+            "consume",
+            "devour"
+        ],
+        "explanation": "Ingerir comida.",
+        "examples": [
+            {
+                "en": "What did you eat?",
+                "pt": "O que você comeu?"
+            },
+            {
+                "en": "I don't eat meat.",
+                "pt": "Eu não como carne."
+            }
+        ]
+    },
+    "echo": {
+        "infinitive": "echo",
+        "translation": "ecoar",
+        "forms": {
+            "base": "echo",
+            "pastSimple": "echoed",
+            "pastParticiple": "echoed",
+            "presentParticiple": "echoing",
+            "thirdPerson": "echoes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "repeat"
+        ],
+        "explanation": "Repetir um som ou ideia.",
+        "examples": [
+            {
+                "en": "Voices echoed in the hall.",
+                "pt": "Vozes ecoaram no salão."
+            }
+        ]
+    },
+    "edit": {
+        "infinitive": "edit",
+        "translation": "editar",
+        "forms": {
+            "base": "edit",
+            "pastSimple": "edited",
+            "pastParticiple": "edited",
+            "presentParticiple": "editing",
+            "thirdPerson": "edits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "revise",
+            "correct"
+        ],
+        "explanation": "Corrigir ou modificar texto, vídeo ou imagem.",
+        "examples": [
+            {
+                "en": "She edits videos.",
+                "pt": "Ela edita vídeos."
+            }
+        ]
+    },
+    "educate": {
+        "infinitive": "educate",
+        "translation": "educar",
+        "forms": {
+            "base": "educate",
+            "pastSimple": "educated",
+            "pastParticiple": "educated",
+            "presentParticiple": "educating",
+            "thirdPerson": "educates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "teach"
+        ],
+        "explanation": "Ensinar ou dar conhecimento a alguém.",
+        "examples": [
+            {
+                "en": "Parents educate their children.",
+                "pt": "Pais educam seus filhos."
+            }
+        ]
+    },
+    "elect": {
+        "infinitive": "elect",
+        "translation": "eleger",
+        "forms": {
+            "base": "elect",
+            "pastSimple": "elected",
+            "pastParticiple": "elected",
+            "presentParticiple": "electing",
+            "thirdPerson": "elects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "vote",
+            "choose"
+        ],
+        "explanation": "Escolher alguém por votação.",
+        "examples": [
+            {
+                "en": "They elected a new president.",
+                "pt": "Eles elegeram um novo presidente."
+            }
+        ]
+    },
+    "eliminate": {
+        "infinitive": "eliminate",
+        "translation": "eliminar",
+        "forms": {
+            "base": "eliminate",
+            "pastSimple": "eliminated",
+            "pastParticiple": "eliminated",
+            "presentParticiple": "eliminating",
+            "thirdPerson": "eliminates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "remove"
+        ],
+        "explanation": "Remover completamente.",
+        "examples": [
+            {
+                "en": "Eliminate the errors.",
+                "pt": "Elimine os erros."
+            }
+        ]
+    },
+    "email": {
+        "infinitive": "email",
+        "translation": "enviar e-mail",
+        "forms": {
+            "base": "email",
+            "pastSimple": "emailed",
+            "pastParticiple": "emailed",
+            "presentParticiple": "emailing",
+            "thirdPerson": "emails"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "sen",
+            "message"
+        ],
+        "explanation": "Mandar correio eletrônico.",
+        "examples": [
+            {
+                "en": "I will email you.",
+                "pt": "Eu vou te mandar um e-mail."
+            }
+        ]
+    },
+    "embarrass": {
+        "infinitive": "embarrass",
+        "translation": "envergonhar",
+        "forms": {
+            "base": "embarrass",
+            "pastSimple": "embarrassed",
+            "pastParticiple": "embarrassed",
+            "presentParticiple": "embarrassing",
+            "thirdPerson": "embarrasses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shame",
+            "humiliate"
+        ],
+        "explanation": "Fazer alguém sentir vergonha.",
+        "examples": [
+            {
+                "en": "Don't embarrass me.",
+                "pt": "Não me envergonhe."
+            }
+        ]
+    },
+    "embed": {
+        "infinitive": "embed",
+        "translation": "incrustar, embutir",
+        "forms": {
+            "base": "embed",
+            "pastSimple": "embedded",
+            "pastParticiple": "embedded",
+            "presentParticiple": "embedding",
+            "thirdPerson": "embeds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "implant",
+            "insert"
+        ],
+        "explanation": "Fixar firmemente dentro de uma massa.",
+        "examples": [
+            {
+                "en": "The stone is embedded in the wall.",
+                "pt": "A pedra está incrustada na parede."
+            }
+        ]
+    },
+    "embrace": {
+        "infinitive": "embrace",
+        "translation": "abraçar",
+        "forms": {
+            "base": "embrace",
+            "pastSimple": "embraced",
+            "pastParticiple": "embraced",
+            "presentParticiple": "embracing",
+            "thirdPerson": "embraces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hug",
+            "accept"
+        ],
+        "explanation": "Abraçar fisicamente ou aceitar uma ideia/mudança.",
+        "examples": [
+            {
+                "en": "She embraced her son.",
+                "pt": "Ela abraçou seu filho."
+            }
+        ]
+    },
+    "emerge": {
+        "infinitive": "emerge",
+        "translation": "emergir, surgir",
+        "forms": {
+            "base": "emerge",
+            "pastSimple": "emerged",
+            "pastParticiple": "emerged",
+            "presentParticiple": "emerging",
+            "thirdPerson": "emerges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "appear",
+            "arise"
+        ],
+        "explanation": "Sair de onde estava escondido ou tornar-se evidente.",
+        "examples": [
+            {
+                "en": "The sun emerged from the clouds.",
+                "pt": "O sol surgiu das nuvens."
+            }
+        ]
+    },
+    "emit": {
+        "infinitive": "emit",
+        "translation": "emitir",
+        "forms": {
+            "base": "emit",
+            "pastSimple": "emitted",
+            "pastParticiple": "emitted",
+            "presentParticiple": "emitting",
+            "thirdPerson": "emits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "discharge",
+            "release"
+        ],
+        "explanation": "Produzir e liberar algo (som, cheiro, luz).",
+        "examples": [
+            {
+                "en": "The fire emits smoke.",
+                "pt": "O fogo emite fumaça."
+            }
+        ]
+    },
+    "emphasize": {
+        "infinitive": "emphasize",
+        "translation": "enfatizar",
+        "forms": {
+            "base": "emphasize",
+            "pastSimple": "emphasized",
+            "pastParticiple": "emphasized",
+            "presentParticiple": "emphasizing",
+            "thirdPerson": "emphasizes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "highlight",
+            "stress"
+        ],
+        "explanation": "Dar importância especial a algo.",
+        "examples": [
+            {
+                "en": "He emphasized the importance of study.",
+                "pt": "Ele enfatizou a importância do estudo."
+            }
+        ]
+    },
+    "employ": {
+        "infinitive": "employ",
+        "translation": "empregar",
+        "forms": {
+            "base": "employ",
+            "pastSimple": "employed",
+            "pastParticiple": "employed",
+            "presentParticiple": "employing",
+            "thirdPerson": "employs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hire",
+            "use"
+        ],
+        "explanation": "Dar trabalho a alguém ou usar algo.",
+        "examples": [
+            {
+                "en": "The company employs 100 people.",
+                "pt": "A empresa emprega 100 pessoas."
+            }
+        ]
+    },
+    "empty": {
+        "infinitive": "empty",
+        "translation": "esvaziar",
+        "forms": {
+            "base": "empty",
+            "pastSimple": "emptied",
+            "pastParticiple": "emptied",
+            "presentParticiple": "emptying",
+            "thirdPerson": "empties"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "drain"
+        ],
+        "explanation": "Remover o conteúdo de algo.",
+        "examples": [
+            {
+                "en": "Empty the bin.",
+                "pt": "Esvazie a lixeira."
+            }
+        ]
+    },
+    "enable": {
+        "infinitive": "enable",
+        "translation": "habilitar, permitir",
+        "forms": {
+            "base": "enable",
+            "pastSimple": "enabled",
+            "pastParticiple": "enabled",
+            "presentParticiple": "enabling",
+            "thirdPerson": "enables"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "allow",
+            "permit"
+        ],
+        "explanation": "Tornar possível.",
+        "examples": [
+            {
+                "en": "This tool enables fast editing.",
+                "pt": "Esta ferramenta permite edição rápida."
+            }
+        ]
+    },
+    "encircle": {
+        "infinitive": "encircle",
+        "translation": "circular",
+        "forms": {
+            "base": "encircle",
+            "pastSimple": "encircled",
+            "pastParticiple": "encircled",
+            "presentParticiple": "encircling",
+            "thirdPerson": "encircles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "surround"
+        ],
+        "explanation": "Formar um círculo ao redor.",
+        "examples": [
+            {
+                "en": "Walls encircle the city.",
+                "pt": "Muros circundam a cidade."
+            }
+        ]
+    },
+    "enclose": {
+        "infinitive": "enclose",
+        "translation": "cercar, anexar",
+        "forms": {
+            "base": "enclose",
+            "pastSimple": "enclosed",
+            "pastParticiple": "enclosed",
+            "presentParticiple": "enclosing",
+            "thirdPerson": "encloses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "surround",
+            "include"
+        ],
+        "explanation": "Fechar em todos os lados ou colocar em um envelope.",
+        "examples": [
+            {
+                "en": "Enclose the receipt.",
+                "pt": "Anexe o recibo."
+            }
+        ]
+    },
+    "encounter": {
+        "infinitive": "encounter",
+        "translation": "encontrar (problema/pessoa)",
+        "forms": {
+            "base": "encounter",
+            "pastSimple": "encountered",
+            "pastParticiple": "encountered",
+            "presentParticiple": "encountering",
+            "thirdPerson": "encounters"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "meet",
+            "face"
+        ],
+        "explanation": "Deparar-se com algo inesperado ou difícil.",
+        "examples": [
+            {
+                "en": "We encountered some issues.",
+                "pt": "Encontramos alguns problemas."
+            }
+        ]
+    },
+    "encourage": {
+        "infinitive": "encourage",
+        "translation": "encorajar",
+        "forms": {
+            "base": "encourage",
+            "pastSimple": "encouraged",
+            "pastParticiple": "encouraged",
+            "presentParticiple": "encouraging",
+            "thirdPerson": "encourages"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "support",
+            "inspire"
+        ],
+        "explanation": "Dar coragem, confiança ou esperança.",
+        "examples": [
+            {
+                "en": "Teachers encourage students.",
+                "pt": "Professores encorajam alunos."
+            }
+        ]
+    },
+    "encrypt": {
+        "infinitive": "encrypt",
+        "translation": "criptografar",
+        "forms": {
+            "base": "encrypt",
+            "pastSimple": "encrypted",
+            "pastParticiple": "encrypted",
+            "presentParticiple": "encrypting",
+            "thirdPerson": "encrypts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "code",
+            "protect"
+        ],
+        "explanation": "Codificar dados para segurança.",
+        "examples": [
+            {
+                "en": "Encrypt the message.",
+                "pt": "Criptografe a mensagem."
+            }
+        ]
+    },
+    "end": {
+        "infinitive": "end",
+        "translation": "terminar",
+        "forms": {
+            "base": "end",
+            "pastSimple": "ended",
+            "pastParticiple": "ended",
+            "presentParticiple": "ending",
+            "thirdPerson": "ends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "finish",
+            "stop"
+        ],
+        "explanation": "Chegar ao fim.",
+        "examples": [
+            {
+                "en": "The story ends happily.",
+                "pt": "A história termina feliz."
+            },
+            {
+                "en": "The war ended.",
+                "pt": "A guerra acabou."
+            }
+        ]
+    },
+    "endeavor": {
+        "infinitive": "endeavor",
+        "translation": "esforçar-se",
+        "forms": {
+            "base": "endeavor",
+            "pastSimple": "endeavored",
+            "pastParticiple": "endeavored",
+            "presentParticiple": "endeavoring",
+            "thirdPerson": "endeavors"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "try",
+            "strive"
+        ],
+        "explanation": "Tentar muito fazer algo.",
+        "examples": [
+            {
+                "en": "He endeavored to help.",
+                "pt": "Ele se esforçou para ajudar."
+            }
+        ]
+    },
+    "endorse": {
+        "infinitive": "endorse",
+        "translation": "aprovar, apoiar",
+        "forms": {
+            "base": "endorse",
+            "pastSimple": "endorsed",
+            "pastParticiple": "endorsed",
+            "presentParticiple": "endorsing",
+            "thirdPerson": "endorses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "support",
+            "approve"
+        ],
+        "explanation": "Declarar apoio público a algo/alguém.",
+        "examples": [
+            {
+                "en": "She endorsed the candidate.",
+                "pt": "Ela apoiou o candidato."
+            }
+        ]
+    },
+    "endure": {
+        "infinitive": "endure",
+        "translation": "suportar, durar",
+        "forms": {
+            "base": "endure",
+            "pastSimple": "endured",
+            "pastParticiple": "endured",
+            "presentParticiple": "enduring",
+            "thirdPerson": "endures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bear",
+            "last"
+        ],
+        "explanation": "Sofrer algo difícil pacientemente ou continuar existindo.",
+        "examples": [
+            {
+                "en": "He endured much pain.",
+                "pt": "Ele suportou muita dor."
+            }
+        ]
+    },
+    "enforce": {
+        "infinitive": "enforce",
+        "translation": "impor, fazer cumprir",
+        "forms": {
+            "base": "enforce",
+            "pastSimple": "enforced",
+            "pastParticiple": "enforced",
+            "presentParticiple": "enforcing",
+            "thirdPerson": "enforces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "impose"
+        ],
+        "explanation": "Garantir que uma lei ou regra seja obedecida.",
+        "examples": [
+            {
+                "en": "Police enforce laws.",
+                "pt": "A polícia faz cumprir as leis."
+            }
+        ]
+    },
+    "engage": {
+        "infinitive": "engage",
+        "translation": "engajar, contratar, envolver-se",
+        "forms": {
+            "base": "engage",
+            "pastSimple": "engaged",
+            "pastParticiple": "engaged",
+            "presentParticiple": "engaging",
+            "thirdPerson": "engages"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "involve"
+        ],
+        "explanation": "Participar ou envolver-se em algo.",
+        "examples": [
+            {
+                "en": "They engaged in conversation.",
+                "pt": "Eles se envolveram em uma conversa."
+            }
+        ]
+    },
+    "enhance": {
+        "infinitive": "enhance",
+        "translation": "melhorar, realçar",
+        "forms": {
+            "base": "enhance",
+            "pastSimple": "enhanced",
+            "pastParticiple": "enhanced",
+            "presentParticiple": "enhancing",
+            "thirdPerson": "enhances"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "improve"
+        ],
+        "explanation": "Melhorar a qualidade ou valor de algo.",
+        "examples": [
+            {
+                "en": "This will enhance the flavor.",
+                "pt": "Isso vai realçar o sabor."
+            }
+        ]
+    },
+    "enjoy": {
+        "infinitive": "enjoy",
+        "translation": "aproveitar, gostar",
+        "forms": {
+            "base": "enjoy",
+            "pastSimple": "enjoyed",
+            "pastParticiple": "enjoyed",
+            "presentParticiple": "enjoying",
+            "thirdPerson": "enjoys"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "like",
+            "relish"
+        ],
+        "explanation": "Ter prazer em algo.",
+        "examples": [
+            {
+                "en": "Enjoy your meal!",
+                "pt": "Bom apetite! (Aproveite sua refeição)"
+            },
+            {
+                "en": "I enjoyed the movie.",
+                "pt": "Eu gostei do filme."
+            }
+        ]
+    },
+    "enlarge": {
+        "infinitive": "enlarge",
+        "translation": "aumentar, ampliar",
+        "forms": {
+            "base": "enlarge",
+            "pastSimple": "enlarged",
+            "pastParticiple": "enlarged",
+            "presentParticiple": "enlarging",
+            "thirdPerson": "enlarges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "expand",
+            "magnify"
+        ],
+        "explanation": "Tornar maior.",
+        "examples": [
+            {
+                "en": "Enlarge the photo.",
+                "pt": "Amplie a foto."
+            }
+        ]
+    },
+    "ensure": {
+        "infinitive": "ensure",
+        "translation": "garantir",
+        "forms": {
+            "base": "ensure",
+            "pastSimple": "ensured",
+            "pastParticiple": "ensured",
+            "presentParticiple": "ensuring",
+            "thirdPerson": "ensures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "guarantee",
+            "make sure"
+        ],
+        "explanation": "Fazer com que algo seja certo ou seguro.",
+        "examples": [
+            {
+                "en": "Ensure the door is locked.",
+                "pt": "Garanta que a porta esteja trancada."
+            }
+        ]
+    },
+    "entail": {
+        "infinitive": "entail",
+        "translation": "acarretar, implicar",
+        "forms": {
+            "base": "entail",
+            "pastSimple": "entailed",
+            "pastParticiple": "entailed",
+            "presentParticiple": "entailing",
+            "thirdPerson": "entails"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "involve",
+            "require"
+        ],
+        "explanation": "Envolver como consequência necessária.",
+        "examples": [
+            {
+                "en": "The job entails travel.",
+                "pt": "O trabalho acarreta viagens."
+            }
+        ]
+    },
+    "enter": {
+        "infinitive": "enter",
+        "translation": "entrar",
+        "forms": {
+            "base": "enter",
+            "pastSimple": "entered",
+            "pastParticiple": "entered",
+            "presentParticiple": "entering",
+            "thirdPerson": "enters"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "come in",
+            "go in"
+        ],
+        "explanation": "Ir para dentro de um lugar.",
+        "examples": [
+            {
+                "en": "He entered the room.",
+                "pt": "Ele entrou na sala."
+            }
+        ]
+    },
+    "entertain": {
+        "infinitive": "entertain",
+        "translation": "entreter",
+        "forms": {
+            "base": "entertain",
+            "pastSimple": "entertained",
+            "pastParticiple": "entertained",
+            "presentParticiple": "entertaining",
+            "thirdPerson": "entertains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "amuse"
+        ],
+        "explanation": "Divertir alguém.",
+        "examples": [
+            {
+                "en": "The clown entertained the kids.",
+                "pt": "O palhaço entreteve as crianças."
+            }
+        ]
+    },
+    "entice": {
+        "infinitive": "entice",
+        "translation": "atrair, seduzir (persuadir)",
+        "forms": {
+            "base": "entice",
+            "pastSimple": "enticed",
+            "pastParticiple": "enticed",
+            "presentParticiple": "enticing",
+            "thirdPerson": "entices"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "lure",
+            "tempt"
+        ],
+        "explanation": "Atrair oferecendo vantagem ou prazer.",
+        "examples": [
+            {
+                "en": "The smell enticed me.",
+                "pt": "O cheiro me atraiu."
+            }
+        ]
+    },
+    "envelop": {
+        "infinitive": "envelop",
+        "translation": "envolver",
+        "forms": {
+            "base": "envelop",
+            "pastSimple": "enveloped",
+            "pastParticiple": "enveloped",
+            "presentParticiple": "enveloping",
+            "thirdPerson": "envelops"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wrap",
+            "surround"
+        ],
+        "explanation": "Cobrir ou cercar completamente.",
+        "examples": [
+            {
+                "en": "Fog enveloped the city.",
+                "pt": "A neblina envolveu a cidade."
+            }
+        ]
+    },
+    "envision": {
+        "infinitive": "envision",
+        "translation": "imaginar, vislumbrar",
+        "forms": {
+            "base": "envision",
+            "pastSimple": "envisioned",
+            "pastParticiple": "envisioned",
+            "presentParticiple": "envisioning",
+            "thirdPerson": "envisions"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "imagine",
+            "visualize"
+        ],
+        "explanation": "Imaginar como possibilidade futura.",
+        "examples": [
+            {
+                "en": "I envision a bright future.",
+                "pt": "Eu vislumbro um futuro brilhante."
+            }
+        ]
+    },
+    "erase": {
+        "infinitive": "erase",
+        "translation": "apagar",
+        "forms": {
+            "base": "erase",
+            "pastSimple": "erased",
+            "pastParticiple": "erased",
+            "presentParticiple": "erasing",
+            "thirdPerson": "erases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "rub out",
+            "delete"
+        ],
+        "explanation": "Remover escrita ou marcas.",
+        "examples": [
+            {
+                "en": "Erase the board.",
+                "pt": "Apague o quadro."
+            }
+        ]
+    },
+    "err": {
+        "infinitive": "err",
+        "translation": "errar",
+        "forms": {
+            "base": "err",
+            "pastSimple": "erred",
+            "pastParticiple": "erred",
+            "presentParticiple": "erring",
+            "thirdPerson": "errs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mistake"
+        ],
+        "explanation": "Cometer um erro.",
+        "examples": [
+            {
+                "en": "To err is human.",
+                "pt": "Errar é humano."
+            }
+        ]
+    },
+    "escape": {
+        "infinitive": "escape",
+        "translation": "escapar",
+        "forms": {
+            "base": "escape",
+            "pastSimple": "escaped",
+            "pastParticiple": "escaped",
+            "presentParticiple": "escaping",
+            "thirdPerson": "escapes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "flee",
+            "get away"
+        ],
+        "explanation": "Fugir ou sair de uma situação perigosa.",
+        "examples": [
+            {
+                "en": "The bird escaped from the cage.",
+                "pt": "O pássaro escapou da gaiola."
+            }
+        ]
+    },
+    "establish": {
+        "infinitive": "establish",
+        "translation": "estabelecer",
+        "forms": {
+            "base": "establish",
+            "pastSimple": "established",
+            "pastParticiple": "established",
+            "presentParticiple": "establishing",
+            "thirdPerson": "establishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "set up",
+            "found"
+        ],
+        "explanation": "Criar ou fundar algo (empresa, regra) de forma duradoura.",
+        "examples": [
+            {
+                "en": "They established a new rule.",
+                "pt": "Eles estabeleceram uma nova regra."
+            }
+        ]
+    },
+    "estimate": {
+        "infinitive": "estimate",
+        "translation": "estimar",
+        "forms": {
+            "base": "estimate",
+            "pastSimple": "estimated",
+            "pastParticiple": "estimated",
+            "presentParticiple": "estimating",
+            "thirdPerson": "estimates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "guess",
+            "calculate"
+        ],
+        "explanation": "Calcular aproximadamente.",
+        "examples": [
+            {
+                "en": "Estimate the cost.",
+                "pt": "Estime o custo."
+            }
+        ]
+    },
+    "evaluate": {
+        "infinitive": "evaluate",
+        "translation": "avaliar",
+        "forms": {
+            "base": "evaluate",
+            "pastSimple": "evaluated",
+            "pastParticiple": "evaluated",
+            "presentParticiple": "evaluating",
+            "thirdPerson": "evaluates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "assess",
+            "judge"
+        ],
+        "explanation": "Julgar o valor ou qualidade de algo.",
+        "examples": [
+            {
+                "en": "Evaluate your progress.",
+                "pt": "Avalie seu progresso."
+            }
+        ]
+    },
+    "evolve": {
+        "infinitive": "evolve",
+        "translation": "evoluir",
+        "forms": {
+            "base": "evolve",
+            "pastSimple": "evolved",
+            "pastParticiple": "evolved",
+            "presentParticiple": "evolving",
+            "thirdPerson": "evolves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "develop"
+        ],
+        "explanation": "Desenvolver-se gradualmente.",
+        "examples": [
+            {
+                "en": "The plan evolved.",
+                "pt": "O plano evoluiu."
+            }
+        ]
+    },
+    "examine": {
+        "infinitive": "examine",
+        "translation": "examinar",
+        "forms": {
+            "base": "examine",
+            "pastSimple": "examined",
+            "pastParticiple": "examined",
+            "presentParticiple": "examining",
+            "thirdPerson": "examines"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "inspect",
+            "check"
+        ],
+        "explanation": "Olhar detalhadamente.",
+        "examples": [
+            {
+                "en": "The doctor examined the patient.",
+                "pt": "O médico examinou o paciente."
+            }
+        ]
+    },
+    "excavate": {
+        "infinitive": "excavate",
+        "translation": "escavar",
+        "forms": {
+            "base": "excavate",
+            "pastSimple": "excavated",
+            "pastParticiple": "excavated",
+            "presentParticiple": "excavating",
+            "thirdPerson": "excavates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dig"
+        ],
+        "explanation": "Cavar a terra para encontrar coisas.",
+        "examples": [
+            {
+                "en": "They excavated ruins.",
+                "pt": "Eles escavaram ruínas."
+            }
+        ]
+    },
+    "exchange": {
+        "infinitive": "exchange",
+        "translation": "trocar",
+        "forms": {
+            "base": "exchange",
+            "pastSimple": "exchanged",
+            "pastParticiple": "exchanged",
+            "presentParticiple": "exchanging",
+            "thirdPerson": "exchanges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "swap",
+            "trade"
+        ],
+        "explanation": "Dar algo e receber outra coisa em troca.",
+        "examples": [
+            {
+                "en": "They exchanged gifts.",
+                "pt": "Eles trocaram presentes."
+            }
+        ]
+    },
+    "excite": {
+        "infinitive": "excite",
+        "translation": "empolgar, excitar",
+        "forms": {
+            "base": "excite",
+            "pastSimple": "excited",
+            "pastParticiple": "excited",
+            "presentParticiple": "exciting",
+            "thirdPerson": "excites"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "thrill"
+        ],
+        "explanation": "Causar sentimentos fortes de entusiasmo.",
+        "examples": [
+            {
+                "en": "The news excited everyone.",
+                "pt": "A notícia empolgou a todos."
+            }
+        ]
+    },
+    "exclude": {
+        "infinitive": "exclude",
+        "translation": "excluir",
+        "forms": {
+            "base": "exclude",
+            "pastSimple": "excluded",
+            "pastParticiple": "excluded",
+            "presentParticiple": "excluding",
+            "thirdPerson": "excludes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "leave out"
+        ],
+        "explanation": "Deixar de fora propositalmente.",
+        "examples": [
+            {
+                "en": "Don't exclude him.",
+                "pt": "Não o exclua."
+            }
+        ]
+    },
+    "excuse": {
+        "infinitive": "excuse",
+        "translation": "desculpar, dispensar",
+        "forms": {
+            "base": "excuse",
+            "pastSimple": "excused",
+            "pastParticiple": "excused",
+            "presentParticiple": "excusing",
+            "thirdPerson": "excuses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "forgive",
+            "pardon"
+        ],
+        "explanation": "Perdoar ou permitir que alguém saia.",
+        "examples": [
+            {
+                "en": "Excuse me.",
+                "pt": "Com licença (me desculpe)."
+            },
+            {
+                "en": "May I be excused?",
+                "pt": "Posso me retirar?"
+            }
+        ]
+    },
+    "execute": {
+        "infinitive": "execute",
+        "translation": "executar",
+        "forms": {
+            "base": "execute",
+            "pastSimple": "executed",
+            "pastParticiple": "executed",
+            "presentParticiple": "executing",
+            "thirdPerson": "executes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "carry out"
+        ],
+        "explanation": "Realizar uma tarefa ou matar legalmente.",
+        "examples": [
+            {
+                "en": "Execute the plan.",
+                "pt": "Execute o plano."
+            }
+        ]
+    },
+    "exercise": {
+        "infinitive": "exercise",
+        "translation": "exercitar-se",
+        "forms": {
+            "base": "exercise",
+            "pastSimple": "exercised",
+            "pastParticiple": "exercised",
+            "presentParticiple": "exercising",
+            "thirdPerson": "exercises"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "work out"
+        ],
+        "explanation": "Fazer atividade física.",
+        "examples": [
+            {
+                "en": "I exercise daily.",
+                "pt": "Eu me exercito diariamente."
+            }
+        ]
+    },
+    "exhale": {
+        "infinitive": "exhale",
+        "translation": "exalar",
+        "forms": {
+            "base": "exhale",
+            "pastSimple": "exhaled",
+            "pastParticiple": "exhaled",
+            "presentParticiple": "exhaling",
+            "thirdPerson": "exhales"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "breathe out"
+        ],
+        "explanation": "Soltar o ar dos pulmões.",
+        "examples": [
+            {
+                "en": "Inhale and exhale.",
+                "pt": "Inspire e expire."
+            }
+        ]
+    },
+    "exhaust": {
+        "infinitive": "exhaust",
+        "translation": "esgotar, exaurir",
+        "forms": {
+            "base": "exhaust",
+            "pastSimple": "exhausted",
+            "pastParticiple": "exhausted",
+            "presentParticiple": "exhausting",
+            "thirdPerson": "exhausts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tire",
+            "deplete"
+        ],
+        "explanation": "Usar tudo o que tem ou cansar extremamente.",
+        "examples": [
+            {
+                "en": "The work exhausted him.",
+                "pt": "O trabalho o exauriu."
+            }
+        ]
+    },
+    "exhibit": {
+        "infinitive": "exhibit",
+        "translation": "exibir",
+        "forms": {
+            "base": "exhibit",
+            "pastSimple": "exhibited",
+            "pastParticiple": "exhibited",
+            "presentParticiple": "exhibiting",
+            "thirdPerson": "exhibits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "show",
+            "display"
+        ],
+        "explanation": "Mostrar publicamente (em museus, etc).",
+        "examples": [
+            {
+                "en": "They exhibited the painting.",
+                "pt": "Eles exibiram a pintura."
+            }
+        ]
+    },
+    "exist": {
+        "infinitive": "exist",
+        "translation": "existir",
+        "forms": {
+            "base": "exist",
+            "pastSimple": "existed",
+            "pastParticiple": "existed",
+            "presentParticiple": "existing",
+            "thirdPerson": "exists"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "be"
+        ],
+        "explanation": "Ser real ou vivo.",
+        "examples": [
+            {
+                "en": "Ghosts don't exist.",
+                "pt": "Fantasmas não existem."
+            }
+        ]
+    },
+    "exit": {
+        "infinitive": "exit",
+        "translation": "sair",
+        "forms": {
+            "base": "exit",
+            "pastSimple": "exited",
+            "pastParticiple": "exited",
+            "presentParticiple": "exiting",
+            "thirdPerson": "exits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "leave"
+        ],
+        "explanation": "Sair de um lugar.",
+        "examples": [
+            {
+                "en": "Please exit calmly.",
+                "pt": "Por favor, saiam com calma."
+            }
+        ]
+    },
+    "expand": {
+        "infinitive": "expand",
+        "translation": "expandir",
+        "forms": {
+            "base": "expand",
+            "pastSimple": "expanded",
+            "pastParticiple": "expanded",
+            "presentParticiple": "expanding",
+            "thirdPerson": "expands"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "grow",
+            "widen"
+        ],
+        "explanation": "Tornar-se maior.",
+        "examples": [
+            {
+                "en": "The universe is expanding.",
+                "pt": "O universo está se expandindo."
+            }
+        ]
+    },
+    "expect": {
+        "infinitive": "expect",
+        "translation": "esperar (ter expectativa)",
+        "forms": {
+            "base": "expect",
+            "pastSimple": "expected",
+            "pastParticiple": "expected",
+            "presentParticiple": "expecting",
+            "thirdPerson": "expects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "anticipate"
+        ],
+        "explanation": "Acreditar que algo vai acontecer.",
+        "examples": [
+            {
+                "en": "I expect you to be on time.",
+                "pt": "Espero que você chegue na hora."
+            }
+        ]
+    },
+    "expectorate": {
+        "infinitive": "expectorate",
+        "translation": "expectorar, cuspir",
+        "forms": {
+            "base": "expectorate",
+            "pastSimple": "expectorated",
+            "pastParticiple": "expectorated",
+            "presentParticiple": "expectorating",
+            "thirdPerson": "expectorates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "spit",
+            "cough up"
+        ],
+        "explanation": "Expelir fleuma da garganta ou pulmões.",
+        "examples": [
+            {
+                "en": "He expectorated.",
+                "pt": "Ele expectorou."
+            }
+        ]
+    },
+    "expend": {
+        "infinitive": "expend",
+        "translation": "gastar",
+        "forms": {
+            "base": "expend",
+            "pastSimple": "expended",
+            "pastParticiple": "expended",
+            "presentParticiple": "expending",
+            "thirdPerson": "expends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "spend",
+            "use"
+        ],
+        "explanation": "Gastar ou usar recurso (dinheiro, energia).",
+        "examples": [
+            {
+                "en": "Don't expend too much energy.",
+                "pt": "Não gaste muita energia."
+            }
+        ]
+    },
+    "experience": {
+        "infinitive": "experience",
+        "translation": "experienciar, vivenciar",
+        "forms": {
+            "base": "experience",
+            "pastSimple": "experienced",
+            "pastParticiple": "experienced",
+            "presentParticiple": "experiencing",
+            "thirdPerson": "experiences"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "undergo",
+            "feel"
+        ],
+        "explanation": "Passar por uma situação ou sentir algo.",
+        "examples": [
+            {
+                "en": "He experienced difficulty.",
+                "pt": "Ele vivenciou dificuldades."
+            }
+        ]
+    },
+    "explain": {
+        "infinitive": "explain",
+        "translation": "explicar",
+        "forms": {
+            "base": "explain",
+            "pastSimple": "explained",
+            "pastParticiple": "explained",
+            "presentParticiple": "explaining",
+            "thirdPerson": "explains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "describe",
+            "clarify"
+        ],
+        "explanation": "Tornar algo claro ou fácil de entender.",
+        "examples": [
+            {
+                "en": "Can you explain this?",
+                "pt": "Você pode explicar isso?"
+            }
+        ]
+    },
+    "explode": {
+        "infinitive": "explode",
+        "translation": "explodir",
+        "forms": {
+            "base": "explode",
+            "pastSimple": "exploded",
+            "pastParticiple": "exploded",
+            "presentParticiple": "exploding",
+            "thirdPerson": "explodes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "blow up",
+            "burst"
+        ],
+        "explanation": "Estourar violentamente.",
+        "examples": [
+            {
+                "en": "The bomb exploded.",
+                "pt": "A bomba explodiu."
+            }
+        ]
+    },
+    "explore": {
+        "infinitive": "explore",
+        "translation": "explorar",
+        "forms": {
+            "base": "explore",
+            "pastSimple": "explored",
+            "pastParticiple": "explored",
+            "presentParticiple": "exploring",
+            "thirdPerson": "explores"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "investigate"
+        ],
+        "explanation": "Viajar para conhecer lugares novos ou examinar algo.",
+        "examples": [
+            {
+                "en": "Let's explore the city.",
+                "pt": "Vamos explorar a cidade."
+            }
+        ]
+    },
+    "expose": {
+        "infinitive": "expose",
+        "translation": "expor",
+        "forms": {
+            "base": "expose",
+            "pastSimple": "exposed",
+            "pastParticiple": "exposed",
+            "presentParticiple": "exposing",
+            "thirdPerson": "exposes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "reveal",
+            "uncover"
+        ],
+        "explanation": "Revelar algo que estava escondido.",
+        "examples": [
+            {
+                "en": "The article exposed the truth.",
+                "pt": "O artigo expôs a verdade."
+            }
+        ]
+    },
+    "express": {
+        "infinitive": "express",
+        "translation": "expressar",
+        "forms": {
+            "base": "express",
+            "pastSimple": "expressed",
+            "pastParticiple": "expressed",
+            "presentParticiple": "expressing",
+            "thirdPerson": "expresses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "say",
+            "show"
+        ],
+        "explanation": "Mostrar o que sente ou pensa.",
+        "examples": [
+            {
+                "en": "She expressed her feelings.",
+                "pt": "Ela expressou seus sentimentos."
+            }
+        ]
+    },
+    "extend": {
+        "infinitive": "extend",
+        "translation": "estender",
+        "forms": {
+            "base": "extend",
+            "pastSimple": "extended",
+            "pastParticiple": "extended",
+            "presentParticiple": "extending",
+            "thirdPerson": "extends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stretch",
+            "prolong"
+        ],
+        "explanation": "Fazer durar mais ou cobrir área maior.",
+        "examples": [
+            {
+                "en": "They extended the deadline.",
+                "pt": "Eles estenderam o prazo."
+            }
+        ]
+    },
+    "extract": {
+        "infinitive": "extract",
+        "translation": "extrair",
+        "forms": {
+            "base": "extract",
+            "pastSimple": "extracted",
+            "pastParticiple": "extracted",
+            "presentParticiple": "extracting",
+            "thirdPerson": "extracts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "remove",
+            "pull out"
+        ],
+        "explanation": "Tirar algo de dentro de outra coisa.",
+        "examples": [
+            {
+                "en": "The dentist extracted the tooth.",
+                "pt": "O dentista extraiu o dente."
+            }
+        ]
+    },
+    "eye": {
+        "infinitive": "eye",
+        "translation": "olhar",
+        "forms": {
+            "base": "eye",
+            "pastSimple": "eyed",
+            "pastParticiple": "eyed",
+            "presentParticiple": "eying",
+            "thirdPerson": "eyes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "look at, observe"
+        ],
+        "explanation": "Olhar para alguém ou algo com interesse ou suspeita.",
+        "examples": [
+            {
+                "en": "He eyed the cake hungrily.",
+                "pt": "Ele olhou para o bolo com fome."
+            }
+        ]
+    }
+}

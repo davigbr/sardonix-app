@@ -1,0 +1,1328 @@
+{
+    "ice": {
+        "infinitive": "ice",
+        "translation": "congelar, cobrir com glacê",
+        "forms": {
+            "base": "ice",
+            "pastSimple": "iced",
+            "pastParticiple": "iced",
+            "presentParticiple": "icing",
+            "thirdPerson": "ices"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "freeze",
+            "frost"
+        ],
+        "explanation": "Cobrir com gelo ou glacê.",
+        "examples": [
+            {
+                "en": "Ice the cake.",
+                "pt": "Cubra o bolo com glacê."
+            }
+        ]
+    },
+    "identify": {
+        "infinitive": "identify",
+        "translation": "identificar",
+        "forms": {
+            "base": "identify",
+            "pastSimple": "identified",
+            "pastParticiple": "identified",
+            "presentParticiple": "identifying",
+            "thirdPerson": "identifies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "recognize"
+        ],
+        "explanation": "Reconhecer alguém ou algo.",
+        "examples": [
+            {
+                "en": "Identify the suspect.",
+                "pt": "Identifique o suspeito."
+            }
+        ]
+    },
+    "ignite": {
+        "infinitive": "ignite",
+        "translation": "ignição, acender",
+        "forms": {
+            "base": "ignite",
+            "pastSimple": "ignited",
+            "pastParticiple": "ignited",
+            "presentParticiple": "igniting",
+            "thirdPerson": "ignites"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "light",
+            "kindle"
+        ],
+        "explanation": "Pegar fogo ou causar fogo.",
+        "examples": [
+            {
+                "en": "Gas ignites easily.",
+                "pt": "Gás pega fogo facilmente."
+            }
+        ]
+    },
+    "ignore": {
+        "infinitive": "ignore",
+        "translation": "ignorar",
+        "forms": {
+            "base": "ignore",
+            "pastSimple": "ignored",
+            "pastParticiple": "ignored",
+            "presentParticiple": "ignoring",
+            "thirdPerson": "ignores"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "disregard"
+        ],
+        "explanation": "Não prestar atenção propositalmente.",
+        "examples": [
+            {
+                "en": "He ignored my call.",
+                "pt": "Ele ignorou minha ligação."
+            }
+        ]
+    },
+    "imagine": {
+        "infinitive": "imagine",
+        "translation": "imaginar",
+        "forms": {
+            "base": "imagine",
+            "pastSimple": "imagined",
+            "pastParticiple": "imagined",
+            "presentParticiple": "imagining",
+            "thirdPerson": "imagines"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "envision",
+            "think"
+        ],
+        "explanation": "Formar uma imagem mental.",
+        "examples": [
+            {
+                "en": "Imagine a world without war.",
+                "pt": "Imagine um mundo sem guerra."
+            }
+        ]
+    },
+    "imbibe": {
+        "infinitive": "imbibe",
+        "translation": "embeber, absorver, beber",
+        "forms": {
+            "base": "imbibe",
+            "pastSimple": "imbibed",
+            "pastParticiple": "imbibed",
+            "presentParticiple": "imbibing",
+            "thirdPerson": "imbibes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "drink",
+            "absorb"
+        ],
+        "explanation": "Beber álcool ou absorver conhecimento (formal).",
+        "examples": [
+            {
+                "en": "He imbibed knowledge.",
+                "pt": "Ele absorveu conhecimento."
+            }
+        ]
+    },
+    "imitate": {
+        "infinitive": "imitate",
+        "translation": "imitar",
+        "forms": {
+            "base": "imitate",
+            "pastSimple": "imitated",
+            "pastParticiple": "imitated",
+            "presentParticiple": "imitating",
+            "thirdPerson": "imitates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "copy",
+            "mimic"
+        ],
+        "explanation": "Copiar o comportamento de alguém.",
+        "examples": [
+            {
+                "en": "Children imitate adults.",
+                "pt": "Crianças imitam adultos."
+            }
+        ]
+    },
+    "immerse": {
+        "infinitive": "immerse",
+        "translation": "imergir, mergulhar",
+        "forms": {
+            "base": "immerse",
+            "pastSimple": "immersed",
+            "pastParticiple": "immersed",
+            "presentParticiple": "immersing",
+            "thirdPerson": "immerses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dip",
+            "submerge"
+        ],
+        "explanation": "Colocar completamente sob líquido ou envolver-se.",
+        "examples": [
+            {
+                "en": "Immerse in water.",
+                "pt": "Imergir na água."
+            }
+        ]
+    },
+    "implant": {
+        "infinitive": "implant",
+        "translation": "implantar",
+        "forms": {
+            "base": "implant",
+            "pastSimple": "implanted",
+            "pastParticiple": "implanted",
+            "presentParticiple": "implanting",
+            "thirdPerson": "implants"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "embed",
+            "insert"
+        ],
+        "explanation": "Inserir firmemente ou cirurgicamente.",
+        "examples": [
+            {
+                "en": "Implant the chip.",
+                "pt": "Implante o chip."
+            }
+        ]
+    },
+    "implore": {
+        "infinitive": "implore",
+        "translation": "implorar",
+        "forms": {
+            "base": "implore",
+            "pastSimple": "implored",
+            "pastParticiple": "implored",
+            "presentParticiple": "imploring",
+            "thirdPerson": "implores"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "beg",
+            "plead"
+        ],
+        "explanation": "Pedir algo desesperadamente.",
+        "examples": [
+            {
+                "en": "I implore you to help.",
+                "pt": "Eu te imploro para ajudar."
+            }
+        ]
+    },
+    "impose": {
+        "infinitive": "impose",
+        "translation": "impor",
+        "forms": {
+            "base": "impose",
+            "pastSimple": "imposed",
+            "pastParticiple": "imposed",
+            "presentParticiple": "imposing",
+            "thirdPerson": "imposes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "force",
+            "inflict"
+        ],
+        "explanation": "Forçar alguém a aceitar algo.",
+        "examples": [
+            {
+                "en": "Don't impose your views.",
+                "pt": "Não imponha suas opiniões."
+            }
+        ]
+    },
+    "impress": {
+        "infinitive": "impress",
+        "translation": "impressionar",
+        "forms": {
+            "base": "impress",
+            "pastSimple": "impressed",
+            "pastParticiple": "impressed",
+            "presentParticiple": "impressing",
+            "thirdPerson": "impresses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dazzle"
+        ],
+        "explanation": "Causar admiração.",
+        "examples": [
+            {
+                "en": "She impressed the judges.",
+                "pt": "Ela impressionou os juízes."
+            }
+        ]
+    },
+    "imprint": {
+        "infinitive": "imprint",
+        "translation": "imprimir, marcar",
+        "forms": {
+            "base": "imprint",
+            "pastSimple": "imprinted",
+            "pastParticiple": "imprinted",
+            "presentParticiple": "imprinting",
+            "thirdPerson": "imprints"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stamp",
+            "mark"
+        ],
+        "explanation": "Deixar uma marca pressionando.",
+        "examples": [
+            {
+                "en": "Steps imprinted in sand.",
+                "pt": "Passos marcados na areia."
+            }
+        ]
+    },
+    "imprison": {
+        "infinitive": "imprison",
+        "translation": "aprisionar",
+        "forms": {
+            "base": "imprison",
+            "pastSimple": "imprisoned",
+            "pastParticiple": "imprisoned",
+            "presentParticiple": "imprisoning",
+            "thirdPerson": "imprisons"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "jail",
+            "confine"
+        ],
+        "explanation": "Colocar alguém na prisão.",
+        "examples": [
+            {
+                "en": "He was imprisoned.",
+                "pt": "Ele foi aprisionado."
+            }
+        ]
+    },
+    "improve": {
+        "infinitive": "improve",
+        "translation": "melhorar",
+        "forms": {
+            "base": "improve",
+            "pastSimple": "improved",
+            "pastParticiple": "improved",
+            "presentParticiple": "improving",
+            "thirdPerson": "improves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "enhance",
+            "better"
+        ],
+        "explanation": "Tornar algo melhor.",
+        "examples": [
+            {
+                "en": "I want to improve my English.",
+                "pt": "Quero melhorar meu inglês."
+            }
+        ]
+    },
+    "incline": {
+        "infinitive": "incline",
+        "translation": "inclinar",
+        "forms": {
+            "base": "incline",
+            "pastSimple": "inclined",
+            "pastParticiple": "inclined",
+            "presentParticiple": "inclining",
+            "thirdPerson": "inclines"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "lean",
+            "tend"
+        ],
+        "explanation": "Ter tendência a fazer algo ou inclinar-se fisicamente.",
+        "examples": [
+            {
+                "en": "I incline to believe him.",
+                "pt": "Eu tendo a acreditar nele."
+            }
+        ]
+    },
+    "include": {
+        "infinitive": "include",
+        "translation": "incluir",
+        "forms": {
+            "base": "include",
+            "pastSimple": "included",
+            "pastParticiple": "included",
+            "presentParticiple": "including",
+            "thirdPerson": "includes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "contain",
+            "add"
+        ],
+        "explanation": "Ter como parte de um todo.",
+        "examples": [
+            {
+                "en": "Tax is included.",
+                "pt": "Imposto está incluído."
+            }
+        ]
+    },
+    "increase": {
+        "infinitive": "increase",
+        "translation": "aumentar",
+        "forms": {
+            "base": "increase",
+            "pastSimple": "increased",
+            "pastParticiple": "increased",
+            "presentParticiple": "increasing",
+            "thirdPerson": "increases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "rise",
+            "grow"
+        ],
+        "explanation": "Tornar maior em quantidade ou tamanho.",
+        "examples": [
+            {
+                "en": "Sales increased.",
+                "pt": "Vendas aumentaram."
+            }
+        ]
+    },
+    "increment": {
+        "infinitive": "increment",
+        "translation": "incrementar",
+        "forms": {
+            "base": "increment",
+            "pastSimple": "incremented",
+            "pastParticiple": "incremented",
+            "presentParticiple": "incrementing",
+            "thirdPerson": "increments"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "add"
+        ],
+        "explanation": "Aumentar valor (comumente usado em programação).",
+        "examples": [
+            {
+                "en": "Increment the counter.",
+                "pt": "Incremente o contador."
+            }
+        ]
+    },
+    "indicate": {
+        "infinitive": "indicate",
+        "translation": "indicar",
+        "forms": {
+            "base": "indicate",
+            "pastSimple": "indicated",
+            "pastParticiple": "indicated",
+            "presentParticiple": "indicating",
+            "thirdPerson": "indicates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "show",
+            "point"
+        ],
+        "explanation": "Apontar ou mostrar algo.",
+        "examples": [
+            {
+                "en": "Please indicate your choice.",
+                "pt": "Por favor, indique sua escolha."
+            }
+        ]
+    },
+    "inflict": {
+        "infinitive": "inflict",
+        "translation": "infligir",
+        "forms": {
+            "base": "inflict",
+            "pastSimple": "inflicted",
+            "pastParticiple": "inflicted",
+            "presentParticiple": "inflicting",
+            "thirdPerson": "inflicts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "impose",
+            "cause"
+        ],
+        "explanation": "Causar algo doloroso ou desagradável.",
+        "examples": [
+            {
+                "en": "Inflict pain.",
+                "pt": "Infligir dor."
+            }
+        ]
+    },
+    "influence": {
+        "infinitive": "influence",
+        "translation": "influenciar",
+        "forms": {
+            "base": "influence",
+            "pastSimple": "influenced",
+            "pastParticiple": "influenced",
+            "presentParticiple": "influencing",
+            "thirdPerson": "influences"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "affect"
+        ],
+        "explanation": "Afetar o comportamento ou desenvolvimento de algo.",
+        "examples": [
+            {
+                "en": "Music influences mood.",
+                "pt": "Música influencia o humor."
+            }
+        ]
+    },
+    "inform": {
+        "infinitive": "inform",
+        "translation": "informar",
+        "forms": {
+            "base": "inform",
+            "pastSimple": "informed",
+            "pastParticiple": "informed",
+            "presentParticiple": "informing",
+            "thirdPerson": "informs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tell",
+            "notify"
+        ],
+        "explanation": "Dar informação a alguém.",
+        "examples": [
+            {
+                "en": "Please inform us of any changes.",
+                "pt": "Por favor, nos informe de quaisquer mudanças."
+            }
+        ]
+    },
+    "inhale": {
+        "infinitive": "inhale",
+        "translation": "inalar, inspirar",
+        "forms": {
+            "base": "inhale",
+            "pastSimple": "inhaled",
+            "pastParticiple": "inhaled",
+            "presentParticiple": "inhaling",
+            "thirdPerson": "inhales"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "breathe in"
+        ],
+        "explanation": "Puxar ar para os pulmões.",
+        "examples": [
+            {
+                "en": "Inhale deeply.",
+                "pt": "Inspire profundamente."
+            }
+        ]
+    },
+    "inject": {
+        "infinitive": "inject",
+        "translation": "injetar",
+        "forms": {
+            "base": "inject",
+            "pastSimple": "injected",
+            "pastParticiple": "injected",
+            "presentParticiple": "injecting",
+            "thirdPerson": "injects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Introduzir líquido com agulha.",
+        "examples": [
+            {
+                "en": "The nurse injected the vaccine.",
+                "pt": "A enfermeira injetou a vacina."
+            }
+        ]
+    },
+    "injure": {
+        "infinitive": "injure",
+        "translation": "ferir, lesionar",
+        "forms": {
+            "base": "injure",
+            "pastSimple": "injured",
+            "pastParticiple": "injured",
+            "presentParticiple": "injuring",
+            "thirdPerson": "injures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hurt",
+            "wound"
+        ],
+        "explanation": "Causar dano físico.",
+        "examples": [
+            {
+                "en": "He injured his knee.",
+                "pt": "Ele lesionou o joelho."
+            }
+        ]
+    },
+    "inlay": {
+        "infinitive": "inlay",
+        "translation": "incrustar",
+        "forms": {
+            "base": "inlay",
+            "pastSimple": "inlaid",
+            "pastParticiple": "inlaid",
+            "presentParticiple": "inlaying",
+            "thirdPerson": "inlays"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "embed"
+        ],
+        "explanation": "Inserir peças de material em uma superfície para decoração.",
+        "examples": [
+            {
+                "en": "The table was inlaid with gold.",
+                "pt": "A mesa foi incrustada com ouro."
+            }
+        ]
+    },
+    "input": {
+        "infinitive": "input",
+        "translation": "inserir (dados)",
+        "forms": {
+            "base": "input",
+            "pastSimple": "inputted",
+            "pastParticiple": "inputted",
+            "presentParticiple": "inputting",
+            "thirdPerson": "inputs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "enter"
+        ],
+        "explanation": "Colocar dados em um computador.",
+        "examples": [
+            {
+                "en": "Input your password.",
+                "pt": "Insira sua senha."
+            }
+        ]
+    },
+    "inquire": {
+        "infinitive": "inquire",
+        "translation": "inquerir, perguntar",
+        "forms": {
+            "base": "inquire",
+            "pastSimple": "inquired",
+            "pastParticiple": "inquired",
+            "presentParticiple": "inquiring",
+            "thirdPerson": "inquires"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "ask",
+            "question"
+        ],
+        "explanation": "Pedir informação.",
+        "examples": [
+            {
+                "en": "I inquired about the price.",
+                "pt": "Eu perguntei sobre o preço."
+            }
+        ]
+    },
+    "insert": {
+        "infinitive": "insert",
+        "translation": "inserir",
+        "forms": {
+            "base": "insert",
+            "pastSimple": "inserted",
+            "pastParticiple": "inserted",
+            "presentParticiple": "inserting",
+            "thirdPerson": "inserts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "embed",
+            "put in"
+        ],
+        "explanation": "Colocar dentro de algo.",
+        "examples": [
+            {
+                "en": "Insert the coin.",
+                "pt": "Insira a moeda."
+            }
+        ]
+    },
+    "insist": {
+        "infinitive": "insist",
+        "translation": "insistir",
+        "forms": {
+            "base": "insist",
+            "pastSimple": "insisted",
+            "pastParticiple": "insisted",
+            "presentParticiple": "insisting",
+            "thirdPerson": "insists"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "persist",
+            "demand"
+        ],
+        "explanation": "Exigir algo com força.",
+        "examples": [
+            {
+                "en": "He insisted on paying.",
+                "pt": "Ele insistiu em pagar."
+            }
+        ]
+    },
+    "inspect": {
+        "infinitive": "inspect",
+        "translation": "inspecionar",
+        "forms": {
+            "base": "inspect",
+            "pastSimple": "inspected",
+            "pastParticiple": "inspected",
+            "presentParticiple": "inspecting",
+            "thirdPerson": "inspects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "examine",
+            "check"
+        ],
+        "explanation": "Olhar cuidadosamente para verificar problemas.",
+        "examples": [
+            {
+                "en": "Inspect the car.",
+                "pt": "Inspecione o carro."
+            }
+        ]
+    },
+    "inspire": {
+        "infinitive": "inspire",
+        "translation": "inspirar",
+        "forms": {
+            "base": "inspire",
+            "pastSimple": "inspired",
+            "pastParticiple": "inspired",
+            "presentParticiple": "inspiring",
+            "thirdPerson": "inspires"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "motivate",
+            "encourage"
+        ],
+        "explanation": "Dar a alguém entusiasmo ou ideias.",
+        "examples": [
+            {
+                "en": "She inspires me.",
+                "pt": "Ela me inspira."
+            }
+        ]
+    },
+    "install": {
+        "infinitive": "install",
+        "translation": "instalar",
+        "forms": {
+            "base": "install",
+            "pastSimple": "installed",
+            "pastParticiple": "installed",
+            "presentParticiple": "installing",
+            "thirdPerson": "installs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "set up"
+        ],
+        "explanation": "Colocar equipamento ou software para uso.",
+        "examples": [
+            {
+                "en": "Install the software.",
+                "pt": "Instale o software."
+            }
+        ]
+    },
+    "instruct": {
+        "infinitive": "instruct",
+        "translation": "instruir",
+        "forms": {
+            "base": "instruct",
+            "pastSimple": "instructed",
+            "pastParticiple": "instructed",
+            "presentParticiple": "instructing",
+            "thirdPerson": "instructs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "teach",
+            "direct"
+        ],
+        "explanation": "Ensinar ou dar ordens.",
+        "examples": [
+            {
+                "en": "He instructed the class.",
+                "pt": "Ele instruiu a turma."
+            }
+        ]
+    },
+    "insult": {
+        "infinitive": "insult",
+        "translation": "insultar",
+        "forms": {
+            "base": "insult",
+            "pastSimple": "insulted",
+            "pastParticiple": "insulted",
+            "presentParticiple": "insulting",
+            "thirdPerson": "insults"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "offend"
+        ],
+        "explanation": "Dizer ou fazer algo rude.",
+        "examples": [
+            {
+                "en": "Don't insult him.",
+                "pt": "Não o insulte."
+            }
+        ]
+    },
+    "intend": {
+        "infinitive": "intend",
+        "translation": "pretender",
+        "forms": {
+            "base": "intend",
+            "pastSimple": "intended",
+            "pastParticiple": "intended",
+            "presentParticiple": "intending",
+            "thirdPerson": "intends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "plan",
+            "mean"
+        ],
+        "explanation": "Ter como plano ou propósito.",
+        "examples": [
+            {
+                "en": "I intend to go.",
+                "pt": "Pretendo ir."
+            }
+        ]
+    },
+    "inter": {
+        "infinitive": "inter",
+        "translation": "enterrar, sepultar",
+        "forms": {
+            "base": "inter",
+            "pastSimple": "interred",
+            "pastParticiple": "interred",
+            "presentParticiple": "interring",
+            "thirdPerson": "inters"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bury"
+        ],
+        "explanation": "Colocar um corpo no túmulo (formal).",
+        "examples": [
+            {
+                "en": "He was interred yesterday.",
+                "pt": "Ele foi sepultado ontem."
+            }
+        ]
+    },
+    "interest": {
+        "infinitive": "interest",
+        "translation": "interessar",
+        "forms": {
+            "base": "interest",
+            "pastSimple": "interested",
+            "pastParticiple": "interested",
+            "presentParticiple": "interesting",
+            "thirdPerson": "interests"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Atrair a atenção ou curiosidade.",
+        "examples": [
+            {
+                "en": "History interests me.",
+                "pt": "História me interessa."
+            }
+        ]
+    },
+    "interfere": {
+        "infinitive": "interfere",
+        "translation": "interferir",
+        "forms": {
+            "base": "interfere",
+            "pastSimple": "interfered",
+            "pastParticiple": "interfered",
+            "presentParticiple": "interfering",
+            "thirdPerson": "interferes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "meddle"
+        ],
+        "explanation": "Envolver-se onde não é chamado ou atrapalhar.",
+        "examples": [
+            {
+                "en": "Don't interfere.",
+                "pt": "Não interfira."
+            }
+        ]
+    },
+    "interlay": {
+        "infinitive": "interlay",
+        "translation": "intercalar",
+        "forms": {
+            "base": "interlay",
+            "pastSimple": "interlaid",
+            "pastParticiple": "interlaid",
+            "presentParticiple": "interlaying",
+            "thirdPerson": "interlays"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [],
+        "explanation": "Colocar entre camadas.",
+        "examples": []
+    },
+    "interrogate": {
+        "infinitive": "interrogate",
+        "translation": "interrogar",
+        "forms": {
+            "base": "interrogate",
+            "pastSimple": "interrogated",
+            "pastParticiple": "interrogated",
+            "presentParticiple": "interrogating",
+            "thirdPerson": "interrogates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "question",
+            "grill"
+        ],
+        "explanation": "Fazer muitas perguntas de forma agressiva.",
+        "examples": [
+            {
+                "en": "Police interrogated the suspect.",
+                "pt": "A polícia interrogou o suspeito."
+            }
+        ]
+    },
+    "interrupt": {
+        "infinitive": "interrupt",
+        "translation": "interromper",
+        "forms": {
+            "base": "interrupt",
+            "pastSimple": "interrupted",
+            "pastParticiple": "interrupted",
+            "presentParticiple": "interrupting",
+            "thirdPerson": "interrupts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "disturb"
+        ],
+        "explanation": "Parar alguém que está falando ou fazendo algo.",
+        "examples": [
+            {
+                "en": "Sorry to interrupt.",
+                "pt": "Desculpe interromper."
+            }
+        ]
+    },
+    "introduce": {
+        "infinitive": "introduce",
+        "translation": "apresentar",
+        "forms": {
+            "base": "introduce",
+            "pastSimple": "introduced",
+            "pastParticiple": "introduced",
+            "presentParticiple": "introducing",
+            "thirdPerson": "introduces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "present"
+        ],
+        "explanation": "Fazer pessoas se conhecerem ou iniciar algo novo.",
+        "examples": [
+            {
+                "en": "Let me introduce myself.",
+                "pt": "Deixe-me me apresentar."
+            }
+        ]
+    },
+    "invent": {
+        "infinitive": "invent",
+        "translation": "inventar",
+        "forms": {
+            "base": "invent",
+            "pastSimple": "invented",
+            "pastParticiple": "invented",
+            "presentParticiple": "inventing",
+            "thirdPerson": "invents"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "create"
+        ],
+        "explanation": "Criar algo que não existia antes.",
+        "examples": [
+            {
+                "en": "Who invented the phone?",
+                "pt": "Quem inventou o telefone?"
+            }
+        ]
+    },
+    "investigate": {
+        "infinitive": "investigate",
+        "translation": "investigar",
+        "forms": {
+            "base": "investigate",
+            "pastSimple": "investigated",
+            "pastParticiple": "investigated",
+            "presentParticiple": "investigating",
+            "thirdPerson": "investigates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "examine",
+            "research"
+        ],
+        "explanation": "Descobrir a verdade sobre um crime ou problema.",
+        "examples": [
+            {
+                "en": "They investigated the case.",
+                "pt": "Eles investigaram o caso."
+            }
+        ]
+    },
+    "invite": {
+        "infinitive": "invite",
+        "translation": "convidar",
+        "forms": {
+            "base": "invite",
+            "pastSimple": "invited",
+            "pastParticiple": "invited",
+            "presentParticiple": "inviting",
+            "thirdPerson": "invites"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "ask"
+        ],
+        "explanation": "Pedir a alguém para ir a algum lugar ou fazer algo.",
+        "examples": [
+            {
+                "en": "I invited them to dinner.",
+                "pt": "Convidei eles para jantar."
+            }
+        ]
+    },
+    "invoice": {
+        "infinitive": "invoice",
+        "translation": "faturar",
+        "forms": {
+            "base": "invoice",
+            "pastSimple": "invoiced",
+            "pastParticiple": "invoiced",
+            "presentParticiple": "invoicing",
+            "thirdPerson": "invoices"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bill"
+        ],
+        "explanation": "Enviar conta para pagamento.",
+        "examples": [
+            {
+                "en": "Invoice the client.",
+                "pt": "Fature o cliente."
+            }
+        ]
+    },
+    "involve": {
+        "infinitive": "involve",
+        "translation": "envolver",
+        "forms": {
+            "base": "involve",
+            "pastSimple": "involved",
+            "pastParticiple": "involved",
+            "presentParticiple": "involving",
+            "thirdPerson": "involves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "include",
+            "entail"
+        ],
+        "explanation": "Ter como parte necessária ou consequência.",
+        "examples": [
+            {
+                "en": "The job involves travel.",
+                "pt": "O trabalho envolve viagens."
+            }
+        ]
+    },
+    "irritate": {
+        "infinitive": "irritate",
+        "translation": "irritar",
+        "forms": {
+            "base": "irritate",
+            "pastSimple": "irritated",
+            "pastParticiple": "irritated",
+            "presentParticiple": "irritating",
+            "thirdPerson": "irritates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "annoy"
+        ],
+        "explanation": "Deixar alguém bravo ou causar desconforto na pele.",
+        "examples": [
+            {
+                "en": "The noise irritates me.",
+                "pt": "O barulho me irrita."
+            }
+        ]
+    },
+    "issue": {
+        "infinitive": "issue",
+        "translation": "emitir",
+        "forms": {
+            "base": "issue",
+            "pastSimple": "issued",
+            "pastParticiple": "issued",
+            "presentParticiple": "issuing",
+            "thirdPerson": "issues"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "publish",
+            "give"
+        ],
+        "explanation": "Fornecer oficialmente.",
+        "examples": [
+            {
+                "en": "Issue a statement.",
+                "pt": "Emita uma declaração."
+            }
+        ]
+    },
+    "itch": {
+        "infinitive": "itch",
+        "translation": "coçar",
+        "forms": {
+            "base": "itch",
+            "pastSimple": "itched",
+            "pastParticiple": "itched",
+            "presentParticiple": "itching",
+            "thirdPerson": "itches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "scratch"
+        ],
+        "explanation": "Sentir coceira.",
+        "examples": [
+            {
+                "en": "My nose itches.",
+                "pt": "Meu nariz coça."
+            }
+        ]
+    }
+}

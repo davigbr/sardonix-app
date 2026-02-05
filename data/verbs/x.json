@@ -1,0 +1,28 @@
+{
+    "x-ray": {
+        "infinitive": "x-ray",
+        "translation": "radiografar",
+        "forms": {
+            "base": "x-ray",
+            "pastSimple": "x-rayed",
+            "pastParticiple": "x-rayed",
+            "presentParticiple": "x-raying",
+            "thirdPerson": "x-rays"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "examine",
+            "scan"
+        ],
+        "explanation": "Tirar uma radiografia de algo ou alguém.",
+        "examples": [
+            {
+                "en": "The doctor x-rayed my arm.",
+                "pt": "O médico radiografou meu braço."
+            }
+        ]
+    }
+}

@@ -1,0 +1,1138 @@
+{
+    "hail": {
+        "infinitive": "hail",
+        "translation": "saudar, chamar (táxi), granizar",
+        "forms": {
+            "base": "hail",
+            "pastSimple": "hailed",
+            "pastParticiple": "hailed",
+            "presentParticiple": "hailing",
+            "thirdPerson": "hails"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "greet",
+            "call"
+        ],
+        "explanation": "Chamar a atenção de alguém ou cair granizo.",
+        "examples": [
+            {
+                "en": "Hail a taxi.",
+                "pt": "Chame um táxi."
+            }
+        ]
+    },
+    "halt": {
+        "infinitive": "halt",
+        "translation": "parar",
+        "forms": {
+            "base": "halt",
+            "pastSimple": "halted",
+            "pastParticiple": "halted",
+            "presentParticiple": "halting",
+            "thirdPerson": "halts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stop",
+            "pause"
+        ],
+        "explanation": "Parar abruptamente.",
+        "examples": [
+            {
+                "en": " The march halted.",
+                "pt": "A marcha parou."
+            }
+        ]
+    },
+    "hammer": {
+        "infinitive": "hammer",
+        "translation": "martelar",
+        "forms": {
+            "base": "hammer",
+            "pastSimple": "hammered",
+            "pastParticiple": "hammered",
+            "presentParticiple": "hammering",
+            "thirdPerson": "hammers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "strike",
+            "hit"
+        ],
+        "explanation": "Bater com um martelo ou bater forte repetidamente.",
+        "examples": [
+            {
+                "en": "He hammered the nail.",
+                "pt": "Ele martelou o prego."
+            }
+        ]
+    },
+    "hand": {
+        "infinitive": "hand",
+        "translation": "entregar, passar",
+        "forms": {
+            "base": "hand",
+            "pastSimple": "handed",
+            "pastParticiple": "handed",
+            "presentParticiple": "handing",
+            "thirdPerson": "hands"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "give",
+            "pass"
+        ],
+        "explanation": "Dar algo para alguém usando as mãos.",
+        "examples": [
+            {
+                "en": "Hand me the salt.",
+                "pt": "Me passe o sal."
+            }
+        ]
+    },
+    "handle": {
+        "infinitive": "handle",
+        "translation": "lidar, manusear",
+        "forms": {
+            "base": "handle",
+            "pastSimple": "handled",
+            "pastParticiple": "handled",
+            "presentParticiple": "handling",
+            "thirdPerson": "handles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "manage",
+            "deal with"
+        ],
+        "explanation": "Controlar uma situação ou tocar com as mãos.",
+        "examples": [
+            {
+                "en": "I can handle it.",
+                "pt": "Eu consigo lidar com isso."
+            },
+            {
+                "en": "Handle with care.",
+                "pt": "Manuseie com cuidado."
+            }
+        ]
+    },
+    "handwrite": {
+        "infinitive": "handwrite",
+        "translation": "escrever à mão",
+        "forms": {
+            "base": "handwrite",
+            "pastSimple": "handwrote",
+            "pastParticiple": "handwritten",
+            "presentParticiple": "handwriting",
+            "thirdPerson": "handwrites"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "write"
+        ],
+        "explanation": "Escrever usando caneta ou lápis, não digitar.",
+        "examples": [
+            {
+                "en": "The note was handwritten.",
+                "pt": "O bilhete foi escrito à mão."
+            }
+        ]
+    },
+    "hang": {
+        "infinitive": "hang",
+        "translation": "pendurar",
+        "forms": {
+            "base": "hang",
+            "pastSimple": "hung",
+            "pastParticiple": "hung",
+            "presentParticiple": "hanging",
+            "thirdPerson": "hangs"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "dangle",
+            "suspend"
+        ],
+        "explanation": "Suspender algo no ar. 'Hang out' = sair/curtir.",
+        "examples": [
+            {
+                "en": "Hang your coat here.",
+                "pt": "Pendure seu casaco aqui."
+            },
+            {
+                "en": "They hung a picture on the wall.",
+                "pt": "Eles penduraram um quadro na parede."
+            }
+        ]
+    },
+    "happen": {
+        "infinitive": "happen",
+        "translation": "acontecer",
+        "forms": {
+            "base": "happen",
+            "pastSimple": "happened",
+            "pastParticiple": "happened",
+            "presentParticiple": "happening",
+            "thirdPerson": "happens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "occur",
+            "take place"
+        ],
+        "explanation": "Ocorrer (evento ou situação).",
+        "examples": [
+            {
+                "en": "What happened?",
+                "pt": "O que aconteceu?"
+            },
+            {
+                "en": "It happened yesterday.",
+                "pt": "Aconteceu ontem."
+            }
+        ]
+    },
+    "harass": {
+        "infinitive": "harass",
+        "translation": "assediar, importunar",
+        "forms": {
+            "base": "harass",
+            "pastSimple": "harassed",
+            "pastParticiple": "harassed",
+            "presentParticiple": "harassing",
+            "thirdPerson": "harasses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bother",
+            "annoy"
+        ],
+        "explanation": "Incomodar alguém repetidamente de forma agressiva.",
+        "examples": [
+            {
+                "en": "Don't harass the staff.",
+                "pt": "Não assedie/incomode os funcionários."
+            }
+        ]
+    },
+    "harden": {
+        "infinitive": "harden",
+        "translation": "endurecer",
+        "forms": {
+            "base": "harden",
+            "pastSimple": "hardened",
+            "pastParticiple": "hardened",
+            "presentParticiple": "hardening",
+            "thirdPerson": "hardens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "toughen",
+            "solidify"
+        ],
+        "explanation": "Tornar duro ou insensível.",
+        "examples": [
+            {
+                "en": "The clay hardened.",
+                "pt": "A argila endureceu."
+            }
+        ]
+    },
+    "harm": {
+        "infinitive": "harm",
+        "translation": "prejudicar, ferir",
+        "forms": {
+            "base": "harm",
+            "pastSimple": "harmed",
+            "pastParticiple": "harmed",
+            "presentParticiple": "harming",
+            "thirdPerson": "harms"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "damage",
+            "hurt"
+        ],
+        "explanation": "Causar dano físico ou moral.",
+        "examples": [
+            {
+                "en": "No animals were harmed.",
+                "pt": "Nenhum animal foi ferido."
+            }
+        ]
+    },
+    "hasten": {
+        "infinitive": "hasten",
+        "translation": "apressar",
+        "forms": {
+            "base": "hasten",
+            "pastSimple": "hastened",
+            "pastParticiple": "hastened",
+            "presentParticiple": "hastening",
+            "thirdPerson": "hastens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "accelerate",
+            "speed up"
+        ],
+        "explanation": "Fazer acontecer mais rápido.",
+        "examples": [
+            {
+                "en": "Hasten the process.",
+                "pt": "Apresse o processo."
+            }
+        ]
+    },
+    "hate": {
+        "infinitive": "hate",
+        "translation": "odiar",
+        "forms": {
+            "base": "hate",
+            "pastSimple": "hated",
+            "pastParticiple": "hated",
+            "presentParticiple": "hating",
+            "thirdPerson": "hates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "detest",
+            "loathe"
+        ],
+        "explanation": "Não gostar intensamente.",
+        "examples": [
+            {
+                "en": "I hate traffic.",
+                "pt": "Eu odeio trânsito."
+            }
+        ]
+    },
+    "haunt": {
+        "infinitive": "haunt",
+        "translation": "assombrar",
+        "forms": {
+            "base": "haunt",
+            "pastSimple": "haunted",
+            "pastParticiple": "haunted",
+            "presentParticiple": "haunting",
+            "thirdPerson": "haunts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "spook"
+        ],
+        "explanation": "Estar presente de forma assustadora ou persistente (fantasmas, memórias).",
+        "examples": [
+            {
+                "en": "The house is haunted.",
+                "pt": "A casa é mal-assombrada."
+            }
+        ]
+    },
+    "have": {
+        "infinitive": "have",
+        "translation": "ter",
+        "forms": {
+            "base": "have",
+            "pastSimple": "had",
+            "pastParticiple": "had",
+            "presentParticiple": "having",
+            "thirdPerson": "has"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential",
+            "auxiliary"
+        ],
+        "related": [
+            "possess",
+            "own"
+        ],
+        "explanation": "Possuir algo ou verbo auxiliar para tempos perfeitos.",
+        "examples": [
+            {
+                "en": "I have a question.",
+                "pt": "Tenho uma pergunta."
+            },
+            {
+                "en": "He has gone.",
+                "pt": "Ele já foi."
+            }
+        ]
+    },
+    "head": {
+        "infinitive": "head",
+        "translation": "dirigir-se, chefiar",
+        "forms": {
+            "base": "head",
+            "pastSimple": "headed",
+            "pastParticiple": "headed",
+            "presentParticiple": "heading",
+            "thirdPerson": "heads"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "lead",
+            "go"
+        ],
+        "explanation": "Ir em uma direção ou liderar um grupo.",
+        "examples": [
+            {
+                "en": "We are heading home.",
+                "pt": "Estamos indo para casa."
+            },
+            {
+                "en": "She heads the department.",
+                "pt": "Ela chefia o departamento."
+            }
+        ]
+    },
+    "heal": {
+        "infinitive": "heal",
+        "translation": "curar, sarar",
+        "forms": {
+            "base": "heal",
+            "pastSimple": "healed",
+            "pastParticiple": "healed",
+            "presentParticiple": "healing",
+            "thirdPerson": "heals"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cure",
+            "recover"
+        ],
+        "explanation": "Tornar-se saudável novamente.",
+        "examples": [
+            {
+                "en": "The wound healed quickly.",
+                "pt": "A ferida sarou rápido."
+            }
+        ]
+    },
+    "heap": {
+        "infinitive": "heap",
+        "translation": "amontoar",
+        "forms": {
+            "base": "heap",
+            "pastSimple": "heaped",
+            "pastParticiple": "heaped",
+            "presentParticiple": "heaping",
+            "thirdPerson": "heaps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pile"
+        ],
+        "explanation": "Colocar coisas em uma pilha desordenada.",
+        "examples": [
+            {
+                "en": "He heaped praise on her.",
+                "pt": "Ele a encheu de elogios (amontoou)."
+            }
+        ]
+    },
+    "hear": {
+        "infinitive": "hear",
+        "translation": "ouvir",
+        "forms": {
+            "base": "hear",
+            "pastSimple": "heard",
+            "pastParticiple": "heard",
+            "presentParticiple": "hearing",
+            "thirdPerson": "hears"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential",
+            "sense"
+        ],
+        "related": [
+            "listen"
+        ],
+        "explanation": "Perceber som com os ouvidos.",
+        "examples": [
+            {
+                "en": "Can you hear me?",
+                "pt": "Você pode me ouvir?"
+            },
+            {
+                "en": "I heard a noise.",
+                "pt": "Ouvi um barulho."
+            }
+        ]
+    },
+    "heat": {
+        "infinitive": "heat",
+        "translation": "aquecer",
+        "forms": {
+            "base": "heat",
+            "pastSimple": "heated",
+            "pastParticiple": "heated",
+            "presentParticiple": "heating",
+            "thirdPerson": "heats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "warm"
+        ],
+        "explanation": "Tornar quente.",
+        "examples": [
+            {
+                "en": "Heat the oven.",
+                "pt": "Aqueça o forno."
+            }
+        ]
+    },
+    "help": {
+        "infinitive": "help",
+        "translation": "ajudar",
+        "forms": {
+            "base": "help",
+            "pastSimple": "helped",
+            "pastParticiple": "helped",
+            "presentParticiple": "helping",
+            "thirdPerson": "helps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "assist",
+            "aid"
+        ],
+        "explanation": "Fazer algo mais fácil para alguém.",
+        "examples": [
+            {
+                "en": "Help me, please.",
+                "pt": "Ajude-me, por favor."
+            },
+            {
+                "en": "This helps a lot.",
+                "pt": "Isso ajuda muito."
+            }
+        ]
+    },
+    "hide": {
+        "infinitive": "hide",
+        "translation": "esconder",
+        "forms": {
+            "base": "hide",
+            "pastSimple": "hid",
+            "pastParticiple": "hidden",
+            "presentParticiple": "hiding",
+            "thirdPerson": "hides"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "conceal"
+        ],
+        "explanation": "Colocar-se ou colocar algo onde não pode ser visto.",
+        "examples": [
+            {
+                "en": "Hide behind the tree.",
+                "pt": "Esconda-se atrás da árvore."
+            },
+            {
+                "en": "He hid the money.",
+                "pt": "Ele escondeu o dinheiro."
+            }
+        ]
+    },
+    "highlight": {
+        "infinitive": "highlight",
+        "translation": "destacar",
+        "forms": {
+            "base": "highlight",
+            "pastSimple": "highlighted",
+            "pastParticiple": "highlighted",
+            "presentParticiple": "highlighting",
+            "thirdPerson": "highlights"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "emphasize"
+        ],
+        "explanation": "Chamar atenção para algo importante.",
+        "examples": [
+            {
+                "en": "Highlight the text.",
+                "pt": "Destaque o texto."
+            }
+        ]
+    },
+    "hire": {
+        "infinitive": "hire",
+        "translation": "contratar",
+        "forms": {
+            "base": "hire",
+            "pastSimple": "hired",
+            "pastParticiple": "hired",
+            "presentParticiple": "hiring",
+            "thirdPerson": "hires"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "employ",
+            "recruit"
+        ],
+        "explanation": "Empregar alguém por salário.",
+        "examples": [
+            {
+                "en": "You're hired.",
+                "pt": "Você está contratado."
+            }
+        ]
+    },
+    "hiss": {
+        "infinitive": "hiss",
+        "translation": "sibilhar",
+        "forms": {
+            "base": "hiss",
+            "pastSimple": "hissed",
+            "pastParticiple": "hissed",
+            "presentParticiple": "hissing",
+            "thirdPerson": "hisses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fizz"
+        ],
+        "explanation": "Fazer som de 'ssss' como cobra.",
+        "examples": [
+            {
+                "en": "The snake hissed.",
+                "pt": "A cobra sibilhou."
+            }
+        ]
+    },
+    "hit": {
+        "infinitive": "hit",
+        "translation": "bater, acertar",
+        "forms": {
+            "base": "hit",
+            "pastSimple": "hit",
+            "pastParticiple": "hit",
+            "presentParticiple": "hitting",
+            "thirdPerson": "hits"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "strike",
+            "beat"
+        ],
+        "explanation": "Tocar algo com força repentina.",
+        "examples": [
+            {
+                "en": "The ball hit the window.",
+                "pt": "A bola bateu na janela."
+            },
+            {
+                "en": "Don't hit your brother.",
+                "pt": "Não bata no seu irmão."
+            }
+        ]
+    },
+    "hold": {
+        "infinitive": "hold",
+        "translation": "segurar, manter",
+        "forms": {
+            "base": "hold",
+            "pastSimple": "held",
+            "pastParticiple": "held",
+            "presentParticiple": "holding",
+            "thirdPerson": "holds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "grasp",
+            "keep"
+        ],
+        "explanation": "Ter ou manter na mão ou braços; ou fazer algo esperar ('Hold on').",
+        "examples": [
+            {
+                "en": "Hold this for me.",
+                "pt": "Segure isso para mim."
+            },
+            {
+                "en": "Hold on!",
+                "pt": "Espere!"
+            }
+        ]
+    },
+    "hold on": {
+        "infinitive": "hold on",
+        "translation": "segurar, aguardar",
+        "forms": {
+            "base": "hold on",
+            "pastSimple": "held on",
+            "pastParticiple": "held on",
+            "presentParticiple": "holding on",
+            "thirdPerson": "holds on"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "waiting",
+            "cling"
+        ],
+        "explanation": "Esperar um momento ou segurar firme.",
+        "examples": [
+            {
+                "en": "Hold on a second.",
+                "pt": "Espere um segundo."
+            }
+        ]
+    },
+    "honor": {
+        "infinitive": "honor",
+        "translation": "honrar",
+        "forms": {
+            "base": "honor",
+            "pastSimple": "honored",
+            "pastParticiple": "honored",
+            "presentParticiple": "honoring",
+            "thirdPerson": "honors"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "respect",
+            "praise"
+        ],
+        "explanation": "Mostrar grande respeito.",
+        "examples": [
+            {
+                "en": "Honor your promise.",
+                "pt": "Honre sua promessa."
+            }
+        ]
+    },
+    "hook": {
+        "infinitive": "hook",
+        "translation": "enganchar",
+        "forms": {
+            "base": "hook",
+            "pastSimple": "hooked",
+            "pastParticiple": "hooked",
+            "presentParticiple": "hooking",
+            "thirdPerson": "hooks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "catch"
+        ],
+        "explanation": "Prender com um gancho.",
+        "examples": [
+            {
+                "en": "He hooked a big fish.",
+                "pt": "Ele fisgou um peixe grande."
+            }
+        ]
+    },
+    "hop": {
+        "infinitive": "hop",
+        "translation": "pular (um pé / saltinhos)",
+        "forms": {
+            "base": "hop",
+            "pastSimple": "hopped",
+            "pastParticiple": "hopped",
+            "presentParticiple": "hopping",
+            "thirdPerson": "hops"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "jump"
+        ],
+        "explanation": "Pular em um pé só ou saltos pequenos (animais).",
+        "examples": [
+            {
+                "en": "The rabbit hopped away.",
+                "pt": "O coelho saltitou para longe."
+            }
+        ]
+    },
+    "hope": {
+        "infinitive": "hope",
+        "translation": "esperar, ter esperança",
+        "forms": {
+            "base": "hope",
+            "pastSimple": "hoped",
+            "pastParticiple": "hoped",
+            "presentParticiple": "hoping",
+            "thirdPerson": "hopes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "wish"
+        ],
+        "explanation": "Querer que algo aconteça.",
+        "examples": [
+            {
+                "en": "I hope so.",
+                "pt": "Espero que sim."
+            }
+        ]
+    },
+    "house": {
+        "infinitive": "house",
+        "translation": "alojar, abrigar",
+        "forms": {
+            "base": "house",
+            "pastSimple": "housed",
+            "pastParticiple": "housed",
+            "presentParticiple": "housing",
+            "thirdPerson": "houses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shelter",
+            "accommodate"
+        ],
+        "explanation": "Dar abrigo ou espaço para viver.",
+        "examples": [
+            {
+                "en": "The building houses 50 families.",
+                "pt": "O prédio abriga 50 famílias."
+            }
+        ]
+    },
+    "hover": {
+        "infinitive": "hover",
+        "translation": "pairar",
+        "forms": {
+            "base": "hover",
+            "pastSimple": "hovered",
+            "pastParticiple": "hovered",
+            "presentParticiple": "hovering",
+            "thirdPerson": "hovers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "float"
+        ],
+        "explanation": "Ficar no ar em um lugar (pássaro, helicóptero, mouse na tela).",
+        "examples": [
+            {
+                "en": "Hover your mouse here.",
+                "pt": "Passe o mouse (paire) aqui."
+            }
+        ]
+    },
+    "hug": {
+        "infinitive": "hug",
+        "translation": "abraçar",
+        "forms": {
+            "base": "hug",
+            "pastSimple": "hugged",
+            "pastParticiple": "hugged",
+            "presentParticiple": "hugging",
+            "thirdPerson": "hugs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "embrace"
+        ],
+        "explanation": "Segurar alguém nos braços para mostrar carinho.",
+        "examples": [
+            {
+                "en": "She hugged her mom.",
+                "pt": "Ela abraçou sua mãe."
+            }
+        ]
+    },
+    "hum": {
+        "infinitive": "hum",
+        "translation": "cantarolar, zumbir",
+        "forms": {
+            "base": "hum",
+            "pastSimple": "hummed",
+            "pastParticiple": "hummed",
+            "presentParticiple": "humming",
+            "thirdPerson": "hums"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Cantar de boca fechada ou fazer barulho de motor contínuo.",
+        "examples": [
+            {
+                "en": "He hummed a tune.",
+                "pt": "Ele cantarolou uma melodia."
+            }
+        ]
+    },
+    "humiliate": {
+        "infinitive": "humiliate",
+        "translation": "humilhar",
+        "forms": {
+            "base": "humiliate",
+            "pastSimple": "humiliated",
+            "pastParticiple": "humiliated",
+            "presentParticiple": "humiliating",
+            "thirdPerson": "humiliates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "embarrass",
+            "shame"
+        ],
+        "explanation": "Fazer alguém se sentir envergonhado e estúpido.",
+        "examples": [
+            {
+                "en": "He humiliated me in public.",
+                "pt": "Ele me humilhou em público."
+            }
+        ]
+    },
+    "hunt": {
+        "infinitive": "hunt",
+        "translation": "caçar",
+        "forms": {
+            "base": "hunt",
+            "pastSimple": "hunted",
+            "pastParticiple": "hunted",
+            "presentParticiple": "hunting",
+            "thirdPerson": "hunts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "chase",
+            "search"
+        ],
+        "explanation": "Perseguir animais ou procurar algo difícil de achar.",
+        "examples": [
+            {
+                "en": "Lions hunt for food.",
+                "pt": "Leões caçam por comida."
+            }
+        ]
+    },
+    "hurl": {
+        "infinitive": "hurl",
+        "translation": "arremessar",
+        "forms": {
+            "base": "hurl",
+            "pastSimple": "hurled",
+            "pastParticiple": "hurled",
+            "presentParticiple": "hurling",
+            "thirdPerson": "hurls"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "throw",
+            "fling"
+        ],
+        "explanation": "Jogar com força.",
+        "examples": [
+            {
+                "en": "He hurled the rock.",
+                "pt": "Ele arremessou a pedra."
+            }
+        ]
+    },
+    "hurry": {
+        "infinitive": "hurry",
+        "translation": "apressar-se",
+        "forms": {
+            "base": "hurry",
+            "pastSimple": "hurried",
+            "pastParticiple": "hurried",
+            "presentParticiple": "hurrying",
+            "thirdPerson": "hurries"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "rush"
+        ],
+        "explanation": "Mover-se ou agir rapidamente.",
+        "examples": [
+            {
+                "en": "Hurry up!",
+                "pt": "Apresse-se (anda logo)!"
+            }
+        ]
+    },
+    "hurt": {
+        "infinitive": "hurt",
+        "translation": "machucar, doer",
+        "forms": {
+            "base": "hurt",
+            "pastSimple": "hurt",
+            "pastParticiple": "hurt",
+            "presentParticiple": "hurting",
+            "thirdPerson": "hurts"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "injure",
+            "pain"
+        ],
+        "explanation": "Causar dor ou sentir dor.",
+        "examples": [
+            {
+                "en": "It hurts.",
+                "pt": "Dói."
+            },
+            {
+                "en": "Did you hurt yourself?",
+                "pt": "Você se machucou?"
+            }
+        ]
+    },
+    "hush": {
+        "infinitive": "hush",
+        "translation": "psiu, calar",
+        "forms": {
+            "base": "hush",
+            "pastSimple": "hushed",
+            "pastParticiple": "hushed",
+            "presentParticiple": "hushing",
+            "thirdPerson": "hushes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "silence",
+            "quiet"
+        ],
+        "explanation": "Fazer ficar quieto.",
+        "examples": [
+            {
+                "en": "Hush the baby.",
+                "pt": "Faça o bebê dormir (ficar quieto)."
+            }
+        ]
+    }
+}

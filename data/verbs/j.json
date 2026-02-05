@@ -1,0 +1,266 @@
+{
+    "jail": {
+        "infinitive": "jail",
+        "translation": "prender, encarcerar",
+        "forms": {
+            "base": "jail",
+            "pastSimple": "jailed",
+            "pastParticiple": "jailed",
+            "presentParticiple": "jailing",
+            "thirdPerson": "jails"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "imprison"
+        ],
+        "explanation": "Colocar alguém na prisão.",
+        "examples": [
+            {
+                "en": "He was jailed for theft.",
+                "pt": "Ele foi preso por roubo."
+            }
+        ]
+    },
+    "jam": {
+        "infinitive": "jam",
+        "translation": "emperrar, apertar",
+        "forms": {
+            "base": "jam",
+            "pastSimple": "jammed",
+            "pastParticiple": "jammed",
+            "presentParticiple": "jamming",
+            "thirdPerson": "jams"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "block",
+            "stuck"
+        ],
+        "explanation": "Ficar preso ou bloquear (máquina, trânsito); ou tocar música informalmente.",
+        "examples": [
+            {
+                "en": "The printer jammed.",
+                "pt": "A impressora emperrou."
+            },
+            {
+                "en": "Traffic is jammed.",
+                "pt": "O trânsito está engarrafado."
+            }
+        ]
+    },
+    "jerk": {
+        "infinitive": "jerk",
+        "translation": "puxar bruscamente",
+        "forms": {
+            "base": "jerk",
+            "pastSimple": "jerked",
+            "pastParticiple": "jerked",
+            "presentParticiple": "jerking",
+            "thirdPerson": "jerks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pull",
+            "yank"
+        ],
+        "explanation": "Mover-se ou puxar com um movimento súbito.",
+        "examples": [
+            {
+                "en": "He jerked the rope.",
+                "pt": "Ele puxou a corda bruscamente."
+            }
+        ]
+    },
+    "jog": {
+        "infinitive": "jog",
+        "translation": "correr (leve)",
+        "forms": {
+            "base": "jog",
+            "pastSimple": "jogged",
+            "pastParticiple": "jogged",
+            "presentParticiple": "jogging",
+            "thirdPerson": "jogs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "run"
+        ],
+        "explanation": "Correr em ritmo lento para exercício.",
+        "examples": [
+            {
+                "en": "I jog every morning.",
+                "pt": "Eu corro (trote) toda manhã."
+            }
+        ]
+    },
+    "join": {
+        "infinitive": "join",
+        "translation": "juntar-se, unir",
+        "forms": {
+            "base": "join",
+            "pastSimple": "joined",
+            "pastParticiple": "joined",
+            "presentParticiple": "joining",
+            "thirdPerson": "joins"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "connect",
+            "unite"
+        ],
+        "explanation": "Tornar-se membro ou conectar coisas.",
+        "examples": [
+            {
+                "en": "Join us for dinner.",
+                "pt": "Junte-se a nós para o jantar."
+            },
+            {
+                "en": "Join the two cables.",
+                "pt": "Una os dois cabos."
+            }
+        ]
+    },
+    "joke": {
+        "infinitive": "joke",
+        "translation": "brincar, piada",
+        "forms": {
+            "base": "joke",
+            "pastSimple": "joked",
+            "pastParticiple": "joked",
+            "presentParticiple": "joking",
+            "thirdPerson": "jokes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "kidding"
+        ],
+        "explanation": "Dizer algo engraçado ou não sério.",
+        "examples": [
+            {
+                "en": "I'm just joking.",
+                "pt": "Estou só brincando."
+            }
+        ]
+    },
+    "judge": {
+        "infinitive": "judge",
+        "translation": "julgar",
+        "forms": {
+            "base": "judge",
+            "pastSimple": "judged",
+            "pastParticiple": "judged",
+            "presentParticiple": "judging",
+            "thirdPerson": "judges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "evaluate"
+        ],
+        "explanation": "Formar uma opinião ou decidir em tribunal.",
+        "examples": [
+            {
+                "en": "Don't judge me.",
+                "pt": "Não me julgue."
+            }
+        ]
+    },
+    "juggle": {
+        "infinitive": "juggle",
+        "translation": "fazer malabarismo",
+        "forms": {
+            "base": "juggle",
+            "pastSimple": "juggled",
+            "pastParticiple": "juggled",
+            "presentParticiple": "juggling",
+            "thirdPerson": "juggles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "balance"
+        ],
+        "explanation": "Manter vários objetos no ar ou lidar com muitas tarefas ao mesmo tempo.",
+        "examples": [
+            {
+                "en": "She can juggle three balls.",
+                "pt": "Ela consegue fazer malabarismo com três bolas."
+            }
+        ]
+    },
+    "jumble": {
+        "infinitive": "jumble",
+        "translation": "misturar, embaralhar",
+        "forms": {
+            "base": "jumble",
+            "pastSimple": "jumbled",
+            "pastParticiple": "jumbled",
+            "presentParticiple": "jumbling",
+            "thirdPerson": "jumbles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mix up"
+        ],
+        "explanation": "Misturar desorganizadamente.",
+        "examples": [
+            {
+                "en": "Jumble the letters.",
+                "pt": "Embaralhe as letras."
+            }
+        ]
+    },
+    "jump": {
+        "infinitive": "jump",
+        "translation": "pular",
+        "forms": {
+            "base": "jump",
+            "pastSimple": "jumped",
+            "pastParticiple": "jumped",
+            "presentParticiple": "jumping",
+            "thirdPerson": "jumps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "leap",
+            "hop"
+        ],
+        "explanation": "Impulsionar-se para o ar.",
+        "examples": [
+            {
+                "en": "Jump over the fence.",
+                "pt": "Pule a cerca."
+            }
+        ]
+    }
+}

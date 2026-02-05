@@ -1,0 +1,2419 @@
+{
+    "back": {
+        "infinitive": "back",
+        "translation": "apoiar, recuar, apostar",
+        "forms": {
+            "base": "back",
+            "pastSimple": "backed",
+            "pastParticiple": "backed",
+            "presentParticiple": "backing",
+            "thirdPerson": "backs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "support",
+            "retreat",
+            "reverse"
+        ],
+        "explanation": "'Back' como verbo pode significar apoiar alguém (back up), recuar (move back) ou apostar em algo/alguém.",
+        "examples": [
+            {
+                "en": "I will back you up.",
+                "pt": "Eu vou te apoiar."
+            },
+            {
+                "en": "He backed the car into the garage.",
+                "pt": "Ele entrou com o carro de ré na garagem."
+            },
+            {
+                "en": "She backed the wrong horse.",
+                "pt": "Ela apostou no cavalo errado."
+            }
+        ]
+    },
+    "back up": {
+        "infinitive": "back up",
+        "translation": "apoiar, dar ré",
+        "forms": {
+            "base": "back up",
+            "pastSimple": "backed up",
+            "pastParticiple": "backed up",
+            "presentParticiple": "backing up",
+            "thirdPerson": "backs up"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "support",
+            "reverse"
+        ],
+        "explanation": "Dar suporte ou mover para trás.",
+        "examples": [
+            {
+                "en": "Back up your files.",
+                "pt": "Faça backup dos seus arquivos."
+            }
+        ]
+    },
+    "baffle": {
+        "infinitive": "baffle",
+        "translation": "confundir (totalmente)",
+        "forms": {
+            "base": "baffle",
+            "pastSimple": "baffled",
+            "pastParticiple": "baffled",
+            "presentParticiple": "baffling",
+            "thirdPerson": "baffles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "puzzle",
+            "perplex"
+        ],
+        "explanation": "Ser impossível de entender para alguém.",
+        "examples": [
+            {
+                "en": "The mystery baffled police.",
+                "pt": "O mistério confundiu a polícia."
+            }
+        ]
+    },
+    "bake": {
+        "infinitive": "bake",
+        "translation": "assar",
+        "forms": {
+            "base": "bake",
+            "pastSimple": "baked",
+            "pastParticiple": "baked",
+            "presentParticiple": "baking",
+            "thirdPerson": "bakes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "cooking"
+        ],
+        "related": [
+            "cook",
+            "roast"
+        ],
+        "explanation": "Cozinhar alimentos (geralmente pães, bolos) dentro de um forno.",
+        "examples": [
+            {
+                "en": "She bakes fresh bread every morning.",
+                "pt": "Ela assa pão fresco toda manhã."
+            },
+            {
+                "en": "The cake is baking in the oven.",
+                "pt": "O bolo está assando no forno."
+            }
+        ]
+    },
+    "balance": {
+        "infinitive": "balance",
+        "translation": "equilibrar",
+        "forms": {
+            "base": "balance",
+            "pastSimple": "balanced",
+            "pastParticiple": "balanced",
+            "presentParticiple": "balancing",
+            "thirdPerson": "balances"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "steady",
+            "stabilize"
+        ],
+        "explanation": "Manter ou colocar algo em estado de equilíbrio.",
+        "examples": [
+            {
+                "en": "He balanced the book on his head.",
+                "pt": "Ele equilibrou o livro na cabeça."
+            },
+            {
+                "en": "You need to balance work and life.",
+                "pt": "Você precisa equilibrar trabalho e vida."
+            }
+        ]
+    },
+    "ban": {
+        "infinitive": "ban",
+        "translation": "proibir, banir",
+        "forms": {
+            "base": "ban",
+            "pastSimple": "banned",
+            "pastParticiple": "banned",
+            "presentParticiple": "banning",
+            "thirdPerson": "bans"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "forbid",
+            "prohibit"
+        ],
+        "explanation": "Proibir oficialmente algo ou impedir alguém de fazer algo.",
+        "examples": [
+            {
+                "en": "Smoking is banned here.",
+                "pt": "Fumar é proibido aqui."
+            },
+            {
+                "en": "He was banned from the game.",
+                "pt": "Ele foi banido do jogo."
+            }
+        ]
+    },
+    "bang": {
+        "infinitive": "bang",
+        "translation": "bater, estrondar",
+        "forms": {
+            "base": "bang",
+            "pastSimple": "banged",
+            "pastParticiple": "banged",
+            "presentParticiple": "banging",
+            "thirdPerson": "bangs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hit",
+            "slam"
+        ],
+        "explanation": "Bater com força fazendo um barulho alto.",
+        "examples": [
+            {
+                "en": "She banged the door shut.",
+                "pt": "Ela bateu a porta com força."
+            },
+            {
+                "en": "He banged his knee on the table.",
+                "pt": "Ele bateu o joelho na mesa."
+            }
+        ]
+    },
+    "bare": {
+        "infinitive": "bare",
+        "translation": "revelar, desnudar",
+        "forms": {
+            "base": "bare",
+            "pastSimple": "bared",
+            "pastParticiple": "bared",
+            "presentParticiple": "baring",
+            "thirdPerson": "bares"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "reveal",
+            "uncover"
+        ],
+        "explanation": "Tornar algo visível, descobrir.",
+        "examples": [
+            {
+                "en": "The dog bared its teeth.",
+                "pt": "O cachorro mostrou (rosnou) os dentes."
+            },
+            {
+                "en": "He bared his soul to her.",
+                "pt": "Ele desnudou sua alma para ela."
+            }
+        ]
+    },
+    "bat": {
+        "infinitive": "bat",
+        "translation": "rebater, piscar (olhos)",
+        "forms": {
+            "base": "bat",
+            "pastSimple": "batted",
+            "pastParticiple": "batted",
+            "presentParticiple": "batting",
+            "thirdPerson": "bats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "sports"
+        ],
+        "related": [
+            "hit",
+            "strike"
+        ],
+        "explanation": "Usar um taco (em beisebol/críquete) ou piscar os olhos rapidamente.",
+        "examples": [
+            {
+                "en": "It's his turn to bat.",
+                "pt": "É a vez dele rebater."
+            },
+            {
+                "en": "She didn't even bat an eyelid.",
+                "pt": "Ela nem sequer piscou (não mostrou reação)."
+            }
+        ]
+    },
+    "bathe": {
+        "infinitive": "bathe",
+        "translation": "banhar(-se)",
+        "forms": {
+            "base": "bathe",
+            "pastSimple": "bathed",
+            "pastParticiple": "bathed",
+            "presentParticiple": "bathing",
+            "thirdPerson": "bathes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wash",
+            "clean"
+        ],
+        "explanation": "Tomar banho (geralmente de banheira ou em águas naturais) ou dar banho em alguém.",
+        "examples": [
+            {
+                "en": "I need to bathe the dog.",
+                "pt": "Preciso dar banho no cachorro."
+            },
+            {
+                "en": "They bathed in the river.",
+                "pt": "Eles se banharam no rio."
+            }
+        ]
+    },
+    "battle": {
+        "infinitive": "battle",
+        "translation": "lutar, batalhar",
+        "forms": {
+            "base": "battle",
+            "pastSimple": "battled",
+            "pastParticiple": "battled",
+            "presentParticiple": "battling",
+            "thirdPerson": "battles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fight",
+            "struggle"
+        ],
+        "explanation": "Lutar contra algo ou alguém, enfrentando dificuldades.",
+        "examples": [
+            {
+                "en": "He battled cancer for years.",
+                "pt": "Ele lutou contra o câncer por anos."
+            },
+            {
+                "en": "The armies battled all day.",
+                "pt": "Os exércitos batalharam o dia todo."
+            }
+        ]
+    },
+    "be": {
+        "infinitive": "be",
+        "translation": "ser, estar",
+        "forms": {
+            "base": "be",
+            "pastSimple": "was/were",
+            "pastParticiple": "been",
+            "presentParticiple": "being",
+            "thirdPerson": "is"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "auxiliary",
+            "essential"
+        ],
+        "related": [
+            "exist",
+            "live"
+        ],
+        "explanation": "O verbo mais importante do inglês. Usado para descrever identidade, qualidades, estados e como auxiliar para tempos contínuos e voz passiva.",
+        "examples": [
+            {
+                "en": "I am a student.",
+                "pt": "Eu sou estudante."
+            },
+            {
+                "en": "They were happy.",
+                "pt": "Eles estavam felizes."
+            },
+            {
+                "en": "She has been working hard.",
+                "pt": "Ela tem trabalhado muito."
+            }
+        ]
+    },
+    "be present": {
+        "infinitive": "be present",
+        "translation": "estar presente, comparecer",
+        "forms": {
+            "base": "be present",
+            "pastSimple": "was/were present",
+            "pastParticiple": "been present",
+            "presentParticiple": "being present",
+            "thirdPerson": "is present"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "attend"
+        ],
+        "explanation": "Estar em um determinado lugar ou evento.",
+        "examples": [
+            {
+                "en": "He will be present at the meeting.",
+                "pt": "Ele estará presente na reunião."
+            }
+        ]
+    },
+    "beam": {
+        "infinitive": "beam",
+        "translation": "sorrir radiante, transmitir",
+        "forms": {
+            "base": "beam",
+            "pastSimple": "beamed",
+            "pastParticiple": "beamed",
+            "presentParticiple": "beaming",
+            "thirdPerson": "beams"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "smile",
+            "shine"
+        ],
+        "explanation": "Sorrir de forma muito feliz ou emitir luz/sinal.",
+        "examples": [
+            {
+                "en": "She beamed with pride.",
+                "pt": "Ela sorriu radiante de orgulho."
+            },
+            {
+                "en": "The game was beamed live via satellite.",
+                "pt": "O jogo foi transmitido ao vivo via satélite."
+            }
+        ]
+    },
+    "bear": {
+        "infinitive": "bear",
+        "translation": "suportar, portar",
+        "forms": {
+            "base": "bear",
+            "pastSimple": "bore",
+            "pastParticiple": "borne",
+            "presentParticiple": "bearing",
+            "thirdPerson": "bears"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "tolerate",
+            "carry",
+            "endure"
+        ],
+        "explanation": "Suportar algo difícil, carregar peso ou responsabilidade. (Nota: 'Born' é usado apenas para nascimento).",
+        "examples": [
+            {
+                "en": "I can't bear this noise.",
+                "pt": "Não consigo suportar esse barulho."
+            },
+            {
+                "en": "He bears the responsibility.",
+                "pt": "Ele carrega a responsabilidade."
+            }
+        ]
+    },
+    "beat": {
+        "infinitive": "beat",
+        "translation": "bater, vencer",
+        "forms": {
+            "base": "beat",
+            "pastSimple": "beat",
+            "pastParticiple": "beaten",
+            "presentParticiple": "beating",
+            "thirdPerson": "beats"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "defeat",
+            "hit",
+            "strike"
+        ],
+        "explanation": "Vencer alguém em jogo/competição, ou bater fisicamente/ritmicamente.",
+        "examples": [
+            {
+                "en": "I beat him at chess.",
+                "pt": "Eu o venci no xadrez."
+            },
+            {
+                "en": "My heart is beating fast.",
+                "pt": "Meu coração está batendo rápido."
+            },
+            {
+                "en": "Stop beating around the bush.",
+                "pt": "Pare de fazer rodeios."
+            }
+        ]
+    },
+    "beautify": {
+        "infinitive": "beautify",
+        "translation": "embelezar",
+        "forms": {
+            "base": "beautify",
+            "pastSimple": "beautified",
+            "pastParticiple": "beautified",
+            "presentParticiple": "beautifying",
+            "thirdPerson": "beautifies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "adorn",
+            "decorate"
+        ],
+        "explanation": "Tornar bonito.",
+        "examples": [
+            {
+                "en": "Beautify the park.",
+                "pt": "Embeleze o parque."
+            }
+        ]
+    },
+    "become": {
+        "infinitive": "become",
+        "translation": "tornar-se",
+        "forms": {
+            "base": "become",
+            "pastSimple": "became",
+            "pastParticiple": "become",
+            "presentParticiple": "becoming",
+            "thirdPerson": "becomes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "change"
+        ],
+        "related": [
+            "get",
+            "grow",
+            "turn"
+        ],
+        "explanation": "Indica transformação, mudança de estado ou profissão.",
+        "examples": [
+            {
+                "en": "The caterpillar became a butterfly.",
+                "pt": "A lagarta tornou-se uma borboleta."
+            },
+            {
+                "en": "He became a doctor.",
+                "pt": "Ele se tornou médico."
+            },
+            {
+                "en": "It is becoming dark.",
+                "pt": "Está ficando escuro."
+            }
+        ]
+    },
+    "beg": {
+        "infinitive": "beg",
+        "translation": "implorar, mendigar",
+        "forms": {
+            "base": "beg",
+            "pastSimple": "begged",
+            "pastParticiple": "begged",
+            "presentParticiple": "begging",
+            "thirdPerson": "begs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "plead",
+            "implore"
+        ],
+        "explanation": "Pedir algo com muita humildade ou desespero.",
+        "examples": [
+            {
+                "en": "I beg your pardon?",
+                "pt": "Perdão? (Como disse?)"
+            },
+            {
+                "en": "He begged for money on the street.",
+                "pt": "Ele mendigava dinheiro na rua."
+            }
+        ]
+    },
+    "begin": {
+        "infinitive": "begin",
+        "translation": "começar",
+        "forms": {
+            "base": "begin",
+            "pastSimple": "began",
+            "pastParticiple": "begun",
+            "presentParticiple": "beginning",
+            "thirdPerson": "begins"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "start",
+            "commence"
+        ],
+        "explanation": "Iniciar uma ação ou processo. Mais formal que 'start'.",
+        "examples": [
+            {
+                "en": "Let's begin the meeting.",
+                "pt": "Vamos começar a reunião."
+            },
+            {
+                "en": "It began to rain.",
+                "pt": "Começou a chover."
+            },
+            {
+                "en": "He has begun a new project.",
+                "pt": "Ele começou um novo projeto."
+            }
+        ]
+    },
+    "behave": {
+        "infinitive": "behave",
+        "translation": "comportar-se",
+        "forms": {
+            "base": "behave",
+            "pastSimple": "behaved",
+            "pastParticiple": "behaved",
+            "presentParticiple": "behaving",
+            "thirdPerson": "behaves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "act"
+        ],
+        "explanation": "Agir de uma maneira específica (geralmente educada ou correta).",
+        "examples": [
+            {
+                "en": "Behave yourself!",
+                "pt": "Comporte-se!"
+            },
+            {
+                "en": "The children behaved well.",
+                "pt": "As crianças se comportaram bem."
+            }
+        ]
+    },
+    "behold": {
+        "infinitive": "behold",
+        "translation": "contemplar",
+        "forms": {
+            "base": "behold",
+            "pastSimple": "beheld",
+            "pastParticiple": "beheld",
+            "presentParticiple": "beholding",
+            "thirdPerson": "beholds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "literary"
+        ],
+        "related": [
+            "see",
+            "observe",
+            "gaze"
+        ],
+        "explanation": "Olhar para algo com admiração ou surpresa. Uso literário/arcaico.",
+        "examples": [
+            {
+                "en": "Behold the king!",
+                "pt": "Contemplem o rei!"
+            },
+            {
+                "en": "It was a sight to behold.",
+                "pt": "Foi uma visão de se admirar."
+            }
+        ]
+    },
+    "believe": {
+        "infinitive": "believe",
+        "translation": "acreditar",
+        "forms": {
+            "base": "believe",
+            "pastSimple": "believed",
+            "pastParticiple": "believed",
+            "presentParticiple": "believing",
+            "thirdPerson": "believes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "mental"
+        ],
+        "related": [
+            "trust",
+            "think"
+        ],
+        "explanation": "Ter fé ou confiança em algo/alguém; achar que algo é verdade.",
+        "examples": [
+            {
+                "en": "I believe you.",
+                "pt": "Eu acredito em você."
+            },
+            {
+                "en": "Do you believe in ghosts?",
+                "pt": "Você acredita em fantasmas?"
+            },
+            {
+                "en": "I believe he is correct.",
+                "pt": "Eu acho que ele está correto."
+            }
+        ]
+    },
+    "belong": {
+        "infinitive": "belong",
+        "translation": "pertencer",
+        "forms": {
+            "base": "belong",
+            "pastSimple": "belonged",
+            "pastParticiple": "belonged",
+            "presentParticiple": "belonging",
+            "thirdPerson": "belongs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fit",
+            "own"
+        ],
+        "explanation": "Ser propriedade de alguém ou fazer parte de um grupo/lugar.",
+        "examples": [
+            {
+                "en": "This bag belongs to me.",
+                "pt": "Esta bolsa pertence a mim."
+            },
+            {
+                "en": "You belong here.",
+                "pt": "Você pertence (ao seu lugar) aqui."
+            }
+        ]
+    },
+    "bend": {
+        "infinitive": "bend",
+        "translation": "curvar, dobrar",
+        "forms": {
+            "base": "bend",
+            "pastSimple": "bent",
+            "pastParticiple": "bent",
+            "presentParticiple": "bending",
+            "thirdPerson": "bends"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "flex",
+            "curve"
+        ],
+        "explanation": "Mudar a forma de algo reto para curvo, ou inclinar o corpo.",
+        "examples": [
+            {
+                "en": "Can you bend your knees?",
+                "pt": "Você consegue dobrar seus joelhos?"
+            },
+            {
+                "en": "He bent down to pick it up.",
+                "pt": "Ele se abaixou para pegar."
+            }
+        ]
+    },
+    "bet": {
+        "infinitive": "bet",
+        "translation": "apostar",
+        "forms": {
+            "base": "bet",
+            "pastSimple": "bet",
+            "pastParticiple": "bet",
+            "presentParticiple": "betting",
+            "thirdPerson": "bets"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "gamble",
+            "wager"
+        ],
+        "explanation": "Arriscar dinheiro em um resultado incerto ou expressar certeza ('I bet').",
+        "examples": [
+            {
+                "en": "I bet $10 that she wins.",
+                "pt": "Aposto $10 que ela ganha."
+            },
+            {
+                "en": "I bet you are hungry.",
+                "pt": "Aposto (tenho certeza) que você está com fome."
+            }
+        ]
+    },
+    "better": {
+        "infinitive": "better",
+        "translation": "melhorar",
+        "forms": {
+            "base": "better",
+            "pastSimple": "bettered",
+            "pastParticiple": "bettered",
+            "presentParticiple": "bettering",
+            "thirdPerson": "betters"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "improve"
+        ],
+        "explanation": "Tornar algo melhor ou superar um padrão.",
+        "examples": [
+            {
+                "en": "She wants to better herself.",
+                "pt": "Ela quer se melhorar."
+            }
+        ]
+    },
+    "bid": {
+        "infinitive": "bid",
+        "translation": "ofertar, dar lance",
+        "forms": {
+            "base": "bid",
+            "pastSimple": "bid",
+            "pastParticiple": "bid",
+            "presentParticiple": "bidding",
+            "thirdPerson": "bids"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "offer",
+            "propose"
+        ],
+        "explanation": "Oferecer um preço em um leilão ou contrato.",
+        "examples": [
+            {
+                "en": "He bid $500 for the painting.",
+                "pt": "Ele deu um lance de $500 pela pintura."
+            },
+            {
+                "en": "We are bidding for the contract.",
+                "pt": "Estamos competindo (dando lances) pelo contrato."
+            }
+        ]
+    },
+    "bike": {
+        "infinitive": "bike",
+        "translation": "andar de bicicleta",
+        "forms": {
+            "base": "bike",
+            "pastSimple": "biked",
+            "pastParticiple": "biked",
+            "presentParticiple": "biking",
+            "thirdPerson": "bikes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cycle",
+            "ride"
+        ],
+        "explanation": "Viajar ou andar de bicicleta.",
+        "examples": [
+            {
+                "en": "We biked to the park.",
+                "pt": "Fomos de bicicleta até o parque."
+            }
+        ]
+    },
+    "bill": {
+        "infinitive": "bill",
+        "translation": "cobrar (fatura)",
+        "forms": {
+            "base": "bill",
+            "pastSimple": "billed",
+            "pastParticiple": "billed",
+            "presentParticiple": "billing",
+            "thirdPerson": "bills"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "charge",
+            "invoice"
+        ],
+        "explanation": "Enviar uma conta ou fatura para pagamento.",
+        "examples": [
+            {
+                "en": "They billed me for the service.",
+                "pt": "Eles me cobraram pelo serviço."
+            }
+        ]
+    },
+    "bind": {
+        "infinitive": "bind",
+        "translation": "amarrar, ligar, encadernar",
+        "forms": {
+            "base": "bind",
+            "pastSimple": "bound",
+            "pastParticiple": "bound",
+            "presentParticiple": "binding",
+            "thirdPerson": "binds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "tie",
+            "connect"
+        ],
+        "explanation": "Prender, unir firmemente ou obrigar por lei/promessa.",
+        "examples": [
+            {
+                "en": "They bound his hands.",
+                "pt": "Eles amarraram as mãos dele."
+            },
+            {
+                "en": "The contract binds us to the terms.",
+                "pt": "O contrato nos prende (obriga) aos termos."
+            }
+        ]
+    },
+    "bite": {
+        "infinitive": "bite",
+        "translation": "morder",
+        "forms": {
+            "base": "bite",
+            "pastSimple": "bit",
+            "pastParticiple": "bitten",
+            "presentParticiple": "biting",
+            "thirdPerson": "bites"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "chew",
+            "nip"
+        ],
+        "explanation": "Cortar ou perfurar com os dentes.",
+        "examples": [
+            {
+                "en": "The dog bites if provoked.",
+                "pt": "O cachorro morde se provocado."
+            },
+            {
+                "en": "She bit her lip.",
+                "pt": "Ela mordeu o lábio."
+            }
+        ]
+    },
+    "blame": {
+        "infinitive": "blame",
+        "translation": "culpar",
+        "forms": {
+            "base": "blame",
+            "pastSimple": "blamed",
+            "pastParticiple": "blamed",
+            "presentParticiple": "blaming",
+            "thirdPerson": "blames"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "accuse"
+        ],
+        "explanation": "Atribuir culpa a alguém.",
+        "examples": [
+            {
+                "en": "Don't blame me.",
+                "pt": "Não me culpe."
+            }
+        ]
+    },
+    "blaze": {
+        "infinitive": "blaze",
+        "translation": "resplandecer, arder",
+        "forms": {
+            "base": "blaze",
+            "pastSimple": "blazed",
+            "pastParticiple": "blazed",
+            "presentParticiple": "blazing",
+            "thirdPerson": "blazes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "burn",
+            "shine"
+        ],
+        "explanation": "Queimar ou brilhar intensamente.",
+        "examples": [
+            {
+                "en": "The fire blazed.",
+                "pt": "O fogo ardeu."
+            }
+        ]
+    },
+    "bleach": {
+        "infinitive": "bleach",
+        "translation": "alvejar, descolorir",
+        "forms": {
+            "base": "bleach",
+            "pastSimple": "bleached",
+            "pastParticiple": "bleached",
+            "presentParticiple": "bleaching",
+            "thirdPerson": "bleaches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "whiten"
+        ],
+        "explanation": "Tornar branco ou remover cor, geralmente com químicos.",
+        "examples": [
+            {
+                "en": "Sunlight bleached the curtains.",
+                "pt": "A luz do sol desbotou as cortinas."
+            },
+            {
+                "en": "She bleached her hair.",
+                "pt": "Ela descoloriu o cabelo."
+            }
+        ]
+    },
+    "bleed": {
+        "infinitive": "bleed",
+        "translation": "sangrar",
+        "forms": {
+            "base": "bleed",
+            "pastSimple": "bled",
+            "pastParticiple": "bled",
+            "presentParticiple": "bleeding",
+            "thirdPerson": "bleeds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [],
+        "explanation": "Perder sangue.",
+        "examples": [
+            {
+                "en": "My nose is bleeding.",
+                "pt": "Meu nariz está sangrando."
+            },
+            {
+                "en": "It makes my heart bleed.",
+                "pt": "Isso faz meu coração sangrar (de tristeza)."
+            }
+        ]
+    },
+    "blend": {
+        "infinitive": "blend",
+        "translation": "misturar",
+        "forms": {
+            "base": "blend",
+            "pastSimple": "blended",
+            "pastParticiple": "blended",
+            "presentParticiple": "blending",
+            "thirdPerson": "blends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mix",
+            "combine"
+        ],
+        "explanation": "Misturar substâncias para formar uma única.",
+        "examples": [
+            {
+                "en": "Blend the ingredients.",
+                "pt": "Misture os ingredientes."
+            }
+        ]
+    },
+    "bless": {
+        "infinitive": "bless",
+        "translation": "abençoar",
+        "forms": {
+            "base": "bless",
+            "pastSimple": "blessed",
+            "pastParticiple": "blessed",
+            "presentParticiple": "blessing",
+            "thirdPerson": "blesses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "consecrate"
+        ],
+        "explanation": "Invocar proteção divina.",
+        "examples": [
+            {
+                "en": "God bless you.",
+                "pt": "Deus te abençoe."
+            },
+            {
+                "en": "The priest blessed the house.",
+                "pt": "O padre abençoou a casa."
+            }
+        ]
+    },
+    "blind": {
+        "infinitive": "blind",
+        "translation": "cegar",
+        "forms": {
+            "base": "blind",
+            "pastSimple": "blinded",
+            "pastParticiple": "blinded",
+            "presentParticiple": "blinding",
+            "thirdPerson": "blinds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dazzle"
+        ],
+        "explanation": "Tornar cego ou ofuscar a visão momentaneamente.",
+        "examples": [
+            {
+                "en": "The light blinded me.",
+                "pt": "A luz me cegou (ofuscou)."
+            },
+            {
+                "en": "He was blinded by love.",
+                "pt": "Ele estava cego de amor."
+            }
+        ]
+    },
+    "blink": {
+        "infinitive": "blink",
+        "translation": "piscar",
+        "forms": {
+            "base": "blink",
+            "pastSimple": "blinked",
+            "pastParticiple": "blinked",
+            "presentParticiple": "blinking",
+            "thirdPerson": "blinks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wink"
+        ],
+        "explanation": "Fechar e abrir os olhos rapidamente.",
+        "examples": [
+            {
+                "en": "He blinked in the sunlight.",
+                "pt": "Ele piscou na luz do sol."
+            }
+        ]
+    },
+    "block": {
+        "infinitive": "block",
+        "translation": "bloquear",
+        "forms": {
+            "base": "block",
+            "pastSimple": "blocked",
+            "pastParticiple": "blocked",
+            "presentParticiple": "blocking",
+            "thirdPerson": "blocks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "obstruct",
+            "stop"
+        ],
+        "explanation": "Impedir movimento ou fluxo.",
+        "examples": [
+            {
+                "en": "The road was blocked.",
+                "pt": "A estrada estava bloqueada."
+            }
+        ]
+    },
+    "blot": {
+        "infinitive": "blot",
+        "translation": "secar, borrar",
+        "forms": {
+            "base": "blot",
+            "pastSimple": "blotted",
+            "pastParticiple": "blotted",
+            "presentParticiple": "blotting",
+            "thirdPerson": "blots"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "smudge",
+            "absorb"
+        ],
+        "explanation": "Secar absorvendo líquido ou fazer uma mancha.",
+        "examples": [
+            {
+                "en": "Blot the stain with a paper towel.",
+                "pt": "Seque a mancha com um papel toalha."
+            }
+        ]
+    },
+    "blow": {
+        "infinitive": "blow",
+        "translation": "soprar",
+        "forms": {
+            "base": "blow",
+            "pastSimple": "blew",
+            "pastParticiple": "blown",
+            "presentParticiple": "blowing",
+            "thirdPerson": "blows"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "exhale",
+            "wind"
+        ],
+        "explanation": "Mover ar com força, ou quando o vento move algo.",
+        "examples": [
+            {
+                "en": "The wind is blowing hard.",
+                "pt": "O vento está soprando forte."
+            },
+            {
+                "en": "He blew out the candles.",
+                "pt": "Ele soprou as velas."
+            }
+        ]
+    },
+    "blow up": {
+        "infinitive": "blow up",
+        "translation": "explodir, estourar",
+        "forms": {
+            "base": "blow up",
+            "pastSimple": "blew up",
+            "pastParticiple": "blown up",
+            "presentParticiple": "blowing up",
+            "thirdPerson": "blows up"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "explode"
+        ],
+        "explanation": "Destruir com explosão ou encher de ar.",
+        "examples": [
+            {
+                "en": "The balloon blew up.",
+                "pt": "O balão estourou."
+            }
+        ]
+    },
+    "blur": {
+        "infinitive": "blur",
+        "translation": "borrar, desfocar",
+        "forms": {
+            "base": "blur",
+            "pastSimple": "blurred",
+            "pastParticiple": "blurred",
+            "presentParticiple": "blurring",
+            "thirdPerson": "blurs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "smudge"
+        ],
+        "explanation": "Tornar pouco claro ou visível.",
+        "examples": [
+            {
+                "en": "Tears blurred her vision.",
+                "pt": "Lágrimas embaçaram a visão dela."
+            }
+        ]
+    },
+    "blush": {
+        "infinitive": "blush",
+        "translation": "corar",
+        "forms": {
+            "base": "blush",
+            "pastSimple": "blushed",
+            "pastParticiple": "blushed",
+            "presentParticiple": "blushing",
+            "thirdPerson": "blushes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "flush",
+            "redden"
+        ],
+        "explanation": "Ficar com o rosto vermelho por vergonha ou timidez.",
+        "examples": [
+            {
+                "en": "She blushed when he smiled at her.",
+                "pt": "Ela corou quando ele sorriu para ela."
+            }
+        ]
+    },
+    "boast": {
+        "infinitive": "boast",
+        "translation": "gabar-se, possuir",
+        "forms": {
+            "base": "boast",
+            "pastSimple": "boasted",
+            "pastParticiple": "boasted",
+            "presentParticiple": "boasting",
+            "thirdPerson": "boasts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "brag",
+            "show off"
+        ],
+        "explanation": "Falar com orgulho excessivo de si mesmo, ou possuir algo de que se orgulha (ex: cidade possui um parque).",
+        "examples": [
+            {
+                "en": "He is always boasting about his car.",
+                "pt": "Ele está sempre se gabando do carro dele."
+            },
+            {
+                "en": "The hotel boasts a beautiful view.",
+                "pt": "O hotel ostenta (possui) uma bela vista."
+            }
+        ]
+    },
+    "boat": {
+        "infinitive": "boat",
+        "translation": "andar de barco",
+        "forms": {
+            "base": "boat",
+            "pastSimple": "boated",
+            "pastParticiple": "boated",
+            "presentParticiple": "boating",
+            "thirdPerson": "boats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sail"
+        ],
+        "explanation": "Viajar ou passear de barco.",
+        "examples": [
+            {
+                "en": "We went boating on the lake.",
+                "pt": "Fomos andar de barco no lago."
+            }
+        ]
+    },
+    "boil": {
+        "infinitive": "boil",
+        "translation": "ferver",
+        "forms": {
+            "base": "boil",
+            "pastSimple": "boiled",
+            "pastParticiple": "boiled",
+            "presentParticiple": "boiling",
+            "thirdPerson": "boils"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "cooking"
+        ],
+        "related": [
+            "cook",
+            "simmer"
+        ],
+        "explanation": "Aquecer líquido até o ponto de ebulição (cem graus C), ou cozinhar nisso.",
+        "examples": [
+            {
+                "en": "Water boils at 100 degrees.",
+                "pt": "A água ferve a 100 graus."
+            },
+            {
+                "en": "Boil the eggs for ten minutes.",
+                "pt": "Ferva os ovos por dez minutos."
+            }
+        ]
+    },
+    "bomb": {
+        "infinitive": "bomb",
+        "translation": "bombardear, fracassar (gíria)",
+        "forms": {
+            "base": "bomb",
+            "pastSimple": "bombed",
+            "pastParticiple": "bombed",
+            "presentParticiple": "bombing",
+            "thirdPerson": "bombs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "attack",
+            "fail"
+        ],
+        "explanation": "Atacar com bombas ou falhar miseravelmente (em provas ou filmes).",
+        "examples": [
+            {
+                "en": "The city was bombed.",
+                "pt": "A cidade foi bombardeada."
+            },
+            {
+                "en": "The movie bombed at the box office.",
+                "pt": "O filme fracassou na bilheteria."
+            }
+        ]
+    },
+    "book": {
+        "infinitive": "book",
+        "translation": "reservar",
+        "forms": {
+            "base": "book",
+            "pastSimple": "booked",
+            "pastParticiple": "booked",
+            "presentParticiple": "booking",
+            "thirdPerson": "books"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "reserve",
+            "schedule"
+        ],
+        "explanation": "Fazer uma reserva (hotel, voo, mesa).",
+        "examples": [
+            {
+                "en": "I booked a table for two.",
+                "pt": "Reservei uma mesa para dois."
+            },
+            {
+                "en": "The hotel is fully booked.",
+                "pt": "O hotel está totalmente reservado (lotado)."
+            }
+        ]
+    },
+    "bore": {
+        "infinitive": "bore",
+        "translation": "entediate, perfurar",
+        "forms": {
+            "base": "bore",
+            "pastSimple": "bored",
+            "pastParticiple": "bored",
+            "presentParticiple": "boring",
+            "thirdPerson": "bores"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tire",
+            "drill"
+        ],
+        "explanation": "Causar tédio ou fazer um buraco (perfurar).",
+        "examples": [
+            {
+                "en": "The movie bored me.",
+                "pt": "O filme me entediou."
+            },
+            {
+                "en": "They bored a tunnel through the mountain.",
+                "pt": "Eles perfuraram um túnel pela montanha."
+            }
+        ]
+    },
+    "borrow": {
+        "infinitive": "borrow",
+        "translation": "pegar emprestado",
+        "forms": {
+            "base": "borrow",
+            "pastSimple": "borrowed",
+            "pastParticiple": "borrowed",
+            "presentParticiple": "borrowing",
+            "thirdPerson": "borrows"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "take",
+            "lend (oposto)"
+        ],
+        "explanation": "Receber algo temporariamente com a promessa de devolver.",
+        "examples": [
+            {
+                "en": "Can I borrow your pen?",
+                "pt": "Posso pegar sua caneta emprestada?"
+            },
+            {
+                "en": "He borrowed money from the bank.",
+                "pt": "Ele pegou dinheiro emprestado do banco."
+            }
+        ]
+    },
+    "bother": {
+        "infinitive": "bother",
+        "translation": "incomodar, preocupar-se",
+        "forms": {
+            "base": "bother",
+            "pastSimple": "bothered",
+            "pastParticiple": "bothered",
+            "presentParticiple": "bothering",
+            "thirdPerson": "bothers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "annoy",
+            "disturb"
+        ],
+        "explanation": "Causar aborrecimento ou fazer esforço para algo.",
+        "examples": [
+            {
+                "en": "Don't bother him.",
+                "pt": "Não o incomode."
+            }
+        ]
+    },
+    "bounce": {
+        "infinitive": "bounce",
+        "translation": "quicar, saltar",
+        "forms": {
+            "base": "bounce",
+            "pastSimple": "bounced",
+            "pastParticiple": "bounced",
+            "presentParticiple": "bouncing",
+            "thirdPerson": "bounces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "jump",
+            "rebound"
+        ],
+        "explanation": "Bater em superfície e voltar (como bola), ou pular vigorosamente.",
+        "examples": [
+            {
+                "en": "The ball bounced off the wall.",
+                "pt": "A bola quicou na parede."
+            },
+            {
+                "en": "She bounced into the room.",
+                "pt": "Ela entrou pulando no quarto."
+            }
+        ]
+    },
+    "bow": {
+        "infinitive": "bow",
+        "translation": "curvar-se, reverenciar",
+        "forms": {
+            "base": "bow",
+            "pastSimple": "bowed",
+            "pastParticiple": "bowed",
+            "presentParticiple": "bowing",
+            "thirdPerson": "bows"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bend"
+        ],
+        "explanation": "Inclinar o corpo em sinal de respeito ou agradecimento. (Pronúncia: /baʊ/, diferente de arco /bəʊ/).",
+        "examples": [
+            {
+                "en": "The actors bowed at the end.",
+                "pt": "Os atores se curvaram (agradeceram) no final."
+            },
+            {
+                "en": "He bowed to the Queen.",
+                "pt": "Ele fez reverência à Rainha."
+            }
+        ]
+    },
+    "box": {
+        "infinitive": "box",
+        "translation": "encaixotar, lutar boxe",
+        "forms": {
+            "base": "box",
+            "pastSimple": "boxed",
+            "pastParticiple": "boxed",
+            "presentParticiple": "boxing",
+            "thirdPerson": "boxes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pack"
+        ],
+        "explanation": "Colocar em caixas ou praticar o esporte boxe.",
+        "examples": [
+            {
+                "en": "I spent the day boxing up my books.",
+                "pt": "Passei o dia encaixotando meus livros."
+            },
+            {
+                "en": "He used to box professionally.",
+                "pt": "Ele costumava lutar boxe profissionalmente."
+            }
+        ]
+    },
+    "brag": {
+        "infinitive": "brag",
+        "translation": "gabar-se",
+        "forms": {
+            "base": "brag",
+            "pastSimple": "bragged",
+            "pastParticiple": "bragged",
+            "presentParticiple": "bragging",
+            "thirdPerson": "brags"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "boast",
+            "show off"
+        ],
+        "explanation": "Falar com excesso de orgulho sobre si mesmo.",
+        "examples": [
+            {
+                "en": "He brags about his money.",
+                "pt": "Ele se gaba do dinheiro dele."
+            }
+        ]
+    },
+    "braid": {
+        "infinitive": "braid",
+        "translation": "trançar",
+        "forms": {
+            "base": "braid",
+            "pastSimple": "braided",
+            "pastParticiple": "braided",
+            "presentParticiple": "braiding",
+            "thirdPerson": "braids"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "weave",
+            "plait"
+        ],
+        "explanation": "Entrelaçar fios ou cabelo.",
+        "examples": [
+            {
+                "en": "She braided her hair.",
+                "pt": "Ela trançou o cabelo."
+            }
+        ]
+    },
+    "brake": {
+        "infinitive": "brake",
+        "translation": "frear",
+        "forms": {
+            "base": "brake",
+            "pastSimple": "braked",
+            "pastParticiple": "braked",
+            "presentParticiple": "braking",
+            "thirdPerson": "brakes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stop",
+            "slow"
+        ],
+        "explanation": "Usar o freio para parar ou diminuir a velocidade.",
+        "examples": [
+            {
+                "en": "He braked suddenly.",
+                "pt": "Ele freou de repente."
+            },
+            {
+                "en": "The car failed to brake.",
+                "pt": "O carro falhou em frear."
+            }
+        ]
+    },
+    "branch": {
+        "infinitive": "branch",
+        "translation": "ramificar",
+        "forms": {
+            "base": "branch",
+            "pastSimple": "branched",
+            "pastParticiple": "branched",
+            "presentParticiple": "branching",
+            "thirdPerson": "branches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "diverge",
+            "spread"
+        ],
+        "explanation": "Dividir-se em direções diferentes (como galhos). Frequentemente usado com 'out' (expandir).",
+        "examples": [
+            {
+                "en": "The road branches here.",
+                "pt": "A estrada se ramifica aqui."
+            },
+            {
+                "en": "The company is branching out into new markets.",
+                "pt": "A empresa está se expandindo para novos mercados."
+            }
+        ]
+    },
+    "breach": {
+        "infinitive": "breach",
+        "translation": "violar, romper",
+        "forms": {
+            "base": "breach",
+            "pastSimple": "breached",
+            "pastParticiple": "breached",
+            "presentParticiple": "breaching",
+            "thirdPerson": "breaches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "break",
+            "violate"
+        ],
+        "explanation": "Quebrar uma lei, promessa ou barreira.",
+        "examples": [
+            {
+                "en": "They breached the contract.",
+                "pt": "Eles violaram o contrato."
+            }
+        ]
+    },
+    "break": {
+        "infinitive": "break",
+        "translation": "quebrar",
+        "forms": {
+            "base": "break",
+            "pastSimple": "broke",
+            "pastParticiple": "broken",
+            "presentParticiple": "breaking",
+            "thirdPerson": "breaks"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "smash",
+            "fracture"
+        ],
+        "explanation": "Separar em pedaços, danificar, interromper ou violar (regras).",
+        "examples": [
+            {
+                "en": "He broke his leg.",
+                "pt": "Ele quebrou a perna."
+            },
+            {
+                "en": "My car broke down.",
+                "pt": "Meu carro quebrou."
+            },
+            {
+                "en": "Don't break your promise.",
+                "pt": "Não quebre sua promessa."
+            }
+        ]
+    },
+    "break down": {
+        "infinitive": "break down",
+        "translation": "quebrar (máquina), desabar (emocional)",
+        "forms": {
+            "base": "break down",
+            "pastSimple": "broke down",
+            "pastParticiple": "broken down",
+            "presentParticiple": "breaking down",
+            "thirdPerson": "breaks down"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "collapse",
+            "fail"
+        ],
+        "explanation": "Parar de funcionar ou perder o controle emocional.",
+        "examples": [
+            {
+                "en": "My car broke down.",
+                "pt": "Meu carro quebrou."
+            }
+        ]
+    },
+    "breathe": {
+        "infinitive": "breathe",
+        "translation": "respirar",
+        "forms": {
+            "base": "breathe",
+            "pastSimple": "breathed",
+            "pastParticiple": "breathed",
+            "presentParticiple": "breathing",
+            "thirdPerson": "breathes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "inhale",
+            "exhale"
+        ],
+        "explanation": "Ato de inspirar e expirar ar.",
+        "examples": [
+            {
+                "en": "I can't breathe!",
+                "pt": "Eu não consigo respirar!"
+            },
+            {
+                "en": "Breathe deeply.",
+                "pt": "Respire fundo."
+            }
+        ]
+    },
+    "breathe in": {
+        "infinitive": "breathe in",
+        "translation": "inspirar",
+        "forms": {
+            "base": "breathe in",
+            "pastSimple": "breathed in",
+            "pastParticiple": "breathed in",
+            "presentParticiple": "breathing in",
+            "thirdPerson": "breathes in"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "inhale"
+        ],
+        "explanation": "Puxar ar para os pulmões.",
+        "examples": [
+            {
+                "en": "Breathe in deeply.",
+                "pt": "Inspire profundamente."
+            }
+        ]
+    },
+    "breathe out": {
+        "infinitive": "breathe out",
+        "translation": "expirar",
+        "forms": {
+            "base": "breathe out",
+            "pastSimple": "breathed out",
+            "pastParticiple": "breathed out",
+            "presentParticiple": "breathing out",
+            "thirdPerson": "breathes out"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "exhale"
+        ],
+        "explanation": "Soltar ar dos pulmões.",
+        "examples": [
+            {
+                "en": "Breathe out slowly.",
+                "pt": "Expire lentamente."
+            }
+        ]
+    },
+    "breed": {
+        "infinitive": "breed",
+        "translation": "procriar, criar",
+        "forms": {
+            "base": "breed",
+            "pastSimple": "bred",
+            "pastParticiple": "bred",
+            "presentParticiple": "breeding",
+            "thirdPerson": "breeds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "reproduce",
+            "raise"
+        ],
+        "explanation": "Reproduzir-se (animais) ou criar animais/plantas especificamente.",
+        "examples": [
+            {
+                "en": "Rabbits breed quickly.",
+                "pt": "Coelhos procriam rapidamente."
+            },
+            {
+                "en": "He breeds racehorses.",
+                "pt": "Ele cria cavalos de corrida."
+            }
+        ]
+    },
+    "brighten": {
+        "infinitive": "brighten",
+        "translation": "iluminar, alegrar",
+        "forms": {
+            "base": "brighten",
+            "pastSimple": "brightened",
+            "pastParticiple": "brightened",
+            "presentParticiple": "brightening",
+            "thirdPerson": "brightens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shine",
+            "light up"
+        ],
+        "explanation": "Tornar mais claro, brilhante ou feliz.",
+        "examples": [
+            {
+                "en": "The sun brightened the room.",
+                "pt": "O sol iluminou o quarto."
+            }
+        ]
+    },
+    "bring": {
+        "infinitive": "bring",
+        "translation": "trazer",
+        "forms": {
+            "base": "bring",
+            "pastSimple": "brought",
+            "pastParticiple": "brought",
+            "presentParticiple": "bringing",
+            "thirdPerson": "brings"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "fetch",
+            "carry"
+        ],
+        "explanation": "Mover algo/alguém em direção ao falante.",
+        "examples": [
+            {
+                "en": "Bring me the water.",
+                "pt": "Traga-me a água."
+            },
+            {
+                "en": "She brought her friends to the party.",
+                "pt": "Ela trouxe seus amigos para a festa."
+            }
+        ]
+    },
+    "broadcast": {
+        "infinitive": "broadcast",
+        "translation": "transmitir",
+        "forms": {
+            "base": "broadcast",
+            "pastSimple": "broadcast",
+            "pastParticiple": "broadcast",
+            "presentParticiple": "broadcasting",
+            "thirdPerson": "broadcasts"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "transmit",
+            "air"
+        ],
+        "explanation": "Enviar sinal de rádio/TV ou espalhar informações amplamente.",
+        "examples": [
+            {
+                "en": "The news was broadcast live.",
+                "pt": "A notícia foi transmitida ao vivo."
+            },
+            {
+                "en": "Don't broadcast your secrets.",
+                "pt": "Não espalhe seus segredos."
+            }
+        ]
+    },
+    "broaden": {
+        "infinitive": "broaden",
+        "translation": "alargar, ampliar",
+        "forms": {
+            "base": "broaden",
+            "pastSimple": "broadened",
+            "pastParticiple": "broadened",
+            "presentParticiple": "broadening",
+            "thirdPerson": "broadens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "widen",
+            "expand"
+        ],
+        "explanation": "Tornar mais amplo.",
+        "examples": [
+            {
+                "en": "Broaden your horizons.",
+                "pt": "Amplie seus horizontes."
+            }
+        ]
+    },
+    "bruise": {
+        "infinitive": "bruise",
+        "translation": "contundir, machucar",
+        "forms": {
+            "base": "bruise",
+            "pastSimple": "bruised",
+            "pastParticiple": "bruised",
+            "presentParticiple": "bruising",
+            "thirdPerson": "bruises"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hurt",
+            "injure"
+        ],
+        "explanation": "Causar uma marca roxa na pele (hematoma) ou ferir levemente (sentimentos/frutas).",
+        "examples": [
+            {
+                "en": "Peaches bruise easily.",
+                "pt": "Pêssegos machucam (ficam marcados) facilmente."
+            },
+            {
+                "en": "Wait until my ego stops bruising.",
+                "pt": "Espere até meu ego parar de doer."
+            }
+        ]
+    },
+    "brush": {
+        "infinitive": "brush",
+        "translation": "escovar",
+        "forms": {
+            "base": "brush",
+            "pastSimple": "brushed",
+            "pastParticiple": "brushed",
+            "presentParticiple": "brushing",
+            "thirdPerson": "brushes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "clean",
+            "sweep"
+        ],
+        "explanation": "Usar uma escova para limpar, arrumar ou pintar.",
+        "examples": [
+            {
+                "en": "Brush your teeth.",
+                "pt": "Escove seus dentes."
+            },
+            {
+                "en": "She brushed her hair.",
+                "pt": "Ela escovou o cabelo."
+            }
+        ]
+    },
+    "bubble": {
+        "infinitive": "bubble",
+        "translation": "borbulhar",
+        "forms": {
+            "base": "bubble",
+            "pastSimple": "bubbled",
+            "pastParticiple": "bubbled",
+            "presentParticiple": "bubbling",
+            "thirdPerson": "bubbles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fizz"
+        ],
+        "explanation": "Formar bolhas ou fazer som de bolhas.",
+        "examples": [
+            {
+                "en": "The soup bubbled on the stove.",
+                "pt": "A sopa borbulhava no fogão."
+            }
+        ]
+    },
+    "build": {
+        "infinitive": "build",
+        "translation": "construir",
+        "forms": {
+            "base": "build",
+            "pastSimple": "built",
+            "pastParticiple": "built",
+            "presentParticiple": "building",
+            "thirdPerson": "builds"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "construct",
+            "create"
+        ],
+        "explanation": "Criar algo juntando partes, ou desenvolver algo abstrato.",
+        "examples": [
+            {
+                "en": "They are building a bridge.",
+                "pt": "Eles estão construindo uma ponte."
+            },
+            {
+                "en": "Exercise builds muscle.",
+                "pt": "Exercício constrói músculo."
+            }
+        ]
+    },
+    "bump": {
+        "infinitive": "bump",
+        "translation": "esbarrar, colidir",
+        "forms": {
+            "base": "bump",
+            "pastSimple": "bumped",
+            "pastParticiple": "bumped",
+            "presentParticiple": "bumping",
+            "thirdPerson": "bumps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hit",
+            "knock"
+        ],
+        "explanation": "Bater levemente contra algo ou encontrar alguém por acaso ('bump into').",
+        "examples": [
+            {
+                "en": "I bumped my head.",
+                "pt": "Bati minha cabeça."
+            },
+            {
+                "en": "I bumping into her yesterday.",
+                "pt": "Esbarrei (encontrei) com ela ontem."
+            }
+        ]
+    },
+    "burn": {
+        "infinitive": "burn",
+        "translation": "queimar",
+        "forms": {
+            "base": "burn",
+            "pastSimple": "burned",
+            "pastParticiple": "burned",
+            "presentParticiple": "burning",
+            "thirdPerson": "burns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "blaze",
+            "scorch"
+        ],
+        "explanation": "Destruir ou ferir com fogo/calor, ou consumir energia.",
+        "examples": [
+            {
+                "en": "The wood is burning.",
+                "pt": "A madeira está queimando."
+            },
+            {
+                "en": "I burned my toast.",
+                "pt": "Eu queimei minha torrada."
+            }
+        ]
+    },
+    "burst": {
+        "infinitive": "burst",
+        "translation": "estourar, irromper",
+        "forms": {
+            "base": "burst",
+            "pastSimple": "burst",
+            "pastParticiple": "burst",
+            "presentParticiple": "bursting",
+            "thirdPerson": "bursts"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "explode",
+            "pop"
+        ],
+        "explanation": "Romper repentinamente de dentro para fora, ou surgir com emoção forte.",
+        "examples": [
+            {
+                "en": "The balloon burst.",
+                "pt": "O balão estourou."
+            },
+            {
+                "en": "She burst into tears.",
+                "pt": "Ela caiu no choro (irrompeu em lágrimas)."
+            }
+        ]
+    },
+    "bury": {
+        "infinitive": "bury",
+        "translation": "enterrar",
+        "forms": {
+            "base": "bury",
+            "pastSimple": "buried",
+            "pastParticiple": "buried",
+            "presentParticiple": "burying",
+            "thirdPerson": "buries"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "inter",
+            "cover"
+        ],
+        "explanation": "Colocar embaixo da terra ou esconder.",
+        "examples": [
+            {
+                "en": "The dog buried a bone.",
+                "pt": "O cachorro enterrou um osso."
+            },
+            {
+                "en": "He buried his face in his hands.",
+                "pt": "Ele enterrou (escondeu) o rosto nas mãos."
+            }
+        ]
+    },
+    "bust": {
+        "infinitive": "bust",
+        "translation": "quebrar (gíria), prender",
+        "forms": {
+            "base": "bust",
+            "pastSimple": "busted",
+            "pastParticiple": "busted",
+            "presentParticiple": "busting",
+            "thirdPerson": "busts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "slang"
+        ],
+        "related": [
+            "break",
+            "arrest"
+        ],
+        "explanation": "Quebrar algo (informal), ou prender (polícia).",
+        "examples": [
+            {
+                "en": "I busted my phone.",
+                "pt": "Eu quebrei meu telefone."
+            },
+            {
+                "en": "The police busted the gang.",
+                "pt": "A polícia prendeu a gangue."
+            }
+        ]
+    },
+    "buy": {
+        "infinitive": "buy",
+        "translation": "comprar",
+        "forms": {
+            "base": "buy",
+            "pastSimple": "bought",
+            "pastParticiple": "bought",
+            "presentParticiple": "buying",
+            "thirdPerson": "buys"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "purchase",
+            "acquire"
+        ],
+        "explanation": "Adquirir algo em troca de dinheiro.",
+        "examples": [
+            {
+                "en": "I bought a new car.",
+                "pt": "Eu comprei um carro novo."
+            },
+            {
+                "en": "Money can't buy happiness.",
+                "pt": "Dinheiro não pode comprar felicidade."
+            }
+        ]
+    },
+    "buzz": {
+        "infinitive": "buzz",
+        "translation": "zumbir, vibrar",
+        "forms": {
+            "base": "buzz",
+            "pastSimple": "buzzed",
+            "pastParticiple": "buzzed",
+            "presentParticiple": "buzzing",
+            "thirdPerson": "buzzes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hum",
+            "vibrate"
+        ],
+        "explanation": "Fazer som de abelha ou vibrar.",
+        "examples": [
+            {
+                "en": "Bees were buzzing around the flowers.",
+                "pt": "Abelhas estavam zumbindo ao redor das flores."
+            },
+            {
+                "en": "My phone buzzed in my pocket.",
+                "pt": "Meu telefone vibrou no meu bolso."
+            }
+        ]
+    }
+}

@@ -1,0 +1,2711 @@
+{
+    "dab": {
+        "infinitive": "dab",
+        "translation": "tocar de leve, pincelar",
+        "forms": {
+            "base": "dab",
+            "pastSimple": "dabbed",
+            "pastParticiple": "dabbed",
+            "presentParticiple": "dabbing",
+            "thirdPerson": "dabs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tap",
+            "touch"
+        ],
+        "explanation": "Tocar suavemente com algo macio ou aplicar uma pequena quantidade.",
+        "examples": [
+            {
+                "en": "She dabbed her eyes with a tissue.",
+                "pt": "Ela secou os olhos com um lenço."
+            }
+        ]
+    },
+    "damage": {
+        "infinitive": "damage",
+        "translation": "danificar",
+        "forms": {
+            "base": "damage",
+            "pastSimple": "damaged",
+            "pastParticiple": "damaged",
+            "presentParticiple": "damaging",
+            "thirdPerson": "damages"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "harm",
+            "hurt"
+        ],
+        "explanation": "Causar mal ou estrago físico a algo.",
+        "examples": [
+            {
+                "en": "The car was damaged in the accident.",
+                "pt": "O carro foi danificado no acidente."
+            }
+        ]
+    },
+    "damn": {
+        "infinitive": "damn",
+        "translation": "amaldiçoar, condenar",
+        "forms": {
+            "base": "damn",
+            "pastSimple": "damned",
+            "pastParticiple": "damned",
+            "presentParticiple": "damning",
+            "thirdPerson": "damns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "curse",
+            "condemn"
+        ],
+        "explanation": "Condenar ao inferno ou criticar severamente.",
+        "examples": [
+            {
+                "en": "Damn the consequences.",
+                "pt": "Dane-se as consequências."
+            }
+        ]
+    },
+    "dampen": {
+        "infinitive": "dampen",
+        "translation": "umedecer, desanimar",
+        "forms": {
+            "base": "dampen",
+            "pastSimple": "dampened",
+            "pastParticiple": "dampened",
+            "presentParticiple": "dampening",
+            "thirdPerson": "dampens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "moisten",
+            "discourage"
+        ],
+        "explanation": "Tornar algo ligeiramente molhado ou diminuir o entusiasmo.",
+        "examples": [
+            {
+                "en": "The rain dampened the ground.",
+                "pt": "A chuva umedeceu o chão."
+            }
+        ]
+    },
+    "dance": {
+        "infinitive": "dance",
+        "translation": "dançar",
+        "forms": {
+            "base": "dance",
+            "pastSimple": "danced",
+            "pastParticiple": "danced",
+            "presentParticiple": "dancing",
+            "thirdPerson": "dances"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "move"
+        ],
+        "explanation": "Mover o corpo ritmicamente, geralmente com música.",
+        "examples": [
+            {
+                "en": "Shall we dance?",
+                "pt": "Vamos dançar?"
+            }
+        ]
+    },
+    "dangle": {
+        "infinitive": "dangle",
+        "translation": "pendurar, balançar",
+        "forms": {
+            "base": "dangle",
+            "pastSimple": "dangled",
+            "pastParticiple": "dangled",
+            "presentParticiple": "dangling",
+            "thirdPerson": "dangles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hang",
+            "suspend"
+        ],
+        "explanation": "Ficar pendurado balançando livremente.",
+        "examples": [
+            {
+                "en": "The keys dangled from his belt.",
+                "pt": "As chaves balançavam no cinto dele."
+            }
+        ]
+    },
+    "dare": {
+        "infinitive": "dare",
+        "translation": "ousar, desafiar",
+        "forms": {
+            "base": "dare",
+            "pastSimple": "dared",
+            "pastParticiple": "dared",
+            "presentParticiple": "daring",
+            "thirdPerson": "dares"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "challenge",
+            "venture"
+        ],
+        "explanation": "Ter coragem para fazer algo ou desafiar alguém a fazer.",
+        "examples": [
+            {
+                "en": "How dare you?",
+                "pt": "Como você ousa?"
+            },
+            {
+                "en": "I dare you to jump.",
+                "pt": "Eu te desafio a pular."
+            }
+        ]
+    },
+    "dash": {
+        "infinitive": "dash",
+        "translation": "disparar, correr",
+        "forms": {
+            "base": "dash",
+            "pastSimple": "dashed",
+            "pastParticiple": "dashed",
+            "presentParticiple": "dashing",
+            "thirdPerson": "dashes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sprint",
+            "run"
+        ],
+        "explanation": "Correr rapidamente.",
+        "examples": [
+            {
+                "en": "He dashed out.",
+                "pt": "Ele saiu correndo."
+            }
+        ]
+    },
+    "daze": {
+        "infinitive": "daze",
+        "translation": "aturdir, estontear",
+        "forms": {
+            "base": "daze",
+            "pastSimple": "dazed",
+            "pastParticiple": "dazed",
+            "presentParticiple": "dazing",
+            "thirdPerson": "dazes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stun",
+            "confuse"
+        ],
+        "explanation": "Deixar alguém confuso ou incapaz de pensar claramente.",
+        "examples": [
+            {
+                "en": "The blow dazed him.",
+                "pt": "O golpe o atordoou."
+            }
+        ]
+    },
+    "dazzle": {
+        "infinitive": "dazzle",
+        "translation": "ofuscar, deslumbrar",
+        "forms": {
+            "base": "dazzle",
+            "pastSimple": "dazzled",
+            "pastParticiple": "dazzled",
+            "presentParticiple": "dazzling",
+            "thirdPerson": "dazzles"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "blind",
+            "impress"
+        ],
+        "explanation": "Cegar temporariamente com luz forte ou impressionar muito.",
+        "examples": [
+            {
+                "en": "The lights dazzled me.",
+                "pt": "As luzes me ofuscaram."
+            }
+        ]
+    },
+    "deal": {
+        "infinitive": "deal",
+        "translation": "lidar, negociar, distribuir cartas",
+        "forms": {
+            "base": "deal",
+            "pastSimple": "dealt",
+            "pastParticiple": "dealt",
+            "presentParticiple": "dealing",
+            "thirdPerson": "deals"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "handle",
+            "manage"
+        ],
+        "explanation": "Gerenciar uma situação ('deal with') ou fazer negócios.",
+        "examples": [
+            {
+                "en": "I can't deal with this stress.",
+                "pt": "Não consigo lidar com esse estresse."
+            },
+            {
+                "en": "Deal the cards.",
+                "pt": "Dê as cartas."
+            }
+        ]
+    },
+    "deal with": {
+        "infinitive": "deal with",
+        "translation": "lidar com, tratar de",
+        "forms": {
+            "base": "deal with",
+            "pastSimple": "dealt with",
+            "pastParticiple": "dealt with",
+            "presentParticiple": "dealing with",
+            "thirdPerson": "deals with"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "handle",
+            "manage"
+        ],
+        "explanation": "Resolver um problema ou cuidar de uma situação.",
+        "examples": [
+            {
+                "en": "I will deal with it.",
+                "pt": "Eu vou lidar com isso."
+            }
+        ]
+    },
+    "debate": {
+        "infinitive": "debate",
+        "translation": "debater",
+        "forms": {
+            "base": "debate",
+            "pastSimple": "debated",
+            "pastParticiple": "debated",
+            "presentParticiple": "debating",
+            "thirdPerson": "debates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "discuss",
+            "argue"
+        ],
+        "explanation": "Discutir um assunto formalmente, ouvindo diferentes opiniões.",
+        "examples": [
+            {
+                "en": "They debated the issue for hours.",
+                "pt": "Eles debateram a questão por horas."
+            }
+        ]
+    },
+    "decay": {
+        "infinitive": "decay",
+        "translation": "apodrecer, decair",
+        "forms": {
+            "base": "decay",
+            "pastSimple": "decayed",
+            "pastParticiple": "decayed",
+            "presentParticiple": "decaying",
+            "thirdPerson": "decays"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "rot",
+            "deteriorate"
+        ],
+        "explanation": "Estragar ou decompor-se gradualmente.",
+        "examples": [
+            {
+                "en": "The fruit decayed.",
+                "pt": "A fruta apodreceu."
+            }
+        ]
+    },
+    "deceive": {
+        "infinitive": "deceive",
+        "translation": "enganar",
+        "forms": {
+            "base": "deceive",
+            "pastSimple": "deceived",
+            "pastParticiple": "deceived",
+            "presentParticiple": "deceiving",
+            "thirdPerson": "deceives"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "cheat",
+            "trick"
+        ],
+        "explanation": "Fazer alguém acreditar em algo falso.",
+        "examples": [
+            {
+                "en": "Don't deceive yourself.",
+                "pt": "Não se engane."
+            }
+        ]
+    },
+    "decelerate": {
+        "infinitive": "decelerate",
+        "translation": "desacelerar",
+        "forms": {
+            "base": "decelerate",
+            "pastSimple": "decelerated",
+            "pastParticiple": "decelerated",
+            "presentParticiple": "decelerating",
+            "thirdPerson": "decelerates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "slow down"
+        ],
+        "explanation": "Diminuir a velocidade.",
+        "examples": [
+            {
+                "en": "The car decelerated.",
+                "pt": "O carro desacelerou."
+            }
+        ]
+    },
+    "decide": {
+        "infinitive": "decide",
+        "translation": "decidir",
+        "forms": {
+            "base": "decide",
+            "pastSimple": "decided",
+            "pastParticiple": "decided",
+            "presentParticiple": "deciding",
+            "thirdPerson": "decides"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "choose",
+            "determine"
+        ],
+        "explanation": "Fazer uma escolha após pensar.",
+        "examples": [
+            {
+                "en": "I decided to stay.",
+                "pt": "Decidi ficar."
+            },
+            {
+                "en": "Have you decided yet?",
+                "pt": "Você já decidiu?"
+            }
+        ]
+    },
+    "declare": {
+        "infinitive": "declare",
+        "translation": "declarar",
+        "forms": {
+            "base": "declare",
+            "pastSimple": "declared",
+            "pastParticiple": "declared",
+            "presentParticiple": "declaring",
+            "thirdPerson": "declares"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "announce",
+            "state"
+        ],
+        "explanation": "Anunciar algo publicamente ou oficialmente.",
+        "examples": [
+            {
+                "en": "They declared war.",
+                "pt": "Eles declararam guerra."
+            }
+        ]
+    },
+    "decline": {
+        "infinitive": "decline",
+        "translation": "recusar, declinar",
+        "forms": {
+            "base": "decline",
+            "pastSimple": "declined",
+            "pastParticiple": "declined",
+            "presentParticiple": "declining",
+            "thirdPerson": "declines"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "refuse",
+            "decrease"
+        ],
+        "explanation": "Dizer não educadamente ou diminuir em qualidade/quantidade.",
+        "examples": [
+            {
+                "en": "He declined the offer.",
+                "pt": "Ele recusou a oferta."
+            }
+        ]
+    },
+    "decorate": {
+        "infinitive": "decorate",
+        "translation": "decorar",
+        "forms": {
+            "base": "decorate",
+            "pastSimple": "decorated",
+            "pastParticiple": "decorated",
+            "presentParticiple": "decorating",
+            "thirdPerson": "decorates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "adorn"
+        ],
+        "explanation": "Tornar algo mais bonito adicionando enfeites.",
+        "examples": [
+            {
+                "en": "We decorated the room with flowers.",
+                "pt": "Decoramos o quarto com flores."
+            }
+        ]
+    },
+    "decrease": {
+        "infinitive": "decrease",
+        "translation": "diminuir",
+        "forms": {
+            "base": "decrease",
+            "pastSimple": "decreased",
+            "pastParticiple": "decreased",
+            "presentParticiple": "decreasing",
+            "thirdPerson": "decreases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "reduce",
+            "lessen"
+        ],
+        "explanation": "Tornar-se menor em quantidade ou tamanho.",
+        "examples": [
+            {
+                "en": "Sales decreased this month.",
+                "pt": "As vendas diminuíram este mês."
+            }
+        ]
+    },
+    "deduct": {
+        "infinitive": "deduct",
+        "translation": "deduzir, subtrair",
+        "forms": {
+            "base": "deduct",
+            "pastSimple": "deducted",
+            "pastParticiple": "deducted",
+            "presentParticiple": "deducting",
+            "thirdPerson": "deducts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "subtract",
+            "remove"
+        ],
+        "explanation": "Tirar uma quantia de um total.",
+        "examples": [
+            {
+                "en": "Tax is deducted from salary.",
+                "pt": "Imposto é deduzido do salário."
+            }
+        ]
+    },
+    "defeat": {
+        "infinitive": "defeat",
+        "translation": "derrotar",
+        "forms": {
+            "base": "defeat",
+            "pastSimple": "defeated",
+            "pastParticiple": "defeated",
+            "presentParticiple": "defeating",
+            "thirdPerson": "defeats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "beat",
+            "conquer"
+        ],
+        "explanation": "Ganhar de alguém em uma luta ou jogo.",
+        "examples": [
+            {
+                "en": "Our team defeated the champion.",
+                "pt": "Nosso time derrotou o campeão."
+            }
+        ]
+    },
+    "defend": {
+        "infinitive": "defend",
+        "translation": "defender",
+        "forms": {
+            "base": "defend",
+            "pastSimple": "defended",
+            "pastParticiple": "defended",
+            "presentParticiple": "defending",
+            "thirdPerson": "defends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "protect"
+        ],
+        "explanation": "Proteger alguém de ataque ou perigo.",
+        "examples": [
+            {
+                "en": "He defended his title.",
+                "pt": "Ele defendeu seu título."
+            }
+        ]
+    },
+    "defer": {
+        "infinitive": "defer",
+        "translation": "diferir, adiar",
+        "forms": {
+            "base": "defer",
+            "pastSimple": "deferred",
+            "pastParticiple": "deferred",
+            "presentParticiple": "deferring",
+            "thirdPerson": "defers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "postpone",
+            "delay"
+        ],
+        "explanation": "Deixar para depois.",
+        "examples": [
+            {
+                "en": "Defer the payment.",
+                "pt": "Adie o pagamento."
+            }
+        ]
+    },
+    "define": {
+        "infinitive": "define",
+        "translation": "definir",
+        "forms": {
+            "base": "define",
+            "pastSimple": "defined",
+            "pastParticiple": "defined",
+            "presentParticiple": "defining",
+            "thirdPerson": "defines"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "explain",
+            "describe"
+        ],
+        "explanation": "Explicar o significado de uma palavra ou conceito.",
+        "examples": [
+            {
+                "en": "Can you define this word?",
+                "pt": "Você pode definir esta palavra?"
+            }
+        ]
+    },
+    "defrost": {
+        "infinitive": "defrost",
+        "translation": "descongelar",
+        "forms": {
+            "base": "defrost",
+            "pastSimple": "defrosted",
+            "pastParticiple": "defrosted",
+            "presentParticiple": "defrosting",
+            "thirdPerson": "defrosts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "thaw",
+            "melt"
+        ],
+        "explanation": "Remover o gelo ou fazer algo voltar à temperatura ambiente.",
+        "examples": [
+            {
+                "en": "Defrost the chicken.",
+                "pt": "Descongele o frango."
+            }
+        ]
+    },
+    "dehydrate": {
+        "infinitive": "dehydrate",
+        "translation": "desidratar",
+        "forms": {
+            "base": "dehydrate",
+            "pastSimple": "dehydrated",
+            "pastParticiple": "dehydrated",
+            "presentParticiple": "dehydrating",
+            "thirdPerson": "dehydrates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dry"
+        ],
+        "explanation": "Perder ou remover água.",
+        "examples": [
+            {
+                "en": "Alcohol dehydrates you.",
+                "pt": "Álcool te desidrata."
+            }
+        ]
+    },
+    "delay": {
+        "infinitive": "delay",
+        "translation": "atrasar, adiar",
+        "forms": {
+            "base": "delay",
+            "pastSimple": "delayed",
+            "pastParticiple": "delayed",
+            "presentParticiple": "delaying",
+            "thirdPerson": "delays"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "postpone",
+            "slow"
+        ],
+        "explanation": "Fazer algo acontecer mais tarde do que o planejado.",
+        "examples": [
+            {
+                "en": "The flight was delayed.",
+                "pt": "O voo foi atrasado."
+            }
+        ]
+    },
+    "delete": {
+        "infinitive": "delete",
+        "translation": "apagar, excluir",
+        "forms": {
+            "base": "delete",
+            "pastSimple": "deleted",
+            "pastParticiple": "deleted",
+            "presentParticiple": "deleting",
+            "thirdPerson": "deletes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "remove",
+            "erase"
+        ],
+        "explanation": "Remover dados ou texto.",
+        "examples": [
+            {
+                "en": "Delete this file.",
+                "pt": "Apague este arquivo."
+            }
+        ]
+    },
+    "deliver": {
+        "infinitive": "deliver",
+        "translation": "entregar",
+        "forms": {
+            "base": "deliver",
+            "pastSimple": "delivered",
+            "pastParticiple": "delivered",
+            "presentParticiple": "delivering",
+            "thirdPerson": "delivers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bring",
+            "give"
+        ],
+        "explanation": "Levar bens, cartas ou encomendas para alguém.",
+        "examples": [
+            {
+                "en": "They deliver pizza.",
+                "pt": "Eles entregam pizza."
+            }
+        ]
+    },
+    "demand": {
+        "infinitive": "demand",
+        "translation": "exigir",
+        "forms": {
+            "base": "demand",
+            "pastSimple": "demanded",
+            "pastParticiple": "demanded",
+            "presentParticiple": "demanding",
+            "thirdPerson": "demands"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "require",
+            "insist"
+        ],
+        "explanation": "Pedir algo com força e autoridade.",
+        "examples": [
+            {
+                "en": "I demand an answer.",
+                "pt": "Exijo uma resposta."
+            }
+        ]
+    },
+    "demolish": {
+        "infinitive": "demolish",
+        "translation": "demolir",
+        "forms": {
+            "base": "demolish",
+            "pastSimple": "demolished",
+            "pastParticiple": "demolished",
+            "presentParticiple": "demolishing",
+            "thirdPerson": "demolishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "destroy",
+            "knock down"
+        ],
+        "explanation": "Derrubar um prédio ou destruir completamente.",
+        "examples": [
+            {
+                "en": "They demolished the house.",
+                "pt": "Eles demoliram a casa."
+            }
+        ]
+    },
+    "demonstrate": {
+        "infinitive": "demonstrate",
+        "translation": "demonstrar",
+        "forms": {
+            "base": "demonstrate",
+            "pastSimple": "demonstrated",
+            "pastParticiple": "demonstrated",
+            "presentParticiple": "demonstrating",
+            "thirdPerson": "demonstrates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "show",
+            "prove"
+        ],
+        "explanation": "Mostrar claramente ou provar algo.",
+        "examples": [
+            {
+                "en": "He demonstrated the technique.",
+                "pt": "Ele demonstrou a técnica."
+            }
+        ]
+    },
+    "deny": {
+        "infinitive": "deny",
+        "translation": "negar",
+        "forms": {
+            "base": "deny",
+            "pastSimple": "denied",
+            "pastParticiple": "denied",
+            "presentParticiple": "denying",
+            "thirdPerson": "denies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "refuse",
+            "reject"
+        ],
+        "explanation": "Dizer que algo não é verdade ou recusar dar algo.",
+        "examples": [
+            {
+                "en": "He denied the accusation.",
+                "pt": "Ele negou a acusação."
+            }
+        ]
+    },
+    "depart": {
+        "infinitive": "depart",
+        "translation": "partir",
+        "forms": {
+            "base": "depart",
+            "pastSimple": "departed",
+            "pastParticiple": "departed",
+            "presentParticiple": "departing",
+            "thirdPerson": "departs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "leave",
+            "go"
+        ],
+        "explanation": "Sair de um lugar, começar uma viagem.",
+        "examples": [
+            {
+                "en": "The train departs at noon.",
+                "pt": "O trem parte ao meio-dia."
+            }
+        ]
+    },
+    "depend": {
+        "infinitive": "depend",
+        "translation": "depender",
+        "forms": {
+            "base": "depend",
+            "pastSimple": "depended",
+            "pastParticiple": "depended",
+            "presentParticiple": "depending",
+            "thirdPerson": "depends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "rely"
+        ],
+        "explanation": "Precisar de alguém ou algo ('depend on').",
+        "examples": [
+            {
+                "en": "It depends on the weather.",
+                "pt": "Depende do tempo."
+            },
+            {
+                "en": "You can depend on me.",
+                "pt": "Você pode contar comigo."
+            }
+        ]
+    },
+    "deplete": {
+        "infinitive": "deplete",
+        "translation": "esgotar, exaurir",
+        "forms": {
+            "base": "deplete",
+            "pastSimple": "depleted",
+            "pastParticiple": "depleted",
+            "presentParticiple": "depleting",
+            "thirdPerson": "depletes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "exhaust",
+            "use up"
+        ],
+        "explanation": "Usar quase todo o suprimento de algo.",
+        "examples": [
+            {
+                "en": "Resources are depleted.",
+                "pt": "Recursos estão esgotados."
+            }
+        ]
+    },
+    "descend": {
+        "infinitive": "descend",
+        "translation": "descer",
+        "forms": {
+            "base": "descend",
+            "pastSimple": "descended",
+            "pastParticiple": "descended",
+            "presentParticiple": "descending",
+            "thirdPerson": "descends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "go down"
+        ],
+        "explanation": "Mover-se para baixo.",
+        "examples": [
+            {
+                "en": "The plane descended.",
+                "pt": "O avião desceu."
+            }
+        ]
+    },
+    "describe": {
+        "infinitive": "describe",
+        "translation": "descrever",
+        "forms": {
+            "base": "describe",
+            "pastSimple": "described",
+            "pastParticiple": "described",
+            "presentParticiple": "describing",
+            "thirdPerson": "describes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "narrate",
+            "explain"
+        ],
+        "explanation": "Dizer ou escrever como alguém ou algo é.",
+        "examples": [
+            {
+                "en": "Describe what you saw.",
+                "pt": "Descreva o que você viu."
+            }
+        ]
+    },
+    "deserve": {
+        "infinitive": "deserve",
+        "translation": "merecer",
+        "forms": {
+            "base": "deserve",
+            "pastSimple": "deserved",
+            "pastParticiple": "deserved",
+            "presentParticiple": "deserving",
+            "thirdPerson": "deserves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "earn",
+            "merit"
+        ],
+        "explanation": "Ser digno de algo (bom ou ruim) devido às suas ações.",
+        "examples": [
+            {
+                "en": "You deserve a break.",
+                "pt": "Você merece uma pausa."
+            },
+            {
+                "en": "He deserves punishment.",
+                "pt": "Ele merece punição."
+            }
+        ]
+    },
+    "design": {
+        "infinitive": "design",
+        "translation": "projetar, desenhar",
+        "forms": {
+            "base": "design",
+            "pastSimple": "designed",
+            "pastParticiple": "designed",
+            "presentParticiple": "designing",
+            "thirdPerson": "designs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "plan",
+            "create"
+        ],
+        "explanation": "Fazer um plano ou desenho para criar algo.",
+        "examples": [
+            {
+                "en": "Who designed this building?",
+                "pt": "Quem projetou este prédio?"
+            }
+        ]
+    },
+    "desire": {
+        "infinitive": "desire",
+        "translation": "desejar",
+        "forms": {
+            "base": "desire",
+            "pastSimple": "desired",
+            "pastParticiple": "desired",
+            "presentParticiple": "desiring",
+            "thirdPerson": "desires"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "want",
+            "wish"
+        ],
+        "explanation": "Querer algo muito fortemente.",
+        "examples": [
+            {
+                "en": "She desires fame.",
+                "pt": "Ela deseja fama."
+            }
+        ]
+    },
+    "destroy": {
+        "infinitive": "destroy",
+        "translation": "destruir",
+        "forms": {
+            "base": "destroy",
+            "pastSimple": "destroyed",
+            "pastParticiple": "destroyed",
+            "presentParticiple": "destroying",
+            "thirdPerson": "destroys"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "ruin",
+            "demolish"
+        ],
+        "explanation": "Danificar algo tão gravemente que não existe mais.",
+        "examples": [
+            {
+                "en": "Fire destroyed the house.",
+                "pt": "O fogo destruiu a casa."
+            }
+        ]
+    },
+    "detect": {
+        "infinitive": "detect",
+        "translation": "detectar",
+        "forms": {
+            "base": "detect",
+            "pastSimple": "detected",
+            "pastParticiple": "detected",
+            "presentParticiple": "detecting",
+            "thirdPerson": "detects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "discover",
+            "sense"
+        ],
+        "explanation": "Perceber ou notar algo que é difícil de ver.",
+        "examples": [
+            {
+                "en": "The sensor detected smoke.",
+                "pt": "O sensor detectou fumaça."
+            }
+        ]
+    },
+    "deteriorate": {
+        "infinitive": "deteriorate",
+        "translation": "deteriorar",
+        "forms": {
+            "base": "deteriorate",
+            "pastSimple": "deteriorated",
+            "pastParticiple": "deteriorated",
+            "presentParticiple": "deteriorating",
+            "thirdPerson": "deteriorates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "decay",
+            "worsen"
+        ],
+        "explanation": "Piorar com o tempo.",
+        "examples": [
+            {
+                "en": "Health deteriorated.",
+                "pt": "A saúde deteriorou."
+            }
+        ]
+    },
+    "determine": {
+        "infinitive": "determine",
+        "translation": "determinar",
+        "forms": {
+            "base": "determine",
+            "pastSimple": "determined",
+            "pastParticiple": "determined",
+            "presentParticiple": "determining",
+            "thirdPerson": "determines"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "decide",
+            "establish"
+        ],
+        "explanation": "Decidir ou controlar o resultado de algo.",
+        "examples": [
+            {
+                "en": "This determines the outcome.",
+                "pt": "Isso determina o resultado."
+            }
+        ]
+    },
+    "detest": {
+        "infinitive": "detest",
+        "translation": "detestar",
+        "forms": {
+            "base": "detest",
+            "pastSimple": "detested",
+            "pastParticiple": "detested",
+            "presentParticiple": "detesting",
+            "thirdPerson": "detests"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hate",
+            "loathe"
+        ],
+        "explanation": "Odiar intensamente.",
+        "examples": [
+            {
+                "en": "I detest lies.",
+                "pt": "Eu detesto mentiras."
+            }
+        ]
+    },
+    "develop": {
+        "infinitive": "develop",
+        "translation": "desenvolver",
+        "forms": {
+            "base": "develop",
+            "pastSimple": "developed",
+            "pastParticiple": "developed",
+            "presentParticiple": "developing",
+            "thirdPerson": "develops"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "grow",
+            "evolve"
+        ],
+        "explanation": "Crescer, progredir ou criar algo novo (produto, ideia).",
+        "examples": [
+            {
+                "en": "They are developing a new drug.",
+                "pt": "Estão desenvolvendo um novo remédio."
+            },
+            {
+                "en": "Children develop quickly.",
+                "pt": "Crianças se desenvolvem rápido."
+            }
+        ]
+    },
+    "devour": {
+        "infinitive": "devour",
+        "translation": "devorar",
+        "forms": {
+            "base": "devour",
+            "pastSimple": "devoured",
+            "pastParticiple": "devoured",
+            "presentParticiple": "devouring",
+            "thirdPerson": "devours"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "eat",
+            "consume"
+        ],
+        "explanation": "Comer rapidamente ou avidamente.",
+        "examples": [
+            {
+                "en": "The lion devoured the prey.",
+                "pt": "O leão devorou a presa."
+            }
+        ]
+    },
+    "dice": {
+        "infinitive": "dice",
+        "translation": "cortar em cubos",
+        "forms": {
+            "base": "dice",
+            "pastSimple": "diced",
+            "pastParticiple": "diced",
+            "presentParticiple": "dicing",
+            "thirdPerson": "dices"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "chop",
+            "cut"
+        ],
+        "explanation": "Cortar comida em pequenos cubos.",
+        "examples": [
+            {
+                "en": "Dice the onions.",
+                "pt": "Corte as cebolas em cubos."
+            }
+        ]
+    },
+    "die": {
+        "infinitive": "die",
+        "translation": "morrer",
+        "forms": {
+            "base": "die",
+            "pastSimple": "died",
+            "pastParticiple": "died",
+            "presentParticiple": "dying",
+            "thirdPerson": "dies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "common"
+        ],
+        "related": [
+            "pass away"
+        ],
+        "explanation": "Parar de viver.",
+        "examples": [
+            {
+                "en": "The flowers died.",
+                "pt": "As flores morreram."
+            },
+            {
+                "en": "He died old.",
+                "pt": "Ele morreu velho."
+            }
+        ]
+    },
+    "differ": {
+        "infinitive": "differ",
+        "translation": "diferir, discordar",
+        "forms": {
+            "base": "differ",
+            "pastSimple": "differed",
+            "pastParticiple": "differed",
+            "presentParticiple": "differing",
+            "thirdPerson": "differs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "vary",
+            "disagree"
+        ],
+        "explanation": "Ser diferente ou ter opinião diferente.",
+        "examples": [
+            {
+                "en": "Opinions differ.",
+                "pt": "Opiniões diferem."
+            }
+        ]
+    },
+    "dig": {
+        "infinitive": "dig",
+        "translation": "cavar",
+        "forms": {
+            "base": "dig",
+            "pastSimple": "dug",
+            "pastParticiple": "dug",
+            "presentParticiple": "digging",
+            "thirdPerson": "digs"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "excavate"
+        ],
+        "explanation": "Fazer um buraco no chão.",
+        "examples": [
+            {
+                "en": "Dogs like to dig bones.",
+                "pt": "Cachorros gostam de cavar (enterrar/desenterrar) ossos."
+            }
+        ]
+    },
+    "dip": {
+        "infinitive": "dip",
+        "translation": "mergulhar",
+        "forms": {
+            "base": "dip",
+            "pastSimple": "dipped",
+            "pastParticiple": "dipped",
+            "presentParticiple": "dipping",
+            "thirdPerson": "dips"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dunk",
+            "immerse"
+        ],
+        "explanation": "Colocar algo em líquido brevemente.",
+        "examples": [
+            {
+                "en": "Dip the cookie in milk.",
+                "pt": "Mergulhe o biscoito no leite."
+            }
+        ]
+    },
+    "direct": {
+        "infinitive": "direct",
+        "translation": "dirigir",
+        "forms": {
+            "base": "direct",
+            "pastSimple": "directed",
+            "pastParticiple": "directed",
+            "presentParticiple": "directing",
+            "thirdPerson": "directs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "guide",
+            "manage"
+        ],
+        "explanation": "Controlar operações ou mostrar o caminho.",
+        "examples": [
+            {
+                "en": "He directs the movie.",
+                "pt": "Ele dirige o filme."
+            }
+        ]
+    },
+    "disagree": {
+        "infinitive": "disagree",
+        "translation": "discordar",
+        "forms": {
+            "base": "disagree",
+            "pastSimple": "disagreed",
+            "pastParticiple": "disagreed",
+            "presentParticiple": "disagreeing",
+            "thirdPerson": "disagrees"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "differ"
+        ],
+        "explanation": "Ter uma opinião diferente de alguém.",
+        "examples": [
+            {
+                "en": "I disagree with you.",
+                "pt": "Eu discordo de você."
+            }
+        ]
+    },
+    "disappear": {
+        "infinitive": "disappear",
+        "translation": "desaparecer",
+        "forms": {
+            "base": "disappear",
+            "pastSimple": "disappeared",
+            "pastParticiple": "disappeared",
+            "presentParticiple": "disappearing",
+            "thirdPerson": "disappears"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "vanish"
+        ],
+        "explanation": "Sair de vista ou deixar de existir.",
+        "examples": [
+            {
+                "en": "The magician disappeared.",
+                "pt": "O mágico desapareceu."
+            }
+        ]
+    },
+    "discard": {
+        "infinitive": "discard",
+        "translation": "descartar",
+        "forms": {
+            "base": "discard",
+            "pastSimple": "discarded",
+            "pastParticiple": "discarded",
+            "presentParticiple": "discarding",
+            "thirdPerson": "discards"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "throw away"
+        ],
+        "explanation": "Jogar fora algo inútil.",
+        "examples": [
+            {
+                "en": "Discard old papers.",
+                "pt": "Descarte papéis velhos."
+            }
+        ]
+    },
+    "discharge": {
+        "infinitive": "discharge",
+        "translation": "descarregar, dar alta",
+        "forms": {
+            "base": "discharge",
+            "pastSimple": "discharged",
+            "pastParticiple": "discharged",
+            "presentParticiple": "discharging",
+            "thirdPerson": "discharges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "emit",
+            "release"
+        ],
+        "explanation": "Permitir saída ou disparar arma.",
+        "examples": [
+            {
+                "en": "Discharge the patient.",
+                "pt": "Dê alta ao paciente."
+            }
+        ]
+    },
+    "discipline": {
+        "infinitive": "discipline",
+        "translation": "disciplinar",
+        "forms": {
+            "base": "discipline",
+            "pastSimple": "disciplined",
+            "pastParticiple": "disciplined",
+            "presentParticiple": "disciplining",
+            "thirdPerson": "disciplines"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "punish",
+            "train"
+        ],
+        "explanation": "Treinar para obedecer regras ou punir.",
+        "examples": [
+            {
+                "en": "Discipline the dog.",
+                "pt": "Discipline o cachorro."
+            }
+        ]
+    },
+    "disclose": {
+        "infinitive": "disclose",
+        "translation": "revelar, divulgar",
+        "forms": {
+            "base": "disclose",
+            "pastSimple": "disclosed",
+            "pastParticiple": "disclosed",
+            "presentParticiple": "disclosing",
+            "thirdPerson": "discloses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "reveal",
+            "expose"
+        ],
+        "explanation": "Tornar uma informação conhecida.",
+        "examples": [
+            {
+                "en": "He refused to disclose details.",
+                "pt": "Ele recusou revelar detalhes."
+            }
+        ]
+    },
+    "discolor": {
+        "infinitive": "discolor",
+        "translation": "descolorir, manchar",
+        "forms": {
+            "base": "discolor",
+            "pastSimple": "discolored",
+            "pastParticiple": "discolored",
+            "presentParticiple": "discoloring",
+            "thirdPerson": "discolors"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stain",
+            "fade"
+        ],
+        "explanation": "Mudar ou perder a cor natural.",
+        "examples": [
+            {
+                "en": "Sunlight discolors fabric.",
+                "pt": "Luz solar descolore tecido."
+            }
+        ]
+    },
+    "discourage": {
+        "infinitive": "discourage",
+        "translation": "desencorajar",
+        "forms": {
+            "base": "discourage",
+            "pastSimple": "discouraged",
+            "pastParticiple": "discouraged",
+            "presentParticiple": "discouraging",
+            "thirdPerson": "discourages"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dampen",
+            "deter"
+        ],
+        "explanation": "Tirar a coragem ou vontade.",
+        "examples": [
+            {
+                "en": "Don't discourage him.",
+                "pt": "Não o desencoraje."
+            }
+        ]
+    },
+    "discover": {
+        "infinitive": "discover",
+        "translation": "descobrir",
+        "forms": {
+            "base": "discover",
+            "pastSimple": "discovered",
+            "pastParticiple": "discovered",
+            "presentParticiple": "discovering",
+            "thirdPerson": "discovers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "find"
+        ],
+        "explanation": "Encontrar algo que ninguém sabia ou viu antes.",
+        "examples": [
+            {
+                "en": "They discovered gold.",
+                "pt": "Descobriram ouro."
+            }
+        ]
+    },
+    "discuss": {
+        "infinitive": "discuss",
+        "translation": "discutir",
+        "forms": {
+            "base": "discuss",
+            "pastSimple": "discussed",
+            "pastParticiple": "discussed",
+            "presentParticiple": "discussing",
+            "thirdPerson": "discusses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "talk about"
+        ],
+        "explanation": "Falar sobre algo para trocar ideias.",
+        "examples": [
+            {
+                "en": "Let's discuss the plan.",
+                "pt": "Vamos discutir o plano."
+            }
+        ]
+    },
+    "dislike": {
+        "infinitive": "dislike",
+        "translation": "não gostar",
+        "forms": {
+            "base": "dislike",
+            "pastSimple": "disliked",
+            "pastParticiple": "disliked",
+            "presentParticiple": "disliking",
+            "thirdPerson": "dislikes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hate"
+        ],
+        "explanation": "Não gostar de algo ou alguém.",
+        "examples": [
+            {
+                "en": "I dislike onions.",
+                "pt": "Eu não gosto de cebola."
+            }
+        ]
+    },
+    "dismiss": {
+        "infinitive": "dismiss",
+        "translation": "demitir, dispensar",
+        "forms": {
+            "base": "dismiss",
+            "pastSimple": "dismissed",
+            "pastParticiple": "dismissed",
+            "presentParticiple": "dismissing",
+            "thirdPerson": "dismisses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fire",
+            "reject"
+        ],
+        "explanation": "Mandar alguém embora ou rejeitar uma ideia.",
+        "examples": [
+            {
+                "en": "Class is dismissed.",
+                "pt": "A aula está dispensada."
+            }
+        ]
+    },
+    "dispatch": {
+        "infinitive": "dispatch",
+        "translation": "despachar, enviar",
+        "forms": {
+            "base": "dispatch",
+            "pastSimple": "dispatched",
+            "pastParticiple": "dispatched",
+            "presentParticiple": "dispatching",
+            "thirdPerson": "dispatches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "send",
+            "ship"
+        ],
+        "explanation": "Enviar algo para um destino.",
+        "examples": [
+            {
+                "en": "Dispatch the goods.",
+                "pt": "Despache as mercadorias."
+            }
+        ]
+    },
+    "disperse": {
+        "infinitive": "disperse",
+        "translation": "dispersar",
+        "forms": {
+            "base": "disperse",
+            "pastSimple": "dispersed",
+            "pastParticiple": "dispersed",
+            "presentParticiple": "dispersing",
+            "thirdPerson": "disperses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "scatter",
+            "spread"
+        ],
+        "explanation": "Espalhar-se em várias direções.",
+        "examples": [
+            {
+                "en": "The crowd dispersed.",
+                "pt": "A multidão dispersou."
+            }
+        ]
+    },
+    "display": {
+        "infinitive": "display",
+        "translation": "exibir, mostrar",
+        "forms": {
+            "base": "display",
+            "pastSimple": "displayed",
+            "pastParticiple": "displayed",
+            "presentParticiple": "displaying",
+            "thirdPerson": "displays"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "show",
+            "exhibit"
+        ],
+        "explanation": "Colocar algo onde possa ser visto facilmente.",
+        "examples": [
+            {
+                "en": "Display your work.",
+                "pt": "Exiba seu trabalho."
+            }
+        ]
+    },
+    "dispute": {
+        "infinitive": "dispute",
+        "translation": "disputar, contestar",
+        "forms": {
+            "base": "dispute",
+            "pastSimple": "disputed",
+            "pastParticiple": "disputed",
+            "presentParticiple": "disputing",
+            "thirdPerson": "disputes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "contest",
+            "argue"
+        ],
+        "explanation": "Descordar ou brigar por algo.",
+        "examples": [
+            {
+                "en": "They dispute the claim.",
+                "pt": "Eles contestam a reivindicação."
+            }
+        ]
+    },
+    "disregard": {
+        "infinitive": "disregard",
+        "translation": "ignorar, desconsiderar",
+        "forms": {
+            "base": "disregard",
+            "pastSimple": "disregarded",
+            "pastParticiple": "disregarded",
+            "presentParticiple": "disregarding",
+            "thirdPerson": "disregards"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "ignore",
+            "neglect"
+        ],
+        "explanation": "Não prestar atenção a algo.",
+        "examples": [
+            {
+                "en": "Disregard the noise.",
+                "pt": "Desconsidere o barulho."
+            }
+        ]
+    },
+    "distribute": {
+        "infinitive": "distribute",
+        "translation": "distribuir",
+        "forms": {
+            "base": "distribute",
+            "pastSimple": "distributed",
+            "pastParticiple": "distributed",
+            "presentParticiple": "distributing",
+            "thirdPerson": "distributes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "give out",
+            "spread"
+        ],
+        "explanation": "Dar partes de algo para várias pessoas.",
+        "examples": [
+            {
+                "en": "Distribute the papers.",
+                "pt": "Distribua os papéis."
+            }
+        ]
+    },
+    "distrust": {
+        "infinitive": "distrust",
+        "translation": "desconfiar",
+        "forms": {
+            "base": "distrust",
+            "pastSimple": "distrusted",
+            "pastParticiple": "distrusted",
+            "presentParticiple": "distrusting",
+            "thirdPerson": "distrusts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "doubt",
+            "suspect"
+        ],
+        "explanation": "Não confiar em alguém ou algo.",
+        "examples": [
+            {
+                "en": "I distrust him.",
+                "pt": "Eu desconfio dele."
+            }
+        ]
+    },
+    "disturb": {
+        "infinitive": "disturb",
+        "translation": "perturbar",
+        "forms": {
+            "base": "disturb",
+            "pastSimple": "disturbed",
+            "pastParticiple": "disturbed",
+            "presentParticiple": "disturbing",
+            "thirdPerson": "disturbs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bother",
+            "interrupt"
+        ],
+        "explanation": "Interromper ou incomodar alguém.",
+        "examples": [
+            {
+                "en": "Do not disturb.",
+                "pt": "Não perturbe."
+            }
+        ]
+    },
+    "dive": {
+        "infinitive": "dive",
+        "translation": "mergulhar",
+        "forms": {
+            "base": "dive",
+            "pastSimple": "dived / dove",
+            "pastParticiple": "dived",
+            "presentParticiple": "diving",
+            "thirdPerson": "dives"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "plunge",
+            "jump"
+        ],
+        "explanation": "Pular na água de cabeça ou mover-se rapidamente para baixo.",
+        "examples": [
+            {
+                "en": "She dove into the pool.",
+                "pt": "Ela mergulhou na piscina."
+            }
+        ]
+    },
+    "diverge": {
+        "infinitive": "diverge",
+        "translation": "divergir, separar-se",
+        "forms": {
+            "base": "diverge",
+            "pastSimple": "diverged",
+            "pastParticiple": "diverged",
+            "presentParticiple": "diverging",
+            "thirdPerson": "diverges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "branch",
+            "differ"
+        ],
+        "explanation": "Separar-se em direções diferentes.",
+        "examples": [
+            {
+                "en": "The roads diverge here.",
+                "pt": "As estradas se separam aqui."
+            }
+        ]
+    },
+    "divide": {
+        "infinitive": "divide",
+        "translation": "dividir",
+        "forms": {
+            "base": "divide",
+            "pastSimple": "divided",
+            "pastParticiple": "divided",
+            "presentParticiple": "dividing",
+            "thirdPerson": "divides"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "split",
+            "share"
+        ],
+        "explanation": "Separar em partes menores.",
+        "examples": [
+            {
+                "en": "Divide the cake.",
+                "pt": "Divida o bolo."
+            }
+        ]
+    },
+    "do": {
+        "infinitive": "do",
+        "translation": "fazer",
+        "forms": {
+            "base": "do",
+            "pastSimple": "did",
+            "pastParticiple": "done",
+            "presentParticiple": "doing",
+            "thirdPerson": "does"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common",
+            "auxiliary",
+            "essential"
+        ],
+        "related": [
+            "perform",
+            "act"
+        ],
+        "explanation": "Executar ação, atividade ou tarefa. Também usado como auxiliar.",
+        "examples": [
+            {
+                "en": "Do your homework.",
+                "pt": "Faça sua lição de casa."
+            },
+            {
+                "en": "I do not know.",
+                "pt": "Eu não sei."
+            }
+        ]
+    },
+    "doubt": {
+        "infinitive": "doubt",
+        "translation": "duvidar",
+        "forms": {
+            "base": "doubt",
+            "pastSimple": "doubted",
+            "pastParticiple": "doubted",
+            "presentParticiple": "doubting",
+            "thirdPerson": "doubts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "question"
+        ],
+        "explanation": "Não ter certeza ou não acreditar.",
+        "examples": [
+            {
+                "en": "I doubt he will come.",
+                "pt": "Duvido que ele venha."
+            }
+        ]
+    },
+    "doze": {
+        "infinitive": "doze",
+        "translation": "cochilar",
+        "forms": {
+            "base": "doze",
+            "pastSimple": "dozed",
+            "pastParticiple": "dozed",
+            "presentParticiple": "dozing",
+            "thirdPerson": "dozes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "nap",
+            "sleep"
+        ],
+        "explanation": "Dormir levemente.",
+        "examples": [
+            {
+                "en": "He dozed off.",
+                "pt": "Ele cochilou."
+            }
+        ]
+    },
+    "drag": {
+        "infinitive": "drag",
+        "translation": "arrastar",
+        "forms": {
+            "base": "drag",
+            "pastSimple": "dragged",
+            "pastParticiple": "dragged",
+            "presentParticiple": "dragging",
+            "thirdPerson": "drags"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "pull"
+        ],
+        "explanation": "Puxar algo pesado pelo chão.",
+        "examples": [
+            {
+                "en": "Stop dragging your feet.",
+                "pt": "Pare de arrastar seus pés."
+            }
+        ]
+    },
+    "drain": {
+        "infinitive": "drain",
+        "translation": "drenar, escoar",
+        "forms": {
+            "base": "drain",
+            "pastSimple": "drained",
+            "pastParticiple": "drained",
+            "presentParticiple": "draining",
+            "thirdPerson": "drains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "empty"
+        ],
+        "explanation": "Tirar o líquido de algo.",
+        "examples": [
+            {
+                "en": "Drain the pasta.",
+                "pt": "Escorra o macarrão."
+            }
+        ]
+    },
+    "draw": {
+        "infinitive": "draw",
+        "translation": "desenhar, puxar, empatar",
+        "forms": {
+            "base": "draw",
+            "pastSimple": "drew",
+            "pastParticiple": "drawn",
+            "presentParticiple": "drawing",
+            "thirdPerson": "draws"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "sketch",
+            "pull"
+        ],
+        "explanation": "Criar imagem com lápis/caneta, ou puxar algo ('draw weapons').",
+        "examples": [
+            {
+                "en": "She drew a cat.",
+                "pt": "Ela desenhou um gato."
+            },
+            {
+                "en": "The game ended in a draw.",
+                "pt": "O jogo terminou em empate."
+            }
+        ]
+    },
+    "dread": {
+        "infinitive": "dread",
+        "translation": "temer",
+        "forms": {
+            "base": "dread",
+            "pastSimple": "dreaded",
+            "pastParticiple": "dreaded",
+            "presentParticiple": "dreading",
+            "thirdPerson": "dreads"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fear"
+        ],
+        "explanation": "Sentir medo ou ansiedade sobre algo futuro.",
+        "examples": [
+            {
+                "en": "I dread the exam.",
+                "pt": "Eu temo a prova."
+            }
+        ]
+    },
+    "dream": {
+        "infinitive": "dream",
+        "translation": "sonhar",
+        "forms": {
+            "base": "dream",
+            "pastSimple": "dreamed, dreamt",
+            "pastParticiple": "dreamed, dreamt",
+            "presentParticiple": "dreaming",
+            "thirdPerson": "dreams"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "irregular"
+        ],
+        "related": [
+            "fantasize"
+        ],
+        "explanation": "Ver imagens dormindo ou imaginar o futuro.",
+        "examples": [
+            {
+                "en": "I dream of peace.",
+                "pt": "Eu sonho com a paz."
+            }
+        ]
+    },
+    "drench": {
+        "infinitive": "drench",
+        "translation": "encharcar",
+        "forms": {
+            "base": "drench",
+            "pastSimple": "drenched",
+            "pastParticiple": "drenched",
+            "presentParticiple": "drenching",
+            "thirdPerson": "drenches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "soak",
+            "wet"
+        ],
+        "explanation": "Molhar completamente.",
+        "examples": [
+            {
+                "en": "The rain drenched us.",
+                "pt": "A chuva nos encharcou."
+            }
+        ]
+    },
+    "dress": {
+        "infinitive": "dress",
+        "translation": "vestir-se",
+        "forms": {
+            "base": "dress",
+            "pastSimple": "dressed",
+            "pastParticiple": "dressed",
+            "presentParticiple": "dressing",
+            "thirdPerson": "dresses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wear",
+            "clothe"
+        ],
+        "explanation": "Colocar roupas.",
+        "examples": [
+            {
+                "en": "Get dressed quickly.",
+                "pt": "Vista-se rápido."
+            }
+        ]
+    },
+    "drift": {
+        "infinitive": "drift",
+        "translation": "derivar, flutuar",
+        "forms": {
+            "base": "drift",
+            "pastSimple": "drifted",
+            "pastParticiple": "drifted",
+            "presentParticiple": "drifting",
+            "thirdPerson": "drifts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "float",
+            "wander"
+        ],
+        "explanation": "Ser levado lentamente pela água ou ar.",
+        "examples": [
+            {
+                "en": "The boat drifted away.",
+                "pt": "O barco derivou para longe."
+            }
+        ]
+    },
+    "drill": {
+        "infinitive": "drill",
+        "translation": "perfurar, treinar",
+        "forms": {
+            "base": "drill",
+            "pastSimple": "drilled",
+            "pastParticiple": "drilled",
+            "presentParticiple": "drilling",
+            "thirdPerson": "drills"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bore",
+            "train"
+        ],
+        "explanation": "Fazer um furo ou treinar repetitivamente.",
+        "examples": [
+            {
+                "en": "Drill a hole.",
+                "pt": "Perfure um buraco."
+            }
+        ]
+    },
+    "drink": {
+        "infinitive": "drink",
+        "translation": "beber",
+        "forms": {
+            "base": "drink",
+            "pastSimple": "drank",
+            "pastParticiple": "drunk",
+            "presentParticiple": "drinking",
+            "thirdPerson": "drinks"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common",
+            "essential"
+        ],
+        "related": [
+            "imbibe",
+            "swallow"
+        ],
+        "explanation": "Engolir líquido.",
+        "examples": [
+            {
+                "en": "I drink water everyday.",
+                "pt": "Eu bebo água todo dia."
+            },
+            {
+                "en": "She drank too much.",
+                "pt": "Ela bebeu demais."
+            }
+        ]
+    },
+    "drive": {
+        "infinitive": "drive",
+        "translation": "dirigir, conduzir",
+        "forms": {
+            "base": "drive",
+            "pastSimple": "drove",
+            "pastParticiple": "driven",
+            "presentParticiple": "driving",
+            "thirdPerson": "drives"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [
+            "steer",
+            "operate"
+        ],
+        "explanation": "Operar um veículo.",
+        "examples": [
+            {
+                "en": "Can you drive?",
+                "pt": "Você sabe dirigir?"
+            },
+            {
+                "en": "We drove to the beach.",
+                "pt": "Nós dirigimos até a praia."
+            }
+        ]
+    },
+    "drop": {
+        "infinitive": "drop",
+        "translation": "deixar cair, cair",
+        "forms": {
+            "base": "drop",
+            "pastSimple": "dropped",
+            "pastParticiple": "dropped",
+            "presentParticiple": "dropping",
+            "thirdPerson": "drops"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fall"
+        ],
+        "explanation": "Permitir que algo caia ou cair.",
+        "examples": [
+            {
+                "en": "Don't drop the glass.",
+                "pt": "Não deixe o copo cair."
+            }
+        ]
+    },
+    "drop by": {
+        "infinitive": "drop by",
+        "translation": "dar uma passada",
+        "forms": {
+            "base": "drop by",
+            "pastSimple": "dropped by",
+            "pastParticiple": "dropped by",
+            "presentParticiple": "dropping by",
+            "thirdPerson": "drops by"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "visit"
+        ],
+        "explanation": "Visitar informalmente por pouco tempo.",
+        "examples": [
+            {
+                "en": "Drop by anytime.",
+                "pt": "Dê uma passada a qualquer hora."
+            }
+        ]
+    },
+    "drown": {
+        "infinitive": "drown",
+        "translation": "afogar-se",
+        "forms": {
+            "base": "drown",
+            "pastSimple": "drowned",
+            "pastParticiple": "drowned",
+            "presentParticiple": "drowning",
+            "thirdPerson": "drowns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Morrer por inalação de água.",
+        "examples": [
+            {
+                "en": "He almost drowned.",
+                "pt": "Ele quase se afogou."
+            }
+        ]
+    },
+    "dry": {
+        "infinitive": "dry",
+        "translation": "secar",
+        "forms": {
+            "base": "dry",
+            "pastSimple": "dried",
+            "pastParticiple": "dried",
+            "presentParticiple": "drying",
+            "thirdPerson": "dries"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dehydrate"
+        ],
+        "explanation": "Remover a umidade de algo.",
+        "examples": [
+            {
+                "en": "Dry your hands.",
+                "pt": "Seque suas mãos."
+            }
+        ]
+    },
+    "dump": {
+        "infinitive": "dump",
+        "translation": "despejar, largar",
+        "forms": {
+            "base": "dump",
+            "pastSimple": "dumped",
+            "pastParticiple": "dumped",
+            "presentParticiple": "dumping",
+            "thirdPerson": "dumps"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "throw away"
+        ],
+        "explanation": "Jogar algo fora de qualquer jeito; ou terminar relacionamento abruptamente.",
+        "examples": [
+            {
+                "en": "He dumped the trash.",
+                "pt": "Ele despejou o lixo."
+            }
+        ]
+    },
+    "dunk": {
+        "infinitive": "dunk",
+        "translation": "mergulhar (rápido)",
+        "forms": {
+            "base": "dunk",
+            "pastSimple": "dunked",
+            "pastParticiple": "dunked",
+            "presentParticiple": "dunking",
+            "thirdPerson": "dunks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "dip"
+        ],
+        "explanation": "Mergulhar algo em líquido (ex: biscoito).",
+        "examples": [
+            {
+                "en": "Dunk the biscuit.",
+                "pt": "Molhe o biscoito."
+            }
+        ]
+    },
+    "duplicate": {
+        "infinitive": "duplicate",
+        "translation": "duplicar",
+        "forms": {
+            "base": "duplicate",
+            "pastSimple": "duplicated",
+            "pastParticiple": "duplicated",
+            "presentParticiple": "duplicating",
+            "thirdPerson": "duplicates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "copy",
+            "repeat"
+        ],
+        "explanation": "Fazer uma cópia exata.",
+        "examples": [
+            {
+                "en": "Duplicate the file.",
+                "pt": "Duplique o arquivo."
+            }
+        ]
+    },
+    "dust": {
+        "infinitive": "dust",
+        "translation": "tirar o pó",
+        "forms": {
+            "base": "dust",
+            "pastSimple": "dusted",
+            "pastParticiple": "dusted",
+            "presentParticiple": "dusting",
+            "thirdPerson": "dusts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "clean"
+        ],
+        "explanation": "Limpar a poeira das superfícies.",
+        "examples": [
+            {
+                "en": "She dusted the shelves.",
+                "pt": "Ela tirou o pó das prateleiras."
+            }
+        ]
+    },
+    "dwell": {
+        "infinitive": "dwell",
+        "translation": "habitar, morar",
+        "forms": {
+            "base": "dwell",
+            "pastSimple": "dwelt / dwelled",
+            "pastParticiple": "dwelt / dwelled",
+            "presentParticiple": "dwelling",
+            "thirdPerson": "dwells"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "reside",
+            "live"
+        ],
+        "explanation": "Viver em um lugar (arcaico/formal).",
+        "examples": [
+            {
+                "en": "They dwell in the forest.",
+                "pt": "Eles habitam a floresta."
+            }
+        ]
+    },
+    "dye": {
+        "infinitive": "dye",
+        "translation": "tingir",
+        "forms": {
+            "base": "dye",
+            "pastSimple": "dyed",
+            "pastParticiple": "dyed",
+            "presentParticiple": "dyeing",
+            "thirdPerson": "dyes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "color",
+            "stain"
+        ],
+        "explanation": "Mudar a cor de algo.",
+        "examples": [
+            {
+                "en": "Dye your hair.",
+                "pt": "Tinja seu cabelo."
+            }
+        ]
+    }
+}

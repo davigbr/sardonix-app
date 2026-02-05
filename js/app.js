@@ -4,19 +4,11 @@ const App = {
         verbGrid: null
     },
 
-    init() {
+    async init() {
+        console.log('App v3.0 - Full JSON Migration');
         this.cacheElements();
 
-        // Initialize all modules
-        TTS.init();
-        Settings.init();
-        Search.init();
-        Conjugator.init();
-
-        const count = Object.keys(window.verbDatabase).length;
-        console.log(`Loaded ${count} verbs`);
-
-        // Setup Infinite Scroll Observer
+        // Setup Infinite Scroll Observer FIRST
         this.observer = new IntersectionObserver((entries) => {
             if (entries[0].isIntersecting && this.hasMoreItems()) {
                 this.currentPage++;
@@ -24,8 +16,61 @@ const App = {
             }
         }, { rootMargin: '100px' });
 
-        // Render initial verb list
-        this.renderVerbs(Object.values(window.verbDatabase));
+        // Initialize all modules
+        TTS.init();
+        Settings.init();
+        Search.init();
+        Conjugator.init();
+
+        // Load all verb data (A-Z)
+        const letters = 'abcdefghijklmnopqrstuvwxyz'.split('');
+        const timestamp = Date.now(); // Unified cache buster
+
+        console.time('LoadVerbs');
+
+        try {
+            const promises = letters.map(async (letter) => {
+                try {
+                    const response = await fetch(`data/verbs/${letter}.json?v=${timestamp}`);
+                    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+                    return await response.json();
+                } catch (err) {
+                    console.warn(`Failed to load ${letter}.json:`, err.message);
+                    return null;
+                }
+            });
+
+            const results = await Promise.all(promises);
+
+            // Initialize database
+            window.verbDatabase = window.verbDatabase || {};
+
+            let totalLoaded = 0;
+            results.forEach(data => {
+                if (data) {
+                    Object.assign(window.verbDatabase, data);
+                    totalLoaded += Object.keys(data).length;
+                }
+            });
+
+            console.log(`Total verbs loaded: ${totalLoaded}`);
+            console.timeEnd('LoadVerbs');
+
+            // Render final list
+            this.refreshVerbs();
+
+        } catch (err) {
+            console.error('Critical error loading verbs:', err);
+            alert('Erro crítico ao carregar verbos. Verifique o console.');
+        }
+    },
+
+    refreshVerbs() {
+        // Sort verbs alphabetically
+        const verbs = Object.values(window.verbDatabase).sort((a, b) =>
+            a.infinitive.localeCompare(b.infinitive)
+        );
+        this.renderVerbs(verbs);
     },
 
     cacheElements() {
@@ -61,12 +106,6 @@ const App = {
     renderPage(reset = false) {
         const start = reset ? 0 : (this.currentPage - 1) * this.itemsPerPage;
         const end = this.currentPage * this.itemsPerPage;
-
-        // If resetting, we render from 0 to end (first page)
-        // If appending, we want to render strictly the new page slice
-        // BUT the original code was: const start = 0; const end = this.currentPage * this.itemsPerPage;
-        // which implies re-rendering the whole list every time?
-        // Let's optimize: append if not reset.
 
         const sliceStart = reset ? 0 : start;
         const verbsToShow = this.currentVerbs.slice(sliceStart, end);
@@ -126,20 +165,7 @@ const App = {
     },
 
     bindCardEvents() {
-        // We only need to bind events for NEW items if appending, 
-        // but current implementation binds to ALL queries in verbGrid.
-        // It's safer to re-bind or use event delegation.
-        // For now, to match existing logic style but avoid duplicate listeners:
-
-        // Better approach: Use Event Delegation on the grid itself
-        // But to minimize refactor risk of breaking other logic, let's keep it simple.
-        // However, adding listeners repeatedly to existing elements is bad.
-        // Let's use event delegation for the Grid once in init? 
-        // No, let's stick to the plan but be careful.
-
-        // Actually, the original code querySelectorAll('.verb-card') re-binds everything.
-        // Use cloneNode or removeEventListener? 
-        // EASIEST SAFE FIX: Event delegation on #verbGrid.
+        // Keeping empty as requested by previous logic context, relying on delegation
     },
 
     // Changing bindCardEvents to event delegation to support infinite scroll efficiently

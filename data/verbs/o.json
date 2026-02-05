@@ -1,0 +1,625 @@
+{
+    "obey": {
+        "infinitive": "obey",
+        "translation": "obedecer",
+        "forms": {
+            "base": "obey",
+            "pastSimple": "obeyed",
+            "pastParticiple": "obeyed",
+            "presentParticiple": "obeying",
+            "thirdPerson": "obeys"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "comply"
+        ],
+        "explanation": "Seguir ordens ou regras.",
+        "examples": [
+            {
+                "en": "Obey the laws.",
+                "pt": "Obedeça as leis."
+            }
+        ]
+    },
+    "object": {
+        "infinitive": "object",
+        "translation": "objetar",
+        "forms": {
+            "base": "object",
+            "pastSimple": "objected",
+            "pastParticiple": "objected",
+            "presentParticiple": "objecting",
+            "thirdPerson": "objects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "protest",
+            "oppose"
+        ],
+        "explanation": "Expressar desacordo ou desaprovação.",
+        "examples": [
+            {
+                "en": "I object to this plan.",
+                "pt": "Eu objeto a este plano."
+            }
+        ]
+    },
+    "oblige": {
+        "infinitive": "oblige",
+        "translation": "obrigar, fazer favor",
+        "forms": {
+            "base": "oblige",
+            "pastSimple": "obliged",
+            "pastParticiple": "obliged",
+            "presentParticiple": "obliging",
+            "thirdPerson": "obliges"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "compel",
+            "please"
+        ],
+        "explanation": "Forçar alguém a fazer algo ou agradar.",
+        "examples": [
+            {
+                "en": "I am obliged to go.",
+                "pt": "Sou obrigado a ir."
+            }
+        ]
+    },
+    "observe": {
+        "infinitive": "observe",
+        "translation": "observar",
+        "forms": {
+            "base": "observe",
+            "pastSimple": "observed",
+            "pastParticiple": "observed",
+            "presentParticiple": "observing",
+            "thirdPerson": "observes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "watch",
+            "notice"
+        ],
+        "explanation": "Ver com atenção ou obedecer (regras).",
+        "examples": [
+            {
+                "en": "Observe the stars.",
+                "pt": "Observe as estrelas."
+            },
+            {
+                "en": "Please observe the rules.",
+                "pt": "Por favor, observe as regras."
+            }
+        ]
+    },
+    "obstruct": {
+        "infinitive": "obstruct",
+        "translation": "obstruir",
+        "forms": {
+            "base": "obstruct",
+            "pastSimple": "obstructed",
+            "pastParticiple": "obstructed",
+            "presentParticiple": "obstructing",
+            "thirdPerson": "obstructs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "block",
+            "hinder"
+        ],
+        "explanation": "Bloquear caminho ou progresso.",
+        "examples": [
+            {
+                "en": "Do not obstruct the door.",
+                "pt": "Não obstrua a porta."
+            }
+        ]
+    },
+    "obtain": {
+        "infinitive": "obtain",
+        "translation": "obter",
+        "forms": {
+            "base": "obtain",
+            "pastSimple": "obtained",
+            "pastParticiple": "obtained",
+            "presentParticiple": "obtaining",
+            "thirdPerson": "obtains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "get",
+            "acquire"
+        ],
+        "explanation": "Conseguir algo.",
+        "examples": [
+            {
+                "en": "He obtained a visa.",
+                "pt": "Ele obteve um visto."
+            }
+        ]
+    },
+    "occur": {
+        "infinitive": "occur",
+        "translation": "ocorrer",
+        "forms": {
+            "base": "occur",
+            "pastSimple": "occurred",
+            "pastParticiple": "occurred",
+            "presentParticiple": "occurring",
+            "thirdPerson": "occurs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "happen"
+        ],
+        "explanation": "Acontecer.",
+        "examples": [
+            {
+                "en": "An error occurred.",
+                "pt": "Um erro ocorreu."
+            }
+        ]
+    },
+    "offend": {
+        "infinitive": "offend",
+        "translation": "ofender",
+        "forms": {
+            "base": "offend",
+            "pastSimple": "offended",
+            "pastParticiple": "offended",
+            "presentParticiple": "offending",
+            "thirdPerson": "offends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "insult"
+        ],
+        "explanation": "Causar mágoa ou raiva em alguém.",
+        "examples": [
+            {
+                "en": "I didn't mean to offend you.",
+                "pt": "Não quis te ofender."
+            }
+        ]
+    },
+    "offer": {
+        "infinitive": "offer",
+        "translation": "oferecer",
+        "forms": {
+            "base": "offer",
+            "pastSimple": "offered",
+            "pastParticiple": "offered",
+            "presentParticiple": "offering",
+            "thirdPerson": "offers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "propose",
+            "give"
+        ],
+        "explanation": "Apresentar algo para alguém aceitar ou rejeitar.",
+        "examples": [
+            {
+                "en": "She offered me a job.",
+                "pt": "Ela me ofereceu um emprego."
+            }
+        ]
+    },
+    "oil": {
+        "infinitive": "oil",
+        "translation": "lubrificar (com óleo)",
+        "forms": {
+            "base": "oil",
+            "pastSimple": "oiled",
+            "pastParticiple": "oiled",
+            "presentParticiple": "oiling",
+            "thirdPerson": "oils"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "lubricate",
+            "grease"
+        ],
+        "explanation": "Aplicar óleo.",
+        "examples": [
+            {
+                "en": "Oil the machine.",
+                "pt": "Lubrifique a máquina."
+            }
+        ]
+    },
+    "omit": {
+        "infinitive": "omit",
+        "translation": "omitir",
+        "forms": {
+            "base": "omit",
+            "pastSimple": "omitted",
+            "pastParticiple": "omitted",
+            "presentParticiple": "omitting",
+            "thirdPerson": "omits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "leave out",
+            "exclude"
+        ],
+        "explanation": "Não incluir algo.",
+        "examples": [
+            {
+                "en": "Do not omit details.",
+                "pt": "Não omita detalhes."
+            }
+        ]
+    },
+    "open": {
+        "infinitive": "open",
+        "translation": "abrir",
+        "forms": {
+            "base": "open",
+            "pastSimple": "opened",
+            "pastParticiple": "opened",
+            "presentParticiple": "opening",
+            "thirdPerson": "opens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "close"
+        ],
+        "explanation": "Permitir acesso ou visão; contrário de fechar.",
+        "examples": [
+            {
+                "en": "Open the door.",
+                "pt": "Abra a porta."
+            }
+        ]
+    },
+    "operate": {
+        "infinitive": "operate",
+        "translation": "operar",
+        "forms": {
+            "base": "operate",
+            "pastSimple": "operated",
+            "pastParticiple": "operated",
+            "presentParticiple": "operating",
+            "thirdPerson": "operates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "function",
+            "work"
+        ],
+        "explanation": "Fazer funcionar ou realizar cirurgia.",
+        "examples": [
+            {
+                "en": "How to operate this?",
+                "pt": "Como operar isso?"
+            }
+        ]
+    },
+    "oppose": {
+        "infinitive": "oppose",
+        "translation": "opor-se",
+        "forms": {
+            "base": "oppose",
+            "pastSimple": "opposed",
+            "pastParticiple": "opposed",
+            "presentParticiple": "opposing",
+            "thirdPerson": "opposes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "resist",
+            "fight"
+        ],
+        "explanation": "Estar contra algo.",
+        "examples": [
+            {
+                "en": "I oppose the plan.",
+                "pt": "Eu me oponho ao plano."
+            }
+        ]
+    },
+    "order": {
+        "infinitive": "order",
+        "translation": "pedir, ordenar",
+        "forms": {
+            "base": "order",
+            "pastSimple": "ordered",
+            "pastParticiple": "ordered",
+            "presentParticiple": "ordering",
+            "thirdPerson": "orders"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "command",
+            "request"
+        ],
+        "explanation": "Dar uma instrução autoritária ou solicitar comida/produtos.",
+        "examples": [
+            {
+                "en": "He ordered a pizza.",
+                "pt": "Ele pediu uma pizza."
+            },
+            {
+                "en": "The general ordered an attack.",
+                "pt": "O general ordenou um ataque."
+            }
+        ]
+    },
+    "organize": {
+        "infinitive": "organize",
+        "translation": "organizar",
+        "forms": {
+            "base": "organize",
+            "pastSimple": "organized",
+            "pastParticiple": "organized",
+            "presentParticiple": "organizing",
+            "thirdPerson": "organizes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "arrange",
+            "plan"
+        ],
+        "explanation": "Colocar em ordem ou planejar.",
+        "examples": [
+            {
+                "en": "Organize your desk.",
+                "pt": "Organize sua mesa."
+            }
+        ]
+    },
+    "outline": {
+        "infinitive": "outline",
+        "translation": "esboçar, delinear",
+        "forms": {
+            "base": "outline",
+            "pastSimple": "outlined",
+            "pastParticiple": "outlined",
+            "presentParticiple": "outlining",
+            "thirdPerson": "outlines"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "sketch",
+            "summarize"
+        ],
+        "explanation": "Dar descrição principal sem detalhes.",
+        "examples": [
+            {
+                "en": "Outline your plan.",
+                "pt": "Esboce seu plano."
+            }
+        ]
+    },
+    "overcome": {
+        "infinitive": "overcome",
+        "translation": "superar",
+        "forms": {
+            "base": "overcome",
+            "pastSimple": "overcame",
+            "pastParticiple": "overcome",
+            "presentParticiple": "overcoming",
+            "thirdPerson": "overcomes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "conquer"
+        ],
+        "explanation": "Ter sucesso em lidar com um problema ou sentimento.",
+        "examples": [
+            {
+                "en": "We overcame many obstacles.",
+                "pt": "Superamos muitos obstáculos."
+            }
+        ]
+    },
+    "overdraw": {
+        "infinitive": "overdraw",
+        "translation": "sacar a descoberto",
+        "forms": {
+            "base": "overdraw",
+            "pastSimple": "overdrew",
+            "pastParticiple": "overdrawn",
+            "presentParticiple": "overdrawing",
+            "thirdPerson": "overdraws"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "financial"
+        ],
+        "related": [],
+        "explanation": "Retirar mais dinheiro do banco do que se tem na conta.",
+        "examples": [
+            {
+                "en": "I overdrank my account.",
+                "pt": "Estourei (saquei a mais) minha conta."
+            }
+        ]
+    },
+    "overflow": {
+        "infinitive": "overflow",
+        "translation": "transbordar",
+        "forms": {
+            "base": "overflow",
+            "pastSimple": "overflowed",
+            "pastParticiple": "overflowed",
+            "presentParticiple": "overflowing",
+            "thirdPerson": "overflows"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "spill"
+        ],
+        "explanation": "Encher demais até derramar.",
+        "examples": [
+            {
+                "en": "The river overflowed.",
+                "pt": "O rio transbordou."
+            }
+        ]
+    },
+    "overhear": {
+        "infinitive": "overhear",
+        "translation": "ouvir por acaso",
+        "forms": {
+            "base": "overhear",
+            "pastSimple": "overheard",
+            "pastParticiple": "overheard",
+            "presentParticiple": "overhearing",
+            "thirdPerson": "overhears"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [],
+        "explanation": "Ouvir algo sem intenção ou sem o conhecimento de quem fala.",
+        "examples": [
+            {
+                "en": "I overheard their conversation.",
+                "pt": "Ouvi a conversa deles por acaso."
+            }
+        ]
+    },
+    "overtake": {
+        "infinitive": "overtake",
+        "translation": "ultrapassar",
+        "forms": {
+            "base": "overtake",
+            "pastSimple": "overtook",
+            "pastParticiple": "overtaken",
+            "presentParticiple": "overtaking",
+            "thirdPerson": "overtakes"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "pass"
+        ],
+        "explanation": "Passar à frente de alguém/veículo.",
+        "examples": [
+            {
+                "en": "The car overtook the truck.",
+                "pt": "O carro ultrapassou o caminhão."
+            }
+        ]
+    },
+    "owe": {
+        "infinitive": "owe",
+        "translation": "dever",
+        "forms": {
+            "base": "owe",
+            "pastSimple": "owed",
+            "pastParticiple": "owed",
+            "presentParticiple": "owing",
+            "thirdPerson": "owes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "debt"
+        ],
+        "explanation": "Ter a obrigação de pagar ou dar algo a alguém.",
+        "examples": [
+            {
+                "en": "I owe you $10.",
+                "pt": "Te devo $10."
+            }
+        ]
+    },
+    "own": {
+        "infinitive": "own",
+        "translation": "possuir",
+        "forms": {
+            "base": "own",
+            "pastSimple": "owned",
+            "pastParticiple": "owned",
+            "presentParticiple": "owning",
+            "thirdPerson": "owns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "possess"
+        ],
+        "explanation": "Ter algo como propriedade.",
+        "examples": [
+            {
+                "en": "She owns a house.",
+                "pt": "Ela possui uma casa."
+            }
+        ]
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "zinc": {
+        "infinitive": "zinc",
+        "translation": "zincar, galvanizar",
+        "forms": {
+            "base": "zinc",
+            "pastSimple": "zinced",
+            "pastParticiple": "zinced",
+            "presentParticiple": "zincking",
+            "thirdPerson": "zincs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "coat"
+        ],
+        "explanation": "Cobrir com uma camada de zinco.",
+        "examples": []
+    },
+    "zip": {
+        "infinitive": "zip",
+        "translation": "fechar o zíper",
+        "forms": {
+            "base": "zip",
+            "pastSimple": "zipped",
+            "pastParticiple": "zipped",
+            "presentParticiple": "zipping",
+            "thirdPerson": "zips"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "close",
+            "fasten"
+        ],
+        "explanation": "Fechar algo usando um zíper.",
+        "examples": [
+            {
+                "en": "Zip up your jacket.",
+                "pt": "Feche o zíper da sua jaqueta."
+            }
+        ]
+    },
+    "zoom": {
+        "infinitive": "zoom",
+        "translation": "dar zoom, passar zunindo",
+        "forms": {
+            "base": "zoom",
+            "pastSimple": "zoomed",
+            "pastParticiple": "zoomed",
+            "presentParticiple": "zooming",
+            "thirdPerson": "zooms"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "magnify",
+            "speed"
+        ],
+        "explanation": "Aproximar a imagem (câmera); ou mover-se muito rápido.",
+        "examples": [
+            {
+                "en": "Zoom in on the map.",
+                "pt": "Dê zoom no mapa."
+            }
+        ]
+    }
+}

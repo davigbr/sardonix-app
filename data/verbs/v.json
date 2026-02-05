@@ -1,0 +1,415 @@
+{
+    "validate": {
+        "infinitive": "validate",
+        "translation": "validar",
+        "forms": {
+            "base": "validate",
+            "pastSimple": "validated",
+            "pastParticiple": "validated",
+            "presentParticiple": "validating",
+            "thirdPerson": "validates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "confirm",
+            "verify"
+        ],
+        "explanation": "Confirmar que é verdadeiro ou válido.",
+        "examples": [
+            {
+                "en": "Validate the ticket.",
+                "pt": "Valide o bilhete."
+            }
+        ]
+    },
+    "value": {
+        "infinitive": "value",
+        "translation": "valorizar",
+        "forms": {
+            "base": "value",
+            "pastSimple": "valued",
+            "pastParticiple": "valued",
+            "presentParticiple": "valuing",
+            "thirdPerson": "values"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "appreciate",
+            "treasure"
+        ],
+        "explanation": "Dar importância ou definir preço.",
+        "examples": [
+            {
+                "en": "I value your opinion.",
+                "pt": "Eu valorizo sua opinião."
+            }
+        ]
+    },
+    "vanish": {
+        "infinitive": "vanish",
+        "translation": "desaparecer, sumir",
+        "forms": {
+            "base": "vanish",
+            "pastSimple": "vanished",
+            "pastParticiple": "vanished",
+            "presentParticiple": "vanishing",
+            "thirdPerson": "vanishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "disappear",
+            "fade"
+        ],
+        "explanation": "Desaparecer de repente ou completamente.",
+        "examples": [
+            {
+                "en": "The ghost vanished.",
+                "pt": "O fantasma desapareceu."
+            }
+        ]
+    },
+    "vary": {
+        "infinitive": "vary",
+        "translation": "variar",
+        "forms": {
+            "base": "vary",
+            "pastSimple": "varied",
+            "pastParticiple": "varied",
+            "presentParticiple": "varying",
+            "thirdPerson": "varies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "change",
+            "differ"
+        ],
+        "explanation": "Mudar ou ser diferente.",
+        "examples": [
+            {
+                "en": "Prices vary daily.",
+                "pt": "Preços variam diariamente."
+            }
+        ]
+    },
+    "ventilate": {
+        "infinitive": "ventilate",
+        "translation": "ventilar",
+        "forms": {
+            "base": "ventilate",
+            "pastSimple": "ventilated",
+            "pastParticiple": "ventilated",
+            "presentParticiple": "ventilating",
+            "thirdPerson": "ventilates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "air"
+        ],
+        "explanation": "Fazer ar entrar.",
+        "examples": [
+            {
+                "en": "Ventilate the room.",
+                "pt": "Ventile o quarto."
+            }
+        ]
+    },
+    "venture": {
+        "infinitive": "venture",
+        "translation": "aventurar-se",
+        "forms": {
+            "base": "venture",
+            "pastSimple": "ventured",
+            "pastParticiple": "ventured",
+            "presentParticiple": "venturing",
+            "thirdPerson": "ventures"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "risk",
+            "dare"
+        ],
+        "explanation": "Ir a algum lugar perigoso ou arriscar.",
+        "examples": [
+            {
+                "en": "He ventured into the forest.",
+                "pt": "Ele se aventurou na floresta."
+            }
+        ]
+    },
+    "verify": {
+        "infinitive": "verify",
+        "translation": "verificar, confirmar",
+        "forms": {
+            "base": "verify",
+            "pastSimple": "verified",
+            "pastParticiple": "verified",
+            "presentParticiple": "verifying",
+            "thirdPerson": "verifies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "check",
+            "confirm"
+        ],
+        "explanation": "Certificar-se de que algo é verdadeiro ou correto.",
+        "examples": [
+            {
+                "en": "Please verify your email.",
+                "pt": "Por favor, verifique seu e-mail."
+            }
+        ]
+    },
+    "vex": {
+        "infinitive": "vex",
+        "translation": "aborrecer, irritar",
+        "forms": {
+            "base": "vex",
+            "pastSimple": "vexed",
+            "pastParticiple": "vexed",
+            "presentParticiple": "vexing",
+            "thirdPerson": "vexes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "annoy",
+            "bother"
+        ],
+        "explanation": "Fazer alguém se sentir irritado ou preocupado.",
+        "examples": [
+            {
+                "en": "This problem vexes me.",
+                "pt": "Este problema me aborrece."
+            }
+        ]
+    },
+    "vibrate": {
+        "infinitive": "vibrate",
+        "translation": "vibrar",
+        "forms": {
+            "base": "vibrate",
+            "pastSimple": "vibrated",
+            "pastParticiple": "vibrated",
+            "presentParticiple": "vibrating",
+            "thirdPerson": "vibrates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shake",
+            "tremble"
+        ],
+        "explanation": "Mover-se rapidamente para frente e para trás.",
+        "examples": [
+            {
+                "en": "My phone vibrated.",
+                "pt": "Meu telefone vibrou."
+            }
+        ]
+    },
+    "vie": {
+        "infinitive": "vie",
+        "translation": "competir, disputar",
+        "forms": {
+            "base": "vie",
+            "pastSimple": "vied",
+            "pastParticiple": "vied",
+            "presentParticiple": "vying",
+            "thirdPerson": "vies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "compete"
+        ],
+        "explanation": "Competir avidamente com outros.",
+        "examples": [
+            {
+                "en": "They vie for attention.",
+                "pt": "Eles disputam atenção."
+            }
+        ]
+    },
+    "violate": {
+        "infinitive": "violate",
+        "translation": "violar, desrespeitar",
+        "forms": {
+            "base": "violate",
+            "pastSimple": "violated",
+            "pastParticiple": "violated",
+            "presentParticiple": "violating",
+            "thirdPerson": "violates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "break",
+            "breach"
+        ],
+        "explanation": "Quebrar uma regra, lei ou acordo.",
+        "examples": [
+            {
+                "en": "They violated the rules.",
+                "pt": "Eles violaram as regras."
+            }
+        ]
+    },
+    "visit": {
+        "infinitive": "visit",
+        "translation": "visitar",
+        "forms": {
+            "base": "visit",
+            "pastSimple": "visited",
+            "pastParticiple": "visited",
+            "presentParticiple": "visiting",
+            "thirdPerson": "visits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "call on",
+            "drop by"
+        ],
+        "explanation": "Ir ver uma pessoa ou lugar.",
+        "examples": [
+            {
+                "en": "We visited Paris.",
+                "pt": "Visitamos Paris."
+            }
+        ]
+    },
+    "visualise": {
+        "infinitive": "visualise",
+        "translation": "visualizar (UK)",
+        "forms": {
+            "base": "visualise",
+            "pastSimple": "visualised",
+            "pastParticiple": "visualised",
+            "presentParticiple": "visualising",
+            "thirdPerson": "visualises"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "imagine",
+            "picture"
+        ],
+        "explanation": "Formar uma imagem mental de algo (grafia britânica).",
+        "examples": [
+            {
+                "en": "I can visualise the scene.",
+                "pt": "Posso visualizar a cena."
+            }
+        ]
+    },
+    "visualize": {
+        "infinitive": "visualize",
+        "translation": "visualizar",
+        "forms": {
+            "base": "visualize",
+            "pastSimple": "visualized",
+            "pastParticiple": "visualized",
+            "presentParticiple": "visualizing",
+            "thirdPerson": "visualizes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "imagine",
+            "envision"
+        ],
+        "explanation": "Formar uma imagem mental de algo.",
+        "examples": [
+            {
+                "en": "Visualize your success.",
+                "pt": "Visualize seu sucesso."
+            }
+        ]
+    },
+    "vote": {
+        "infinitive": "vote",
+        "translation": "votar",
+        "forms": {
+            "base": "vote",
+            "pastSimple": "voted",
+            "pastParticiple": "voted",
+            "presentParticiple": "voting",
+            "thirdPerson": "votes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "elect"
+        ],
+        "explanation": "Escolher em eleição.",
+        "examples": [
+            {
+                "en": "Vote for me.",
+                "pt": "Vote em mim."
+            }
+        ]
+    },
+    "vow": {
+        "infinitive": "vow",
+        "translation": "fazer promessa solene",
+        "forms": {
+            "base": "vow",
+            "pastSimple": "vowed",
+            "pastParticiple": "vowed",
+            "presentParticiple": "vowing",
+            "thirdPerson": "vows"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "swear",
+            "promise"
+        ],
+        "explanation": "Prometer seriamente.",
+        "examples": [
+            {
+                "en": "He vowed revenge.",
+                "pt": "Ele jurou vingança."
+            }
+        ]
+    }
+}

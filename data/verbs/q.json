@@ -1,0 +1,265 @@
+{
+    "quake": {
+        "infinitive": "quake",
+        "translation": "tremer",
+        "forms": {
+            "base": "quake",
+            "pastSimple": "quaked",
+            "pastParticiple": "quaked",
+            "presentParticiple": "quaking",
+            "thirdPerson": "quakes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shake",
+            "tremble"
+        ],
+        "explanation": "Tremer violentamente (como em um terremoto ou de medo).",
+        "examples": [
+            {
+                "en": "The ground quaked.",
+                "pt": "O chão tremeu."
+            }
+        ]
+    },
+    "qualify": {
+        "infinitive": "qualify",
+        "translation": "qualificar-se, formar-se",
+        "forms": {
+            "base": "qualify",
+            "pastSimple": "qualified",
+            "pastParticiple": "qualified",
+            "presentParticiple": "qualifying",
+            "thirdPerson": "qualifies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Ter as habilidades ou requisitos necessários.",
+        "examples": [
+            {
+                "en": "He qualified for the finals.",
+                "pt": "Ele se classificou para as finais."
+            }
+        ]
+    },
+    "quarrel": {
+        "infinitive": "quarrel",
+        "translation": "discutir, brigar",
+        "forms": {
+            "base": "quarrel",
+            "pastSimple": "quarreled",
+            "pastParticiple": "quarreled",
+            "presentParticiple": "quarreling",
+            "thirdPerson": "quarrels"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "argue",
+            "fight"
+        ],
+        "explanation": "Ter uma discussão ruidosa ou desavença.",
+        "examples": [
+            {
+                "en": "They quarreled about money.",
+                "pt": "Eles brigaram por dinheiro."
+            }
+        ]
+    },
+    "quash": {
+        "infinitive": "quash",
+        "translation": "anular, reprimir",
+        "forms": {
+            "base": "quash",
+            "pastSimple": "quashed",
+            "pastParticiple": "quashed",
+            "presentParticiple": "quashing",
+            "thirdPerson": "quashes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "suppress"
+        ],
+        "explanation": "Rejeitar legalmente ou acabar com rumores/rebeliões.",
+        "examples": [
+            {
+                "en": "The court quashed the verdict.",
+                "pt": "O tribunal anulou o veredicto."
+            }
+        ]
+    },
+    "quell": {
+        "infinitive": "quell",
+        "translation": "sufocar, reprimir",
+        "forms": {
+            "base": "quell",
+            "pastSimple": "quelled",
+            "pastParticiple": "quelled",
+            "presentParticiple": "quelling",
+            "thirdPerson": "quells"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "calm",
+            "silence"
+        ],
+        "explanation": "Pôr fim a algo (como um motim) ou acalmar sentimentos.",
+        "examples": [
+            {
+                "en": "Police quelled the riot.",
+                "pt": "A polícia reprimiu o tumulto."
+            }
+        ]
+    },
+    "query": {
+        "infinitive": "query",
+        "translation": "questionar, consultar",
+        "forms": {
+            "base": "query",
+            "pastSimple": "queried",
+            "pastParticiple": "queried",
+            "presentParticiple": "querying",
+            "thirdPerson": "queries"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "ask",
+            "inquire"
+        ],
+        "explanation": "Fazer uma pergunta ou expressar dúvida.",
+        "examples": [
+            {
+                "en": "I queried the database.",
+                "pt": "Consultei o banco de dados."
+            }
+        ]
+    },
+    "question": {
+        "infinitive": "question",
+        "translation": "interrogar, duvidar",
+        "forms": {
+            "base": "question",
+            "pastSimple": "questioned",
+            "pastParticiple": "questioned",
+            "presentParticiple": "questioning",
+            "thirdPerson": "questions"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "doubt",
+            "interrogate"
+        ],
+        "explanation": "Fazer perguntas ou expressar dúvida sobre a verdade de algo.",
+        "examples": [
+            {
+                "en": "Police questioned the suspect.",
+                "pt": "A polícia interrogou o suspeito."
+            }
+        ]
+    },
+    "queue": {
+        "infinitive": "queue",
+        "translation": "fazer fila",
+        "forms": {
+            "base": "queue",
+            "pastSimple": "queued",
+            "pastParticiple": "queued",
+            "presentParticiple": "queuing",
+            "thirdPerson": "queues"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "line up"
+        ],
+        "explanation": "Esperar em uma fila (muito comum no inglês britânico).",
+        "examples": [
+            {
+                "en": "We queued for tickets.",
+                "pt": "Ficamos na fila pelos ingressos."
+            }
+        ]
+    },
+    "quiet": {
+        "infinitive": "quiet",
+        "translation": "aquietar, acalmar",
+        "forms": {
+            "base": "quiet",
+            "pastSimple": "quieted",
+            "pastParticiple": "quieted",
+            "presentParticiple": "quieting",
+            "thirdPerson": "quiets"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "silence",
+            "calm"
+        ],
+        "explanation": "Tornar silencioso ou calmo.",
+        "examples": [
+            {
+                "en": "Quiet the children.",
+                "pt": "Aquiete as crianças."
+            }
+        ]
+    },
+    "quit": {
+        "infinitive": "quit",
+        "translation": "desistir, sair",
+        "forms": {
+            "base": "quit",
+            "pastSimple": "quit",
+            "pastParticiple": "quit",
+            "presentParticiple": "quitting",
+            "thirdPerson": "quits"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "stop",
+            "give up"
+        ],
+        "explanation": "Parar de fazer algo ou deixar um emprego.",
+        "examples": [
+            {
+                "en": "I quit smoking.",
+                "pt": "Parei de fumar."
+            },
+            {
+                "en": "He quit his job.",
+                "pt": "Ele pediu demissão do emprego."
+            }
+        ]
+    }
+}

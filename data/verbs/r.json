@@ -1,0 +1,2626 @@
+{
+    "race": {
+        "infinitive": "race",
+        "translation": "competir, correr",
+        "forms": {
+            "base": "race",
+            "pastSimple": "raced",
+            "pastParticiple": "raced",
+            "presentParticiple": "racing",
+            "thirdPerson": "races"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "run",
+            "compete"
+        ],
+        "explanation": "Competir em velocidade.",
+        "examples": [
+            {
+                "en": "They raced to the car.",
+                "pt": "Eles correram para o carro."
+            }
+        ]
+    },
+    "radiate": {
+        "infinitive": "radiate",
+        "translation": "irradiar",
+        "forms": {
+            "base": "radiate",
+            "pastSimple": "radiated",
+            "pastParticiple": "radiated",
+            "presentParticiple": "radiating",
+            "thirdPerson": "radiates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "emit",
+            "shine"
+        ],
+        "explanation": "Emitir luz, calor ou energia.",
+        "examples": [
+            {
+                "en": "The sun radiates heat.",
+                "pt": "O sol irradia calor."
+            }
+        ]
+    },
+    "rage": {
+        "infinitive": "rage",
+        "translation": "enfurecer-se",
+        "forms": {
+            "base": "rage",
+            "pastSimple": "raged",
+            "pastParticiple": "raged",
+            "presentParticiple": "raging",
+            "thirdPerson": "rages"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fume",
+            "storm"
+        ],
+        "explanation": "Mostrar raiva violenta.",
+        "examples": [
+            {
+                "en": "He raged against them.",
+                "pt": "Ele se enfureceu contra eles."
+            }
+        ]
+    },
+    "rain": {
+        "infinitive": "rain",
+        "translation": "chover",
+        "forms": {
+            "base": "rain",
+            "pastSimple": "rained",
+            "pastParticiple": "rained",
+            "presentParticiple": "raining",
+            "thirdPerson": "rains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential",
+            "weather"
+        ],
+        "related": [
+            "precipitate"
+        ],
+        "explanation": "Cair água das nuvens.",
+        "examples": [
+            {
+                "en": "It rained all day.",
+                "pt": "Choveu o dia todo."
+            }
+        ]
+    },
+    "raise": {
+        "infinitive": "raise",
+        "translation": "levantar, criar, aumentar",
+        "forms": {
+            "base": "raise",
+            "pastSimple": "raised",
+            "pastParticiple": "raised",
+            "presentParticiple": "raising",
+            "thirdPerson": "raises"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "lift",
+            "increase"
+        ],
+        "explanation": "Mover para cima, cuidar de crianças ou aumentar algo. (Transitivo).",
+        "examples": [
+            {
+                "en": "Raise your hand.",
+                "pt": "Levante sua mão."
+            },
+            {
+                "en": "They raised taxes.",
+                "pt": "Eles aumentaram os impostos."
+            }
+        ]
+    },
+    "reach": {
+        "infinitive": "reach",
+        "translation": "alcançar, chegar",
+        "forms": {
+            "base": "reach",
+            "pastSimple": "reached",
+            "pastParticiple": "reached",
+            "presentParticiple": "reaching",
+            "thirdPerson": "reaches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "arrive",
+            "touch"
+        ],
+        "explanation": "Esticar o braço para pegar algo ou chegar a um destino.",
+        "examples": [
+            {
+                "en": "I can't reach it.",
+                "pt": "Não consigo alcançar."
+            }
+        ]
+    },
+    "read": {
+        "infinitive": "read",
+        "translation": "ler",
+        "forms": {
+            "base": "read",
+            "pastSimple": "read",
+            "pastParticiple": "read",
+            "presentParticiple": "reading",
+            "thirdPerson": "reads"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "scan"
+        ],
+        "explanation": "Olhar e compreender palavras escritas. Pronúncia do passado é 'red'.",
+        "examples": [
+            {
+                "en": "I read a book yesterday.",
+                "pt": "Eu li um livro ontem."
+            }
+        ]
+    },
+    "ready": {
+        "infinitive": "ready",
+        "translation": "preparar",
+        "forms": {
+            "base": "ready",
+            "pastSimple": "readied",
+            "pastParticiple": "readied",
+            "presentParticiple": "readying",
+            "thirdPerson": "readies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "prepare"
+        ],
+        "explanation": "Tornar pronto.",
+        "examples": [
+            {
+                "en": "Ready the weapons.",
+                "pt": "Prepare as armas."
+            }
+        ]
+    },
+    "realise": {
+        "infinitive": "realise",
+        "translation": "perceber, realizar",
+        "forms": {
+            "base": "realise",
+            "pastSimple": "realised",
+            "pastParticiple": "realised",
+            "presentParticiple": "realising",
+            "thirdPerson": "realises"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "notice",
+            "understand"
+        ],
+        "explanation": "Tomar consciência de algo (grafia britânica).",
+        "examples": [
+            {
+                "en": "I realised my mistake.",
+                "pt": "Percebi meu erro."
+            }
+        ]
+    },
+    "realize": {
+        "infinitive": "realize",
+        "translation": "perceber, realizar",
+        "forms": {
+            "base": "realize",
+            "pastSimple": "realized",
+            "pastParticiple": "realized",
+            "presentParticiple": "realizing",
+            "thirdPerson": "realizes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "notice",
+            "understand"
+        ],
+        "explanation": "Tomar consciência de algo (grafia americana).",
+        "examples": [
+            {
+                "en": "Do you realize the risk?",
+                "pt": "Você percebe o risco?"
+            }
+        ]
+    },
+    "rebound": {
+        "infinitive": "rebound",
+        "translation": "ricochetear, recuperar-se",
+        "forms": {
+            "base": "rebound",
+            "pastSimple": "rebounded",
+            "pastParticiple": "rebounded",
+            "presentParticiple": "rebounding",
+            "thirdPerson": "rebounds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bounce",
+            "recover"
+        ],
+        "explanation": "Voltar após bater ou recuperar-se de tristeza.",
+        "examples": [
+            {
+                "en": "The ball rebounded.",
+                "pt": "A bola ricocheteou."
+            }
+        ]
+    },
+    "rebuke": {
+        "infinitive": "rebuke",
+        "translation": "repreender",
+        "forms": {
+            "base": "rebuke",
+            "pastSimple": "rebuked",
+            "pastParticiple": "rebuked",
+            "presentParticiple": "rebuking",
+            "thirdPerson": "rebukes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "scold",
+            "reprimand"
+        ],
+        "explanation": "Falar bravamente com alguém por causa de algo errado.",
+        "examples": [
+            {
+                "en": "He rebuked the child.",
+                "pt": "Ele repreendeu a criança."
+            }
+        ]
+    },
+    "recall": {
+        "infinitive": "recall",
+        "translation": "recordar, relembrar",
+        "forms": {
+            "base": "recall",
+            "pastSimple": "recalled",
+            "pastParticiple": "recalled",
+            "presentParticiple": "recalling",
+            "thirdPerson": "recalls"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "remember"
+        ],
+        "explanation": "Trazer de volta à memória.",
+        "examples": [
+            {
+                "en": "I recall that day.",
+                "pt": "Eu recordo aquele dia."
+            }
+        ]
+    },
+    "receive": {
+        "infinitive": "receive",
+        "translation": "receber",
+        "forms": {
+            "base": "receive",
+            "pastSimple": "received",
+            "pastParticiple": "received",
+            "presentParticiple": "receiving",
+            "thirdPerson": "receives"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "get"
+        ],
+        "explanation": "Obter algo dado ou enviado.",
+        "examples": [
+            {
+                "en": "I received a letter.",
+                "pt": "Recebi uma carta."
+            }
+        ]
+    },
+    "recognise": {
+        "infinitive": "recognise",
+        "translation": "reconhecer",
+        "forms": {
+            "base": "recognise",
+            "pastSimple": "recognised",
+            "pastParticiple": "recognised",
+            "presentParticiple": "recognising",
+            "thirdPerson": "recognises"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "identify"
+        ],
+        "explanation": "Identificar alguém ou algo que você já viu antes (grafia britânica).",
+        "examples": [
+            {
+                "en": "I didn't recognise him.",
+                "pt": "Não o reconheci."
+            }
+        ]
+    },
+    "recognize": {
+        "infinitive": "recognize",
+        "translation": "reconhecer",
+        "forms": {
+            "base": "recognize",
+            "pastSimple": "recognized",
+            "pastParticiple": "recognized",
+            "presentParticiple": "recognizing",
+            "thirdPerson": "recognizes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "identify"
+        ],
+        "explanation": "Identificar alguém ou algo que você já viu antes (grafia americana).",
+        "examples": [
+            {
+                "en": "She recognized the voice.",
+                "pt": "Ela reconheceu a voz."
+            }
+        ]
+    },
+    "recommend": {
+        "infinitive": "recommend",
+        "translation": "recomendar",
+        "forms": {
+            "base": "recommend",
+            "pastSimple": "recommended",
+            "pastParticiple": "recommended",
+            "presentParticiple": "recommending",
+            "thirdPerson": "recommends"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "advise",
+            "suggest"
+        ],
+        "explanation": "Dizer que algo é bom ou deve ser feito.",
+        "examples": [
+            {
+                "en": "I recommend this book.",
+                "pt": "Eu recomendo este livro."
+            }
+        ]
+    },
+    "record": {
+        "infinitive": "record",
+        "translation": "gravar, registrar",
+        "forms": {
+            "base": "record",
+            "pastSimple": "recorded",
+            "pastParticiple": "recorded",
+            "presentParticiple": "recording",
+            "thirdPerson": "records"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "tech"
+        ],
+        "related": [
+            "tape",
+            "note"
+        ],
+        "explanation": "Armazenar som ou vídeo, ou escrever informações.",
+        "examples": [
+            {
+                "en": "Record the meeting.",
+                "pt": "Grave a reunião."
+            }
+        ]
+    },
+    "recover": {
+        "infinitive": "recover",
+        "translation": "recuperar",
+        "forms": {
+            "base": "recover",
+            "pastSimple": "recovered",
+            "pastParticiple": "recovered",
+            "presentParticiple": "recovering",
+            "thirdPerson": "recovers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "regain",
+            "heal"
+        ],
+        "explanation": "Ficar bem de novo ou pegar algo de volta.",
+        "examples": [
+            {
+                "en": "Recover the data.",
+                "pt": "Recupere os dados."
+            }
+        ]
+    },
+    "recruit": {
+        "infinitive": "recruit",
+        "translation": "recrutar",
+        "forms": {
+            "base": "recruit",
+            "pastSimple": "recruited",
+            "pastParticiple": "recruited",
+            "presentParticiple": "recruiting",
+            "thirdPerson": "recruits"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hire",
+            "enlist"
+        ],
+        "explanation": "Contratar ou alistar pessoas.",
+        "examples": [
+            {
+                "en": "Recruit new members.",
+                "pt": "Recrute novos membros."
+            }
+        ]
+    },
+    "rectify": {
+        "infinitive": "rectify",
+        "translation": "retificar, corrigir",
+        "forms": {
+            "base": "rectify",
+            "pastSimple": "rectified",
+            "pastParticiple": "rectified",
+            "presentParticiple": "rectifying",
+            "thirdPerson": "rectifies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "correct",
+            "fix"
+        ],
+        "explanation": "Corrigir um erro.",
+        "examples": [
+            {
+                "en": "Rectify the mistake.",
+                "pt": "Retifique o erro."
+            }
+        ]
+    },
+    "redden": {
+        "infinitive": "redden",
+        "translation": "avermelhar",
+        "forms": {
+            "base": "redden",
+            "pastSimple": "reddened",
+            "pastParticiple": "reddened",
+            "presentParticiple": "reddening",
+            "thirdPerson": "reddens"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "blush"
+        ],
+        "explanation": "Tornar ou ficar vermelho.",
+        "examples": [
+            {
+                "en": "His face reddened.",
+                "pt": "O rosto dele avermelhou."
+            }
+        ]
+    },
+    "reduce": {
+        "infinitive": "reduce",
+        "translation": "reduzir",
+        "forms": {
+            "base": "reduce",
+            "pastSimple": "reduced",
+            "pastParticiple": "reduced",
+            "presentParticiple": "reducing",
+            "thirdPerson": "reduces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "decrease",
+            "lower"
+        ],
+        "explanation": "Tornar menor em tamanho ou quantidade.",
+        "examples": [
+            {
+                "en": "Reduce speed.",
+                "pt": "Reduza a velocidade."
+            }
+        ]
+    },
+    "reel": {
+        "infinitive": "reel",
+        "translation": "cambalear, enrolar",
+        "forms": {
+            "base": "reel",
+            "pastSimple": "reeled",
+            "pastParticiple": "reeled",
+            "presentParticiple": "reeling",
+            "thirdPerson": "reels"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "stagger",
+            "wind"
+        ],
+        "explanation": "Perder equilíbrio ou puxar linha.",
+        "examples": [
+            {
+                "en": "He reeled from the punch.",
+                "pt": "Ele cambaleou do soco."
+            }
+        ]
+    },
+    "reflect": {
+        "infinitive": "reflect",
+        "translation": "refletir",
+        "forms": {
+            "base": "reflect",
+            "pastSimple": "reflected",
+            "pastParticiple": "reflected",
+            "presentParticiple": "reflecting",
+            "thirdPerson": "reflects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mirror"
+        ],
+        "explanation": "Devolver luz ou imagem (espelho) ou pensar profundamente.",
+        "examples": [
+            {
+                "en": "The mirror reflects light.",
+                "pt": "O espelho reflete a luz."
+            }
+        ]
+    },
+    "refuse": {
+        "infinitive": "refuse",
+        "translation": "recusar",
+        "forms": {
+            "base": "refuse",
+            "pastSimple": "refused",
+            "pastParticiple": "refused",
+            "presentParticiple": "refusing",
+            "thirdPerson": "refuses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "decline",
+            "reject"
+        ],
+        "explanation": "Dizer não a um pedido ou oferta.",
+        "examples": [
+            {
+                "en": "She refused to go.",
+                "pt": "Ela se recusou a ir."
+            }
+        ]
+    },
+    "regain": {
+        "infinitive": "regain",
+        "translation": "recuperar",
+        "forms": {
+            "base": "regain",
+            "pastSimple": "regained",
+            "pastParticiple": "regained",
+            "presentParticiple": "regaining",
+            "thirdPerson": "regains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "recover",
+            "get back"
+        ],
+        "explanation": "Ter de volta algo perdido.",
+        "examples": [
+            {
+                "en": "Regain consciousness.",
+                "pt": "Recupere a consciência."
+            }
+        ]
+    },
+    "regard": {
+        "infinitive": "regard",
+        "translation": "considerar",
+        "forms": {
+            "base": "regard",
+            "pastSimple": "regarded",
+            "pastParticiple": "regarded",
+            "presentParticiple": "regarding",
+            "thirdPerson": "regards"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "consider"
+        ],
+        "explanation": "Pensar sobre alguém de certa maneira.",
+        "examples": [
+            {
+                "en": "I regard him highly.",
+                "pt": "Tenho grande consideração por ele."
+            }
+        ]
+    },
+    "regret": {
+        "infinitive": "regret",
+        "translation": "arrepender-se, lamentar",
+        "forms": {
+            "base": "regret",
+            "pastSimple": "regretted",
+            "pastParticiple": "regretted",
+            "presentParticiple": "regretting",
+            "thirdPerson": "regrets"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "rue"
+        ],
+        "explanation": "Sentir tristeza por algo que aconteceu ou que você fez.",
+        "examples": [
+            {
+                "en": "I regret saying that.",
+                "pt": "Me arrependo de ter dito aquilo."
+            }
+        ]
+    },
+    "rehearse": {
+        "infinitive": "rehearse",
+        "translation": "ensaiar",
+        "forms": {
+            "base": "rehearse",
+            "pastSimple": "rehearsed",
+            "pastParticiple": "rehearsed",
+            "presentParticiple": "rehearsing",
+            "thirdPerson": "rehearses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "practice"
+        ],
+        "explanation": "Praticar para uma performance.",
+        "examples": [
+            {
+                "en": "Rehearse the play.",
+                "pt": "Ensaie a peça."
+            }
+        ]
+    },
+    "reign": {
+        "infinitive": "reign",
+        "translation": "reinar",
+        "forms": {
+            "base": "reign",
+            "pastSimple": "reigned",
+            "pastParticiple": "reigned",
+            "presentParticiple": "reigning",
+            "thirdPerson": "reigns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "rule"
+        ],
+        "explanation": "Governar como rei ou rainha.",
+        "examples": [
+            {
+                "en": "The king reigned for years.",
+                "pt": "O rei reinou por anos."
+            }
+        ]
+    },
+    "reinforce": {
+        "infinitive": "reinforce",
+        "translation": "reforçar",
+        "forms": {
+            "base": "reinforce",
+            "pastSimple": "reinforced",
+            "pastParticiple": "reinforced",
+            "presentParticiple": "reinforcing",
+            "thirdPerson": "reinforces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "strengthen",
+            "support"
+        ],
+        "explanation": "Tornar mais forte.",
+        "examples": [
+            {
+                "en": "Reinforce the wall.",
+                "pt": "Reforce a parede."
+            }
+        ]
+    },
+    "reject": {
+        "infinitive": "reject",
+        "translation": "rejeitar",
+        "forms": {
+            "base": "reject",
+            "pastSimple": "rejected",
+            "pastParticiple": "rejected",
+            "presentParticiple": "rejecting",
+            "thirdPerson": "rejects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "refuse",
+            "deny"
+        ],
+        "explanation": "Não aceitar algo.",
+        "examples": [
+            {
+                "en": "He rejected the offer.",
+                "pt": "Ele rejeitou a oferta."
+            }
+        ]
+    },
+    "rejoice": {
+        "infinitive": "rejoice",
+        "translation": "regozijar-se, alegrar-se",
+        "forms": {
+            "base": "rejoice",
+            "pastSimple": "rejoiced",
+            "pastParticiple": "rejoiced",
+            "presentParticiple": "rejoicing",
+            "thirdPerson": "rejoices"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "celebrate"
+        ],
+        "explanation": "Sentir ou mostrar grande alegria.",
+        "examples": [
+            {
+                "en": "We rejoiced at the news.",
+                "pt": "Nos alegramos com a notícia."
+            }
+        ]
+    },
+    "relax": {
+        "infinitive": "relax",
+        "translation": "relaxar",
+        "forms": {
+            "base": "relax",
+            "pastSimple": "relaxed",
+            "pastParticiple": "relaxed",
+            "presentParticiple": "relaxing",
+            "thirdPerson": "relaxes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "rest",
+            "chill"
+        ],
+        "explanation": "Descansar e ficar menos tenso.",
+        "examples": [
+            {
+                "en": "Relax and enjoy.",
+                "pt": "Relaxe e aproveite."
+            }
+        ]
+    },
+    "release": {
+        "infinitive": "release",
+        "translation": "liberar, soltar, lançar",
+        "forms": {
+            "base": "release",
+            "pastSimple": "released",
+            "pastParticiple": "released",
+            "presentParticiple": "releasing",
+            "thirdPerson": "releases"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "free",
+            "let go"
+        ],
+        "explanation": "Deixar ir ou tornar disponível ao público.",
+        "examples": [
+            {
+                "en": "They released the movie.",
+                "pt": "Eles lançaram o filme."
+            }
+        ]
+    },
+    "relieve": {
+        "infinitive": "relieve",
+        "translation": "aliviar",
+        "forms": {
+            "base": "relieve",
+            "pastSimple": "relieved",
+            "pastParticiple": "relieved",
+            "presentParticiple": "relieving",
+            "thirdPerson": "relieves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "ease",
+            "soothe"
+        ],
+        "explanation": "Reduzir dor ou problema.",
+        "examples": [
+            {
+                "en": "Medicine relieves pain.",
+                "pt": "Remédio alivia a dor."
+            }
+        ]
+    },
+    "relish": {
+        "infinitive": "relish",
+        "translation": "apreciar, saborear",
+        "forms": {
+            "base": "relish",
+            "pastSimple": "relished",
+            "pastParticiple": "relished",
+            "presentParticiple": "relishing",
+            "thirdPerson": "relishes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "enjoy",
+            "savor"
+        ],
+        "explanation": "Gostar muito de algo.",
+        "examples": [
+            {
+                "en": "He relished the challenge.",
+                "pt": "Ele apreciou o desafio."
+            }
+        ]
+    },
+    "rely": {
+        "infinitive": "rely",
+        "translation": "confiar, depender",
+        "forms": {
+            "base": "rely",
+            "pastSimple": "relied",
+            "pastParticiple": "relied",
+            "presentParticiple": "relying",
+            "thirdPerson": "relies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "depend",
+            "trust"
+        ],
+        "explanation": "Precisar de alguém ou confiar em algo.",
+        "examples": [
+            {
+                "en": "You can rely on me.",
+                "pt": "Você pode contar comigo."
+            }
+        ]
+    },
+    "remain": {
+        "infinitive": "remain",
+        "translation": "permanecer",
+        "forms": {
+            "base": "remain",
+            "pastSimple": "remained",
+            "pastParticiple": "remained",
+            "presentParticiple": "remaining",
+            "thirdPerson": "remains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "stay"
+        ],
+        "explanation": "Continuar no mesmo lugar ou estado.",
+        "examples": [
+            {
+                "en": "Please remain seated.",
+                "pt": "Por favor, permaneça sentado."
+            }
+        ]
+    },
+    "remember": {
+        "infinitive": "remember",
+        "translation": "lembrar",
+        "forms": {
+            "base": "remember",
+            "pastSimple": "remembered",
+            "pastParticiple": "remembered",
+            "presentParticiple": "remembering",
+            "thirdPerson": "remembers"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "recall"
+        ],
+        "explanation": "Ter a memória de algo ou não esquecer.",
+        "examples": [
+            {
+                "en": "I remember you.",
+                "pt": "Eu lembro de você."
+            }
+        ]
+    },
+    "remind": {
+        "infinitive": "remind",
+        "translation": "lembrar (alguém)",
+        "forms": {
+            "base": "remind",
+            "pastSimple": "reminded",
+            "pastParticiple": "reminded",
+            "presentParticiple": "reminding",
+            "thirdPerson": "reminds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Fazer alguém lembrar de algo.",
+        "examples": [
+            {
+                "en": "Remind me to call.",
+                "pt": "Me lembre de ligar."
+            }
+        ]
+    },
+    "remove": {
+        "infinitive": "remove",
+        "translation": "remover",
+        "forms": {
+            "base": "remove",
+            "pastSimple": "removed",
+            "pastParticiple": "removed",
+            "presentParticiple": "removing",
+            "thirdPerson": "removes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "take away",
+            "delete"
+        ],
+        "explanation": "Tirar algo de um lugar.",
+        "examples": [
+            {
+                "en": "Remove your shoes.",
+                "pt": "Tire seus sapatos."
+            }
+        ]
+    },
+    "rent": {
+        "infinitive": "rent",
+        "translation": "alugar",
+        "forms": {
+            "base": "rent",
+            "pastSimple": "rented",
+            "pastParticiple": "rented",
+            "presentParticiple": "renting",
+            "thirdPerson": "rents"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "lease",
+            "hire"
+        ],
+        "explanation": "Pagar para usar algo temp.",
+        "examples": [
+            {
+                "en": "Rent a car.",
+                "pt": "Alugue um carro."
+            }
+        ]
+    },
+    "repair": {
+        "infinitive": "repair",
+        "translation": "consertar, reparar",
+        "forms": {
+            "base": "repair",
+            "pastSimple": "repaired",
+            "pastParticiple": "repaired",
+            "presentParticiple": "repairing",
+            "thirdPerson": "repairs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "fix",
+            "mend"
+        ],
+        "explanation": "Arrumar algo quebrado.",
+        "examples": [
+            {
+                "en": "He repaired the car.",
+                "pt": "Ele consertou o carro."
+            }
+        ]
+    },
+    "repeat": {
+        "infinitive": "repeat",
+        "translation": "repetir",
+        "forms": {
+            "base": "repeat",
+            "pastSimple": "repeated",
+            "pastParticiple": "repeated",
+            "presentParticiple": "repeating",
+            "thirdPerson": "repeats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "say again"
+        ],
+        "explanation": "Dizer ou fazer novamente.",
+        "examples": [
+            {
+                "en": "Can you repeat that?",
+                "pt": "Você pode repetir isso?"
+            }
+        ]
+    },
+    "replace": {
+        "infinitive": "replace",
+        "translation": "substituir",
+        "forms": {
+            "base": "replace",
+            "pastSimple": "replaced",
+            "pastParticiple": "replaced",
+            "presentParticiple": "replacing",
+            "thirdPerson": "replaces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "substitute"
+        ],
+        "explanation": "Colocar algo no lugar de outra coisa.",
+        "examples": [
+            {
+                "en": "Replace the battery.",
+                "pt": "Troque a bateria."
+            }
+        ]
+    },
+    "reply": {
+        "infinitive": "reply",
+        "translation": "responder",
+        "forms": {
+            "base": "reply",
+            "pastSimple": "replied",
+            "pastParticiple": "replied",
+            "presentParticiple": "replying",
+            "thirdPerson": "replies"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "answer",
+            "respond"
+        ],
+        "explanation": "Dizer ou escrever algo como resposta.",
+        "examples": [
+            {
+                "en": "She didn't reply.",
+                "pt": "Ela não respondeu."
+            }
+        ]
+    },
+    "report": {
+        "infinitive": "report",
+        "translation": "relatar, denunciar",
+        "forms": {
+            "base": "report",
+            "pastSimple": "reported",
+            "pastParticiple": "reported",
+            "presentParticiple": "reporting",
+            "thirdPerson": "reports"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tell"
+        ],
+        "explanation": "Dar informações sobre algo ou contar às autoridades.",
+        "examples": [
+            {
+                "en": "Report the incident.",
+                "pt": "Relate o incidente."
+            }
+        ]
+    },
+    "repress": {
+        "infinitive": "repress",
+        "translation": "reprimir",
+        "forms": {
+            "base": "repress",
+            "pastSimple": "repressed",
+            "pastParticiple": "repressed",
+            "presentParticiple": "repressing",
+            "thirdPerson": "represses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "suppress",
+            "hold back"
+        ],
+        "explanation": "Controlar emoção ou rebelião.",
+        "examples": [
+            {
+                "en": "Repress angry feelings.",
+                "pt": "Reprima sentimentos de raiva."
+            }
+        ]
+    },
+    "reprimand": {
+        "infinitive": "reprimand",
+        "translation": "repreender",
+        "forms": {
+            "base": "reprimand",
+            "pastSimple": "reprimanded",
+            "pastParticiple": "reprimanded",
+            "presentParticiple": "reprimanding",
+            "thirdPerson": "reprimands"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "rebuke",
+            "scold"
+        ],
+        "explanation": "Dar bronca oficial.",
+        "examples": [
+            {
+                "en": "Reprimand the employee.",
+                "pt": "Repreenda o funcionário."
+            }
+        ]
+    },
+    "reproduce": {
+        "infinitive": "reproduce",
+        "translation": "reproduzir",
+        "forms": {
+            "base": "reproduce",
+            "pastSimple": "reproduced",
+            "pastParticiple": "reproduced",
+            "presentParticiple": "reproducing",
+            "thirdPerson": "reproduces"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "copy",
+            "breed"
+        ],
+        "explanation": "Fazer uma cópia ou gerar descendentes.",
+        "examples": [
+            {
+                "en": "Bacteria reproduce quickly.",
+                "pt": "Bactérias se reproduzem rapidamente."
+            }
+        ]
+    },
+    "reprove": {
+        "infinitive": "reprove",
+        "translation": "repreender",
+        "forms": {
+            "base": "reprove",
+            "pastSimple": "reproved",
+            "pastParticiple": "reproven, reproved",
+            "presentParticiple": "reproving",
+            "thirdPerson": "reproves"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "formal"
+        ],
+        "related": [
+            "scold"
+        ],
+        "explanation": "Criticar ou corrigir alguém.",
+        "examples": [
+            {
+                "en": "He reproved her behavior.",
+                "pt": "Ele repreendeu o comportamento dela."
+            }
+        ]
+    },
+    "request": {
+        "infinitive": "request",
+        "translation": "solicitar",
+        "forms": {
+            "base": "request",
+            "pastSimple": "requested",
+            "pastParticiple": "requested",
+            "presentParticiple": "requesting",
+            "thirdPerson": "requests"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "ask"
+        ],
+        "explanation": "Pedir algo formalmente.",
+        "examples": [
+            {
+                "en": "I requested a refund.",
+                "pt": "Solicitei um reembolso."
+            }
+        ]
+    },
+    "require": {
+        "infinitive": "require",
+        "translation": "requerer, exigir",
+        "forms": {
+            "base": "require",
+            "pastSimple": "required",
+            "pastParticiple": "required",
+            "presentParticiple": "requiring",
+            "thirdPerson": "requires"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "formal"
+        ],
+        "related": [
+            "need"
+        ],
+        "explanation": "Precisar de algo ou tornar obrigatório.",
+        "examples": [
+            {
+                "en": "It requires patience.",
+                "pt": "Isso requer paciência."
+            }
+        ]
+    },
+    "rescue": {
+        "infinitive": "rescue",
+        "translation": "resgatar, salvar",
+        "forms": {
+            "base": "rescue",
+            "pastSimple": "rescued",
+            "pastParticiple": "rescued",
+            "presentParticiple": "rescuing",
+            "thirdPerson": "rescues"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "save"
+        ],
+        "explanation": "Salvar de perigo.",
+        "examples": [
+            {
+                "en": "Firefighters rescued the cat.",
+                "pt": "Bombeiros resgataram o gato."
+            }
+        ]
+    },
+    "research": {
+        "infinitive": "research",
+        "translation": "pesquisar",
+        "forms": {
+            "base": "research",
+            "pastSimple": "researched",
+            "pastParticiple": "researched",
+            "presentParticiple": "researching",
+            "thirdPerson": "researches"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "investigate",
+            "study"
+        ],
+        "explanation": "Estudar detalhadamente.",
+        "examples": [
+            {
+                "en": "Research the topic.",
+                "pt": "Pesquise o tópico."
+            }
+        ]
+    },
+    "reserve": {
+        "infinitive": "reserve",
+        "translation": "reservar",
+        "forms": {
+            "base": "reserve",
+            "pastSimple": "reserved",
+            "pastParticiple": "reserved",
+            "presentParticiple": "reserving",
+            "thirdPerson": "reserves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "book",
+            "keep"
+        ],
+        "explanation": "Guardar para uso futuro.",
+        "examples": [
+            {
+                "en": "Reserve a table.",
+                "pt": "Reserve uma mesa."
+            }
+        ]
+    },
+    "reside": {
+        "infinitive": "reside",
+        "translation": "residir",
+        "forms": {
+            "base": "reside",
+            "pastSimple": "resided",
+            "pastParticiple": "resided",
+            "presentParticiple": "residing",
+            "thirdPerson": "resides"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "live",
+            "dwell"
+        ],
+        "explanation": "Morar em um lugar.",
+        "examples": [
+            {
+                "en": "He resides in London.",
+                "pt": "Ele reside em Londres."
+            }
+        ]
+    },
+    "resist": {
+        "infinitive": "resist",
+        "translation": "resistir",
+        "forms": {
+            "base": "resist",
+            "pastSimple": "resisted",
+            "pastParticiple": "resisted",
+            "presentParticiple": "resisting",
+            "thirdPerson": "resists"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "oppose",
+            "withstand"
+        ],
+        "explanation": "Lutar contra ou não aceitar.",
+        "examples": [
+            {
+                "en": "Resist temptation.",
+                "pt": "Resista à tentação."
+            }
+        ]
+    },
+    "resolve": {
+        "infinitive": "resolve",
+        "translation": "resolver",
+        "forms": {
+            "base": "resolve",
+            "pastSimple": "resolved",
+            "pastParticiple": "resolved",
+            "presentParticiple": "resolving",
+            "thirdPerson": "resolves"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "solve",
+            "settle"
+        ],
+        "explanation": "Encontrar solução.",
+        "examples": [
+            {
+                "en": "Resolve the issue.",
+                "pt": "Resolva o problema."
+            }
+        ]
+    },
+    "respect": {
+        "infinitive": "respect",
+        "translation": "respeitar",
+        "forms": {
+            "base": "respect",
+            "pastSimple": "respected",
+            "pastParticiple": "respected",
+            "presentParticiple": "respecting",
+            "thirdPerson": "respects"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "honor",
+            "admire"
+        ],
+        "explanation": "Ter boa opinião ou seguir regras.",
+        "examples": [
+            {
+                "en": "Respect your elders.",
+                "pt": "Respeite os mais velhos."
+            }
+        ]
+    },
+    "respond": {
+        "infinitive": "respond",
+        "translation": "responder",
+        "forms": {
+            "base": "respond",
+            "pastSimple": "responded",
+            "pastParticiple": "responded",
+            "presentParticiple": "responding",
+            "thirdPerson": "responds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "answer",
+            "reply"
+        ],
+        "explanation": "Dizer ou fazer algo em resposta.",
+        "examples": [
+            {
+                "en": "Respond quickly.",
+                "pt": "Responda rápido."
+            }
+        ]
+    },
+    "rest": {
+        "infinitive": "rest",
+        "translation": "descansar",
+        "forms": {
+            "base": "rest",
+            "pastSimple": "rested",
+            "pastParticiple": "rested",
+            "presentParticiple": "resting",
+            "thirdPerson": "rests"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "relax"
+        ],
+        "explanation": "Parar de trabalhar para relaxar.",
+        "examples": [
+            {
+                "en": "Rest a while.",
+                "pt": "Descanse um pouco."
+            }
+        ]
+    },
+    "restrain": {
+        "infinitive": "restrain",
+        "translation": "restringir, conter",
+        "forms": {
+            "base": "restrain",
+            "pastSimple": "restrained",
+            "pastParticiple": "restrained",
+            "presentParticiple": "restraining",
+            "thirdPerson": "restrains"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hold back",
+            "limit"
+        ],
+        "explanation": "Segurar para não fazer algo.",
+        "examples": [
+            {
+                "en": "Restrain the prisoner.",
+                "pt": "Contenha o prisioneiro."
+            }
+        ]
+    },
+    "retire": {
+        "infinitive": "retire",
+        "translation": "aposentar-se",
+        "forms": {
+            "base": "retire",
+            "pastSimple": "retired",
+            "pastParticiple": "retired",
+            "presentParticiple": "retiring",
+            "thirdPerson": "retires"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Parar de trabalhar por idade.",
+        "examples": [
+            {
+                "en": "He retired at 65.",
+                "pt": "Ele se aposentou aos 65."
+            }
+        ]
+    },
+    "retreat": {
+        "infinitive": "retreat",
+        "translation": "recuar",
+        "forms": {
+            "base": "retreat",
+            "pastSimple": "retreated",
+            "pastParticiple": "retreated",
+            "presentParticiple": "retreating",
+            "thirdPerson": "retreats"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "withdraw",
+            "pull back"
+        ],
+        "explanation": "Mover-se para trás, fugir.",
+        "examples": [
+            {
+                "en": "The army retreated.",
+                "pt": "O exército recuou."
+            }
+        ]
+    },
+    "return": {
+        "infinitive": "return",
+        "translation": "retornar, devolver",
+        "forms": {
+            "base": "return",
+            "pastSimple": "returned",
+            "pastParticiple": "returned",
+            "presentParticiple": "returning",
+            "thirdPerson": "returns"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "essential"
+        ],
+        "related": [
+            "come back",
+            "go back"
+        ],
+        "explanation": "Voltar a um lugar ou devolver algo.",
+        "examples": [
+            {
+                "en": "I will return soon.",
+                "pt": "Eu voltarei em breve."
+            }
+        ]
+    },
+    "reveal": {
+        "infinitive": "reveal",
+        "translation": "revelar",
+        "forms": {
+            "base": "reveal",
+            "pastSimple": "revealed",
+            "pastParticiple": "revealed",
+            "presentParticiple": "revealing",
+            "thirdPerson": "reveals"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "disclose",
+            "show"
+        ],
+        "explanation": "Tornar conhecido algo secreto.",
+        "examples": [
+            {
+                "en": "He revealed the truth.",
+                "pt": "Ele revelou a verdade."
+            }
+        ]
+    },
+    "reverse": {
+        "infinitive": "reverse",
+        "translation": "reverter, dar ré",
+        "forms": {
+            "base": "reverse",
+            "pastSimple": "reversed",
+            "pastParticiple": "reversed",
+            "presentParticiple": "reversing",
+            "thirdPerson": "reverses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "back up",
+            "turn around"
+        ],
+        "explanation": "Mudar para a direção oposta.",
+        "examples": [
+            {
+                "en": "Reverse the car.",
+                "pt": "Dê ré no carro."
+            }
+        ]
+    },
+    "review": {
+        "infinitive": "review",
+        "translation": "revisar, avaliar",
+        "forms": {
+            "base": "review",
+            "pastSimple": "reviewed",
+            "pastParticiple": "reviewed",
+            "presentParticiple": "reviewing",
+            "thirdPerson": "reviews"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "revise",
+            "evaluate"
+        ],
+        "explanation": "Olhar novamente ou criticar obra.",
+        "examples": [
+            {
+                "en": "Review the report.",
+                "pt": "Revise o relatório."
+            }
+        ]
+    },
+    "revise": {
+        "infinitive": "revise",
+        "translation": "revisar",
+        "forms": {
+            "base": "revise",
+            "pastSimple": "revised",
+            "pastParticiple": "revised",
+            "presentParticiple": "revising",
+            "thirdPerson": "revises"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "review",
+            "edit"
+        ],
+        "explanation": "Ler de novo para corrigir ou estudar.",
+        "examples": [
+            {
+                "en": "Revise for the exam.",
+                "pt": "Revise para a prova."
+            }
+        ]
+    },
+    "reward": {
+        "infinitive": "reward",
+        "translation": "recompensar",
+        "forms": {
+            "base": "reward",
+            "pastSimple": "rewarded",
+            "pastParticiple": "rewarded",
+            "presentParticiple": "rewarding",
+            "thirdPerson": "rewards"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "compensate"
+        ],
+        "explanation": "Dar algo em troca de bom comportamento.",
+        "examples": [
+            {
+                "en": "Reward good work.",
+                "pt": "Recompense o bom trabalho."
+            }
+        ]
+    },
+    "rhyme": {
+        "infinitive": "rhyme",
+        "translation": "rimar",
+        "forms": {
+            "base": "rhyme",
+            "pastSimple": "rhymed",
+            "pastParticiple": "rhymed",
+            "presentParticiple": "rhyming",
+            "thirdPerson": "rhymes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Ter sons finais iguais.",
+        "examples": [
+            {
+                "en": "Cat rhymes with hat.",
+                "pt": "Gato rima com chapéu (em inglês)."
+            }
+        ]
+    },
+    "rid": {
+        "infinitive": "rid",
+        "translation": "livrar",
+        "forms": {
+            "base": "rid",
+            "pastSimple": "rid",
+            "pastParticiple": "rid",
+            "presentParticiple": "ridding",
+            "thirdPerson": "rids"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "free"
+        ],
+        "explanation": "Libertar ou remover algo indesejado (geralmente 'get rid of').",
+        "examples": [
+            {
+                "en": "Get rid of it.",
+                "pt": "Livre-se disso."
+            }
+        ]
+    },
+    "ride": {
+        "infinitive": "ride",
+        "translation": "andar (de veículo), montar",
+        "forms": {
+            "base": "ride",
+            "pastSimple": "rode",
+            "pastParticiple": "ridden",
+            "presentParticiple": "riding",
+            "thirdPerson": "rides"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "common"
+        ],
+        "related": [],
+        "explanation": "Viajar em cima de um animal ou veículo (bicicleta, moto).",
+        "examples": [
+            {
+                "en": "Ride a bike.",
+                "pt": "Andar de bicicleta."
+            }
+        ]
+    },
+    "ridicule": {
+        "infinitive": "ridicule",
+        "translation": "ridicularizar",
+        "forms": {
+            "base": "ridicule",
+            "pastSimple": "ridiculed",
+            "pastParticiple": "ridiculed",
+            "presentParticiple": "ridiculing",
+            "thirdPerson": "ridicules"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "mock",
+            "laugh at"
+        ],
+        "explanation": "Rir de alguém de forma maldosa.",
+        "examples": [
+            {
+                "en": "Don't ridicule him.",
+                "pt": "Não ridicularize ele."
+            }
+        ]
+    },
+    "ring": {
+        "infinitive": "ring",
+        "translation": "tocar, ligar",
+        "forms": {
+            "base": "ring",
+            "pastSimple": "rang",
+            "pastParticiple": "rung",
+            "presentParticiple": "ringing",
+            "thirdPerson": "rings"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "call"
+        ],
+        "explanation": "Fazer som (sino/telefone) ou telefonar.",
+        "examples": [
+            {
+                "en": "The phone rang.",
+                "pt": "O telefone tocou."
+            },
+            {
+                "en": "Ring me later.",
+                "pt": "Me ligue mais tarde."
+            }
+        ]
+    },
+    "rinse": {
+        "infinitive": "rinse",
+        "translation": "enxaguar",
+        "forms": {
+            "base": "rinse",
+            "pastSimple": "rinsed",
+            "pastParticiple": "rinsed",
+            "presentParticiple": "rinsing",
+            "thirdPerson": "rinses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wash"
+        ],
+        "explanation": "Lavar levemente com água.",
+        "examples": [
+            {
+                "en": "Rinse your hair.",
+                "pt": "Enxágue seu cabelo."
+            }
+        ]
+    },
+    "rip": {
+        "infinitive": "rip",
+        "translation": "rasgar",
+        "forms": {
+            "base": "rip",
+            "pastSimple": "ripped",
+            "pastParticiple": "ripped",
+            "presentParticiple": "ripping",
+            "thirdPerson": "rips"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "tear",
+            "shred"
+        ],
+        "explanation": "Puxar algo para separar.",
+        "examples": [
+            {
+                "en": "Rip the paper.",
+                "pt": "Rasgue o papel."
+            }
+        ]
+    },
+    "rise": {
+        "infinitive": "rise",
+        "translation": "subir, levantar-se",
+        "forms": {
+            "base": "rise",
+            "pastSimple": "rose",
+            "pastParticiple": "risen",
+            "presentParticiple": "rising",
+            "thirdPerson": "rises"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular"
+        ],
+        "related": [
+            "go up",
+            "ascend"
+        ],
+        "explanation": "Mover-se para cima (Intransitivo - o sujeito sobe sozinho).",
+        "examples": [
+            {
+                "en": "The sun rises.",
+                "pt": "O sol nasce (sobe)."
+            }
+        ]
+    },
+    "risk": {
+        "infinitive": "risk",
+        "translation": "arriscar",
+        "forms": {
+            "base": "risk",
+            "pastSimple": "risked",
+            "pastParticiple": "risked",
+            "presentParticiple": "risking",
+            "thirdPerson": "risks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "danger"
+        ],
+        "explanation": "Colocar em perigo ou tentar algo incerto.",
+        "examples": [
+            {
+                "en": "Don't risk it.",
+                "pt": "Não arrisque."
+            }
+        ]
+    },
+    "rive": {
+        "infinitive": "rive",
+        "translation": "fender, rachar",
+        "forms": {
+            "base": "rive",
+            "pastSimple": "rived",
+            "pastParticiple": "riven",
+            "presentParticiple": "riving",
+            "thirdPerson": "rives"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "archaic"
+        ],
+        "related": [
+            "split"
+        ],
+        "explanation": "Partir à força.",
+        "examples": [
+            {
+                "en": "The wood was riven.",
+                "pt": "A madeira foi rachada."
+            }
+        ]
+    },
+    "roam": {
+        "infinitive": "roam",
+        "translation": "vagar",
+        "forms": {
+            "base": "roam",
+            "pastSimple": "roamed",
+            "pastParticiple": "roamed",
+            "presentParticiple": "roaming",
+            "thirdPerson": "roams"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wander",
+            "travel"
+        ],
+        "explanation": "Andar sem destino fixo.",
+        "examples": [
+            {
+                "en": "Roam the world.",
+                "pt": "Vague pelo mundo."
+            }
+        ]
+    },
+    "roast": {
+        "infinitive": "roast",
+        "translation": "assar (carne/legumes)",
+        "forms": {
+            "base": "roast",
+            "pastSimple": "roasted",
+            "pastParticiple": "roasted",
+            "presentParticiple": "roasting",
+            "thirdPerson": "roasts"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "bake",
+            "cook"
+        ],
+        "explanation": "Cozinhar em forno ou fogo.",
+        "examples": [
+            {
+                "en": "Roast the chicken.",
+                "pt": "Asse o frango."
+            }
+        ]
+    },
+    "rob": {
+        "infinitive": "rob",
+        "translation": "roubar",
+        "forms": {
+            "base": "rob",
+            "pastSimple": "robbed",
+            "pastParticiple": "robbed",
+            "presentParticiple": "robbing",
+            "thirdPerson": "robs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "steal"
+        ],
+        "explanation": "Tirar algo de alguém à força.",
+        "examples": [
+            {
+                "en": "They robbed the bank.",
+                "pt": "Eles roubaram o banco."
+            }
+        ]
+    },
+    "rock": {
+        "infinitive": "rock",
+        "translation": "balançar",
+        "forms": {
+            "base": "rock",
+            "pastSimple": "rocked",
+            "pastParticiple": "rocked",
+            "presentParticiple": "rocking",
+            "thirdPerson": "rocks"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "shake"
+        ],
+        "explanation": "Mover suavemente de um lado para o outro.",
+        "examples": [
+            {
+                "en": "She rocked the baby.",
+                "pt": "Ela balançou o bebê."
+            }
+        ]
+    },
+    "roll": {
+        "infinitive": "roll",
+        "translation": "rolar",
+        "forms": {
+            "base": "roll",
+            "pastSimple": "rolled",
+            "pastParticiple": "rolled",
+            "presentParticiple": "rolling",
+            "thirdPerson": "rolls"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Mover-se girando.",
+        "examples": [
+            {
+                "en": "The ball rolled away.",
+                "pt": "A bola rolou para longe."
+            }
+        ]
+    },
+    "rot": {
+        "infinitive": "rot",
+        "translation": "apodrecer",
+        "forms": {
+            "base": "rot",
+            "pastSimple": "rotted",
+            "pastParticiple": "rotted",
+            "presentParticiple": "rotting",
+            "thirdPerson": "rots"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "decay"
+        ],
+        "explanation": "Estragar organicamente.",
+        "examples": [
+            {
+                "en": "The fruit is rotting.",
+                "pt": "A fruta está apodrecendo."
+            }
+        ]
+    },
+    "rotate": {
+        "infinitive": "rotate",
+        "translation": "rotacionar, girar",
+        "forms": {
+            "base": "rotate",
+            "pastSimple": "rotated",
+            "pastParticiple": "rotated",
+            "presentParticiple": "rotating",
+            "thirdPerson": "rotates"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "turn",
+            "spin"
+        ],
+        "explanation": "Mover em círculo.",
+        "examples": [
+            {
+                "en": "Rotate the wheel.",
+                "pt": "Gire a roda."
+            }
+        ]
+    },
+    "round": {
+        "infinitive": "round",
+        "translation": "arredondar, contornar",
+        "forms": {
+            "base": "round",
+            "pastSimple": "rounded",
+            "pastParticiple": "rounded",
+            "presentParticiple": "rounding",
+            "thirdPerson": "rounds"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Tornar redondo ou passar ao redor.",
+        "examples": [
+            {
+                "en": "Round the number.",
+                "pt": "Arredonde o número."
+            }
+        ]
+    },
+    "rouse": {
+        "infinitive": "rouse",
+        "translation": "despertar, provocar",
+        "forms": {
+            "base": "rouse",
+            "pastSimple": "roused",
+            "pastParticiple": "roused",
+            "presentParticiple": "rousing",
+            "thirdPerson": "rouses"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "wake",
+            "stir"
+        ],
+        "explanation": "Acordar alguém ou incitar.",
+        "examples": [
+            {
+                "en": "Rouse the crowd.",
+                "pt": "Desperte a multidão."
+            }
+        ]
+    },
+    "row": {
+        "infinitive": "row",
+        "translation": "remar",
+        "forms": {
+            "base": "row",
+            "pastSimple": "rowed",
+            "pastParticiple": "rowed",
+            "presentParticiple": "rowing",
+            "thirdPerson": "rows"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "paddle"
+        ],
+        "explanation": "Mover barco com remos.",
+        "examples": [
+            {
+                "en": "Row the boat.",
+                "pt": "Reme o barco."
+            }
+        ]
+    },
+    "rub": {
+        "infinitive": "rub",
+        "translation": "esfregar",
+        "forms": {
+            "base": "rub",
+            "pastSimple": "rubbed",
+            "pastParticiple": "rubbed",
+            "presentParticiple": "rubbing",
+            "thirdPerson": "rubs"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [],
+        "explanation": "Passar a mão ou objeto repetidamente sobre superfície.",
+        "examples": [
+            {
+                "en": "Rub your eyes.",
+                "pt": "Esfregue seus olhos."
+            }
+        ]
+    },
+    "rub out": {
+        "infinitive": "rub out",
+        "translation": "apagar",
+        "forms": {
+            "base": "rub out",
+            "pastSimple": "rubbed out",
+            "pastParticiple": "rubbed out",
+            "presentParticiple": "rubbing out",
+            "thirdPerson": "rubs out"
+        },
+        "irregular": false,
+        "tags": [
+            "regular",
+            "phrasal"
+        ],
+        "related": [
+            "erase"
+        ],
+        "explanation": "Remover marca esfregando.",
+        "examples": [
+            {
+                "en": "Rub out the drawing.",
+                "pt": "Apague o desenho."
+            }
+        ]
+    },
+    "rue": {
+        "infinitive": "rue",
+        "translation": "lamentar, arrepender-se",
+        "forms": {
+            "base": "rue",
+            "pastSimple": "rued",
+            "pastParticiple": "rued",
+            "presentParticiple": "ruing",
+            "thirdPerson": "rues"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "regret"
+        ],
+        "explanation": "Sentir arrependimento amargo.",
+        "examples": [
+            {
+                "en": "You will rue this day.",
+                "pt": "Você vai lamentar este dia."
+            }
+        ]
+    },
+    "ruin": {
+        "infinitive": "ruin",
+        "translation": "arruinar",
+        "forms": {
+            "base": "ruin",
+            "pastSimple": "ruined",
+            "pastParticiple": "ruined",
+            "presentParticiple": "ruining",
+            "thirdPerson": "ruins"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "destroy",
+            "spoil"
+        ],
+        "explanation": "Destruir ou estragar completamente.",
+        "examples": [
+            {
+                "en": "Rain ruined the party.",
+                "pt": "A chuva arruinou a festa."
+            }
+        ]
+    },
+    "rule": {
+        "infinitive": "rule",
+        "translation": "governar",
+        "forms": {
+            "base": "rule",
+            "pastSimple": "ruled",
+            "pastParticiple": "ruled",
+            "presentParticiple": "ruling",
+            "thirdPerson": "rules"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "govern"
+        ],
+        "explanation": "Exercer autoridade.",
+        "examples": [
+            {
+                "en": "She rules with kindness.",
+                "pt": "Ela governa com bondade."
+            }
+        ]
+    },
+    "run": {
+        "infinitive": "run",
+        "translation": "correr",
+        "forms": {
+            "base": "run",
+            "pastSimple": "ran",
+            "pastParticiple": "run",
+            "presentParticiple": "running",
+            "thirdPerson": "runs"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "essential"
+        ],
+        "related": [
+            "jog",
+            "sprint"
+        ],
+        "explanation": "Mover-se rapidamente a pé.",
+        "examples": [
+            {
+                "en": "I run every morning.",
+                "pt": "Eu corro toda manhã."
+            }
+        ]
+    },
+    "run after": {
+        "infinitive": "run after",
+        "translation": "correr atrás",
+        "forms": {
+            "base": "run after",
+            "pastSimple": "ran after",
+            "pastParticiple": "run after",
+            "presentParticiple": "running after",
+            "thirdPerson": "runs after"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "chase",
+            "pursue"
+        ],
+        "explanation": "Perseguir correndo.",
+        "examples": [
+            {
+                "en": "The dog ran after the ball.",
+                "pt": "O cachorro correu atrás da bola."
+            }
+        ]
+    },
+    "run away": {
+        "infinitive": "run away",
+        "translation": "fugir",
+        "forms": {
+            "base": "run away",
+            "pastSimple": "ran away",
+            "pastParticiple": "run away",
+            "presentParticiple": "running away",
+            "thirdPerson": "runs away"
+        },
+        "irregular": true,
+        "tags": [
+            "irregular",
+            "phrasal"
+        ],
+        "related": [
+            "flee",
+            "escape"
+        ],
+        "explanation": "Sair correndo para escapar.",
+        "examples": [
+            {
+                "en": "Run away!",
+                "pt": "Fuja!"
+            }
+        ]
+    },
+    "rush": {
+        "infinitive": "rush",
+        "translation": "apressar-se",
+        "forms": {
+            "base": "rush",
+            "pastSimple": "rushed",
+            "pastParticiple": "rushed",
+            "presentParticiple": "rushing",
+            "thirdPerson": "rushes"
+        },
+        "irregular": false,
+        "tags": [
+            "regular"
+        ],
+        "related": [
+            "hurry"
+        ],
+        "explanation": "Fazer algo com muita pressa.",
+        "examples": [
+            {
+                "en": "Don't rush.",
+                "pt": "Não tenha pressa."
+            }
+        ]
+    }
+}
