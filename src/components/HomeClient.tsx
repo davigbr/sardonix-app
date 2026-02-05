@@ -118,8 +118,17 @@ function HomeContent({ initialVerbs }: HomeClientProps) {
         <>
             <header className="header">
                 <div className="header-content">
+                    import Image from "next/image"; // Add import top
+                    ...
                     <div className="logo">
-                        <img src="/assets/icons/owl.png" alt="Sardonix Logo" className="logo-icon-img" />
+                        <Image
+                            src="/assets/icons/owl.png"
+                            alt="Sardonix Logo"
+                            width={50}
+                            height={50}
+                            className="logo-icon-img"
+                            unoptimized // explicit opt-out if needed, but global config handles it
+                        />
                         <div className="logo-text">
                             <h1>English Verbs</h1>
                             <span className="logo-subtitle">por Sardonix Idiomas</span>
