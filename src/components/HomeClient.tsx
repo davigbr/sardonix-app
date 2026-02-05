@@ -10,7 +10,7 @@ import VerbGrid from "./VerbGrid";
 import VerbModal from "./VerbModal";
 import GuideModal from "./GuideModal";
 import SettingsModal from "./SettingsModal";
-import { Settings, BookOpen } from "lucide-react";
+import { Settings, BookOpen, Gamepad2 } from "lucide-react";
 import { TTS } from "@/utils/tts";
 import { useFavorites } from "@/hooks/useFavorites";
 
@@ -134,6 +134,13 @@ function HomeContent({ initialVerbs }: HomeClientProps) {
                         </div>
                     </div>
                     <div className="header-actions">
+                        <button
+                            className="settings-btn"
+                            onClick={() => router.push('/practice')}
+                            aria-label="Praticar"
+                        >
+                            <Gamepad2 size={24} />
+                        </button>
                         <button className="settings-btn" onClick={() => setShowGuide(true)} aria-label="Abrir Guia">
                             <BookOpen size={24} />
                         </button>
