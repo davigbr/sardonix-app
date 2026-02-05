@@ -18,9 +18,41 @@ const App = {
         favorites: false
     },
 
+    saveFilters() {
+        localStorage.setItem('sardonix_filters', JSON.stringify(this.filters));
+    },
+
+    loadFilters() {
+        const stored = localStorage.getItem('sardonix_filters');
+        if (stored) {
+            try {
+                this.filters = { ...this.filters, ...JSON.parse(stored) };
+
+                // Restore UI
+                if (this.elements.typeFilters) {
+                    this.elements.typeFilters.querySelectorAll('.filter-chip').forEach(btn => {
+                        btn.classList.toggle('active', btn.dataset.type === this.filters.type);
+                    });
+                }
+
+                if (this.elements.phrasalFilterBtn) {
+                    this.elements.phrasalFilterBtn.classList.toggle('active', this.filters.phrasal);
+                }
+
+                if (this.elements.favoriteFilterBtn) {
+                    this.elements.favoriteFilterBtn.classList.toggle('active', this.filters.favorites);
+                }
+
+            } catch (e) {
+                console.error('Failed to load filters', e);
+            }
+        }
+    },
+
     async init() {
         console.log('App v3.0 - Full JSON Migration');
         this.cacheElements();
+        this.loadFilters();
 
         // Initialize Favorites
         Favorites.init();
@@ -245,6 +277,7 @@ const App = {
 
                 // Update State and Search/Refresh
                 this.filters.type = e.target.dataset.type;
+                this.saveFilters();
                 this.triggerRefresh();
             }
         });
@@ -253,6 +286,7 @@ const App = {
         this.elements.phrasalFilterBtn.addEventListener('click', () => {
             this.filters.phrasal = !this.filters.phrasal;
             this.elements.phrasalFilterBtn.classList.toggle('active', this.filters.phrasal);
+            this.saveFilters();
             this.triggerRefresh();
         });
 
@@ -260,6 +294,7 @@ const App = {
         this.elements.favoriteFilterBtn.addEventListener('click', () => {
             this.filters.favorites = !this.filters.favorites;
             this.elements.favoriteFilterBtn.classList.toggle('active', this.filters.favorites);
+            this.saveFilters();
             this.triggerRefresh();
         });
 
