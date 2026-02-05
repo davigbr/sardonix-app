@@ -4,7 +4,7 @@ Este arquivo rastreia as próximas funcionalidades e melhorias planejadas para o
 
 ## Funcionalidades Solicitadas
 
-- [ ] **Importação/Exportação CSV**
+- [x] **Importação/Exportação CSV**
   - Script para exportar verbos para um arquivo CSV (para manipulação em planilhas).
   - Script para importar o CSV e atualizar os arquivos `.json`, com verificação de consistência dos dados.
 
@@ -42,4 +42,4 @@ Este arquivo rastreia as próximas funcionalidades e melhorias planejadas para o
     - **Conditional Perfect Progressive / Continuous**: Describes hypothetical ongoing actions that would have continued dependent on certain conditions.
 
 - [ ] **Manutenção**
-  - **Limpeza de Arquivos**: Identificar e remover arquivos que não são mais utilizados no projeto.
+  - [x] **Limpeza de Arquivos**: Identificar e remover arquivos que não são mais utilizados no projeto.
