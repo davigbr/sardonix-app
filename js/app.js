@@ -5,7 +5,18 @@ const App = {
         favoriteFilterBtn: null
     },
 
-    showFavoritesOnly: false,
+    elements: {
+        verbGrid: null,
+        favoriteFilterBtn: null,
+        typeFilters: null,
+        phrasalFilterBtn: null
+    },
+
+    filters: {
+        type: 'all', // all, regular, irregular
+        phrasal: false,
+        favorites: false
+    },
 
     async init() {
         console.log('App v3.0 - Full JSON Migration');
@@ -72,16 +83,36 @@ const App = {
     },
 
     refreshVerbs() {
-        // Sort verbs alphabetically
-        const verbs = Object.values(window.verbDatabase).sort((a, b) =>
+        // 1. Get all verbs and sort alphabetically
+        let verbs = Object.values(window.verbDatabase).sort((a, b) =>
             a.infinitive.localeCompare(b.infinitive)
         );
+
+        // 3. Render (Filters applied inside)
         this.renderVerbs(verbs);
+    },
+
+    applyFilters(verbs) {
+        return verbs.filter(verb => {
+            // Type Filter
+            if (this.filters.type === 'regular' && verb.tags.includes('irregular')) return false;
+            if (this.filters.type === 'irregular' && !verb.tags.includes('irregular')) return false;
+
+            // Phrasal Filter
+            if (this.filters.phrasal && !verb.tags.includes('phrasal')) return false;
+
+            // Favorites Filter
+            if (this.filters.favorites && !Favorites.isFavorite(verb.infinitive)) return false;
+
+            return true;
+        });
     },
 
     cacheElements() {
         this.elements.verbGrid = document.getElementById('verbGrid');
         this.elements.favoriteFilterBtn = document.getElementById('favoriteFilterBtn');
+        this.elements.typeFilters = document.getElementById('typeFilters');
+        this.elements.phrasalFilterBtn = document.getElementById('phrasalFilterBtn');
     },
 
     currentVerbs: [],
@@ -90,10 +121,8 @@ const App = {
     observer: null,
 
     renderVerbs(verbs) {
-        // Apply Favorites Filter if active
-        if (this.showFavoritesOnly) {
-            verbs = verbs.filter(v => Favorites.isFavorite(v.infinitive));
-        }
+        // Enforce filters on ANY list passed to render (including search results)
+        verbs = this.applyFilters(verbs);
 
         if (!verbs || verbs.length === 0) {
             this.elements.verbGrid.innerHTML = `
@@ -189,19 +218,41 @@ const App = {
         // Keeping empty as requested by previous logic context, relying on delegation
     },
 
+    triggerRefresh() {
+        if (document.getElementById('searchInput').value.trim()) {
+            Search.handleSearch(document.getElementById('searchInput').value);
+        } else {
+            this.refreshVerbs();
+        }
+    },
+
     // Changing bindCardEvents to event delegation to support infinite scroll efficiently
     bindGlobalEvents() {
-        // Favorite Filter Toggle
-        this.elements.favoriteFilterBtn.addEventListener('click', () => {
-            this.showFavoritesOnly = !this.showFavoritesOnly;
-            this.elements.favoriteFilterBtn.classList.toggle('active', this.showFavoritesOnly);
+        // Type Filters
+        this.elements.typeFilters.addEventListener('click', (e) => {
+            if (e.target.classList.contains('filter-chip')) {
+                // Update UI
+                this.elements.typeFilters.querySelectorAll('.filter-chip').forEach(btn => btn.classList.remove('active'));
+                e.target.classList.add('active');
 
-            // Re-run search if active, otherwise refresh list
-            if (document.getElementById('searchInput').value.trim()) {
-                Search.runSearch(document.getElementById('searchInput').value);
-            } else {
-                this.refreshVerbs();
+                // Update State and Search/Refresh
+                this.filters.type = e.target.dataset.type;
+                this.triggerRefresh();
             }
+        });
+
+        // Phrasal Verbs Toggle
+        this.elements.phrasalFilterBtn.addEventListener('click', () => {
+            this.filters.phrasal = !this.filters.phrasal;
+            this.elements.phrasalFilterBtn.classList.toggle('active', this.filters.phrasal);
+            this.triggerRefresh();
+        });
+
+        // Favorite Toggle
+        this.elements.favoriteFilterBtn.addEventListener('click', () => {
+            this.filters.favorites = !this.filters.favorites;
+            this.elements.favoriteFilterBtn.classList.toggle('active', this.filters.favorites);
+            this.triggerRefresh();
         });
 
         this.elements.verbGrid.addEventListener('click', (e) => {
@@ -219,7 +270,7 @@ const App = {
                 svg.setAttribute('fill', isFav ? 'currentColor' : 'none');
 
                 // If in "Favorites Only" mode and un-favorited, remove card
-                if (this.showFavoritesOnly && !isFav) {
+                if (this.filters.favorites && !isFav) {
                     this.refreshVerbs();
                 }
                 return;

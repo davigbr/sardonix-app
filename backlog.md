@@ -15,7 +15,7 @@ Este arquivo rastreia as próximas funcionalidades e melhorias planejadas para o
   - Salvar favoritos no `localStorage`.
   - Filtro para exibir apenas favoritos. favoritos.
 
-- [ ] **Novos Filtros**
+- [x] **Novos Filtros**
   - Filtro por **Verbos Irregulares**.
   - Filtro por **Phrasal Verbs**.
   - Filtro por **Favoritos** (como mencionado acima).

@@ -1373,4 +1373,90 @@ input {
 .verb-tags-mini {
     right: var(--space-12);
     /* Move tags to left of heart */
+}/* Filter Bar */
+.filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: var(--space-4);
+    margin-top: var(--space-4);
+    padding: var(--space-2);
+}
+
+.filter-group {
+    display: flex;
+    gap: var(--space-2);
+    align-items: center;
+    background: var(--bg-secondary);
+    padding: var(--space-1);
+    border-radius: var(--radius-full);
+    border: 1px solid var(--border-default);
+}
+
+.filter-divider {
+    width: 1px;
+    height: 24px;
+    background: var(--border-default);
+    margin: 0 var(--space-2);
+}
+
+/* Filter Chip (Radio style) */
+.filter-chip {
+    padding: var(--space-2) var(--space-4);
+    font-size: var(--font-size-sm);
+    color: var(--text-secondary);
+    border-radius: var(--radius-full);
+    transition: all var(--transition-base);
+}
+
+.filter-chip:hover {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.filter-chip.active {
+    background: var(--bg-elevated);
+    color: var(--text-primary);
+    box-shadow: var(--shadow-sm);
+    font-weight: 500;
+}
+
+/* Filter Toggle (Checkbox style) */
+.filter-toggle {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    padding: var(--space-2) var(--space-4);
+    font-size: var(--font-size-sm);
+    color: var(--text-secondary);
+    border-radius: var(--radius-full);
+    transition: all var(--transition-base);
+}
+
+.filter-toggle:hover {
+    color: var(--text-primary);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.filter-toggle.active {
+    background: var(--bg-elevated);
+    color: var(--text-primary);
+    box-shadow: var(--shadow-sm);
+    font-weight: 500;
+}
+
+/* Specific Toggles */
+.favorite-toggle.active {
+    color: var(--error);
+    background: rgba(239, 68, 68, 0.1);
+}
+
+.favorite-toggle.active svg {
+    fill: var(--error);
+}
+
+#phrasalFilterBtn.active {
+    color: var(--accent-secondary);
+    background: rgba(99, 102, 241, 0.1);
 }
