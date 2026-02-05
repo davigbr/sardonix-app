@@ -821,6 +821,33 @@
             }
         ]
     },
+    "will": {
+        "infinitive": "will",
+        "translation": "irá (futuro)",
+        "forms": {
+            "base": "will",
+            "pastSimple": "would",
+            "thirdPerson": "will"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal"
+        ],
+        "related": [],
+        "explanation": "Expressa futuro, vontade ou promessa.",
+        "examples": [
+            {
+                "en": "I will call you.",
+                "pt": "Eu te ligarei."
+            },
+            {
+                "en": "Will you marry me?",
+                "pt": "Você quer casar comigo?"
+            }
+        ],
+        "model": "modal_pure"
+    },
     "win": {
         "infinitive": "win",
         "translation": "ganhar/vencer",
@@ -960,6 +987,21 @@
                 "pt": "Ela desejou boa sorte a ele."
             }
         ]
+    },
+    "wit": {
+        "infinitive": "wit",
+        "translation": "saber / isto é",
+        "forms": {
+            "base": "wit"
+        },
+        "irregular": true,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Arcaico / Legalês.",
+        "examples": [],
+        "model": "archaic"
     },
     "withdraw": {
         "infinitive": "withdraw",
@@ -1198,6 +1240,67 @@
                 "pt": "Eles adoram nesta igreja."
             }
         ]
+    },
+    "worth": {
+        "infinitive": "worth",
+        "translation": "acontecer",
+        "forms": {
+            "base": "worth"
+        },
+        "irregular": true,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Arcaico (Subjuntivo).",
+        "examples": [],
+        "model": "archaic"
+    },
+    "would": {
+        "infinitive": "would",
+        "translation": "-ria (condicional)",
+        "forms": {
+            "base": "would",
+            "pastSimple": "-",
+            "thirdPerson": "would"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal"
+        ],
+        "related": [],
+        "explanation": "Expressa condicional, hábitos passados ou pedidos educados.",
+        "examples": [
+            {
+                "en": "I would like some tea.",
+                "pt": "Eu gostaria de um chá."
+            },
+            {
+                "en": "She would always say that.",
+                "pt": "Ela sempre dizia isso."
+            }
+        ],
+        "model": "modal_pure"
+    },
+    "would rather": {
+        "infinitive": "would rather",
+        "translation": "preferiria",
+        "forms": {
+            "base": "would rather",
+            "pastSimple": "would rather",
+            "thirdPerson": "would rather"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal",
+            "phrasal"
+        ],
+        "related": [],
+        "explanation": "Verbo Locução Modal.",
+        "examples": [],
+        "model": "modal_pure"
     },
     "wound": {
         "infinitive": "wound",

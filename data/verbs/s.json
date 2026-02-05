@@ -1444,6 +1444,33 @@
             }
         ]
     },
+    "shall": {
+        "infinitive": "shall",
+        "translation": "dever (formal)",
+        "forms": {
+            "base": "shall",
+            "pastSimple": "should",
+            "thirdPerson": "shall"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal"
+        ],
+        "related": [],
+        "explanation": "Usado para futuro (formal), ofertas ou sugestões.",
+        "examples": [
+            {
+                "en": "We shall overcome.",
+                "pt": "Nós superaremos."
+            },
+            {
+                "en": "Shall I open the window?",
+                "pt": "Abro a janela?"
+            }
+        ],
+        "model": "modal_pure"
+    },
     "shame": {
         "infinitive": "shame",
         "translation": "envergonhar",
@@ -1851,6 +1878,33 @@
                 "pt": "Adoro comprar roupas."
             }
         ]
+    },
+    "should": {
+        "infinitive": "should",
+        "translation": "deveria",
+        "forms": {
+            "base": "should",
+            "pastSimple": "-",
+            "thirdPerson": "should"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal"
+        ],
+        "related": [],
+        "explanation": "Expressa conselho, recomendação ou expectativa.",
+        "examples": [
+            {
+                "en": "You should sleep now.",
+                "pt": "Conte deveria dormir agora."
+            },
+            {
+                "en": "It should work.",
+                "pt": "Deve funcionar."
+            }
+        ],
+        "model": "modal_pure"
     },
     "shout": {
         "infinitive": "shout",
@@ -3427,7 +3481,8 @@
         },
         "irregular": false,
         "tags": [
-            "regular"
+            "regular",
+            "defective"
         ],
         "related": [
             "rain",
@@ -3439,7 +3494,8 @@
                 "en": "It snowed all night.",
                 "pt": "Nevou a noite toda."
             }
-        ]
+        ],
+        "model": "impersonal"
     },
     "soak": {
         "infinitive": "soak",

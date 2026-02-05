@@ -133,6 +133,33 @@
             }
         ]
     },
+    "can": {
+        "infinitive": "can",
+        "translation": "poder, conseguir",
+        "forms": {
+            "base": "can",
+            "pastSimple": "could",
+            "thirdPerson": "can"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal"
+        ],
+        "related": [],
+        "explanation": "Expressa habilidade, capacidade, permissão ou possibilidade.",
+        "examples": [
+            {
+                "en": "I can swim.",
+                "pt": "Eu consigo nadar."
+            },
+            {
+                "en": "Can I help you?",
+                "pt": "Posso ajudar você?"
+            }
+        ],
+        "model": "modal_pure"
+    },
     "captivate": {
         "infinitive": "captivate",
         "translation": "cativar",
@@ -2969,6 +2996,33 @@
                 "pt": "Desembolse o dinheiro."
             }
         ]
+    },
+    "could": {
+        "infinitive": "could",
+        "translation": "poderia, podia",
+        "forms": {
+            "base": "could",
+            "pastSimple": "-",
+            "thirdPerson": "could"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal"
+        ],
+        "related": [],
+        "explanation": "Expressa habilidade passada, possibilidade ou pedido educado.",
+        "examples": [
+            {
+                "en": "I could swim when I was five.",
+                "pt": "Eu conseguia nadar quando tinha cinco anos."
+            },
+            {
+                "en": "Could you help me?",
+                "pt": "Você poderia me ajudar?"
+            }
+        ],
+        "model": "modal_pure"
     },
     "count": {
         "infinitive": "count",

@@ -595,6 +595,21 @@
             }
         ]
     },
+    "begone": {
+        "infinitive": "begone",
+        "translation": "vá embora",
+        "forms": {
+            "base": "begone"
+        },
+        "irregular": true,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Restrito (Imperativo).",
+        "examples": [],
+        "model": "restricted_imperative"
+    },
     "behave": {
         "infinitive": "behave",
         "translation": "comportar-se",
@@ -655,6 +670,25 @@
                 "pt": "Foi uma visão de se admirar."
             }
         ]
+    },
+    "behoove": {
+        "infinitive": "behoove",
+        "translation": "convir",
+        "forms": {
+            "base": "behoove",
+            "pastSimple": "behooved",
+            "pastParticiple": "behooved",
+            "presentParticiple": "behooving",
+            "thirdPerson": "behooves"
+        },
+        "irregular": false,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Impessoal (Formal).",
+        "examples": [],
+        "model": "impersonal"
     },
     "believe": {
         "infinitive": "believe",
@@ -801,6 +835,21 @@
                 "pt": "Ela quer se melhorar."
             }
         ]
+    },
+    "beware": {
+        "infinitive": "beware",
+        "translation": "acautelar-se",
+        "forms": {
+            "base": "beware"
+        },
+        "irregular": true,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Restrito (Imperativo).",
+        "examples": [],
+        "model": "restricted_imperative"
     },
     "bid": {
         "infinitive": "bid",
@@ -1494,6 +1543,21 @@
                 "pt": "Eles perfuraram um túnel pela montanha."
             }
         ]
+    },
+    "born": {
+        "infinitive": "born",
+        "translation": "nascido",
+        "forms": {
+            "base": "born"
+        },
+        "irregular": true,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Passivo Isolado.",
+        "examples": [],
+        "model": "archaic"
     },
     "borrow": {
         "infinitive": "borrow",

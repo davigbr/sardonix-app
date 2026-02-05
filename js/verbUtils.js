@@ -17,9 +17,83 @@ const VerbUtils = {
     },
 
     /**
+     * Generates tenses for defective/irregular models
+     */
+    generateDefectiveTenses(verb) {
+        const f = verb.forms;
+        const model = verb.model;
+        const tenses = {};
+
+        // Helper to create empty tense object
+        const emptyTense = () => ({ I: '-', you: '-', "he/she/it": '-', we: '-', they: '-' });
+
+        // --- MODEL: MODAL PURO (Can, Must, Should) ---
+        if (model === 'modal_pure') {
+            // Present: No 's' in 3rd person
+            tenses.presentSimple = {
+                I: f.base, you: f.base, "he/she/it": f.base, we: f.base, they: f.base
+            };
+
+            // Past: only if a specific past form exists (can -> could)
+            // Some modals like 'must' have no past form here (substituted by had to)
+            if (f.pastSimple && f.pastSimple !== '-') {
+                tenses.pastSimple = {
+                    I: f.pastSimple, you: f.pastSimple, "he/she/it": f.pastSimple, we: f.pastSimple, they: f.pastSimple
+                };
+            }
+        }
+
+        // --- MODEL: IMPERSONAL (Rain, Snow) ---
+        else if (model === 'impersonal') {
+            // Only 3rd person singular (It ...)
+            if (f.thirdPerson) {
+                tenses.presentSimple = { ...emptyTense(), "he/she/it": f.thirdPerson };
+            }
+            if (f.presentParticiple) {
+                tenses.presentContinuous = { ...emptyTense(), "he/she/it": `is ${f.presentParticiple}` };
+            }
+            // Past
+            if (f.pastSimple) {
+                tenses.pastSimple = { ...emptyTense(), "he/she/it": f.pastSimple };
+            }
+            // Future
+            tenses.futureSimple = { ...emptyTense(), "he/she/it": `will ${f.base}` };
+        }
+
+        // --- MODEL: RESTRICTED PAST (Used to) ---
+        else if (model === 'restricted_past') {
+            tenses.pastSimple = {
+                I: f.pastSimple, you: f.pastSimple, "he/she/it": f.pastSimple, we: f.pastSimple, they: f.pastSimple
+            };
+        }
+
+        // --- MODEL: ARCHAIC QUOTED (Quoth) ---
+        else if (model === 'archaic_quoted') {
+            // Quoth is only past, 1st/3rd person usually
+            tenses.pastSimple = {
+                I: f.pastSimple, you: '-', "he/she/it": f.pastSimple, we: '-', they: '-'
+            };
+        }
+
+        // --- MODEL: RESTRICTED IMPERATIVE / ARCHAIC ---
+        // Beware, Begone, Hark, etc. -> No standard conjugation, just Base form usually.
+        else if (model === 'restricted_imperative' || model === 'archaic') {
+            // Return empty tenses, Conjugator will show "Base Form" in header but empty table
+            return {};
+        }
+
+        return tenses;
+    },
+
+    /**
      * Generates full tense objects from verb forms
      */
     generateTenses(verb) {
+        // Delegate to defective logic if a specific model is defined
+        if (verb.model) {
+            return this.generateDefectiveTenses(verb);
+        }
+
         const f = verb.forms;
         const pp = f.pastParticiple;
         const ing = f.presentParticiple;

@@ -103,30 +103,41 @@ const Conjugator = {
         `;
         this.elements.translation.textContent = verb.translation;
 
+        // Tag Definitions
+        const tagConfig = {
+            'regular': { label: 'Regular', title: 'Verbo que segue o padrão -ed no passado' },
+            'irregular': { label: 'Irregular', title: 'Verbo com formas próprias de passado' },
+            'modal': { label: 'Modal', title: 'Verbo auxiliar que expressa necessidade, possibilidade, etc.' },
+            'defective': { label: 'Defectivo', title: 'Verbo que não possui todas as formas conjugadas' },
+            'phrasal': { label: 'Phrasal', title: 'Verbo composto com preposição que altera seu sentido' }
+        };
+
         // Tags
-        this.elements.tags.innerHTML = verb.tags.map(tag =>
-            `<span class="verb-tag ${tag}">${tag}</span>`
-        ).join('');
+        this.elements.tags.innerHTML = verb.tags.map(tag => {
+            const config = tagConfig[tag] || { label: tag, title: '' };
+            return `<span class="verb-tag tag-${tag}" title="${config.title}">${config.label}</span>`;
+        }).join('');
 
         if (verb.phrasal) {
-            this.elements.tags.innerHTML += `<span class="verb-tag phrasal">Phrasal</span>`;
+            const config = tagConfig['phrasal'];
+            this.elements.tags.innerHTML += `<span class="verb-tag tag-phrasal" title="${config.title}">${config.label}</span>`;
         }
 
         // Principal parts
         this.elements.principalParts.innerHTML = `
             <div class="principal-part">
                 <span class="part-label">Base Form</span>
-                <button class="part-value speakable" data-speak="${verb.forms.base}">${verb.forms.base}</button>
+                <button class="part-value speakable" data-speak="${verb.forms.base}">${verb.forms.base || 'N/A'}</button>
             </div>
             <div class="principal-part">
                 <span class="part-label">Past Simple</span>
-                <button class="part-value speakable" data-speak="${verb.forms.pastSimple}">${verb.forms.pastSimple}</button>
+                <button class="part-value speakable" data-speak="${verb.forms.pastSimple}">${verb.forms.pastSimple || 'N/A'}</button>
             </div>
             <div class="principal-part">
                 <span class="part-label">Past Participle</span>
-                <button class="part-value speakable" data-speak="${verb.forms.pastParticiple}">${verb.forms.pastParticiple}</button>
+                <button class="part-value speakable" data-speak="${verb.forms.pastParticiple}">${verb.forms.pastParticiple || 'N/A'}</button>
             </div>
-        `;
+`;
 
         // Explanation
         this.elements.explanation.textContent = verb.explanation || '';
@@ -187,6 +198,10 @@ const Conjugator = {
 
         // Iterate over Config Groups (Present, Past, Future, Conditional)
         for (const [groupKey, groupConfig] of Object.entries(window.tenseConfig)) {
+            // Check if any tense in this group exists for the verb
+            const hasTenses = Object.keys(groupConfig.tenses).some(k => verb.tenses[k]);
+            if (!hasTenses) continue;
+
             html += `
                 <div class="conjugation-group">
                     <h3 class="group-title">${groupConfig.title}</h3>
@@ -219,7 +234,15 @@ const Conjugator = {
 
                 for (const pronoun of pronouns) {
                     const form = conjugations[pronoun] || '-';
-                    const speakText = pronoun === 'he/she/it' ? `he ${form}` : `${pronoun} ${form}`;
+
+                    let speakText = `${pronoun} ${form}`;
+                    if (pronoun === 'he/she/it') {
+                        // Use 'it' for weather verbs, 'he' for others
+                        const isWeather = verb.tags.includes('weather') || ['rain', 'snow', 'hail', 'thunder', 'freeze'].includes(verb.infinitive);
+                        const person = isWeather ? 'it' : 'he';
+                        speakText = `${person} ${form}`;
+                    }
+
                     html += `<td><button class="speakable" data-speak="${speakText}">${form}</button></td>`;
                 }
                 html += '</tr>';

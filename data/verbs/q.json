@@ -261,5 +261,21 @@
                 "pt": "Ele pediu demissão do emprego."
             }
         ]
+    },
+    "quoth": {
+        "infinitive": "quoth",
+        "translation": "disse",
+        "forms": {
+            "base": "quoth",
+            "pastSimple": "quoth"
+        },
+        "irregular": true,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Arcaico (Fossilizado).",
+        "examples": [],
+        "model": "archaic_quoted"
     }
 }

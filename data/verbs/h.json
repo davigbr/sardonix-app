@@ -1,4 +1,23 @@
 {
+    "had better": {
+        "infinitive": "had better",
+        "translation": "seria melhor",
+        "forms": {
+            "base": "had better",
+            "pastSimple": "had better",
+            "thirdPerson": "had better"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal",
+            "phrasal"
+        ],
+        "related": [],
+        "explanation": "Verbo Locução Modal.",
+        "examples": [],
+        "model": "modal_pure"
+    },
     "hail": {
         "infinitive": "hail",
         "translation": "saudar, chamar (táxi), granizar",
@@ -11,7 +30,8 @@
         },
         "irregular": false,
         "tags": [
-            "regular"
+            "regular",
+            "defective"
         ],
         "related": [
             "greet",
@@ -23,7 +43,8 @@
                 "en": "Hail a taxi.",
                 "pt": "Chame um táxi."
             }
-        ]
+        ],
+        "model": "impersonal"
     },
     "halt": {
         "infinitive": "halt",
@@ -274,6 +295,21 @@
             }
         ]
     },
+    "hark": {
+        "infinitive": "hark",
+        "translation": "escute",
+        "forms": {
+            "base": "hark"
+        },
+        "irregular": true,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Arcaico (Imperativo).",
+        "examples": [],
+        "model": "restricted_imperative"
+    },
     "harm": {
         "infinitive": "harm",
         "translation": "prejudicar, ferir",
@@ -505,7 +541,8 @@
         "tags": [
             "irregular",
             "essential",
-            "sense"
+            "sense",
+            "defective"
         ],
         "related": [
             "listen"
@@ -632,6 +669,21 @@
                 "pt": "Destaque o texto."
             }
         ]
+    },
+    "hight": {
+        "infinitive": "hight",
+        "translation": "chamar-se",
+        "forms": {
+            "base": "hight"
+        },
+        "irregular": true,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Arcaico (Passivo).",
+        "examples": [],
+        "model": "archaic"
     },
     "hire": {
         "infinitive": "hire",

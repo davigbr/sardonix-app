@@ -144,7 +144,8 @@
         "irregular": false,
         "tags": [
             "regular",
-            "essential"
+            "essential",
+            "defective"
         ],
         "related": [
             "require"

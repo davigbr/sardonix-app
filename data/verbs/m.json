@@ -266,6 +266,33 @@
             }
         ]
     },
+    "may": {
+        "infinitive": "may",
+        "translation": "poder (possibilidade)",
+        "forms": {
+            "base": "may",
+            "pastSimple": "might",
+            "thirdPerson": "may"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal"
+        ],
+        "related": [],
+        "explanation": "Expressa possibilidade ou permissão formal.",
+        "examples": [
+            {
+                "en": "It may rain later.",
+                "pt": "Pode chover mais tarde."
+            },
+            {
+                "en": "May I come in?",
+                "pt": "Posso entrar?"
+            }
+        ],
+        "model": "modal_pure"
+    },
     "mean": {
         "infinitive": "mean",
         "translation": "significar, querer dizer",
@@ -555,6 +582,48 @@
                 "pt": "Me mande mensagem mais tarde."
             }
         ]
+    },
+    "methinks": {
+        "infinitive": "methinks",
+        "translation": "parece-me",
+        "forms": {
+            "base": "methinks"
+        },
+        "irregular": true,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Arcaico (Impessoal).",
+        "examples": [],
+        "model": "archaic"
+    },
+    "might": {
+        "infinitive": "might",
+        "translation": "poderia (remota)",
+        "forms": {
+            "base": "might",
+            "pastSimple": "-",
+            "thirdPerson": "might"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal"
+        ],
+        "related": [],
+        "explanation": "Expressa possibilidade remota ou incerteza.",
+        "examples": [
+            {
+                "en": "He might join us.",
+                "pt": "Ele pode se juntar a nós."
+            },
+            {
+                "en": "It might be true.",
+                "pt": "Pode ser verdade."
+            }
+        ],
+        "model": "modal_pure"
     },
     "mill": {
         "infinitive": "mill",
@@ -1108,6 +1177,33 @@
                 "pt": "Ele murmurou uma oração."
             }
         ]
+    },
+    "must": {
+        "infinitive": "must",
+        "translation": "dever (obrigação)",
+        "forms": {
+            "base": "must",
+            "pastSimple": "-",
+            "thirdPerson": "must"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal"
+        ],
+        "related": [],
+        "explanation": "Expressa obrigação, necessidade ou forte dedução lógica.",
+        "examples": [
+            {
+                "en": "You must study hard.",
+                "pt": "Você deve estudar muito."
+            },
+            {
+                "en": "He must be tired.",
+                "pt": "Ele deve estar cansado."
+            }
+        ],
+        "model": "modal_pure"
     },
     "mutter": {
         "infinitive": "mutter",

@@ -425,6 +425,29 @@
         ],
         "uk": "organise"
     },
+    "ought to": {
+        "infinitive": "ought to",
+        "translation": "deveria (moral)",
+        "forms": {
+            "base": "ought to",
+            "pastSimple": "-",
+            "thirdPerson": "ought to"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "modal"
+        ],
+        "related": [],
+        "explanation": "Expressa obrigação moral ou recomendação (semelhante a 'should').",
+        "examples": [
+            {
+                "en": "You ought to apologize.",
+                "pt": "Você deveria se desculpar."
+            }
+        ],
+        "model": "modal_pure"
+    },
     "outline": {
         "infinitive": "outline",
         "translation": "esboçar, delinear",

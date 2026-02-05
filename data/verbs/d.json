@@ -167,7 +167,8 @@
         },
         "irregular": true,
         "tags": [
-            "irregular"
+            "irregular",
+            "defective"
         ],
         "related": [
             "challenge",
@@ -2456,6 +2457,25 @@
                 "pt": "Nós dirigimos até a praia."
             }
         ]
+    },
+    "drizzle": {
+        "infinitive": "drizzle",
+        "translation": "garoar",
+        "forms": {
+            "base": "drizzle",
+            "pastSimple": "drizzled",
+            "pastParticiple": "drizzled",
+            "presentParticiple": "drizzling",
+            "thirdPerson": "drizzles"
+        },
+        "irregular": false,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Impessoal (Meteorológico).",
+        "examples": [],
+        "model": "impersonal"
     },
     "drop": {
         "infinitive": "drop",

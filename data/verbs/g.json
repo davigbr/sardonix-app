@@ -745,6 +745,21 @@
             }
         ]
     },
+    "gone": {
+        "infinitive": "gone",
+        "translation": "ido",
+        "forms": {
+            "base": "gone"
+        },
+        "irregular": true,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Particípio Isolado.",
+        "examples": [],
+        "model": "archaic"
+    },
     "govern": {
         "infinitive": "govern",
         "translation": "governar",

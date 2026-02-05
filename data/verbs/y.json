@@ -48,6 +48,21 @@
             }
         ]
     },
+    "yclept": {
+        "infinitive": "yclept",
+        "translation": "chamado",
+        "forms": {
+            "base": "yclept"
+        },
+        "irregular": true,
+        "tags": [
+            "defective"
+        ],
+        "related": [],
+        "explanation": "Verbo Fóssil (Particípio).",
+        "examples": [],
+        "model": "archaic"
+    },
     "yearn": {
         "infinitive": "yearn",
         "translation": "ansiar, almejar",

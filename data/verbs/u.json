@@ -420,6 +420,24 @@
             }
         ]
     },
+    "used to": {
+        "infinitive": "used to",
+        "translation": "costumava",
+        "forms": {
+            "base": "used to",
+            "pastSimple": "used to",
+            "thirdPerson": "used to"
+        },
+        "irregular": true,
+        "tags": [
+            "defective",
+            "phrasal"
+        ],
+        "related": [],
+        "explanation": "Verbo Restrito (Apenas Passado).",
+        "examples": [],
+        "model": "restricted_past"
+    },
     "utilize": {
         "infinitive": "utilize",
         "translation": "utilizar",

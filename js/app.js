@@ -95,8 +95,11 @@ const App = {
     applyFilters(verbs) {
         return verbs.filter(verb => {
             // Type Filter
-            if (this.filters.type === 'regular' && verb.tags.includes('irregular')) return false;
-            if (this.filters.type === 'irregular' && !verb.tags.includes('irregular')) return false;
+            // Treat defective and modal verbs as irregular
+            const isIrregular = verb.tags.includes('irregular') || verb.tags.includes('defective') || verb.tags.includes('modal');
+
+            if (this.filters.type === 'regular' && isIrregular) return false;
+            if (this.filters.type === 'irregular' && !isIrregular) return false;
 
             // Phrasal Filter
             if (this.filters.phrasal && !verb.tags.includes('phrasal')) return false;
