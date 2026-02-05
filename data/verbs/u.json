@@ -9,6 +9,7 @@
             "presentParticiple": "uncovering",
             "thirdPerson": "uncovers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -39,6 +40,7 @@
             "presentParticiple": "undergoing",
             "thirdPerson": "undergoes"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -65,6 +67,7 @@
             "presentParticiple": "understanding",
             "thirdPerson": "understands"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -96,6 +99,7 @@
             "presentParticiple": "undertaking",
             "thirdPerson": "undertakes"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -122,6 +126,7 @@
             "presentParticiple": "undoing",
             "thirdPerson": "undoes"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -147,6 +152,7 @@
             "presentParticiple": "undressing",
             "thirdPerson": "undresses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -172,6 +178,7 @@
             "presentParticiple": "unfastening",
             "thirdPerson": "unfastens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -198,6 +205,7 @@
             "presentParticiple": "uniting",
             "thirdPerson": "unites"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -224,6 +232,7 @@
             "presentParticiple": "unlocking",
             "thirdPerson": "unlocks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -249,6 +258,7 @@
             "presentParticiple": "unpacking",
             "thirdPerson": "unpacks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -274,6 +284,7 @@
             "presentParticiple": "unrolling",
             "thirdPerson": "unrolls"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -299,6 +310,7 @@
             "presentParticiple": "untying",
             "thirdPerson": "unties"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -324,6 +336,7 @@
             "presentParticiple": "unwinding",
             "thirdPerson": "unwinds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -350,6 +363,7 @@
             "presentParticiple": "upsetting",
             "thirdPerson": "upsets"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -376,6 +390,7 @@
             "presentParticiple": "using",
             "thirdPerson": "uses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -403,6 +418,7 @@
             "presentParticiple": "using up",
             "thirdPerson": "uses up"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -426,8 +442,11 @@
         "forms": {
             "base": "used to",
             "pastSimple": "used to",
+            "pastParticiple": "",
+            "presentParticiple": "",
             "thirdPerson": "used to"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective",
@@ -435,8 +454,7 @@
         ],
         "related": [],
         "explanation": "Verbo Restrito (Apenas Passado).",
-        "examples": [],
-        "model": "restricted_past"
+        "examples": []
     },
     "utilize": {
         "infinitive": "utilize",
@@ -448,6 +466,7 @@
             "presentParticiple": "utilizing",
             "thirdPerson": "utilizes"
         },
+        "uk": "utilise",
         "irregular": false,
         "tags": [
             "regular"
@@ -461,8 +480,7 @@
                 "en": "Utilize available resources.",
                 "pt": "Utilize os recursos disponíveis."
             }
-        ],
-        "uk": "utilise"
+        ]
     },
     "utter": {
         "infinitive": "utter",
@@ -474,6 +492,7 @@
             "presentParticiple": "uttering",
             "thirdPerson": "utters"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

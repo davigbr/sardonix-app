@@ -9,6 +9,7 @@
             "presentParticiple": "quaking",
             "thirdPerson": "quakes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -35,6 +36,7 @@
             "presentParticiple": "qualifying",
             "thirdPerson": "qualifies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -58,6 +60,7 @@
             "presentParticiple": "quarreling",
             "thirdPerson": "quarrels"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -84,6 +87,7 @@
             "presentParticiple": "quashing",
             "thirdPerson": "quashes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -110,6 +114,7 @@
             "presentParticiple": "quelling",
             "thirdPerson": "quells"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -137,6 +142,7 @@
             "presentParticiple": "querying",
             "thirdPerson": "queries"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -164,6 +170,7 @@
             "presentParticiple": "questioning",
             "thirdPerson": "questions"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -190,6 +197,7 @@
             "presentParticiple": "queuing",
             "thirdPerson": "queues"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -215,6 +223,7 @@
             "presentParticiple": "quieting",
             "thirdPerson": "quiets"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -241,6 +250,7 @@
             "presentParticiple": "quitting",
             "thirdPerson": "quits"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -267,15 +277,18 @@
         "translation": "disse",
         "forms": {
             "base": "quoth",
-            "pastSimple": "quoth"
+            "pastSimple": "quoth",
+            "pastParticiple": "",
+            "presentParticiple": "",
+            "thirdPerson": ""
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective"
         ],
         "related": [],
         "explanation": "Verbo Arcaico (Fossilizado).",
-        "examples": [],
-        "model": "archaic_quoted"
+        "examples": []
     }
 }

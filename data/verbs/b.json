@@ -9,6 +9,7 @@
             "presentParticiple": "backing",
             "thirdPerson": "backs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -40,6 +41,7 @@
             "presentParticiple": "backing up",
             "thirdPerson": "backs up"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -67,6 +69,7 @@
             "presentParticiple": "baffling",
             "thirdPerson": "baffles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -93,6 +96,7 @@
             "presentParticiple": "baking",
             "thirdPerson": "bakes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -124,6 +128,7 @@
             "presentParticiple": "balancing",
             "thirdPerson": "balances"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -154,6 +159,7 @@
             "presentParticiple": "banning",
             "thirdPerson": "bans"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -184,6 +190,7 @@
             "presentParticiple": "banging",
             "thirdPerson": "bangs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -214,6 +221,7 @@
             "presentParticiple": "baring",
             "thirdPerson": "bares"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -244,6 +252,7 @@
             "presentParticiple": "batting",
             "thirdPerson": "bats"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -275,6 +284,7 @@
             "presentParticiple": "bathing",
             "thirdPerson": "bathes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -305,6 +315,7 @@
             "presentParticiple": "battling",
             "thirdPerson": "battles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -335,6 +346,7 @@
             "presentParticiple": "being",
             "thirdPerson": "is"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -367,6 +379,7 @@
             "presentParticiple": "being present",
             "thirdPerson": "is present"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -393,6 +406,7 @@
             "presentParticiple": "beaming",
             "thirdPerson": "beams"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -423,6 +437,7 @@
             "presentParticiple": "bearing",
             "thirdPerson": "bears"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -454,6 +469,7 @@
             "presentParticiple": "beating",
             "thirdPerson": "beats"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -486,6 +502,7 @@
             "presentParticiple": "beautifying",
             "thirdPerson": "beautifies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -512,6 +529,7 @@
             "presentParticiple": "becoming",
             "thirdPerson": "becomes"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -544,6 +562,7 @@
             "presentParticiple": "begging",
             "thirdPerson": "begs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -574,6 +593,7 @@
             "presentParticiple": "beginning",
             "thirdPerson": "begins"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -599,16 +619,20 @@
         "infinitive": "begone",
         "translation": "vá embora",
         "forms": {
-            "base": "begone"
+            "base": "begone",
+            "pastSimple": "",
+            "pastParticiple": "",
+            "presentParticiple": "",
+            "thirdPerson": ""
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective"
         ],
         "related": [],
         "explanation": "Verbo Restrito (Imperativo).",
-        "examples": [],
-        "model": "restricted_imperative"
+        "examples": []
     },
     "behave": {
         "infinitive": "behave",
@@ -620,6 +644,7 @@
             "presentParticiple": "behaving",
             "thirdPerson": "behaves"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -649,6 +674,7 @@
             "presentParticiple": "beholding",
             "thirdPerson": "beholds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -681,14 +707,14 @@
             "presentParticiple": "behooving",
             "thirdPerson": "behooves"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "defective"
         ],
         "related": [],
         "explanation": "Verbo Impessoal (Formal).",
-        "examples": [],
-        "model": "impersonal"
+        "examples": []
     },
     "believe": {
         "infinitive": "believe",
@@ -700,6 +726,7 @@
             "presentParticiple": "believing",
             "thirdPerson": "believes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -731,6 +758,7 @@
             "presentParticiple": "belonging",
             "thirdPerson": "belongs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -761,6 +789,7 @@
             "presentParticiple": "bending",
             "thirdPerson": "bends"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -791,6 +820,7 @@
             "presentParticiple": "betting",
             "thirdPerson": "bets"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -821,6 +851,7 @@
             "presentParticiple": "bettering",
             "thirdPerson": "betters"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -840,16 +871,20 @@
         "infinitive": "beware",
         "translation": "acautelar-se",
         "forms": {
-            "base": "beware"
+            "base": "beware",
+            "pastSimple": "",
+            "pastParticiple": "",
+            "presentParticiple": "",
+            "thirdPerson": ""
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective"
         ],
         "related": [],
         "explanation": "Verbo Restrito (Imperativo).",
-        "examples": [],
-        "model": "restricted_imperative"
+        "examples": []
     },
     "bid": {
         "infinitive": "bid",
@@ -861,6 +896,7 @@
             "presentParticiple": "bidding",
             "thirdPerson": "bids"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -891,6 +927,7 @@
             "presentParticiple": "biking",
             "thirdPerson": "bikes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -917,6 +954,7 @@
             "presentParticiple": "billing",
             "thirdPerson": "bills"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -943,6 +981,7 @@
             "presentParticiple": "binding",
             "thirdPerson": "binds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -973,6 +1012,7 @@
             "presentParticiple": "biting",
             "thirdPerson": "bites"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1003,6 +1043,7 @@
             "presentParticiple": "blaming",
             "thirdPerson": "blames"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1028,6 +1069,7 @@
             "presentParticiple": "blazing",
             "thirdPerson": "blazes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1054,6 +1096,7 @@
             "presentParticiple": "bleaching",
             "thirdPerson": "bleaches"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1083,6 +1126,7 @@
             "presentParticiple": "bleeding",
             "thirdPerson": "bleeds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1110,6 +1154,7 @@
             "presentParticiple": "blending",
             "thirdPerson": "blends"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1136,6 +1181,7 @@
             "presentParticiple": "blessing",
             "thirdPerson": "blesses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1165,6 +1211,7 @@
             "presentParticiple": "blinding",
             "thirdPerson": "blinds"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1194,6 +1241,7 @@
             "presentParticiple": "blinking",
             "thirdPerson": "blinks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1219,6 +1267,7 @@
             "presentParticiple": "blocking",
             "thirdPerson": "blocks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1245,6 +1294,7 @@
             "presentParticiple": "blotting",
             "thirdPerson": "blots"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1271,6 +1321,7 @@
             "presentParticiple": "blowing",
             "thirdPerson": "blows"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1301,6 +1352,7 @@
             "presentParticiple": "blowing up",
             "thirdPerson": "blows up"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1327,6 +1379,7 @@
             "presentParticiple": "blurring",
             "thirdPerson": "blurs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1352,6 +1405,7 @@
             "presentParticiple": "blushing",
             "thirdPerson": "blushes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1378,6 +1432,7 @@
             "presentParticiple": "boasting",
             "thirdPerson": "boasts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1408,6 +1463,7 @@
             "presentParticiple": "boating",
             "thirdPerson": "boats"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1433,6 +1489,7 @@
             "presentParticiple": "boiling",
             "thirdPerson": "boils"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1464,6 +1521,7 @@
             "presentParticiple": "bombing",
             "thirdPerson": "bombs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1494,6 +1552,7 @@
             "presentParticiple": "booking",
             "thirdPerson": "books"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1524,6 +1583,7 @@
             "presentParticiple": "boring",
             "thirdPerson": "bores"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1548,16 +1608,20 @@
         "infinitive": "born",
         "translation": "nascido",
         "forms": {
-            "base": "born"
+            "base": "born",
+            "pastSimple": "",
+            "pastParticiple": "",
+            "presentParticiple": "",
+            "thirdPerson": ""
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective"
         ],
         "related": [],
         "explanation": "Verbo Passivo Isolado.",
-        "examples": [],
-        "model": "archaic"
+        "examples": []
     },
     "borrow": {
         "infinitive": "borrow",
@@ -1569,6 +1633,7 @@
             "presentParticiple": "borrowing",
             "thirdPerson": "borrows"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1599,6 +1664,7 @@
             "presentParticiple": "bothering",
             "thirdPerson": "bothers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1625,6 +1691,7 @@
             "presentParticiple": "bouncing",
             "thirdPerson": "bounces"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1655,6 +1722,7 @@
             "presentParticiple": "bowing",
             "thirdPerson": "bows"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1684,6 +1752,7 @@
             "presentParticiple": "boxing",
             "thirdPerson": "boxes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1713,6 +1782,7 @@
             "presentParticiple": "bragging",
             "thirdPerson": "brags"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1739,6 +1809,7 @@
             "presentParticiple": "braiding",
             "thirdPerson": "braids"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1765,6 +1836,7 @@
             "presentParticiple": "braking",
             "thirdPerson": "brakes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1795,6 +1867,7 @@
             "presentParticiple": "branching",
             "thirdPerson": "branches"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1825,6 +1898,7 @@
             "presentParticiple": "breaching",
             "thirdPerson": "breaches"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1851,6 +1925,7 @@
             "presentParticiple": "breaking",
             "thirdPerson": "breaks"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1882,6 +1957,7 @@
             "presentParticiple": "breaking down",
             "thirdPerson": "breaks down"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1909,6 +1985,7 @@
             "presentParticiple": "breathing",
             "thirdPerson": "breathes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1939,6 +2016,7 @@
             "presentParticiple": "breathing in",
             "thirdPerson": "breathes in"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1965,6 +2043,7 @@
             "presentParticiple": "breathing out",
             "thirdPerson": "breathes out"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1991,6 +2070,7 @@
             "presentParticiple": "breeding",
             "thirdPerson": "breeds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -2021,6 +2101,7 @@
             "presentParticiple": "brightening",
             "thirdPerson": "brightens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2047,6 +2128,7 @@
             "presentParticiple": "bringing",
             "thirdPerson": "brings"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -2078,6 +2160,7 @@
             "presentParticiple": "broadcasting",
             "thirdPerson": "broadcasts"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -2108,6 +2191,7 @@
             "presentParticiple": "broadening",
             "thirdPerson": "broadens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2134,6 +2218,7 @@
             "presentParticiple": "bruising",
             "thirdPerson": "bruises"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2164,6 +2249,7 @@
             "presentParticiple": "brushing",
             "thirdPerson": "brushes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2194,6 +2280,7 @@
             "presentParticiple": "bubbling",
             "thirdPerson": "bubbles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2219,6 +2306,7 @@
             "presentParticiple": "building",
             "thirdPerson": "builds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -2250,6 +2338,7 @@
             "presentParticiple": "bumping",
             "thirdPerson": "bumps"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2280,6 +2369,7 @@
             "presentParticiple": "burning",
             "thirdPerson": "burns"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2310,6 +2400,7 @@
             "presentParticiple": "bursting",
             "thirdPerson": "bursts"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -2340,6 +2431,7 @@
             "presentParticiple": "burying",
             "thirdPerson": "buries"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2370,6 +2462,7 @@
             "presentParticiple": "busting",
             "thirdPerson": "busts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -2401,6 +2494,7 @@
             "presentParticiple": "buying",
             "thirdPerson": "buys"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -2432,6 +2526,7 @@
             "presentParticiple": "buzzing",
             "thirdPerson": "buzzes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

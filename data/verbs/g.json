@@ -9,6 +9,7 @@
             "presentParticiple": "gaining",
             "thirdPerson": "gains"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -35,6 +36,7 @@
             "presentParticiple": "gambling",
             "thirdPerson": "gambles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -61,6 +63,7 @@
             "presentParticiple": "gathering",
             "thirdPerson": "gathers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -87,6 +90,7 @@
             "presentParticiple": "gauging",
             "thirdPerson": "gauges"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -113,6 +117,7 @@
             "presentParticiple": "gazing",
             "thirdPerson": "gazes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -139,6 +144,7 @@
             "presentParticiple": "generating",
             "thirdPerson": "generates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -165,6 +171,7 @@
             "presentParticiple": "germinating",
             "thirdPerson": "germinates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -191,6 +198,7 @@
             "presentParticiple": "gesturing",
             "thirdPerson": "gestures"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -217,6 +225,7 @@
             "presentParticiple": "getting",
             "thirdPerson": "gets"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -250,6 +259,7 @@
             "presentParticiple": "getting away",
             "thirdPerson": "gets away"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -277,6 +287,7 @@
             "presentParticiple": "giggling",
             "thirdPerson": "giggles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -302,6 +313,7 @@
             "presentParticiple": "giving",
             "thirdPerson": "gives"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -333,6 +345,7 @@
             "presentParticiple": "giving out",
             "thirdPerson": "gives out"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -359,6 +372,7 @@
             "presentParticiple": "giving up",
             "thirdPerson": "gives up"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -386,6 +400,7 @@
             "presentParticiple": "glancing",
             "thirdPerson": "glances"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -412,6 +427,7 @@
             "presentParticiple": "gliding",
             "thirdPerson": "glides"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -438,6 +454,7 @@
             "presentParticiple": "glimmering",
             "thirdPerson": "glimmers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -464,6 +481,7 @@
             "presentParticiple": "glittering",
             "thirdPerson": "glitters"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -490,6 +508,7 @@
             "presentParticiple": "glowing",
             "thirdPerson": "glows"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -515,6 +534,7 @@
             "presentParticiple": "gluing",
             "thirdPerson": "glues"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -540,6 +560,7 @@
             "presentParticiple": "going",
             "thirdPerson": "goes"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -571,6 +592,7 @@
             "presentParticiple": "going across",
             "thirdPerson": "goes across"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -597,6 +619,7 @@
             "presentParticiple": "going back",
             "thirdPerson": "goes back"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -623,6 +646,7 @@
             "presentParticiple": "going by",
             "thirdPerson": "goes by"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -649,6 +673,7 @@
             "presentParticiple": "going down",
             "thirdPerson": "goes down"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -676,6 +701,7 @@
             "presentParticiple": "going in",
             "thirdPerson": "goes in"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -702,6 +728,7 @@
             "presentParticiple": "going to",
             "thirdPerson": "goes to"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -728,6 +755,7 @@
             "presentParticiple": "going up",
             "thirdPerson": "goes up"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -749,16 +777,20 @@
         "infinitive": "gone",
         "translation": "ido",
         "forms": {
-            "base": "gone"
+            "base": "gone",
+            "pastSimple": "",
+            "pastParticiple": "",
+            "presentParticiple": "",
+            "thirdPerson": ""
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective"
         ],
         "related": [],
         "explanation": "Verbo Particípio Isolado.",
-        "examples": [],
-        "model": "archaic"
+        "examples": []
     },
     "govern": {
         "infinitive": "govern",
@@ -770,6 +802,7 @@
             "presentParticiple": "governing",
             "thirdPerson": "governs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -796,6 +829,7 @@
             "presentParticiple": "grabbing",
             "thirdPerson": "grabs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -822,6 +856,7 @@
             "presentParticiple": "grappling",
             "thirdPerson": "grapples"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -848,6 +883,7 @@
             "presentParticiple": "grasping",
             "thirdPerson": "grasps"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -874,6 +910,7 @@
             "presentParticiple": "grating",
             "thirdPerson": "grates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -900,6 +937,7 @@
             "presentParticiple": "greasing",
             "thirdPerson": "greases"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -926,6 +964,7 @@
             "presentParticiple": "greeting",
             "thirdPerson": "greets"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -951,6 +990,7 @@
             "presentParticiple": "grilling",
             "thirdPerson": "grills"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -977,6 +1017,7 @@
             "presentParticiple": "grinning",
             "thirdPerson": "grins"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1002,6 +1043,7 @@
             "presentParticiple": "grinding",
             "thirdPerson": "grinds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1028,6 +1070,7 @@
             "presentParticiple": "gripping",
             "thirdPerson": "grips"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1054,6 +1097,7 @@
             "presentParticiple": "groaning",
             "thirdPerson": "groans"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1079,6 +1123,7 @@
             "presentParticiple": "grooming",
             "thirdPerson": "grooms"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1105,6 +1150,7 @@
             "presentParticiple": "growing",
             "thirdPerson": "grows"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1135,6 +1181,7 @@
             "presentParticiple": "grumbling",
             "thirdPerson": "grumbles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1161,6 +1208,7 @@
             "presentParticiple": "guaranteeing",
             "thirdPerson": "guarantees"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1187,6 +1235,7 @@
             "presentParticiple": "guarding",
             "thirdPerson": "guards"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1213,6 +1262,7 @@
             "presentParticiple": "guessing",
             "thirdPerson": "guesses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1240,6 +1290,7 @@
             "presentParticiple": "guiding",
             "thirdPerson": "guides"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

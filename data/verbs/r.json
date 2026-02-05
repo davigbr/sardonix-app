@@ -9,6 +9,7 @@
             "presentParticiple": "racing",
             "thirdPerson": "races"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -35,6 +36,7 @@
             "presentParticiple": "radiating",
             "thirdPerson": "radiates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -61,6 +63,7 @@
             "presentParticiple": "raging",
             "thirdPerson": "rages"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -87,6 +90,7 @@
             "presentParticiple": "raining",
             "thirdPerson": "rains"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -103,8 +107,7 @@
                 "en": "It rained all day.",
                 "pt": "Choveu o dia todo."
             }
-        ],
-        "model": "impersonal"
+        ]
     },
     "raise": {
         "infinitive": "raise",
@@ -116,6 +119,7 @@
             "presentParticiple": "raising",
             "thirdPerson": "raises"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -146,6 +150,7 @@
             "presentParticiple": "reaching",
             "thirdPerson": "reaches"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -172,6 +177,7 @@
             "presentParticiple": "reading",
             "thirdPerson": "reads"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -198,6 +204,7 @@
             "presentParticiple": "readying",
             "thirdPerson": "readies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -223,6 +230,7 @@
             "presentParticiple": "realising",
             "thirdPerson": "realises"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -249,6 +257,7 @@
             "presentParticiple": "realizing",
             "thirdPerson": "realizes"
         },
+        "uk": "realise",
         "irregular": false,
         "tags": [
             "regular",
@@ -264,8 +273,7 @@
                 "en": "Do you realize the risk?",
                 "pt": "Você percebe o risco?"
             }
-        ],
-        "uk": "realise"
+        ]
     },
     "rebound": {
         "infinitive": "rebound",
@@ -277,6 +285,7 @@
             "presentParticiple": "rebounding",
             "thirdPerson": "rebounds"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -303,6 +312,7 @@
             "presentParticiple": "rebuking",
             "thirdPerson": "rebukes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -329,6 +339,7 @@
             "presentParticiple": "recalling",
             "thirdPerson": "recalls"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -354,6 +365,7 @@
             "presentParticiple": "receiving",
             "thirdPerson": "receives"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -380,6 +392,7 @@
             "presentParticiple": "recognising",
             "thirdPerson": "recognises"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -405,6 +418,7 @@
             "presentParticiple": "recognizing",
             "thirdPerson": "recognizes"
         },
+        "uk": "recognise",
         "irregular": false,
         "tags": [
             "regular",
@@ -419,8 +433,7 @@
                 "en": "She recognized the voice.",
                 "pt": "Ela reconheceu a voz."
             }
-        ],
-        "uk": "recognise"
+        ]
     },
     "recommend": {
         "infinitive": "recommend",
@@ -432,6 +445,7 @@
             "presentParticiple": "recommending",
             "thirdPerson": "recommends"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -458,6 +472,7 @@
             "presentParticiple": "recording",
             "thirdPerson": "records"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -485,6 +500,7 @@
             "presentParticiple": "recovering",
             "thirdPerson": "recovers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -511,6 +527,7 @@
             "presentParticiple": "recruiting",
             "thirdPerson": "recruits"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -537,6 +554,7 @@
             "presentParticiple": "rectifying",
             "thirdPerson": "rectifies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -563,6 +581,7 @@
             "presentParticiple": "reddening",
             "thirdPerson": "reddens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -588,6 +607,7 @@
             "presentParticiple": "reducing",
             "thirdPerson": "reduces"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -614,6 +634,7 @@
             "presentParticiple": "reeling",
             "thirdPerson": "reels"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -640,6 +661,7 @@
             "presentParticiple": "reflecting",
             "thirdPerson": "reflects"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -665,6 +687,7 @@
             "presentParticiple": "refusing",
             "thirdPerson": "refuses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -691,6 +714,7 @@
             "presentParticiple": "regaining",
             "thirdPerson": "regains"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -717,6 +741,7 @@
             "presentParticiple": "regarding",
             "thirdPerson": "regards"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -743,6 +768,7 @@
             "presentParticiple": "regretting",
             "thirdPerson": "regrets"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -768,6 +794,7 @@
             "presentParticiple": "rehearsing",
             "thirdPerson": "rehearses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -793,6 +820,7 @@
             "presentParticiple": "reigning",
             "thirdPerson": "reigns"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -818,6 +846,7 @@
             "presentParticiple": "reinforcing",
             "thirdPerson": "reinforces"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -844,6 +873,7 @@
             "presentParticiple": "rejecting",
             "thirdPerson": "rejects"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -870,6 +900,7 @@
             "presentParticiple": "rejoicing",
             "thirdPerson": "rejoices"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -896,6 +927,7 @@
             "presentParticiple": "relaxing",
             "thirdPerson": "relaxes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -923,6 +955,7 @@
             "presentParticiple": "releasing",
             "thirdPerson": "releases"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -949,6 +982,7 @@
             "presentParticiple": "relieving",
             "thirdPerson": "relieves"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -975,6 +1009,7 @@
             "presentParticiple": "relishing",
             "thirdPerson": "relishes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1001,6 +1036,7 @@
             "presentParticiple": "relying",
             "thirdPerson": "relies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1027,6 +1063,7 @@
             "presentParticiple": "remaining",
             "thirdPerson": "remains"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1053,6 +1090,7 @@
             "presentParticiple": "remembering",
             "thirdPerson": "remembers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1079,6 +1117,7 @@
             "presentParticiple": "reminding",
             "thirdPerson": "reminds"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1102,6 +1141,7 @@
             "presentParticiple": "removing",
             "thirdPerson": "removes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1128,6 +1168,7 @@
             "presentParticiple": "renting",
             "thirdPerson": "rents"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1154,6 +1195,7 @@
             "presentParticiple": "repairing",
             "thirdPerson": "repairs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1180,6 +1222,7 @@
             "presentParticiple": "repeating",
             "thirdPerson": "repeats"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1206,6 +1249,7 @@
             "presentParticiple": "replacing",
             "thirdPerson": "replaces"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1231,6 +1275,7 @@
             "presentParticiple": "replying",
             "thirdPerson": "replies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1257,6 +1302,7 @@
             "presentParticiple": "reporting",
             "thirdPerson": "reports"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1282,6 +1328,7 @@
             "presentParticiple": "repressing",
             "thirdPerson": "represses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1308,6 +1355,7 @@
             "presentParticiple": "reprimanding",
             "thirdPerson": "reprimands"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1334,6 +1382,7 @@
             "presentParticiple": "reproducing",
             "thirdPerson": "reproduces"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1360,6 +1409,7 @@
             "presentParticiple": "reproving",
             "thirdPerson": "reproves"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1386,6 +1436,7 @@
             "presentParticiple": "requesting",
             "thirdPerson": "requests"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1412,6 +1463,7 @@
             "presentParticiple": "requiring",
             "thirdPerson": "requires"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1438,6 +1490,7 @@
             "presentParticiple": "rescuing",
             "thirdPerson": "rescues"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1463,6 +1516,7 @@
             "presentParticiple": "researching",
             "thirdPerson": "researches"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1489,6 +1543,7 @@
             "presentParticiple": "reserving",
             "thirdPerson": "reserves"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1515,6 +1570,7 @@
             "presentParticiple": "residing",
             "thirdPerson": "resides"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1541,6 +1597,7 @@
             "presentParticiple": "resisting",
             "thirdPerson": "resists"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1567,6 +1624,7 @@
             "presentParticiple": "resolving",
             "thirdPerson": "resolves"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1593,6 +1651,7 @@
             "presentParticiple": "respecting",
             "thirdPerson": "respects"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1619,6 +1678,7 @@
             "presentParticiple": "responding",
             "thirdPerson": "responds"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1645,6 +1705,7 @@
             "presentParticiple": "resting",
             "thirdPerson": "rests"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1670,6 +1731,7 @@
             "presentParticiple": "restraining",
             "thirdPerson": "restrains"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1696,6 +1758,7 @@
             "presentParticiple": "retiring",
             "thirdPerson": "retires"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1719,6 +1782,7 @@
             "presentParticiple": "retreating",
             "thirdPerson": "retreats"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1745,6 +1809,7 @@
             "presentParticiple": "returning",
             "thirdPerson": "returns"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1772,6 +1837,7 @@
             "presentParticiple": "revealing",
             "thirdPerson": "reveals"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1798,6 +1864,7 @@
             "presentParticiple": "reversing",
             "thirdPerson": "reverses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1824,6 +1891,7 @@
             "presentParticiple": "reviewing",
             "thirdPerson": "reviews"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1850,6 +1918,7 @@
             "presentParticiple": "revising",
             "thirdPerson": "revises"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1876,6 +1945,7 @@
             "presentParticiple": "rewarding",
             "thirdPerson": "rewards"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1901,6 +1971,7 @@
             "presentParticiple": "rhyming",
             "thirdPerson": "rhymes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1924,6 +1995,7 @@
             "presentParticiple": "ridding",
             "thirdPerson": "rids"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1949,6 +2021,7 @@
             "presentParticiple": "riding",
             "thirdPerson": "rides"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1973,6 +2046,7 @@
             "presentParticiple": "ridiculing",
             "thirdPerson": "ridicules"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1999,6 +2073,7 @@
             "presentParticiple": "ringing",
             "thirdPerson": "rings"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -2028,6 +2103,7 @@
             "presentParticiple": "rinsing",
             "thirdPerson": "rinses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2053,6 +2129,7 @@
             "presentParticiple": "ripping",
             "thirdPerson": "rips"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2079,6 +2156,7 @@
             "presentParticiple": "rising",
             "thirdPerson": "rises"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -2105,6 +2183,7 @@
             "presentParticiple": "risking",
             "thirdPerson": "risks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2130,6 +2209,7 @@
             "presentParticiple": "riving",
             "thirdPerson": "rives"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -2156,6 +2236,7 @@
             "presentParticiple": "roaming",
             "thirdPerson": "roams"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2182,6 +2263,7 @@
             "presentParticiple": "roasting",
             "thirdPerson": "roasts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2208,6 +2290,7 @@
             "presentParticiple": "robbing",
             "thirdPerson": "robs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2233,6 +2316,7 @@
             "presentParticiple": "rocking",
             "thirdPerson": "rocks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2258,6 +2342,7 @@
             "presentParticiple": "rolling",
             "thirdPerson": "rolls"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2281,6 +2366,7 @@
             "presentParticiple": "rotting",
             "thirdPerson": "rots"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2306,6 +2392,7 @@
             "presentParticiple": "rotating",
             "thirdPerson": "rotates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2332,6 +2419,7 @@
             "presentParticiple": "rounding",
             "thirdPerson": "rounds"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2355,6 +2443,7 @@
             "presentParticiple": "rousing",
             "thirdPerson": "rouses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2381,6 +2470,7 @@
             "presentParticiple": "rowing",
             "thirdPerson": "rows"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2406,6 +2496,7 @@
             "presentParticiple": "rubbing",
             "thirdPerson": "rubs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2429,6 +2520,7 @@
             "presentParticiple": "rubbing out",
             "thirdPerson": "rubs out"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -2455,6 +2547,7 @@
             "presentParticiple": "ruing",
             "thirdPerson": "rues"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2480,6 +2573,7 @@
             "presentParticiple": "ruining",
             "thirdPerson": "ruins"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2506,6 +2600,7 @@
             "presentParticiple": "ruling",
             "thirdPerson": "rules"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2531,6 +2626,7 @@
             "presentParticiple": "running",
             "thirdPerson": "runs"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -2558,6 +2654,7 @@
             "presentParticiple": "running after",
             "thirdPerson": "runs after"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -2585,6 +2682,7 @@
             "presentParticiple": "running away",
             "thirdPerson": "runs away"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -2612,6 +2710,7 @@
             "presentParticiple": "rushing",
             "thirdPerson": "rushes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

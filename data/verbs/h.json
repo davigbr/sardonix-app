@@ -5,8 +5,11 @@
         "forms": {
             "base": "had better",
             "pastSimple": "had better",
+            "pastParticiple": "",
+            "presentParticiple": "",
             "thirdPerson": "had better"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective",
@@ -15,8 +18,7 @@
         ],
         "related": [],
         "explanation": "Verbo Locução Modal.",
-        "examples": [],
-        "model": "modal_pure"
+        "examples": []
     },
     "hail": {
         "infinitive": "hail",
@@ -28,6 +30,7 @@
             "presentParticiple": "hailing",
             "thirdPerson": "hails"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -43,8 +46,7 @@
                 "en": "Hail a taxi.",
                 "pt": "Chame um táxi."
             }
-        ],
-        "model": "impersonal"
+        ]
     },
     "halt": {
         "infinitive": "halt",
@@ -56,6 +58,7 @@
             "presentParticiple": "halting",
             "thirdPerson": "halts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -82,6 +85,7 @@
             "presentParticiple": "hammering",
             "thirdPerson": "hammers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -108,6 +112,7 @@
             "presentParticiple": "handing",
             "thirdPerson": "hands"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -135,6 +140,7 @@
             "presentParticiple": "handling",
             "thirdPerson": "handles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -166,6 +172,7 @@
             "presentParticiple": "handwriting",
             "thirdPerson": "handwrites"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -191,6 +198,7 @@
             "presentParticiple": "hanging",
             "thirdPerson": "hangs"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -222,6 +230,7 @@
             "presentParticiple": "happening",
             "thirdPerson": "happens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -253,6 +262,7 @@
             "presentParticiple": "harassing",
             "thirdPerson": "harasses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -279,6 +289,7 @@
             "presentParticiple": "hardening",
             "thirdPerson": "hardens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -299,16 +310,20 @@
         "infinitive": "hark",
         "translation": "escute",
         "forms": {
-            "base": "hark"
+            "base": "hark",
+            "pastSimple": "",
+            "pastParticiple": "",
+            "presentParticiple": "",
+            "thirdPerson": ""
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective"
         ],
         "related": [],
         "explanation": "Verbo Arcaico (Imperativo).",
-        "examples": [],
-        "model": "restricted_imperative"
+        "examples": []
     },
     "harm": {
         "infinitive": "harm",
@@ -320,6 +335,7 @@
             "presentParticiple": "harming",
             "thirdPerson": "harms"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -346,6 +362,7 @@
             "presentParticiple": "hastening",
             "thirdPerson": "hastens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -372,6 +389,7 @@
             "presentParticiple": "hating",
             "thirdPerson": "hates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -399,6 +417,7 @@
             "presentParticiple": "haunting",
             "thirdPerson": "haunts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -424,6 +443,7 @@
             "presentParticiple": "having",
             "thirdPerson": "has"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -456,6 +476,7 @@
             "presentParticiple": "heading",
             "thirdPerson": "heads"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -486,6 +507,7 @@
             "presentParticiple": "healing",
             "thirdPerson": "heals"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -512,6 +534,7 @@
             "presentParticiple": "heaping",
             "thirdPerson": "heaps"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -537,6 +560,7 @@
             "presentParticiple": "hearing",
             "thirdPerson": "hears"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -569,6 +593,7 @@
             "presentParticiple": "heating",
             "thirdPerson": "heats"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -594,6 +619,7 @@
             "presentParticiple": "helping",
             "thirdPerson": "helps"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -625,6 +651,7 @@
             "presentParticiple": "hiding",
             "thirdPerson": "hides"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -655,6 +682,7 @@
             "presentParticiple": "highlighting",
             "thirdPerson": "highlights"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -674,16 +702,20 @@
         "infinitive": "hight",
         "translation": "chamar-se",
         "forms": {
-            "base": "hight"
+            "base": "hight",
+            "pastSimple": "",
+            "pastParticiple": "",
+            "presentParticiple": "",
+            "thirdPerson": ""
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective"
         ],
         "related": [],
         "explanation": "Verbo Arcaico (Passivo).",
-        "examples": [],
-        "model": "archaic"
+        "examples": []
     },
     "hire": {
         "infinitive": "hire",
@@ -695,6 +727,7 @@
             "presentParticiple": "hiring",
             "thirdPerson": "hires"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -721,6 +754,7 @@
             "presentParticiple": "hissing",
             "thirdPerson": "hisses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -746,6 +780,7 @@
             "presentParticiple": "hitting",
             "thirdPerson": "hits"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -777,6 +812,7 @@
             "presentParticiple": "holding",
             "thirdPerson": "holds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -808,6 +844,7 @@
             "presentParticiple": "holding on",
             "thirdPerson": "holds on"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -835,6 +872,7 @@
             "presentParticiple": "honoring",
             "thirdPerson": "honors"
         },
+        "uk": "honour",
         "irregular": false,
         "tags": [
             "regular"
@@ -849,8 +887,7 @@
                 "en": "Honor your promise.",
                 "pt": "Honre sua promessa."
             }
-        ],
-        "uk": "honour"
+        ]
     },
     "hook": {
         "infinitive": "hook",
@@ -862,6 +899,7 @@
             "presentParticiple": "hooking",
             "thirdPerson": "hooks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -887,6 +925,7 @@
             "presentParticiple": "hopping",
             "thirdPerson": "hops"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -912,6 +951,7 @@
             "presentParticiple": "hoping",
             "thirdPerson": "hopes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -938,6 +978,7 @@
             "presentParticiple": "housing",
             "thirdPerson": "houses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -964,6 +1005,7 @@
             "presentParticiple": "hovering",
             "thirdPerson": "hovers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -989,6 +1031,7 @@
             "presentParticiple": "hugging",
             "thirdPerson": "hugs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1014,6 +1057,7 @@
             "presentParticiple": "humming",
             "thirdPerson": "hums"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1037,6 +1081,7 @@
             "presentParticiple": "humiliating",
             "thirdPerson": "humiliates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1063,6 +1108,7 @@
             "presentParticiple": "hunting",
             "thirdPerson": "hunts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1089,6 +1135,7 @@
             "presentParticiple": "hurling",
             "thirdPerson": "hurls"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1115,6 +1162,7 @@
             "presentParticiple": "hurrying",
             "thirdPerson": "hurries"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1141,6 +1189,7 @@
             "presentParticiple": "hurting",
             "thirdPerson": "hurts"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1172,6 +1221,7 @@
             "presentParticiple": "hushing",
             "thirdPerson": "hushes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

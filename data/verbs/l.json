@@ -9,6 +9,7 @@
             "presentParticiple": "labeling",
             "thirdPerson": "labels"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -35,6 +36,7 @@
             "presentParticiple": "laboring",
             "thirdPerson": "labors"
         },
+        "uk": "labour",
         "irregular": false,
         "tags": [
             "regular"
@@ -49,8 +51,7 @@
                 "en": "They labored in the fields.",
                 "pt": "Eles trabalharam nos campos."
             }
-        ],
-        "uk": "labour"
+        ]
     },
     "land": {
         "infinitive": "land",
@@ -62,6 +63,7 @@
             "presentParticiple": "landing",
             "thirdPerson": "lands"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -87,6 +89,7 @@
             "presentParticiple": "lashing",
             "thirdPerson": "lashes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -113,6 +116,7 @@
             "presentParticiple": "lasting",
             "thirdPerson": "lasts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -139,6 +143,7 @@
             "presentParticiple": "laughing",
             "thirdPerson": "laughs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -165,6 +170,7 @@
             "presentParticiple": "launching",
             "thirdPerson": "launches"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -191,6 +197,7 @@
             "presentParticiple": "laying",
             "thirdPerson": "lays"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -217,6 +224,7 @@
             "presentParticiple": "layering",
             "thirdPerson": "layers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -242,6 +250,7 @@
             "presentParticiple": "leading",
             "thirdPerson": "leads"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -269,6 +278,7 @@
             "presentParticiple": "leaning",
             "thirdPerson": "leans"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -295,6 +305,7 @@
             "presentParticiple": "leaping",
             "thirdPerson": "leaps"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -320,6 +331,7 @@
             "presentParticiple": "learning",
             "thirdPerson": "learns"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -346,6 +358,7 @@
             "presentParticiple": "leasing",
             "thirdPerson": "leases"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -371,6 +384,7 @@
             "presentParticiple": "leaving",
             "thirdPerson": "leaves"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -402,6 +416,7 @@
             "presentParticiple": "leaving out",
             "thirdPerson": "leaves out"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -429,6 +444,7 @@
             "presentParticiple": "lecturing",
             "thirdPerson": "lectures"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -455,6 +471,7 @@
             "presentParticiple": "lending",
             "thirdPerson": "lends"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -480,6 +497,7 @@
             "presentParticiple": "lengthening",
             "thirdPerson": "lengthens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -506,6 +524,7 @@
             "presentParticiple": "lessening",
             "thirdPerson": "lessens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -532,6 +551,7 @@
             "presentParticiple": "letting",
             "thirdPerson": "lets"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -559,6 +579,7 @@
             "presentParticiple": "letting go",
             "thirdPerson": "lets go"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -585,6 +606,7 @@
             "presentParticiple": "leveling",
             "thirdPerson": "levels"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -610,6 +632,7 @@
             "presentParticiple": "licensing",
             "thirdPerson": "licenses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -635,6 +658,7 @@
             "presentParticiple": "licking",
             "thirdPerson": "licks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -658,6 +682,7 @@
             "presentParticiple": "lying",
             "thirdPerson": "lies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -687,6 +712,7 @@
             "presentParticiple": "lifting",
             "thirdPerson": "lifts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -712,6 +738,7 @@
             "presentParticiple": "lighting",
             "thirdPerson": "lights"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -737,6 +764,7 @@
             "presentParticiple": "lighting up",
             "thirdPerson": "lights up"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -764,6 +792,7 @@
             "presentParticiple": "lightening",
             "thirdPerson": "lightens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -789,6 +818,7 @@
             "presentParticiple": "liking",
             "thirdPerson": "likes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -820,6 +850,7 @@
             "presentParticiple": "lining up",
             "thirdPerson": "lines up"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -846,6 +877,7 @@
             "presentParticiple": "linking",
             "thirdPerson": "links"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -872,6 +904,7 @@
             "presentParticiple": "listing",
             "thirdPerson": "lists"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -897,6 +930,7 @@
             "presentParticiple": "listening",
             "thirdPerson": "listens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -923,6 +957,7 @@
             "presentParticiple": "living",
             "thirdPerson": "lives"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -949,6 +984,7 @@
             "presentParticiple": "loading",
             "thirdPerson": "loads"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -975,6 +1011,7 @@
             "presentParticiple": "loaning",
             "thirdPerson": "loans"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1000,6 +1037,7 @@
             "presentParticiple": "loathing",
             "thirdPerson": "loathes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1026,6 +1064,7 @@
             "presentParticiple": "locating",
             "thirdPerson": "locates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1051,6 +1090,7 @@
             "presentParticiple": "locking",
             "thirdPerson": "locks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1076,6 +1116,7 @@
             "presentParticiple": "longing",
             "thirdPerson": "longs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1102,6 +1143,7 @@
             "presentParticiple": "longing for",
             "thirdPerson": "longs for"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1129,6 +1171,7 @@
             "presentParticiple": "looking",
             "thirdPerson": "looks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1160,6 +1203,7 @@
             "presentParticiple": "looking after",
             "thirdPerson": "looks after"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1187,6 +1231,7 @@
             "presentParticiple": "looking at",
             "thirdPerson": "looks at"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1214,6 +1259,7 @@
             "presentParticiple": "losing",
             "thirdPerson": "loses"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1244,6 +1290,7 @@
             "presentParticiple": "loving",
             "thirdPerson": "loves"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1270,6 +1317,7 @@
             "presentParticiple": "lowering",
             "thirdPerson": "lowers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1296,6 +1344,7 @@
             "presentParticiple": "lubricating",
             "thirdPerson": "lubricates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1322,6 +1371,7 @@
             "presentParticiple": "luring",
             "thirdPerson": "lures"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1348,6 +1398,7 @@
             "presentParticiple": "lurking",
             "thirdPerson": "lurks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

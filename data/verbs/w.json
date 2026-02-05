@@ -9,6 +9,7 @@
             "presentParticiple": "wagering",
             "thirdPerson": "wagers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -35,6 +36,7 @@
             "presentParticiple": "wailing",
             "thirdPerson": "wails"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -61,6 +63,7 @@
             "presentParticiple": "waiting",
             "thirdPerson": "waits"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -93,6 +96,7 @@
             "presentParticiple": "waking",
             "thirdPerson": "wakes"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -119,6 +123,7 @@
             "presentParticiple": "waking up",
             "thirdPerson": "wakes up"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -146,6 +151,7 @@
             "presentParticiple": "walking",
             "thirdPerson": "walks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -178,6 +184,7 @@
             "presentParticiple": "wandering",
             "thirdPerson": "wanders"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -204,6 +211,7 @@
             "presentParticiple": "wanting",
             "thirdPerson": "wants"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -237,6 +245,7 @@
             "presentParticiple": "warming",
             "thirdPerson": "warms"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -262,6 +271,7 @@
             "presentParticiple": "warning",
             "thirdPerson": "warns"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -288,6 +298,7 @@
             "presentParticiple": "washing",
             "thirdPerson": "washes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -314,6 +325,7 @@
             "presentParticiple": "wasting",
             "thirdPerson": "wastes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -339,6 +351,7 @@
             "presentParticiple": "watching",
             "thirdPerson": "watches"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -371,6 +384,7 @@
             "presentParticiple": "watering",
             "thirdPerson": "waters"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -396,6 +410,7 @@
             "presentParticiple": "waving",
             "thirdPerson": "waves"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -421,6 +436,7 @@
             "presentParticiple": "wearing",
             "thirdPerson": "wears"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -448,6 +464,7 @@
             "presentParticiple": "wearying",
             "thirdPerson": "wearies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -473,6 +490,7 @@
             "presentParticiple": "weaving",
             "thirdPerson": "weaves"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -499,6 +517,7 @@
             "presentParticiple": "wedding",
             "thirdPerson": "weds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -524,6 +543,7 @@
             "presentParticiple": "weeping",
             "thirdPerson": "weeps"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -550,6 +570,7 @@
             "presentParticiple": "weighing",
             "thirdPerson": "weighs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -575,6 +596,7 @@
             "presentParticiple": "welcoming",
             "thirdPerson": "welcomes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -600,6 +622,7 @@
             "presentParticiple": "wending",
             "thirdPerson": "wends"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -626,6 +649,7 @@
             "presentParticiple": "wetting",
             "thirdPerson": "wets"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -652,6 +676,7 @@
             "presentParticiple": "whining",
             "thirdPerson": "whines"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -677,6 +702,7 @@
             "presentParticiple": "whipping",
             "thirdPerson": "whips"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -703,6 +729,7 @@
             "presentParticiple": "whirling",
             "thirdPerson": "whirls"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -729,6 +756,7 @@
             "presentParticiple": "whispering",
             "thirdPerson": "whispers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -754,6 +782,7 @@
             "presentParticiple": "whitening",
             "thirdPerson": "whitens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -779,6 +808,7 @@
             "presentParticiple": "widening",
             "thirdPerson": "widens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -805,6 +835,7 @@
             "presentParticiple": "wiggling",
             "thirdPerson": "wiggles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -827,8 +858,11 @@
         "forms": {
             "base": "will",
             "pastSimple": "would",
+            "pastParticiple": "",
+            "presentParticiple": "",
             "thirdPerson": "will"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective",
@@ -845,8 +879,7 @@
                 "en": "Will you marry me?",
                 "pt": "Você quer casar comigo?"
             }
-        ],
-        "model": "modal_pure"
+        ]
     },
     "win": {
         "infinitive": "win",
@@ -858,6 +891,7 @@
             "presentParticiple": "winning",
             "thirdPerson": "wins"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -890,6 +924,7 @@
             "presentParticiple": "winding",
             "thirdPerson": "winds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -916,6 +951,7 @@
             "presentParticiple": "winking",
             "thirdPerson": "winks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -941,6 +977,7 @@
             "presentParticiple": "wiping",
             "thirdPerson": "wipes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -967,6 +1004,7 @@
             "presentParticiple": "wishing",
             "thirdPerson": "wishes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -992,16 +1030,20 @@
         "infinitive": "wit",
         "translation": "saber / isto é",
         "forms": {
-            "base": "wit"
+            "base": "wit",
+            "pastSimple": "",
+            "pastParticiple": "",
+            "presentParticiple": "",
+            "thirdPerson": ""
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective"
         ],
         "related": [],
         "explanation": "Verbo Arcaico / Legalês.",
-        "examples": [],
-        "model": "archaic"
+        "examples": []
     },
     "withdraw": {
         "infinitive": "withdraw",
@@ -1013,6 +1055,7 @@
             "presentParticiple": "withdrawing",
             "thirdPerson": "withdraws"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1039,6 +1082,7 @@
             "presentParticiple": "withholding",
             "thirdPerson": "withholds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1064,6 +1108,7 @@
             "presentParticiple": "withstanding",
             "thirdPerson": " withstands"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1090,6 +1135,7 @@
             "presentParticiple": "wobbling",
             "thirdPerson": "wobbles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1115,6 +1161,7 @@
             "presentParticiple": "wondering",
             "thirdPerson": "wonders"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1141,6 +1188,7 @@
             "presentParticiple": "working",
             "thirdPerson": "works"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1172,6 +1220,7 @@
             "presentParticiple": "working out",
             "thirdPerson": "works out"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1199,6 +1248,7 @@
             "presentParticiple": "worrying",
             "thirdPerson": "worries"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1225,6 +1275,7 @@
             "presentParticiple": "worshipping",
             "thirdPerson": "worships"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1245,16 +1296,20 @@
         "infinitive": "worth",
         "translation": "acontecer",
         "forms": {
-            "base": "worth"
+            "base": "worth",
+            "pastSimple": "",
+            "pastParticiple": "",
+            "presentParticiple": "",
+            "thirdPerson": ""
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective"
         ],
         "related": [],
         "explanation": "Verbo Arcaico (Subjuntivo).",
-        "examples": [],
-        "model": "archaic"
+        "examples": []
     },
     "would": {
         "infinitive": "would",
@@ -1262,8 +1317,11 @@
         "forms": {
             "base": "would",
             "pastSimple": "-",
+            "pastParticiple": "",
+            "presentParticiple": "",
             "thirdPerson": "would"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective",
@@ -1280,8 +1338,7 @@
                 "en": "She would always say that.",
                 "pt": "Ela sempre dizia isso."
             }
-        ],
-        "model": "modal_pure"
+        ]
     },
     "would rather": {
         "infinitive": "would rather",
@@ -1289,8 +1346,11 @@
         "forms": {
             "base": "would rather",
             "pastSimple": "would rather",
+            "pastParticiple": "",
+            "presentParticiple": "",
             "thirdPerson": "would rather"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective",
@@ -1299,8 +1359,7 @@
         ],
         "related": [],
         "explanation": "Verbo Locução Modal.",
-        "examples": [],
-        "model": "modal_pure"
+        "examples": []
     },
     "wound": {
         "infinitive": "wound",
@@ -1312,6 +1371,7 @@
             "presentParticiple": "wounding",
             "thirdPerson": "wounds"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1338,6 +1398,7 @@
             "presentParticiple": "wrapping",
             "thirdPerson": "wraps"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1364,6 +1425,7 @@
             "presentParticiple": "wrecking",
             "thirdPerson": "wrecks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1390,6 +1452,7 @@
             "presentParticiple": "wrestling",
             "thirdPerson": "wrestles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1416,6 +1479,7 @@
             "presentParticiple": "wriggling",
             "thirdPerson": "wriggles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1442,6 +1506,7 @@
             "presentParticiple": "wringing",
             "thirdPerson": "wrings"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1468,6 +1533,7 @@
             "presentParticiple": "wrinkling",
             "thirdPerson": "wrinkles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1493,6 +1559,7 @@
             "presentParticiple": "writing",
             "thirdPerson": "writes"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1524,6 +1591,7 @@
             "presentParticiple": "wronging",
             "thirdPerson": "wrongs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

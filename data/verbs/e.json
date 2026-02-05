@@ -9,6 +9,7 @@
             "presentParticiple": "earning",
             "thirdPerson": "earns"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -40,6 +41,7 @@
             "presentParticiple": "easing",
             "thirdPerson": "eases"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -66,6 +68,7 @@
             "presentParticiple": "eating",
             "thirdPerson": "eats"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -98,6 +101,7 @@
             "presentParticiple": "echoing",
             "thirdPerson": "echoes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -123,6 +127,7 @@
             "presentParticiple": "editing",
             "thirdPerson": "edits"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -149,6 +154,7 @@
             "presentParticiple": "educating",
             "thirdPerson": "educates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -174,6 +180,7 @@
             "presentParticiple": "electing",
             "thirdPerson": "elects"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -200,6 +207,7 @@
             "presentParticiple": "eliminating",
             "thirdPerson": "eliminates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -225,6 +233,7 @@
             "presentParticiple": "emailing",
             "thirdPerson": "emails"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -252,6 +261,7 @@
             "presentParticiple": "embarrassing",
             "thirdPerson": "embarrasses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -278,6 +288,7 @@
             "presentParticiple": "embedding",
             "thirdPerson": "embeds"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -304,6 +315,7 @@
             "presentParticiple": "embracing",
             "thirdPerson": "embraces"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -330,6 +342,7 @@
             "presentParticiple": "emerging",
             "thirdPerson": "emerges"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -356,6 +369,7 @@
             "presentParticiple": "emitting",
             "thirdPerson": "emits"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -382,6 +396,7 @@
             "presentParticiple": "emphasizing",
             "thirdPerson": "emphasizes"
         },
+        "uk": "emphasise",
         "irregular": false,
         "tags": [
             "regular"
@@ -396,8 +411,7 @@
                 "en": "He emphasized the importance of study.",
                 "pt": "Ele enfatizou a importância do estudo."
             }
-        ],
-        "uk": "emphasise"
+        ]
     },
     "employ": {
         "infinitive": "employ",
@@ -409,6 +423,7 @@
             "presentParticiple": "employing",
             "thirdPerson": "employs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -435,6 +450,7 @@
             "presentParticiple": "emptying",
             "thirdPerson": "empties"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -460,6 +476,7 @@
             "presentParticiple": "enabling",
             "thirdPerson": "enables"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -486,6 +503,7 @@
             "presentParticiple": "encircling",
             "thirdPerson": "encircles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -511,6 +529,7 @@
             "presentParticiple": "enclosing",
             "thirdPerson": "encloses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -537,6 +556,7 @@
             "presentParticiple": "encountering",
             "thirdPerson": "encounters"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -563,6 +583,7 @@
             "presentParticiple": "encouraging",
             "thirdPerson": "encourages"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -590,6 +611,7 @@
             "presentParticiple": "encrypting",
             "thirdPerson": "encrypts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -616,6 +638,7 @@
             "presentParticiple": "ending",
             "thirdPerson": "ends"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -647,6 +670,7 @@
             "presentParticiple": "endeavoring",
             "thirdPerson": "endeavors"
         },
+        "uk": "endeavour",
         "irregular": false,
         "tags": [
             "regular"
@@ -661,8 +685,7 @@
                 "en": "He endeavored to help.",
                 "pt": "Ele se esforçou para ajudar."
             }
-        ],
-        "uk": "endeavour"
+        ]
     },
     "endorse": {
         "infinitive": "endorse",
@@ -674,6 +697,7 @@
             "presentParticiple": "endorsing",
             "thirdPerson": "endorses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -700,6 +724,7 @@
             "presentParticiple": "enduring",
             "thirdPerson": "endures"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -726,6 +751,7 @@
             "presentParticiple": "enforcing",
             "thirdPerson": "enforces"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -751,6 +777,7 @@
             "presentParticiple": "engaging",
             "thirdPerson": "engages"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -776,6 +803,7 @@
             "presentParticiple": "enhancing",
             "thirdPerson": "enhances"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -801,6 +829,7 @@
             "presentParticiple": "enjoying",
             "thirdPerson": "enjoys"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -832,6 +861,7 @@
             "presentParticiple": "enlarging",
             "thirdPerson": "enlarges"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -858,6 +888,7 @@
             "presentParticiple": "ensuring",
             "thirdPerson": "ensures"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -884,6 +915,7 @@
             "presentParticiple": "entailing",
             "thirdPerson": "entails"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -910,6 +942,7 @@
             "presentParticiple": "entering",
             "thirdPerson": "enters"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -937,6 +970,7 @@
             "presentParticiple": "entertaining",
             "thirdPerson": "entertains"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -962,6 +996,7 @@
             "presentParticiple": "enticing",
             "thirdPerson": "entices"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -988,6 +1023,7 @@
             "presentParticiple": "enveloping",
             "thirdPerson": "envelops"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1014,6 +1050,7 @@
             "presentParticiple": "envisioning",
             "thirdPerson": "envisions"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1040,6 +1077,7 @@
             "presentParticiple": "erasing",
             "thirdPerson": "erases"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1066,6 +1104,7 @@
             "presentParticiple": "erring",
             "thirdPerson": "errs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1091,6 +1130,7 @@
             "presentParticiple": "escaping",
             "thirdPerson": "escapes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1117,6 +1157,7 @@
             "presentParticiple": "establishing",
             "thirdPerson": "establishes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1143,6 +1184,7 @@
             "presentParticiple": "estimating",
             "thirdPerson": "estimates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1169,6 +1211,7 @@
             "presentParticiple": "evaluating",
             "thirdPerson": "evaluates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1195,6 +1238,7 @@
             "presentParticiple": "evolving",
             "thirdPerson": "evolves"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1220,6 +1264,7 @@
             "presentParticiple": "examining",
             "thirdPerson": "examines"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1246,6 +1291,7 @@
             "presentParticiple": "excavating",
             "thirdPerson": "excavates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1271,6 +1317,7 @@
             "presentParticiple": "exchanging",
             "thirdPerson": "exchanges"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1297,6 +1344,7 @@
             "presentParticiple": "exciting",
             "thirdPerson": "excites"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1322,6 +1370,7 @@
             "presentParticiple": "excluding",
             "thirdPerson": "excludes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1347,6 +1396,7 @@
             "presentParticiple": "excusing",
             "thirdPerson": "excuses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1377,6 +1427,7 @@
             "presentParticiple": "executing",
             "thirdPerson": "executes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1403,6 +1454,7 @@
             "presentParticiple": "exercising",
             "thirdPerson": "exercises"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1428,6 +1480,7 @@
             "presentParticiple": "exhaling",
             "thirdPerson": "exhales"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1453,6 +1506,7 @@
             "presentParticiple": "exhausting",
             "thirdPerson": "exhausts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1479,6 +1533,7 @@
             "presentParticiple": "exhibiting",
             "thirdPerson": "exhibits"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1505,6 +1560,7 @@
             "presentParticiple": "existing",
             "thirdPerson": "exists"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1530,6 +1586,7 @@
             "presentParticiple": "exiting",
             "thirdPerson": "exits"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1555,6 +1612,7 @@
             "presentParticiple": "expanding",
             "thirdPerson": "expands"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1581,6 +1639,7 @@
             "presentParticiple": "expecting",
             "thirdPerson": "expects"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1607,6 +1666,7 @@
             "presentParticiple": "expectorating",
             "thirdPerson": "expectorates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1633,6 +1693,7 @@
             "presentParticiple": "expending",
             "thirdPerson": "expends"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1659,6 +1720,7 @@
             "presentParticiple": "experiencing",
             "thirdPerson": "experiences"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1685,6 +1747,7 @@
             "presentParticiple": "explaining",
             "thirdPerson": "explains"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1712,6 +1775,7 @@
             "presentParticiple": "exploding",
             "thirdPerson": "explodes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1738,6 +1802,7 @@
             "presentParticiple": "exploring",
             "thirdPerson": "explores"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1763,6 +1828,7 @@
             "presentParticiple": "exposing",
             "thirdPerson": "exposes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1789,6 +1855,7 @@
             "presentParticiple": "expressing",
             "thirdPerson": "expresses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1816,6 +1883,7 @@
             "presentParticiple": "extending",
             "thirdPerson": "extends"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1842,6 +1910,7 @@
             "presentParticiple": "extracting",
             "thirdPerson": "extracts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1868,6 +1937,7 @@
             "presentParticiple": "eying",
             "thirdPerson": "eyes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

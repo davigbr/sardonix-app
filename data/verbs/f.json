@@ -9,6 +9,7 @@
             "presentParticiple": "facing",
             "thirdPerson": "faces"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -34,6 +35,7 @@
             "presentParticiple": "fading",
             "thirdPerson": "fades"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -59,6 +61,7 @@
             "presentParticiple": "failing",
             "thirdPerson": "fails"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -89,6 +92,7 @@
             "presentParticiple": "fainting",
             "thirdPerson": "faints"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -114,6 +118,7 @@
             "presentParticiple": "faking",
             "thirdPerson": "fakes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -140,6 +145,7 @@
             "presentParticiple": "falling",
             "thirdPerson": "falls"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -171,6 +177,7 @@
             "presentParticiple": "falling down",
             "thirdPerson": "falls down"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -198,6 +205,7 @@
             "presentParticiple": "fanning",
             "thirdPerson": "fans"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -221,6 +229,7 @@
             "presentParticiple": "fancying",
             "thirdPerson": "fancies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -248,6 +257,7 @@
             "presentParticiple": "fantasizing",
             "thirdPerson": "fantasizes"
         },
+        "uk": "fantasise",
         "irregular": false,
         "tags": [
             "regular"
@@ -262,8 +272,7 @@
                 "en": "He fantasizes about winning.",
                 "pt": "Ele fantasia em ganhar."
             }
-        ],
-        "uk": "fantasise"
+        ]
     },
     "farm": {
         "infinitive": "farm",
@@ -275,6 +284,7 @@
             "presentParticiple": "farming",
             "thirdPerson": "farms"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -301,6 +311,7 @@
             "presentParticiple": "fascinating",
             "thirdPerson": "fascinates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -326,6 +337,7 @@
             "presentParticiple": "fastening",
             "thirdPerson": "fastens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -351,6 +363,7 @@
             "presentParticiple": "favoring",
             "thirdPerson": "favors"
         },
+        "uk": "favour",
         "irregular": false,
         "tags": [
             "regular"
@@ -365,8 +378,7 @@
                 "en": "Fortune favors the bold.",
                 "pt": "A sorte favorece os bravos."
             }
-        ],
-        "uk": "favour"
+        ]
     },
     "fear": {
         "infinitive": "fear",
@@ -378,6 +390,7 @@
             "presentParticiple": "fearing",
             "thirdPerson": "fears"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -403,6 +416,7 @@
             "presentParticiple": "feeding",
             "thirdPerson": "feeds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -428,6 +442,7 @@
             "presentParticiple": "feeling",
             "thirdPerson": "feels"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -460,6 +475,7 @@
             "presentParticiple": "fetching",
             "thirdPerson": "fetches"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -486,6 +502,7 @@
             "presentParticiple": "fighting",
             "thirdPerson": "fights"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -512,6 +529,7 @@
             "presentParticiple": "filing",
             "thirdPerson": "files"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -538,6 +556,7 @@
             "presentParticiple": "filling",
             "thirdPerson": "fills"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -563,6 +582,7 @@
             "presentParticiple": "filming",
             "thirdPerson": "films"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -588,6 +608,7 @@
             "presentParticiple": "finding",
             "thirdPerson": "finds"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -615,6 +636,7 @@
             "presentParticiple": "finishing",
             "thirdPerson": "finishes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -642,6 +664,7 @@
             "presentParticiple": "firing",
             "thirdPerson": "fires"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -668,6 +691,7 @@
             "presentParticiple": "fitting",
             "thirdPerson": "fits"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -694,6 +718,7 @@
             "presentParticiple": "fixing",
             "thirdPerson": "fixes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -720,6 +745,7 @@
             "presentParticiple": "fizzing",
             "thirdPerson": "fizzes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -746,6 +772,7 @@
             "presentParticiple": "flashing",
             "thirdPerson": "flashes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -771,6 +798,7 @@
             "presentParticiple": "flattening",
             "thirdPerson": "flattens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -797,6 +825,7 @@
             "presentParticiple": "flavoring",
             "thirdPerson": "flavors"
         },
+        "uk": "flavour",
         "irregular": false,
         "tags": [
             "regular"
@@ -811,8 +840,7 @@
                 "en": "Flavor with salt.",
                 "pt": "Tempere com sal."
             }
-        ],
-        "uk": "flavour"
+        ]
     },
     "flee": {
         "infinitive": "flee",
@@ -824,6 +852,7 @@
             "presentParticiple": "fleeing",
             "thirdPerson": "flees"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -850,6 +879,7 @@
             "presentParticiple": "flexing",
             "thirdPerson": "flexes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -876,6 +906,7 @@
             "presentParticiple": "flinging",
             "thirdPerson": "flings"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -901,6 +932,7 @@
             "presentParticiple": "flipping",
             "thirdPerson": "flips"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -927,6 +959,7 @@
             "presentParticiple": "floating",
             "thirdPerson": "floats"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -952,6 +985,7 @@
             "presentParticiple": "flooding",
             "thirdPerson": "floods"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -977,6 +1011,7 @@
             "presentParticiple": "flopping",
             "thirdPerson": "flops"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1003,6 +1038,7 @@
             "presentParticiple": "flourishing",
             "thirdPerson": "flourishes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1029,6 +1065,7 @@
             "presentParticiple": "flowing",
             "thirdPerson": "flows"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1054,6 +1091,7 @@
             "presentParticiple": "flushing",
             "thirdPerson": "flushes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1080,6 +1118,7 @@
             "presentParticiple": "flying",
             "thirdPerson": "flies"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1106,6 +1145,7 @@
             "presentParticiple": "focusing",
             "thirdPerson": "focuses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1131,6 +1171,7 @@
             "presentParticiple": "folding",
             "thirdPerson": "folds"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1156,6 +1197,7 @@
             "presentParticiple": "following",
             "thirdPerson": "follows"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1186,6 +1228,7 @@
             "presentParticiple": "fooling",
             "thirdPerson": "fools"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1212,6 +1255,7 @@
             "presentParticiple": "forbidding",
             "thirdPerson": "forbids"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1238,6 +1282,7 @@
             "presentParticiple": "forcing",
             "thirdPerson": "forces"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1263,6 +1308,7 @@
             "presentParticiple": "forecasting",
             "thirdPerson": "forecasts"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1289,6 +1335,7 @@
             "presentParticiple": "foreseeing",
             "thirdPerson": "foresees"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1315,6 +1362,7 @@
             "presentParticiple": "foretelling",
             "thirdPerson": "foretells"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1341,6 +1389,7 @@
             "presentParticiple": "forging",
             "thirdPerson": "forges"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1367,6 +1416,7 @@
             "presentParticiple": "forgetting",
             "thirdPerson": "forgets"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -1395,6 +1445,7 @@
             "presentParticiple": "forgiving",
             "thirdPerson": "forgives"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1420,6 +1471,7 @@
             "presentParticiple": "forming",
             "thirdPerson": "forms"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1446,6 +1498,7 @@
             "presentParticiple": "forwarding",
             "thirdPerson": "forwards"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1472,6 +1525,7 @@
             "presentParticiple": "founding",
             "thirdPerson": "founds"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1497,6 +1551,7 @@
             "presentParticiple": "fracturing",
             "thirdPerson": "fractures"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1523,6 +1578,7 @@
             "presentParticiple": "freeing",
             "thirdPerson": "frees"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1549,6 +1605,7 @@
             "presentParticiple": "freezing",
             "thirdPerson": "freezes"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1578,6 +1635,7 @@
             "presentParticiple": "frightening",
             "thirdPerson": "frightens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1604,6 +1662,7 @@
             "presentParticiple": "frosting",
             "thirdPerson": "frosts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1630,6 +1689,7 @@
             "presentParticiple": "frying",
             "thirdPerson": "fries"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1656,6 +1716,7 @@
             "presentParticiple": "fulfilling",
             "thirdPerson": "fulfills"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1682,6 +1743,7 @@
             "presentParticiple": "fuming",
             "thirdPerson": "fumes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

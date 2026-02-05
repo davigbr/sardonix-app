@@ -9,6 +9,7 @@
             "presentParticiple": "validating",
             "thirdPerson": "validates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -35,6 +36,7 @@
             "presentParticiple": "valuing",
             "thirdPerson": "values"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -61,6 +63,7 @@
             "presentParticiple": "vanishing",
             "thirdPerson": "vanishes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -87,6 +90,7 @@
             "presentParticiple": "varying",
             "thirdPerson": "varies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -113,6 +117,7 @@
             "presentParticiple": "ventilating",
             "thirdPerson": "ventilates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -138,6 +143,7 @@
             "presentParticiple": "venturing",
             "thirdPerson": "ventures"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -164,6 +170,7 @@
             "presentParticiple": "verifying",
             "thirdPerson": "verifies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -190,6 +197,7 @@
             "presentParticiple": "vexing",
             "thirdPerson": "vexes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -216,6 +224,7 @@
             "presentParticiple": "vibrating",
             "thirdPerson": "vibrates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -242,6 +251,7 @@
             "presentParticiple": "vying",
             "thirdPerson": "vies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -267,6 +277,7 @@
             "presentParticiple": "violating",
             "thirdPerson": "violates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -293,6 +304,7 @@
             "presentParticiple": "visiting",
             "thirdPerson": "visits"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -319,6 +331,7 @@
             "presentParticiple": "visualising",
             "thirdPerson": "visualises"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -345,6 +358,7 @@
             "presentParticiple": "visualizing",
             "thirdPerson": "visualizes"
         },
+        "uk": "visualise",
         "irregular": false,
         "tags": [
             "regular"
@@ -359,8 +373,7 @@
                 "en": "Visualize your success.",
                 "pt": "Visualize seu sucesso."
             }
-        ],
-        "uk": "visualise"
+        ]
     },
     "vote": {
         "infinitive": "vote",
@@ -372,6 +385,7 @@
             "presentParticiple": "voting",
             "thirdPerson": "votes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -397,6 +411,7 @@
             "presentParticiple": "vowing",
             "thirdPerson": "vows"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

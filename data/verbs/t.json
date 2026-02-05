@@ -9,6 +9,7 @@
             "presentParticiple": "tackling",
             "thirdPerson": "tackles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -35,6 +36,7 @@
             "presentParticiple": "tagging",
             "thirdPerson": "tags"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -61,6 +63,7 @@
             "presentParticiple": "taking",
             "thirdPerson": "takes"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -94,6 +97,7 @@
             "presentParticiple": "taking away",
             "thirdPerson": "takes away"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -120,6 +124,7 @@
             "presentParticiple": "taking on",
             "thirdPerson": "takes on"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -147,6 +152,7 @@
             "presentParticiple": "taking place",
             "thirdPerson": "takes place"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -174,6 +180,7 @@
             "presentParticiple": "talking",
             "thirdPerson": "talks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -207,6 +214,7 @@
             "presentParticiple": "talking about",
             "thirdPerson": "talks about"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -233,6 +241,7 @@
             "presentParticiple": "tallying",
             "thirdPerson": "tallies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -259,6 +268,7 @@
             "presentParticiple": "taming",
             "thirdPerson": "tames"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -285,6 +295,7 @@
             "presentParticiple": "tapping",
             "thirdPerson": "taps"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -311,6 +322,7 @@
             "presentParticiple": "taping",
             "thirdPerson": "tapes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -337,6 +349,7 @@
             "presentParticiple": "targeting",
             "thirdPerson": "targets"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -362,6 +375,7 @@
             "presentParticiple": "tasting",
             "thirdPerson": "tastes"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -393,6 +407,7 @@
             "presentParticiple": "taunting",
             "thirdPerson": "taunts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -419,6 +434,7 @@
             "presentParticiple": "teaching",
             "thirdPerson": "teaches"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -446,6 +462,7 @@
             "presentParticiple": "tearing",
             "thirdPerson": "tears"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -472,6 +489,7 @@
             "presentParticiple": "teasing",
             "thirdPerson": "teases"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -498,6 +516,7 @@
             "presentParticiple": "telephoning",
             "thirdPerson": "telephones"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -524,6 +543,7 @@
             "presentParticiple": "telling",
             "thirdPerson": "tells"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -556,6 +576,7 @@
             "presentParticiple": "telling off",
             "thirdPerson": "tells off"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -583,6 +604,7 @@
             "presentParticiple": "tempting",
             "thirdPerson": "tempts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -609,6 +631,7 @@
             "presentParticiple": "tending",
             "thirdPerson": "tends"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -639,6 +662,7 @@
             "presentParticiple": "terrifying",
             "thirdPerson": "terrifies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -665,6 +689,7 @@
             "presentParticiple": "testing",
             "thirdPerson": "tests"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -691,6 +716,7 @@
             "presentParticiple": "texting",
             "thirdPerson": "texts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -716,6 +742,7 @@
             "presentParticiple": "thanking",
             "thirdPerson": "thanks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -742,6 +769,7 @@
             "presentParticiple": "thawing",
             "thirdPerson": "thaws"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -768,6 +796,7 @@
             "presentParticiple": "thinking",
             "thirdPerson": "thinks"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -801,6 +830,7 @@
             "presentParticiple": "thinking about",
             "thirdPerson": "thinks about"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -828,6 +858,7 @@
             "presentParticiple": "threading",
             "thirdPerson": "threads"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -853,6 +884,7 @@
             "presentParticiple": "thrilling",
             "thirdPerson": "thrills"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -878,6 +910,7 @@
             "presentParticiple": "thriving",
             "thirdPerson": "thrives"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -904,6 +937,7 @@
             "presentParticiple": "throwing",
             "thirdPerson": "throws"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -935,6 +969,7 @@
             "presentParticiple": "throwing away",
             "thirdPerson": "throws away"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular",
@@ -961,6 +996,7 @@
             "presentParticiple": "thrusting",
             "thirdPerson": "thrusts"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -987,6 +1023,7 @@
             "presentParticiple": "ticking",
             "thirdPerson": "ticks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1012,6 +1049,7 @@
             "presentParticiple": "tickling",
             "thirdPerson": "tickles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1035,6 +1073,7 @@
             "presentParticiple": "tidying",
             "thirdPerson": "tidies"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1061,6 +1100,7 @@
             "presentParticiple": "tying",
             "thirdPerson": "ties"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1091,6 +1131,7 @@
             "presentParticiple": "tightening",
             "thirdPerson": "tightens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1116,6 +1157,7 @@
             "presentParticiple": "tilting",
             "thirdPerson": "tilts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1142,6 +1184,7 @@
             "presentParticiple": "timing",
             "thirdPerson": "times"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1168,6 +1211,7 @@
             "presentParticiple": "tipping",
             "thirdPerson": "tips"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1198,6 +1242,7 @@
             "presentParticiple": "tiring",
             "thirdPerson": "tires"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1224,6 +1269,7 @@
             "presentParticiple": "toiling",
             "thirdPerson": "toils"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1250,6 +1296,7 @@
             "presentParticiple": "tolerating",
             "thirdPerson": "tolerates"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1276,6 +1323,7 @@
             "presentParticiple": "tossing",
             "thirdPerson": "tosses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1302,6 +1350,7 @@
             "presentParticiple": "tottering",
             "thirdPerson": "totters"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1328,6 +1377,7 @@
             "presentParticiple": "touching",
             "thirdPerson": "touches"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -1359,6 +1409,7 @@
             "presentParticiple": "toughening",
             "thirdPerson": "toughens"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1385,6 +1436,7 @@
             "presentParticiple": "touring",
             "thirdPerson": "tours"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1411,6 +1463,7 @@
             "presentParticiple": "towing",
             "thirdPerson": "tows"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1437,6 +1490,7 @@
             "presentParticiple": "tracing",
             "thirdPerson": "traces"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1463,6 +1517,7 @@
             "presentParticiple": "tracking",
             "thirdPerson": "tracks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1489,6 +1544,7 @@
             "presentParticiple": "trading",
             "thirdPerson": "trades"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1515,6 +1571,7 @@
             "presentParticiple": "trafficking",
             "thirdPerson": "traffics"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1541,6 +1598,7 @@
             "presentParticiple": "trailing",
             "thirdPerson": "trails"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1567,6 +1625,7 @@
             "presentParticiple": "training",
             "thirdPerson": "trains"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1593,6 +1652,7 @@
             "presentParticiple": "transgressing",
             "thirdPerson": "transgresses"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1619,6 +1679,7 @@
             "presentParticiple": "transmitting",
             "thirdPerson": "transmits"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1645,6 +1706,7 @@
             "presentParticiple": "transporting",
             "thirdPerson": "transports"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1671,6 +1733,7 @@
             "presentParticiple": "trapping",
             "thirdPerson": "traps"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1697,6 +1760,7 @@
             "presentParticiple": "traveling",
             "thirdPerson": "travels"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1728,6 +1792,7 @@
             "presentParticiple": "treading",
             "thirdPerson": "treads"
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "irregular"
@@ -1754,6 +1819,7 @@
             "presentParticiple": "treasuring",
             "thirdPerson": "treasures"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1780,6 +1846,7 @@
             "presentParticiple": "treating",
             "thirdPerson": "treats"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1806,6 +1873,7 @@
             "presentParticiple": "trembling",
             "thirdPerson": "trembles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1832,6 +1900,7 @@
             "presentParticiple": "tricking",
             "thirdPerson": "tricks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1858,6 +1927,7 @@
             "presentParticiple": "triggering",
             "thirdPerson": "triggers"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1884,6 +1954,7 @@
             "presentParticiple": "trimming",
             "thirdPerson": "trims"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1910,6 +1981,7 @@
             "presentParticiple": "tripping",
             "thirdPerson": "trips"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1936,6 +2008,7 @@
             "presentParticiple": "trotting",
             "thirdPerson": "trots"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1962,6 +2035,7 @@
             "presentParticiple": "troubling",
             "thirdPerson": "troubles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -1988,6 +2062,7 @@
             "presentParticiple": "trusting",
             "thirdPerson": "trusts"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2019,6 +2094,7 @@
             "presentParticiple": "trying",
             "thirdPerson": "tries"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -2050,6 +2126,7 @@
             "presentParticiple": "tugging",
             "thirdPerson": "tugs"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2076,6 +2153,7 @@
             "presentParticiple": "tumbling",
             "thirdPerson": "tumbles"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2102,6 +2180,7 @@
             "presentParticiple": "turning",
             "thirdPerson": "turns"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -2133,6 +2212,7 @@
             "presentParticiple": "turning around",
             "thirdPerson": "turns around"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular",
@@ -2160,6 +2240,7 @@
             "presentParticiple": "twirling",
             "thirdPerson": "twirls"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2186,6 +2267,7 @@
             "presentParticiple": "twisting",
             "thirdPerson": "twists"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -2212,6 +2294,7 @@
             "presentParticiple": "typing",
             "thirdPerson": "types"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

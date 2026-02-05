@@ -9,6 +9,7 @@
             "presentParticiple": "yanking",
             "thirdPerson": "yanks"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -35,6 +36,7 @@
             "presentParticiple": "yawning",
             "thirdPerson": "yawns"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -52,16 +54,20 @@
         "infinitive": "yclept",
         "translation": "chamado",
         "forms": {
-            "base": "yclept"
+            "base": "yclept",
+            "pastSimple": "",
+            "pastParticiple": "",
+            "presentParticiple": "",
+            "thirdPerson": ""
         },
+        "uk": "",
         "irregular": true,
         "tags": [
             "defective"
         ],
         "related": [],
         "explanation": "Verbo Fóssil (Particípio).",
-        "examples": [],
-        "model": "archaic"
+        "examples": []
     },
     "yearn": {
         "infinitive": "yearn",
@@ -73,6 +79,7 @@
             "presentParticiple": "yearning",
             "thirdPerson": "yearns"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -99,6 +106,7 @@
             "presentParticiple": "yelling",
             "thirdPerson": "yells"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -125,6 +133,7 @@
             "presentParticiple": "yelping",
             "thirdPerson": "yelps"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"
@@ -150,6 +159,7 @@
             "presentParticiple": "yielding",
             "thirdPerson": "yields"
         },
+        "uk": "",
         "irregular": false,
         "tags": [
             "regular"

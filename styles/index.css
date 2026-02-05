@@ -1739,7 +1739,9 @@ body {
     padding: var(--space-2) var(--space-3);
     border-radius: var(--radius-md);
     font-size: var(--font-size-xs);
-    white-space: nowrap;
+    white-space: normal;
+    min-width: 200px;
+    text-align: left;
     box-shadow: var(--shadow-lg);
     border: 1px solid var(--border-subtle);
     margin-bottom: 10px;
