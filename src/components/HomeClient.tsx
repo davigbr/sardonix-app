@@ -121,12 +121,12 @@ function HomeContent({ initialVerbs }: HomeClientProps) {
                 <div className="header-content">
                     <div className="logo">
                         <Image
-                            src="/assets/icons/owl.png"
+                            src={process.env.NODE_ENV === 'production' ? '/sardonix-app/assets/icons/owl.png' : '/assets/icons/owl.png'}
                             alt="Sardonix Logo"
                             width={50}
                             height={50}
                             className="logo-icon-img"
-                            unoptimized // explicit opt-out if needed, but global config handles it
+                            unoptimized
                         />
                         <div className="logo-text">
                             <h1>English Verbs</h1>
