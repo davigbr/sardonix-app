@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo, useEffect, Suspense } from "react";
+import Image from "next/image";
 import { useRouter, useSearchParams } from "next/navigation";
 import { VerbData } from "@/lib/types";
 import SearchBar from "./SearchBar";
@@ -118,8 +119,6 @@ function HomeContent({ initialVerbs }: HomeClientProps) {
         <>
             <header className="header">
                 <div className="header-content">
-                    import Image from "next/image"; // Add import top
-                    ...
                     <div className="logo">
                         <Image
                             src="/assets/icons/owl.png"
