@@ -173,36 +173,44 @@ input {
     align-items: center;
 }
 
+/* Logo */
 .logo {
     display: flex;
     align-items: center;
-    gap: var(--space-3);
+    gap: var(--space-4);
 }
 
-.logo-icon {
-    font-size: var(--font-size-2xl);
-    animation: logoShine 3s ease-in-out infinite;
+.logo-icon-img {
+    width: 40px;
+    height: 40px;
+    filter: invert(1) drop-shadow(0 0 8px var(--accent-glow));
+    transition: transform var(--transition-base);
 }
 
-@keyframes logoShine {
+.logo:hover .logo-icon-img {
+    transform: rotate(10deg) scale(1.1);
+}
 
-    0%,
-    100% {
-        filter: brightness(1);
-    }
-
-    50% {
-        filter: brightness(1.3) drop-shadow(0 0 10px var(--accent-primary));
-    }
+.logo-text {
+    display: flex;
+    flex-direction: column;
 }
 
 .logo h1 {
     font-size: var(--font-size-xl);
     font-weight: 700;
+    line-height: 1.1;
     background: var(--gradient-primary);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+}
+
+.logo-subtitle {
+    font-size: var(--font-size-xs);
+    color: var(--text-secondary);
+    font-weight: 400;
+    letter-spacing: 0.05em;
 }
 
 .settings-btn {
@@ -1297,7 +1305,9 @@ input {
     font-size: var(--font-size-xs);
     color: var(--text-muted);
     font-style: italic;
-}/* Favorites */
+}
+
+/* Favorites */
 .filter-container {
     display: flex;
     justify-content: center;
@@ -1373,7 +1383,9 @@ input {
 .verb-tags-mini {
     right: var(--space-12);
     /* Move tags to left of heart */
-}/* Filter Bar */
+}
+
+/* Filter Bar */
 .filter-bar {
     display: flex;
     flex-wrap: wrap;
@@ -1459,4 +1471,75 @@ input {
 #phrasalFilterBtn.active {
     color: var(--accent-secondary);
     background: rgba(99, 102, 241, 0.1);
+}
+
+/* ========================================
+   FOOTER
+   ======================================== */
+/* ========================================
+   FOOTER
+   ======================================== */
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    z-index: var(--z-dropdown);
+    border-top: 1px solid var(--border-subtle);
+    background: rgba(18, 18, 26, 0.95);
+    /* High opacity bg-secondary */
+    backdrop-filter: blur(10px);
+    padding: var(--space-3) 0;
+    /* Reduced padding */
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 var(--space-6);
+    text-align: center;
+    color: var(--text-secondary);
+    display: flex;
+    justify-content: center;
+    gap: var(--space-2);
+    align-items: center;
+    font-size: var(--font-size-xs);
+    /* Smaller font */
+}
+
+.footer p {
+    margin: 0;
+    /* Remove default margin */
+}
+
+.footer strong {
+    color: var(--text-primary);
+}
+
+.footer-sub {
+    color: var(--text-muted);
+}
+
+/* Separator between main text and sub text on large screens */
+.footer-sub::before {
+    content: '|';
+    margin: 0 var(--space-2);
+    color: var(--border-strong);
+}
+
+.footer a {
+    color: var(--accent-secondary);
+    text-decoration: none;
+    transition: color var(--transition-fast);
+}
+
+.footer a:hover {
+    color: var(--accent-primary);
+    text-decoration: underline;
+}
+
+/* Add padding to body/main to prevent footer overlap */
+body {
+    padding-bottom: 60px;
+    /* Approximate height of footer */
 }
