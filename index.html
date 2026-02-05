@@ -24,15 +24,24 @@
                     <span class="logo-subtitle">por Sardonix Idiomas</span>
                 </div>
             </div>
-            <button class="settings-btn" id="settingsBtn" aria-label="Configurações">
-                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <circle cx="12" cy="12" r="3"></circle>
-                    <path
-                        d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z">
-                    </path>
-                </svg>
-            </button>
+            <div class="header-actions">
+                <button class="icon-btn" id="guideBtn" title="Guia de Estudo" aria-label="Abrir Guia">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+                        <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+                    </svg>
+                </button>
+                <button class="settings-btn icon-btn" id="settingsBtn" aria-label="Configurações">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                        stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="3"></circle>
+                        <path
+                            d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z">
+                        </path>
+                    </svg>
+                </button>
+            </div>
         </div>
     </header>
 
@@ -171,17 +180,63 @@
         </div>
     </div>
 
+    <!-- Guide Panel -->
+    <div class="panel-overlay" id="guideOverlay">
+        <div class="side-panel" id="guidePanel">
+            <div class="panel-header">
+                <h2>Guia de Estudo</h2>
+                <button class="panel-close" id="guideClose" aria-label="Fechar">×</button>
+            </div>
+            <div class="panel-content guide-content">
+                <section class="guide-section">
+                    <h3>Entendendo as Tags</h3>
+                    <div class="tag-explanation">
+                        <span class="verb-tag tag-regular">Regular</span>
+                        <p>Verbos que seguem o padrão de adicionar <strong>-ed</strong> para formar o passado e o
+                            particípio passado. Exemplo: <em>work → worked</em>.</p>
+                    </div>
+                    <div class="tag-explanation">
+                        <span class="verb-tag tag-irregular">Irregular</span>
+                        <p>Verbos que têm formas próprias e únicas para o passado e particípio, não seguindo regras
+                            fixas. Exemplo: <em>go → went → gone</em>.</p>
+                    </div>
+                    <div class="tag-explanation">
+                        <span class="verb-tag tag-modal">Modal</span>
+                        <p>Verbos auxiliares que expressam necessidade, possibilidade, permissão ou habilidade. Não
+                            mudam com a pessoa. Exemplos: <em>can, must, should</em>.</p>
+                    </div>
+                    <div class="tag-explanation">
+                        <span class="verb-tag tag-defective">Defectivo</span>
+                        <p>Verbos incompletos que não possuem todas as formas conjugadas (como infinitivo ou
+                            particípio). Muitos modais são defectivos.</p>
+                    </div>
+                    <div class="tag-explanation">
+                        <span class="verb-tag tag-phrasal">Phrasal</span>
+                        <p>Verbos compostos (verbo + preposição/advérbio) que criam um novo significado. Exemplo:
+                            <em>give up</em> (desistir).
+                        </p>
+                    </div>
+                </section>
 
+                <section class="guide-section">
+                    <h3>Tempos Verbais</h3>
+                    <div id="guideTensesList" class="tense-list">
+                        <!-- Content loaded via JS -->
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
 
     <!-- Settings Panel -->
-    <div class="settings-overlay" id="settingsOverlay">
-        <div class="settings-panel" id="settingsPanel">
-            <div class="settings-header">
+    <div class="panel-overlay" id="settingsOverlay">
+        <div class="side-panel" id="settingsPanel">
+            <div class="panel-header">
                 <h2>Configurações</h2>
-                <button class="settings-close" id="settingsClose" aria-label="Fechar">×</button>
+                <button class="panel-close" id="settingsClose" aria-label="Fechar">×</button>
             </div>
 
-            <div class="settings-content">
+            <div class="panel-content settings-content">
                 <!-- Pronunciation Preference -->
                 <div class="setting-group">
                     <label class="setting-label">Preferência de pronúncia</label>
@@ -246,6 +301,7 @@
     <script src="js/settings.js"></script>
     <script src="js/search.js"></script>
     <script src="js/conjugator.js"></script>
+    <script src="js/guide.js"></script>
     <script src="js/app.js?v=json_migrated"></script>
 </body>
 

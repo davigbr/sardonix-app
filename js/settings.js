@@ -80,7 +80,7 @@ const Settings = {
     },
 
     open() {
-        this.elements.overlay.classList.add('active');
+        this.elements.overlay.classList.add('active'); // Still uses .active
         document.body.style.overflow = 'hidden';
     },
 

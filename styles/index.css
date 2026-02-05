@@ -847,58 +847,86 @@ input {
     transform: scale(1.05);
 }
 
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.icon-btn {
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    cursor: pointer;
+    padding: 0.5rem;
+    border-radius: 50%;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-btn:hover {
+    background-color: var(--bg-elevated);
+    color: var(--text-primary);
+}
+
 /* ========================================
-   SETTINGS PANEL
+   SIDE PANELS (SETTINGS & GUIDE)
    ======================================== */
 
-.settings-overlay {
+.panel-overlay {
     position: fixed;
     inset: 0;
     background: rgba(0, 0, 0, 0.5);
-    z-index: var(--z-overlay);
+    backdrop-filter: blur(2px);
+    z-index: var(--z-modal);
     opacity: 0;
     visibility: hidden;
     transition: all var(--transition-base);
 }
 
-.settings-overlay.active {
+.panel-overlay.active {
     opacity: 1;
     visibility: visible;
 }
 
-.settings-panel {
+.side-panel {
     position: fixed;
     top: 0;
     right: 0;
-    width: 100%;
-    max-width: 380px;
-    height: 100%;
+    bottom: 0;
+    width: 400px;
+    max-width: 90vw;
     background: var(--bg-secondary);
     border-left: 1px solid var(--border-default);
-    z-index: var(--z-modal);
+    box-shadow: -10px 0 30px rgba(0, 0, 0, 0.5);
     transform: translateX(100%);
     transition: transform var(--transition-base);
-    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
 }
 
-.settings-overlay.active .settings-panel {
+.panel-overlay.active .side-panel {
     transform: translateX(0);
 }
 
-.settings-header {
+.panel-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: var(--space-6);
     border-bottom: 1px solid var(--border-subtle);
+    background: var(--bg-secondary);
+    z-index: 10;
 }
 
-.settings-header h2 {
+.panel-header h2 {
     font-size: var(--font-size-xl);
     font-weight: 600;
 }
 
-.settings-close {
+.panel-close {
     width: 36px;
     height: 36px;
     display: flex;
@@ -910,13 +938,86 @@ input {
     transition: all var(--transition-fast);
 }
 
-.settings-close:hover {
+.panel-close:hover {
     background: var(--bg-elevated);
     color: var(--text-primary);
 }
 
-.settings-content {
+.panel-content {
+    flex: 1;
+    overflow-y: auto;
     padding: var(--space-6);
+}
+
+/* Guide Specific Content */
+.guide-section {
+    margin-bottom: var(--space-8);
+}
+
+.guide-section h3 {
+    font-size: var(--font-size-lg);
+    color: var(--accent-secondary);
+    margin-bottom: var(--space-4);
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+}
+
+.tag-explanation {
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-lg);
+    padding: var(--space-4);
+    margin-bottom: var(--space-3);
+}
+
+.tag-explanation .verb-tag {
+    display: inline-block;
+    margin-bottom: var(--space-2);
+}
+
+.tag-explanation p {
+    font-size: var(--font-size-sm);
+    color: var(--text-secondary);
+    margin: 0;
+}
+
+.tag-explanation em {
+    color: var(--text-primary);
+    font-style: normal;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0 4px;
+    border-radius: 4px;
+}
+
+/* Tense List in Guide */
+.tense-item {
+    margin-bottom: var(--space-4);
+    padding-bottom: var(--space-4);
+    border-bottom: 1px solid var(--border-subtle);
+}
+
+.tense-item:last-child {
+    border-bottom: none;
+}
+
+.tense-name {
+    display: block;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-bottom: var(--space-1);
+}
+
+.tense-desc {
+    display: block;
+    font-size: var(--font-size-sm);
+    color: var(--text-muted);
+    line-height: 1.5;
+}
+
+/* Settings Specific Content (formerly .settings-content) */
+.settings-content {
+    /* just reusing panel-content padding */
 }
 
 .setting-group {
