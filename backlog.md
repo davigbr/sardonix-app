@@ -23,7 +23,7 @@ Este arquivo rastreia as próximas funcionalidades e melhorias planejadas para o
 - [ ] **Inglês Britânico**
   - Incluir variações de grafia britânica no banco de dados (ex: `analyse` vs `analyze`, `color` vs `colour`).
 
-- [ ] **Expansão e Organização de Tempos Verbais**
+- [x] **Expansão e Organização de Tempos Verbais**
   - Reorganizar a tabela de conjugação, agrupando os tempos para melhor visualização.
   - Adicionar tooltips ou uma seção de ajuda com explicações para cada tempo:
     - **Simple Present**: Describes habits, general facts, or actions happening now.

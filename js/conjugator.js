@@ -180,24 +180,57 @@ const Conjugator = {
 
     renderFullConjugation(verb) {
         const pronouns = ['I', 'you', 'he/she/it', 'we', 'they'];
-        let html = '<div class="conjugation-table-wrapper"><table class="conjugation-table">';
-        html += `<thead><tr><th>Tense</th>${pronouns.map(p => `<th>${p}</th>`).join('')}</tr></thead>`;
-        html += '<tbody>';
+        let html = '<div class="conjugation-groups">';
 
-        for (const [tenseKey, conjugations] of Object.entries(verb.tenses)) {
-            const tenseName = window.tenseNames[tenseKey] || tenseKey;
-            html += `<tr>`;
-            html += `<td><strong>${tenseName}</strong></td>`;
-            for (const pronoun of pronouns) {
-                const form = conjugations[pronoun] || '-';
-                // Include pronoun in speech for context
-                const speakText = pronoun === 'he/she/it' ? `he ${form}` : `${pronoun} ${form}`;
-                html += `<td><button class="speakable" data-speak="${speakText}">${form}</button></td>`;
+        // Iterate over Config Groups (Present, Past, Future, Conditional)
+        for (const [groupKey, groupConfig] of Object.entries(window.tenseConfig)) {
+            html += `
+                <div class="conjugation-group">
+                    <h3 class="group-title">${groupConfig.title}</h3>
+                    <div class="conjugation-table-wrapper">
+                        <table class="conjugation-table">
+                            <thead>
+                                <tr>
+                                    <th>Tense</th>
+                                    ${pronouns.map(p => `<th>${p}</th>`).join('')}
+                                </tr>
+                            </thead>
+                            <tbody>
+            `;
+
+            // Iterate over tenses in this group
+            for (const [tenseKey, tenseInfo] of Object.entries(groupConfig.tenses)) {
+                const conjugations = verb.tenses[tenseKey];
+                if (!conjugations) continue;
+
+                html += `<tr>`;
+                html += `
+                    <td>
+                        <div class="tense-name-container">
+                            <strong>${tenseInfo.name}</strong>
+                            <div class="tooltip-icon" data-tooltip="${tenseInfo.desc}">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
+                            </div>
+                        </div>
+                    </td>`;
+
+                for (const pronoun of pronouns) {
+                    const form = conjugations[pronoun] || '-';
+                    const speakText = pronoun === 'he/she/it' ? `he ${form}` : `${pronoun} ${form}`;
+                    html += `<td><button class="speakable" data-speak="${speakText}">${form}</button></td>`;
+                }
+                html += '</tr>';
             }
-            html += '</tr>';
+
+            html += `
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            `;
         }
 
-        html += '</tbody></table></div>';
+        html += '</div>';
         return html;
     },
 

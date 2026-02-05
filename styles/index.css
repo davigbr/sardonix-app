@@ -1543,3 +1543,98 @@ body {
     padding-bottom: 60px;
     /* Approximate height of footer */
 }
+/* ========================================
+   TENSE GROUPS & TOOLTIPS
+   ======================================== */
+
+.conjugation-groups {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-8);
+    padding-bottom: var(--space-4);
+}
+
+.conjugation-group {
+    background: var(--bg-tertiary); /* Distinct background for groups */
+    border-radius: var(--radius-xl);
+    padding: var(--space-6);
+    border: 1px solid var(--border-subtle);
+}
+
+.group-title {
+    font-size: var(--font-size-xl);
+    font-weight: 700;
+    color: var(--accent-secondary);
+    margin-bottom: var(--space-4);
+    border-bottom: 2px solid var(--border-subtle);
+    padding-bottom: var(--space-2);
+}
+
+.tense-name-container {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+}
+
+/* Tooltip Icon */
+.tooltip-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-muted);
+    cursor: help;
+    transition: color var(--transition-fast);
+}
+
+.tooltip-icon:hover {
+    color: var(--accent-primary);
+}
+
+/* Tooltip Implementation */
+.tooltip-icon {
+    position: relative;
+}
+
+.tooltip-icon::before,
+.tooltip-icon::after {
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    transition: all var(--transition-fast);
+    z-index: var(--z-overlay);
+    pointer-events: none;
+}
+
+/* Tooltip Arrow */
+.tooltip-icon::before {
+    content: '';
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%) translateY(5px);
+    border: 6px solid transparent;
+    border-top-color: var(--bg-elevated);
+}
+
+/* Tooltip Text */
+.tooltip-icon::after {
+    content: attr(data-tooltip);
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%) translateY(5px);
+    background: var(--bg-elevated);
+    color: var(--text-primary);
+    padding: var(--space-2) var(--space-3);
+    border-radius: var(--radius-md);
+    font-size: var(--font-size-xs);
+    white-space: nowrap;
+    box-shadow: var(--shadow-lg);
+    border: 1px solid var(--border-subtle);
+    margin-bottom: 10px; /* Space for arrow */
+}
+
+.tooltip-icon:hover::before,
+.tooltip-icon:hover::after {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-50%) translateY(0);
+}
