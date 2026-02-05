@@ -3,40 +3,52 @@
 import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
 import Image from "next/image";
-import { ArrowLeft, Check, X, RefreshCw, Trophy, Volume2 } from "lucide-react";
+import { ArrowLeft, Check, X, RefreshCw, Trophy, Volume2, RotateCcw } from "lucide-react";
 import { VerbData } from "@/lib/types";
 import { useFavorites } from "@/hooks/useFavorites";
 import { TTS } from "@/utils/tts";
 import clsx from "clsx";
+import styles from "./PracticeClient.module.css";
 
 interface PracticeClientProps {
     allVerbs: VerbData[];
 }
 
 interface QuizState {
+    mode: 'playing' | 'summary';
     currentVerb: VerbData | null;
     inputSimple: string;
     inputParticiple: string;
     isChecked: boolean;
     isCorrect: boolean;
+
+    // Session Stats
+    roundSize: number;
+    currentIndex: number;
+    roundHistory: { verb: string, correct: boolean }[];
+
+    // Global Stats (optional to keep)
     streak: number;
-    score: number;
-    total: number;
+
     source: 'favorites' | 'all';
 }
+
+const ROUND_SIZE = 10;
 
 export default function PracticeClient({ allVerbs }: PracticeClientProps) {
     const router = useRouter();
     const { favorites, isLoaded } = useFavorites();
     const [state, setState] = useState<QuizState>({
+        mode: 'playing',
         currentVerb: null,
         inputSimple: "",
         inputParticiple: "",
         isChecked: false,
         isCorrect: false,
+        roundSize: ROUND_SIZE,
+        currentIndex: 0,
+        roundHistory: [],
         streak: 0,
-        score: 0,
-        total: 0,
         source: 'all'
     });
 
@@ -47,34 +59,42 @@ export default function PracticeClient({ allVerbs }: PracticeClientProps) {
     // Initial load
     useEffect(() => {
         if (isLoaded && !state.currentVerb) {
-            startNewRound();
+            initGame();
         }
     }, [isLoaded]);
 
-    const startNewRound = () => {
+    const initGame = () => {
         // Determine source
         const useFavorites = favorites.length >= 10;
         const source = useFavorites ? 'favorites' : 'all';
 
+        pickNextVerb(source, 0, [], 0);
+    };
+
+    const pickNextVerb = (source: 'favorites' | 'all', index: number, history: any[], currentStreak: number) => {
         let pool = allVerbs;
-        if (useFavorites) {
+        if (source === 'favorites') {
             pool = allVerbs.filter(v => favorites.includes(v.infinitive));
         }
 
-        // Random selection
+        // Avoid repeating verbs in the immediate same round if possible?
+        // For simplicity, random pick for now.
         const randomVerb = pool[Math.floor(Math.random() * pool.length)];
 
-        setState(prev => ({
-            ...prev,
+        setState({
+            mode: 'playing',
             currentVerb: randomVerb,
             inputSimple: "",
             inputParticiple: "",
             isChecked: false,
             isCorrect: false,
+            roundSize: ROUND_SIZE,
+            currentIndex: index,
+            roundHistory: history,
+            streak: currentStreak,
             source
-        }));
+        });
 
-        // Focus first input
         setTimeout(() => {
             simpleInputRef.current?.focus();
         }, 100);
@@ -91,10 +111,6 @@ export default function PracticeClient({ allVerbs }: PracticeClientProps) {
         const userSimple = normalize(state.inputSimple);
         const userParticiple = normalize(state.inputParticiple);
 
-        // Simple validation: check if user input matches target
-        // NOTE: This handles simple cases. Some verbs have variants (slash separated).
-        // For MVP we match exact string or assume user types one of them? 
-        // Let's split by "/" for variants support.
         const validSimples = targetSimple.split('/').map(s => s.trim());
         const validParticiples = targetParticiple.split('/').map(s => s.trim());
 
@@ -106,166 +122,229 @@ export default function PracticeClient({ allVerbs }: PracticeClientProps) {
             ...prev,
             isChecked: true,
             isCorrect: isAllCorrect,
-            streak: isAllCorrect ? prev.streak + 1 : 0,
-            score: isAllCorrect ? prev.score + 1 : prev.score,
-            total: prev.total + 1
+            streak: isAllCorrect ? prev.streak + 1 : 0
         }));
 
         if (isAllCorrect) {
-            // Play sound/TTS?
-            // TTS.speak("Correct!"); 
-            // Maybe just focus the next button
             setTimeout(() => nextButtonRef.current?.focus(), 100);
         }
+    };
+
+    const handleNext = () => {
+        const newHistory = [
+            ...state.roundHistory,
+            { verb: state.currentVerb!.infinitive, correct: state.isCorrect }
+        ];
+
+        if (state.currentIndex + 1 >= state.roundSize) {
+            // End of round
+            setState(prev => ({
+                ...prev,
+                mode: 'summary',
+                roundHistory: newHistory
+            }));
+        } else {
+            // Next question
+            pickNextVerb(state.source, state.currentIndex + 1, newHistory, state.streak);
+        }
+    };
+
+    const handleRestart = () => {
+        initGame();
     };
 
     const handleKeyDown = (e: React.KeyboardEvent) => {
         if (e.key === 'Enter') {
             if (state.isChecked) {
-                // If already checked, go to next
-                startNewRound();
+                if (state.mode === 'playing') handleNext();
             } else {
-                // Otherwise check
                 checkAnswer();
             }
         }
     };
 
+    const getScore = () => state.roundHistory.filter(h => h.correct).length;
+
+    // Helper for input styles
+    const getInputClass = (isFieldCorrect: boolean) => {
+        if (!state.isChecked) return "";
+        // If checked:
+        // - if field correct -> green
+        // - if field wrong -> red
+        return isFieldCorrect ? styles.inputCorrect : styles.inputWrong;
+    };
+
+    // Check individual field correctness
+    const isSimpleCorrect = state.currentVerb ? state.currentVerb.forms.pastSimple.split('/').map(s => s.trim()).includes(normalize(state.inputSimple)) : false;
+    const isParticipleCorrect = state.currentVerb ? state.currentVerb.forms.pastParticiple.split('/').map(s => s.trim()).includes(normalize(state.inputParticiple)) : false;
+
+
     if (!isLoaded || !state.currentVerb) {
-        return <div className="p-8 text-center">Loading quiz...</div>;
+        return <div className="p-8 text-center">Carregando quiz...</div>;
     }
 
     return (
-        <div className="min-h-screen bg-[var(--bg-primary)] text-[var(--text-primary)] flex flex-col items-center p-4">
+        <div className={styles.container}>
 
             {/* Header */}
-            <div className="w-full max-w-2xl flex justify-between items-center mb-8 mt-4">
+            <div className={styles.header}>
                 <button
                     onClick={() => router.push('/')}
-                    className="p-2 rounded-full hover:bg-[var(--bg-elevated)] transition-colors text-[var(--text-secondary)]"
+                    className={styles.backButton}
                 >
                     <ArrowLeft size={24} />
                 </button>
 
-                <div className="flex items-center gap-4">
-                    <div className="flex items-center gap-2 text-[var(--accent-primary)]">
-                        <Trophy size={20} />
-                        <span className="font-bold text-lg">{state.streak}</span>
+                {state.mode === 'playing' && (
+                    <div className={styles.streakContainer}>
+                        <div className={styles.streak}>
+                            <Trophy size={20} />
+                            <span>{state.streak}</span>
+                        </div>
                     </div>
-                </div>
+                )}
             </div>
 
-            {/* Quiz Card */}
-            <div className="w-full max-w-2xl bg-[var(--bg-secondary)] rounded-2xl border border-[var(--border-default)] p-8 shadow-xl">
-
-                {/* Source Indicator */}
-                <div className="mb-6 text-center">
-                    <span className={clsx(
-                        "text-xs uppercase tracking-wider font-semibold px-3 py-1 rounded-full",
-                        state.source === 'favorites'
-                            ? "bg-[var(--accent-glow)] text-[var(--accent-secondary)]"
-                            : "bg-[var(--bg-tertiary)] text-[var(--text-muted)]"
-                    )}>
-                        {state.source === 'favorites' ? 'Practicing Favorites' : 'All Verbs Mode'}
-                    </span>
-                    {state.source === 'all' && favorites.length < 10 && (
-                        <p className="text-xs text-[var(--text-muted)] mt-2">
-                            Add {10 - favorites.length} more favorites to unlock focused practice.
-                        </p>
-                    )}
+            {/* Progress Bar */}
+            {state.mode === 'playing' && (
+                <div className={styles.progressContainer}>
+                    <div
+                        className={styles.progressBar}
+                        style={{ width: `${((state.currentIndex) / state.roundSize) * 100}%` }}
+                    />
                 </div>
+            )}
 
-                {/* Verb Display */}
-                <div className="text-center mb-8">
-                    <h1 className="text-4xl font-bold mb-2 capitalize">{state.currentVerb.infinitive}</h1>
-                    <p className="text-xl text-[var(--text-secondary)]">{state.currentVerb.translation}</p>
-                </div>
+            {/* Main Card */}
+            <div className={styles.card}>
 
-                {/* Inputs */}
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-                    <div className="flex flex-col gap-2">
-                        <label className="text-sm font-medium text-[var(--text-secondary)]">Past Simple</label>
-                        <input
-                            ref={simpleInputRef}
-                            type="text"
-                            value={state.inputSimple}
-                            onChange={(e) => setState(prev => ({ ...prev, inputSimple: e.target.value }))}
-                            onKeyDown={handleKeyDown}
-                            disabled={state.isChecked && state.isCorrect}
-                            className={clsx(
-                                "w-full bg-[var(--bg-tertiary)] border rounded-lg px-4 py-3 outline-none transition-all text-lg",
-                                // Validation styles
-                                !state.isChecked && "border-[var(--border-default)] focus:border-[var(--accent-primary)]",
-                                state.isChecked && state.currentVerb.forms.pastSimple.includes(state.inputSimple) // Simple check for style
-                                    ? "border-[var(--success)] text-[var(--success)] bg-[#22c55e10]"
-                                    : state.isChecked ? "border-[var(--error)]" : ""
-                            )}
-                            placeholder="e.g. went"
-                            autoComplete="off"
-                            autoCorrect="off"
-                            autoCapitalize="none"
-                        />
-                        {state.isChecked && (
-                            <div className="text-sm min-h-[20px] text-[var(--text-muted)]">
-                                Answer: <span className="text-[var(--text-primary)]">{state.currentVerb.forms.pastSimple}</span>
+                {state.mode === 'summary' ? (
+                    <div className={styles.summaryContainer}>
+                        <h2 className={styles.summaryTitle}>Rodada Completa!</h2>
+                        <div className={styles.summaryScore}>
+                            {getScore()} / {state.roundSize}
+                        </div>
+                        <p className={styles.summaryText}>verbos dominados</p>
+
+                        <div className={styles.summaryStats}>
+                            <div className={styles.statBox}>
+                                <span className={styles.statValue} style={{ color: 'var(--success)' }}>{getScore()}</span>
+                                <span className={styles.statLabel}>Acertos</span>
                             </div>
-                        )}
-                    </div>
-
-                    <div className="flex flex-col gap-2">
-                        <label className="text-sm font-medium text-[var(--text-secondary)]">Past Participle</label>
-                        <input
-                            type="text"
-                            value={state.inputParticiple}
-                            onChange={(e) => setState(prev => ({ ...prev, inputParticiple: e.target.value }))}
-                            onKeyDown={handleKeyDown}
-                            disabled={state.isChecked && state.isCorrect}
-                            className={clsx(
-                                "w-full bg-[var(--bg-tertiary)] border rounded-lg px-4 py-3 outline-none transition-all text-lg",
-                                !state.isChecked && "border-[var(--border-default)] focus:border-[var(--accent-primary)]",
-                                state.isChecked && state.currentVerb.forms.pastParticiple.includes(state.inputParticiple)
-                                    ? "border-[var(--success)] text-[var(--success)] bg-[#22c55e10]"
-                                    : state.isChecked ? "border-[var(--error)]" : ""
-                            )}
-                            placeholder="e.g. gone"
-                            autoComplete="off"
-                            autoCorrect="off"
-                            autoCapitalize="none"
-                        />
-                        {state.isChecked && (
-                            <div className="text-sm min-h-[20px] text-[var(--text-muted)]">
-                                Answer: <span className="text-[var(--text-primary)]">{state.currentVerb.forms.pastParticiple}</span>
+                            <div className={styles.statBox}>
+                                <span className={styles.statValue} style={{ color: 'var(--error)' }}>{state.roundSize - getScore()}</span>
+                                <span className={styles.statLabel}>Erros</span>
                             </div>
-                        )}
+                        </div>
+
+                        <button onClick={handleRestart} className={styles.restartButton}>
+                            <RotateCcw size={20} />
+                            Nova Rodada
+                        </button>
                     </div>
-                </div>
-
-                {/* Actions */}
-                <div className="flex justify-end">
-                    {!state.isChecked ? (
-                        <button
-                            onClick={checkAnswer}
-                            className="bg-[var(--accent-primary)] hover:bg-[var(--accent-secondary)] text-white font-bold py-3 px-8 rounded-xl transition-all shadow-[0_0_20px_var(--accent-glow)] transform hover:scale-105"
-                        >
-                            Check Answer
-                        </button>
-                    ) : (
-                        <button
-                            ref={nextButtonRef}
-                            onClick={startNewRound}
-                            className={clsx(
-                                "font-bold py-3 px-8 rounded-xl transition-all flex items-center gap-2",
-                                state.isCorrect
-                                    ? "bg-[var(--success)] text-white shadow-[0_0_20px_rgba(34,197,94,0.4)]"
-                                    : "bg-[var(--bg-tertiary)] border border-[var(--border-default)] hover:bg-[var(--bg-elevated)]"
+                ) : (
+                    <>
+                        {/* Source Indicator */}
+                        <div className={styles.sourceIndicator}>
+                            <span className={clsx(
+                                styles.badge,
+                                state.source === 'favorites' ? styles.badgeFavorites : styles.badgeAll
+                            )}>
+                                {state.source === 'favorites' ? 'Praticando Favoritos' : 'Modo Todos os Verbos'}
+                            </span>
+                            <p className={styles.subText}>
+                                Pergunta {state.currentIndex + 1} de {state.roundSize}
+                            </p>
+                            {state.source === 'all' && favorites.length < 10 && (
+                                <p className={styles.subText} style={{ marginTop: '0.5rem', opacity: 0.8 }}>
+                                    Adicione {10 - favorites.length} favoritos para desbloquear o treino focado.
+                                </p>
                             )}
-                        >
-                            {state.isCorrect ? "Correct! Next Verb" : "Next Verb"}
-                            <RefreshCw size={20} />
-                        </button>
-                    )}
-                </div>
+                        </div>
 
+                        {/* Verb Display */}
+                        <div className={styles.verbDisplay}>
+                            <h1 className={styles.infinitive}>{state.currentVerb.infinitive}</h1>
+                            <p className={styles.translation}>{state.currentVerb.translation}</p>
+                        </div>
+
+                        {/* Inputs */}
+                        <div className={styles.inputsGrid}>
+                            <div className={styles.inputGroup}>
+                                <label className={styles.label}>Passado Simples</label>
+                                <input
+                                    ref={simpleInputRef}
+                                    type="text"
+                                    value={state.inputSimple}
+                                    onChange={(e) => setState(prev => ({ ...prev, inputSimple: e.target.value }))}
+                                    onKeyDown={handleKeyDown}
+                                    disabled={state.isChecked && state.isCorrect}
+                                    className={clsx(
+                                        styles.input,
+                                        getInputClass(isSimpleCorrect)
+                                    )}
+                                    placeholder="ex: went"
+                                    autoComplete="off"
+                                    autoCorrect="off"
+                                    autoCapitalize="none"
+                                />
+                                {state.isChecked && (
+                                    <div className={styles.answerReveal}>
+                                        Resposta: <span>{state.currentVerb.forms.pastSimple}</span>
+                                    </div>
+                                )}
+                            </div>
+
+                            <div className={styles.inputGroup}>
+                                <label className={styles.label}>Particípio Passado</label>
+                                <input
+                                    type="text"
+                                    value={state.inputParticiple}
+                                    onChange={(e) => setState(prev => ({ ...prev, inputParticiple: e.target.value }))}
+                                    onKeyDown={handleKeyDown}
+                                    disabled={state.isChecked && state.isCorrect}
+                                    className={clsx(
+                                        styles.input,
+                                        getInputClass(isParticipleCorrect)
+                                    )}
+                                    placeholder="ex: gone"
+                                    autoComplete="off"
+                                    autoCorrect="off"
+                                    autoCapitalize="none"
+                                />
+                                {state.isChecked && (
+                                    <div className={styles.answerReveal}>
+                                        Resposta: <span>{state.currentVerb.forms.pastParticiple}</span>
+                                    </div>
+                                )}
+                            </div>
+                        </div>
+
+                        {/* Actions */}
+                        <div className={styles.actions}>
+                            {!state.isChecked ? (
+                                <button
+                                    onClick={checkAnswer}
+                                    className={styles.checkButton}
+                                >
+                                    Verificar
+                                </button>
+                            ) : (
+                                <button
+                                    ref={nextButtonRef}
+                                    onClick={handleNext}
+                                    className={clsx(
+                                        styles.nextButton,
+                                        state.isCorrect ? styles.nextButtonCorrect : styles.nextButtonDefault
+                                    )}
+                                >
+                                    {state.currentIndex + 1 >= state.roundSize ? "Finalizar" : "Próximo"}
+                                    {state.currentIndex + 1 >= state.roundSize ? <Trophy size={20} /> : <RefreshCw size={20} />}
+                                </button>
+                            )}
+                        </div>
+                    </>
+                )}
             </div>
         </div>
     );
