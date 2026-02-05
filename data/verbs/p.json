@@ -1409,7 +1409,8 @@
                 "en": "Practice makes perfect.",
                 "pt": "A prática leva à perfeição."
             }
-        ]
+        ],
+        "uk": "practise"
     },
     "praise": {
         "infinitive": "praise",
@@ -1974,7 +1975,8 @@
                 "en": "I program in Python.",
                 "pt": "Eu programo em Python."
             }
-        ]
+        ],
+        "uk": "programme"
     },
     "prohibit": {
         "infinitive": "prohibit",

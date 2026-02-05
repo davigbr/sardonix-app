@@ -8,7 +8,7 @@ const letters = 'abcdefghijklmnopqrstuvwxyz'.split('');
 
 // CSV Header
 const headers = [
-    'infinitive', 'translation',
+    'infinitive', 'uk', 'translation',
     'base', 'pastSimple', 'pastParticiple', 'presentParticiple', 'thirdPerson',
     'irregular', 'tags', 'related',
     'explanation',
@@ -43,6 +43,7 @@ letters.forEach(letter => {
 
                 const row = [
                     verb.infinitive,
+                    verb.uk || '',
                     verb.translation,
                     forms.base,
                     forms.pastSimple,

@@ -1437,6 +1437,7 @@
     },
     "color": {
         "infinitive": "color",
+        "uk": "colour",
         "translation": "colorir",
         "forms": {
             "base": "color",

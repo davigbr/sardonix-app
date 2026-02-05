@@ -59,6 +59,11 @@ const Search = {
                 score += 40;
             }
 
+            // Match UK spelling
+            if (verb.uk && verb.uk.toLowerCase().includes(query)) {
+                score += 90; // High score for direct UK match
+            }
+
             // Match forms
             for (const form of Object.values(verb.forms)) {
                 if (form.toLowerCase().includes(query)) {

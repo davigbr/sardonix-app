@@ -935,7 +935,8 @@
                 "en": "Scientists analyzed the samples.",
                 "pt": "Cientistas analisaram as amostras."
             }
-        ]
+        ],
+        "uk": "analyse"
     },
     "announce": {
         "infinitive": "announce",
@@ -1085,7 +1086,8 @@
                 "en": "You should apologize to him.",
                 "pt": "Você deveria pedir desculpas a ele."
             }
-        ]
+        ],
+        "uk": "apologise"
     },
     "appear": {
         "infinitive": "appear",
@@ -1900,7 +1902,8 @@
                 "en": "Only authorized personnel allowed.",
                 "pt": "Apenas pessoal autorizado permitido."
             }
-        ]
+        ],
+        "uk": "authorise"
     },
     "autograph": {
         "infinitive": "autograph",

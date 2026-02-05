@@ -84,6 +84,7 @@ for (let i = 1; i < lines.length; i++) {
             presentParticiple: values[col['presentParticiple']],
             thirdPerson: values[col['thirdPerson']]
         },
+        uk: values[col['uk']], // Add UK variant support
         irregular: values[col['irregular']] === 'true',
         tags: values[col['tags']] ? values[col['tags']].split(';') : [],
         related: values[col['related']] ? values[col['related']].split(';') : [],

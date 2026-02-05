@@ -262,7 +262,8 @@
                 "en": "Do you realize the risk?",
                 "pt": "Você percebe o risco?"
             }
-        ]
+        ],
+        "uk": "realise"
     },
     "rebound": {
         "infinitive": "rebound",
@@ -416,7 +417,8 @@
                 "en": "She recognized the voice.",
                 "pt": "Ela reconheceu a voz."
             }
-        ]
+        ],
+        "uk": "recognise"
     },
     "recommend": {
         "infinitive": "recommend",

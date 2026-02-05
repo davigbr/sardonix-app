@@ -171,7 +171,8 @@
                 "en": "Savor the meal.",
                 "pt": "Saboreie a refeição."
             }
-        ]
+        ],
+        "uk": "savour"
     },
     "saw": {
         "infinitive": "saw",
@@ -1013,7 +1014,8 @@
                 "en": "Police seized the goods.",
                 "pt": "A polícia apreendeu as mercadorias."
             }
-        ]
+        ],
+        "uk": "seise"
     },
     "select": {
         "infinitive": "select",
@@ -1209,7 +1211,8 @@
                 "en": "Don't sermonize me.",
                 "pt": "Não me dê sermão."
             }
-        ]
+        ],
+        "uk": "sermonise"
     },
     "serve": {
         "infinitive": "serve",
@@ -4370,7 +4373,8 @@
                 "en": "Stabilize the patient.",
                 "pt": "Estabilize o paciente."
             }
-        ]
+        ],
+        "uk": "stabilise"
     },
     "stack": {
         "infinitive": "stack",

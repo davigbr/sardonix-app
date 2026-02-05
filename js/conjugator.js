@@ -97,7 +97,10 @@ const Conjugator = {
     },
 
     render(verb) {
-        this.elements.title.textContent = verb.infinitive;
+        this.elements.title.innerHTML = `
+            ${verb.infinitive}
+            ${verb.uk ? `<span style="font-size: 0.6em; color: var(--text-secondary); margin-left:8px;">🇬🇧 ${verb.uk}</span>` : ''}
+        `;
         this.elements.translation.textContent = verb.translation;
 
         // Tags

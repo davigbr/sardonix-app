@@ -1638,3 +1638,12 @@ body {
     visibility: visible;
     transform: translateX(-50%) translateY(0);
 }
+
+/* UK Spelling Variant */
+.verb-uk {
+    font-size: 0.6em;
+    color: var(--text-secondary);
+    font-weight: 400;
+    margin-left: var(--space-2);
+    vertical-align: middle;
+}

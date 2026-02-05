@@ -197,7 +197,10 @@ const App = {
                 </button>
                 <div class="verb-tags-mini">${tagDots}</div>
                 <div class="verb-card-content">
-                    <h3 class="verb-infinitive">${verb.infinitive}</h3>
+                    <h3 class="verb-infinitive">
+                        ${verb.infinitive}
+                        ${verb.uk ? `<span class="verb-uk" title="UK Spelling: ${verb.uk}">🇬🇧 ${verb.uk}</span>` : ''}
+                    </h3>
                     <p class="verb-translation">${verb.translation}</p>
                     <div class="verb-preview">
                         <span class="verb-form-mini">${verb.forms.pastSimple}</span>
