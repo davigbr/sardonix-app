@@ -316,6 +316,14 @@ input {
     color: var(--text-muted);
 }
 
+.results-count {
+    text-align: center;
+    margin-top: var(--space-4);
+    font-size: var(--font-size-sm);
+    color: var(--accent-secondary);
+    font-weight: 500;
+}
+
 /* ========================================
    VERB GRID
    ======================================== */

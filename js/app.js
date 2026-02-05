@@ -150,6 +150,7 @@ const App = {
         this.elements.favoriteFilterBtn = document.getElementById('favoriteFilterBtn');
         this.elements.typeFilters = document.getElementById('typeFilters');
         this.elements.phrasalFilterBtn = document.getElementById('phrasalFilterBtn');
+        this.elements.verbCount = document.getElementById('verbCount');
     },
 
     currentVerbs: [],
@@ -169,7 +170,15 @@ const App = {
                     <p>Tente buscar por outra palavra ou forma verbal</p>
                 </div>
             `;
+            if (this.elements.verbCount) {
+                this.elements.verbCount.textContent = 'Nenhum verbo encontrado';
+            }
             return;
+        }
+
+        const count = verbs.length;
+        if (this.elements.verbCount) {
+            this.elements.verbCount.textContent = count === 1 ? '1 verbo encontrado' : `${count} verbos encontrados`;
         }
 
         this.currentVerbs = verbs;
