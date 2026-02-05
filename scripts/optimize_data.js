@@ -1,3 +1,6 @@
+// [DEPRECATED] This script targets the legacy monolithic verbData.js file.
+// It needs to be rewritten if we want to batch-optimize the JSON files in public/data.
+
 const fs = require('fs');
 const path = require('path');
 

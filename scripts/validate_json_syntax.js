@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const verbsDir = path.join(__dirname, '../data/verbs');
+const verbsDir = path.join(__dirname, '../public/data');
 const files = fs.readdirSync(verbsDir).filter(f => f.endsWith('.json'));
 
 console.log('Validating JSON files...');

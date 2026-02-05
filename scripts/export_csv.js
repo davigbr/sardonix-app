@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dataDir = path.join(__dirname, '../data/verbs');
+const dataDir = path.join(__dirname, '../public/data');
 const outputFile = path.join(__dirname, '../verbs_export.csv');
 
 const letters = 'abcdefghijklmnopqrstuvwxyz'.split('');

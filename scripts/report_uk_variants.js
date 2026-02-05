@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dataDir = path.join(__dirname, '../data/verbs');
+const dataDir = path.join(__dirname, '../public/data');
 const verbFiles = fs.readdirSync(dataDir).filter(f => f.endsWith('.json')).sort();
 
 console.log('# British English Variants Report\n');
