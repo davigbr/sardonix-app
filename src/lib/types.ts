@@ -30,9 +30,7 @@ export interface ConjugationTable {
 }
 
 export interface TenseGroups {
-    [key: string]: {
-        [key: string]: ConjugationTable;
-    };
+    [key: string]: ConjugationTable;
 }
 
 export interface VerbMap {
