@@ -99,9 +99,23 @@ function updateVerbs() {
         if (def.model) verb.model = def.model;
         if (def.forms) verb.forms = { ...verb.forms, ...def.forms }; // Merge forms
 
+        // Update tags
         if (!verb.tags.includes('defective')) verb.tags.push('defective');
         if (def.model === 'modal_pure' && !verb.tags.includes('modal')) verb.tags.push('modal');
-        if (def.inf.includes(' ')) verb.tags.push('phrasal'); // Auto-tag phrases like 'used to'
+
+        // Handle Phrasal Tag
+        if (def.inf.includes(' ')) {
+            if (def.model === 'modal_pure') {
+                // Modals like 'had better' are NOT phrasal verbs, remove if present
+                verb.tags = verb.tags.filter(t => t !== 'phrasal');
+            } else if (!verb.tags.includes('phrasal')) {
+                // Other space-containing verbs (like 'wake up') get phrasal tag
+                verb.tags.push('phrasal');
+            }
+        }
+
+        // De-duplicate tags just in case
+        verb.tags = [...new Set(verb.tags)];
 
         db[def.inf] = verb;
     });

@@ -191,7 +191,8 @@
                 "en": "I dare you to jump.",
                 "pt": "Eu te desafio a pular."
             }
-        ]
+        ],
+        "category_info": "Híbrido (Modal Marginal)"
     },
     "dash": {
         "infinitive": "dash",
@@ -2567,7 +2568,9 @@
         ],
         "related": [],
         "explanation": "Verbo Impessoal (Meteorológico).",
-        "examples": []
+        "examples": [],
+        "category_info": "Impessoal (Meteorológico)",
+        "model": "impersonal"
     },
     "drop": {
         "infinitive": "drop",

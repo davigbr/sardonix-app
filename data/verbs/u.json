@@ -454,7 +454,9 @@
         ],
         "related": [],
         "explanation": "Verbo Restrito (Apenas Passado).",
-        "examples": []
+        "examples": [],
+        "category_info": "Restrito (Apenas Passado)",
+        "model": "restricted_past"
     },
     "utilize": {
         "infinitive": "utilize",

@@ -13,12 +13,13 @@
         "irregular": true,
         "tags": [
             "defective",
-            "modal",
-            "phrasal"
+            "modal"
         ],
         "related": [],
         "explanation": "Verbo Locução Modal.",
-        "examples": []
+        "examples": [],
+        "category_info": "Locução Modal",
+        "model": "modal_pure"
     },
     "hail": {
         "infinitive": "hail",
@@ -46,7 +47,9 @@
                 "en": "Hail a taxi.",
                 "pt": "Chame um táxi."
             }
-        ]
+        ],
+        "category_info": "Impessoal (Meteorológico)",
+        "model": "impersonal"
     },
     "halt": {
         "infinitive": "halt",
@@ -323,7 +326,9 @@
         ],
         "related": [],
         "explanation": "Verbo Arcaico (Imperativo).",
-        "examples": []
+        "examples": [],
+        "category_info": "Arcaico (Imperativo)",
+        "model": "restricted_imperative"
     },
     "harm": {
         "infinitive": "harm",
@@ -581,7 +586,8 @@
                 "en": "I heard a noise.",
                 "pt": "Ouvi um barulho."
             }
-        ]
+        ],
+        "category_info": "Imperativo Isolado (Parlamentar)"
     },
     "heat": {
         "infinitive": "heat",
@@ -715,7 +721,9 @@
         ],
         "related": [],
         "explanation": "Verbo Arcaico (Passivo).",
-        "examples": []
+        "examples": [],
+        "category_info": "Arcaico (Passivo)",
+        "model": "archaic"
     },
     "hire": {
         "infinitive": "hire",

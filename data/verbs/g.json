@@ -790,7 +790,9 @@
         ],
         "related": [],
         "explanation": "Verbo Particípio Isolado.",
-        "examples": []
+        "examples": [],
+        "category_info": "Particípio Isolado",
+        "model": "archaic"
     },
     "govern": {
         "infinitive": "govern",

@@ -166,7 +166,8 @@
                 "en": "We need to talk.",
                 "pt": "Nós precisamos conversar."
             }
-        ]
+        ],
+        "category_info": "Híbrido (Modal Marginal)"
     },
     "neglect": {
         "infinitive": "neglect",

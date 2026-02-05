@@ -107,7 +107,9 @@
                 "en": "It rained all day.",
                 "pt": "Choveu o dia todo."
             }
-        ]
+        ],
+        "category_info": "Impessoal",
+        "model": "impersonal"
     },
     "raise": {
         "infinitive": "raise",

@@ -463,7 +463,9 @@
                 "en": "You ought to apologize.",
                 "pt": "Você deveria se desculpar."
             }
-        ]
+        ],
+        "category_info": "Modal Semântico",
+        "model": "modal_pure"
     },
     "outline": {
         "infinitive": "outline",

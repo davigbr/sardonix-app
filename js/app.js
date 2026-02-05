@@ -96,8 +96,10 @@ const App = {
         return verbs.filter(verb => {
             // Type Filter
             // Treat defective and modal verbs as irregular
-            const isIrregular = verb.tags.includes('irregular') || verb.tags.includes('defective') || verb.tags.includes('modal');
+            const isModal = verb.tags.includes('modal');
+            const isIrregular = verb.tags.includes('irregular') || verb.tags.includes('defective') || isModal;
 
+            if (this.filters.type === 'modal' && !isModal) return false;
             if (this.filters.type === 'regular' && isIrregular) return false;
             if (this.filters.type === 'irregular' && !isIrregular) return false;
 

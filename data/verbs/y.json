@@ -67,7 +67,9 @@
         ],
         "related": [],
         "explanation": "Verbo Fóssil (Particípio).",
-        "examples": []
+        "examples": [],
+        "category_info": "Fóssil (Particípio)",
+        "model": "archaic"
     },
     "yearn": {
         "infinitive": "yearn",

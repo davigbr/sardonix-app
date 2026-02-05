@@ -165,7 +165,9 @@
                 "en": "Can I help you?",
                 "pt": "Posso ajudar você?"
             }
-        ]
+        ],
+        "category_info": "Modal Puro",
+        "model": "modal_pure"
     },
     "captivate": {
         "infinitive": "captivate",
@@ -3137,7 +3139,9 @@
                 "en": "Could you help me?",
                 "pt": "Você poderia me ajudar?"
             }
-        ]
+        ],
+        "category_info": "Modal Puro",
+        "model": "modal_pure"
     },
     "count": {
         "infinitive": "count",

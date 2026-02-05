@@ -1519,7 +1519,9 @@
                 "en": "Shall I open the window?",
                 "pt": "Abro a janela?"
             }
-        ]
+        ],
+        "category_info": "Modal Puro",
+        "model": "modal_pure"
     },
     "shame": {
         "infinitive": "shame",
@@ -1971,7 +1973,9 @@
                 "en": "It should work.",
                 "pt": "Deve funcionar."
             }
-        ]
+        ],
+        "category_info": "Modal Puro",
+        "model": "modal_pure"
     },
     "shout": {
         "infinitive": "shout",
@@ -3621,7 +3625,9 @@
                 "en": "It snowed all night.",
                 "pt": "Nevou a noite toda."
             }
-        ]
+        ],
+        "category_info": "Impessoal",
+        "model": "impersonal"
     },
     "soak": {
         "infinitive": "soak",

@@ -632,7 +632,9 @@
         ],
         "related": [],
         "explanation": "Verbo Restrito (Imperativo).",
-        "examples": []
+        "examples": [],
+        "category_info": "Restrito (Imperativo)",
+        "model": "restricted_imperative"
     },
     "behave": {
         "infinitive": "behave",
@@ -714,7 +716,9 @@
         ],
         "related": [],
         "explanation": "Verbo Impessoal (Formal).",
-        "examples": []
+        "examples": [],
+        "category_info": "Impessoal (Formal)",
+        "model": "impersonal"
     },
     "believe": {
         "infinitive": "believe",
@@ -884,7 +888,9 @@
         ],
         "related": [],
         "explanation": "Verbo Restrito (Imperativo).",
-        "examples": []
+        "examples": [],
+        "category_info": "Restrito (Imperativo)",
+        "model": "restricted_imperative"
     },
     "bid": {
         "infinitive": "bid",
@@ -1621,7 +1627,9 @@
         ],
         "related": [],
         "explanation": "Verbo Passivo Isolado.",
-        "examples": []
+        "examples": [],
+        "category_info": "Passivo Isolado",
+        "model": "archaic"
     },
     "borrow": {
         "infinitive": "borrow",

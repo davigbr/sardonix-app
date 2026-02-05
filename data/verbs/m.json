@@ -303,7 +303,9 @@
                 "en": "May I come in?",
                 "pt": "Posso entrar?"
             }
-        ]
+        ],
+        "category_info": "Modal Puro",
+        "model": "modal_pure"
     },
     "mean": {
         "infinitive": "mean",
@@ -622,7 +624,9 @@
         ],
         "related": [],
         "explanation": "Verbo Arcaico (Impessoal).",
-        "examples": []
+        "examples": [],
+        "category_info": "Arcaico (Impessoal)",
+        "model": "archaic"
     },
     "might": {
         "infinitive": "might",
@@ -651,7 +655,9 @@
                 "en": "It might be true.",
                 "pt": "Pode ser verdade."
             }
-        ]
+        ],
+        "category_info": "Modal Puro",
+        "model": "modal_pure"
     },
     "mill": {
         "infinitive": "mill",
@@ -1254,7 +1260,9 @@
                 "en": "He must be tired.",
                 "pt": "Ele deve estar cansado."
             }
-        ]
+        ],
+        "category_info": "Modal Puro",
+        "model": "modal_pure"
     },
     "mutter": {
         "infinitive": "mutter",

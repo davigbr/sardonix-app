@@ -879,7 +879,9 @@
                 "en": "Will you marry me?",
                 "pt": "Você quer casar comigo?"
             }
-        ]
+        ],
+        "category_info": "Modal Puro",
+        "model": "modal_pure"
     },
     "win": {
         "infinitive": "win",
@@ -1043,7 +1045,9 @@
         ],
         "related": [],
         "explanation": "Verbo Arcaico / Legalês.",
-        "examples": []
+        "examples": [],
+        "category_info": "Arcaico / Legalês",
+        "model": "archaic"
     },
     "withdraw": {
         "infinitive": "withdraw",
@@ -1309,7 +1313,9 @@
         ],
         "related": [],
         "explanation": "Verbo Arcaico (Subjuntivo).",
-        "examples": []
+        "examples": [],
+        "category_info": "Arcaico (Subjuntivo)",
+        "model": "archaic"
     },
     "would": {
         "infinitive": "would",
@@ -1338,7 +1344,9 @@
                 "en": "She would always say that.",
                 "pt": "Ela sempre dizia isso."
             }
-        ]
+        ],
+        "category_info": "Modal Puro",
+        "model": "modal_pure"
     },
     "would rather": {
         "infinitive": "would rather",
@@ -1354,12 +1362,13 @@
         "irregular": true,
         "tags": [
             "defective",
-            "modal",
-            "phrasal"
+            "modal"
         ],
         "related": [],
         "explanation": "Verbo Locução Modal.",
-        "examples": []
+        "examples": [],
+        "category_info": "Locução Modal",
+        "model": "modal_pure"
     },
     "wound": {
         "infinitive": "wound",
