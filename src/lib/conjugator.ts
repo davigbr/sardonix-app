@@ -4,37 +4,37 @@ export const tenseConfig: Record<string, { title: string; tenses: Record<string,
     present: {
         title: "Present",
         tenses: {
-            presentSimple: { name: "Present Simple", desc: "Describes habits, general facts, or actions happening now." },
-            presentContinuous: { name: "Present Continuous", desc: "Describes actions happening right now." },
-            presentPerfect: { name: "Present Perfect", desc: "Describes completed actions connecting past to present." },
-            presentPerfectContinuous: { name: "Present Perfect Continuous", desc: "Describes actions that started in the past and continue to now." }
+            presentSimple: { name: "Present Simple", desc: "Descreve hábitos, fatos gerais ou ações que acontecem agora." },
+            presentContinuous: { name: "Present Continuous", desc: "Descreve ações em andamento acontecendo agora." },
+            presentPerfect: { name: "Present Perfect", desc: "Descreve ações completadas que conectam o passado ao presente." },
+            presentPerfectContinuous: { name: "Present Perfect Continuous", desc: "Descreve ações em andamento que começaram no passado e continuam até agora." }
         }
     },
     past: {
         title: "Past",
         tenses: {
-            pastSimple: { name: "Past Simple", desc: "Describes actions completed in the past." },
-            pastContinuous: { name: "Past Continuous", desc: "Describes actions in progress at a specific time in the past." },
-            pastPerfect: { name: "Past Perfect", desc: "Describes actions completed before another past action." },
-            pastPerfectContinuous: { name: "Past Perfect Continuous", desc: "Describes actions in progress that started before another past action." }
+            pastSimple: { name: "Past Simple", desc: "Descreve ações completadas no passado." },
+            pastContinuous: { name: "Past Continuous", desc: "Descreve ações em andamento em um momento específico do passado." },
+            pastPerfect: { name: "Past Perfect", desc: "Descreve ações completadas que ocorreram antes de outra ação passada." },
+            pastPerfectContinuous: { name: "Past Perfect Continuous", desc: "Descreve ações em andamento que começaram antes de outra ação passada." }
         }
     },
     future: {
         title: "Future",
         tenses: {
-            futureSimple: { name: "Future Simple", desc: "Describes actions that will happen." },
-            futureContinuous: { name: "Future Continuous", desc: "Describes actions that will be in progress in the future." },
-            futurePerfect: { name: "Future Perfect", desc: "Describes actions that will be completed by a certain future time." },
-            futurePerfectContinuous: { name: "Future Perfect Continuous", desc: "Describes actions in progress that will continue until a future time." }
+            futureSimple: { name: "Future Simple", desc: "Descreve ações que acontecerão no futuro." },
+            futureContinuous: { name: "Future Continuous", desc: "Descreve ações que estarão em andamento no futuro." },
+            futurePerfect: { name: "Future Perfect", desc: "Descreve ações que serão completadas antes de um tempo específico no futuro." },
+            futurePerfectContinuous: { name: "Future Perfect Continuous", desc: "Descreve ações em andamento que continuarão até um tempo específico no futuro." }
         }
     },
     conditional: {
         title: "Conditional",
         tenses: {
-            conditionalSimple: { name: "Conditional Simple", desc: "Describes hypothetical situations." },
-            conditionalContinuous: { name: "Conditional Continuous", desc: "Describes hypothetical actions in progress." },
-            conditionalPerfect: { name: "Conditional Perfect", desc: "Describes hypothetical actions that would have been completed." },
-            conditionalPerfectContinuous: { name: "Conditional Perfect Continuous", desc: "Describes hypothetical actions that would have been in progress." }
+            conditionalSimple: { name: "Conditional Simple", desc: "Descreve situações hipotéticas." },
+            conditionalContinuous: { name: "Conditional Continuous", desc: "Descreve ações hipotéticas em andamento." },
+            conditionalPerfect: { name: "Conditional Perfect", desc: "Descreve ações hipotéticas que teriam sido completadas." },
+            conditionalPerfectContinuous: { name: "Conditional Perfect Continuous", desc: "Descreve ações hipotéticas em andamento que teriam continuado." }
         }
     }
 };
