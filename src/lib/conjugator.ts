@@ -1,94 +1,94 @@
-import { VerbData, TenseGroups, ConjugationTable } from "./types";
+import { VerbData, TenseGroups } from "./types";
 
-export const tenseConfig = {
+export const tenseConfig: Record<string, { title: string; tenses: Record<string, { name: string; desc: string }> }> = {
     present: {
-        title: "Presente",
+        title: "Present",
         tenses: {
-            presentSimple: { name: "Presente Simples", desc: "Descreve hábitos, fatos gerais ou ações que acontecem agora." },
-            presentContinuous: { name: "Presente Contínuo", desc: "Descreve ações em andamento acontecendo agora." },
-            presentPerfect: { name: "Presente Perfeito", desc: "Descreve ações completadas que conectam o passado ao presente." },
-            presentPerfectContinuous: { name: "Presente Perfeito Contínuo", desc: "Descreve ações em andamento que começaram no passado e continuam até agora." }
+            presentSimple: { name: "Present Simple", desc: "Describes habits, general facts, or actions happening now." },
+            presentContinuous: { name: "Present Continuous", desc: "Describes actions happening right now." },
+            presentPerfect: { name: "Present Perfect", desc: "Describes completed actions connecting past to present." },
+            presentPerfectContinuous: { name: "Present Perfect Continuous", desc: "Describes actions that started in the past and continue to now." }
         }
     },
     past: {
-        title: "Passado",
+        title: "Past",
         tenses: {
-            pastSimple: { name: "Passado Simples", desc: "Descreve ações completadas no passado." },
-            pastContinuous: { name: "Passado Contínuo", desc: "Descreve ações em andamento no passado." },
-            pastPerfect: { name: "Passado Perfeito", desc: "Descreve ações completadas que ocorreram antes de outra ação passada." },
-            pastPerfectContinuous: { name: "Passado Perfeito Contínuo", desc: "Descreve ações em andamento que começaram e continuaram antes de outra ação passada." }
+            pastSimple: { name: "Past Simple", desc: "Describes actions completed in the past." },
+            pastContinuous: { name: "Past Continuous", desc: "Describes actions in progress at a specific time in the past." },
+            pastPerfect: { name: "Past Perfect", desc: "Describes actions completed before another past action." },
+            pastPerfectContinuous: { name: "Past Perfect Continuous", desc: "Describes actions in progress that started before another past action." }
         }
     },
     future: {
-        title: "Futuro",
+        title: "Future",
         tenses: {
-            futureSimple: { name: "Futuro Simples", desc: "Descreve ações que acontecerão no futuro." },
-            futureContinuous: { name: "Futuro Contínuo", desc: "Descreve ações em andamento no futuro." },
-            futurePerfect: { name: "Futuro Perfeito", desc: "Descreve ações que serão completadas antes de um tempo específico no futuro." },
-            futurePerfectContinuous: { name: "Futuro Perfeito Contínuo", desc: "Descreve ações em andamento que continuarão até um tempo específico no futuro." }
+            futureSimple: { name: "Future Simple", desc: "Describes actions that will happen." },
+            futureContinuous: { name: "Future Continuous", desc: "Describes actions that will be in progress in the future." },
+            futurePerfect: { name: "Future Perfect", desc: "Describes actions that will be completed by a certain future time." },
+            futurePerfectContinuous: { name: "Future Perfect Continuous", desc: "Describes actions in progress that will continue until a future time." }
         }
     },
     conditional: {
-        title: "Condicional",
+        title: "Conditional",
         tenses: {
-            conditionalSimple: { name: "Condicional Simples", desc: "Descreve situações hipotéticas." },
-            conditionalContinuous: { name: "Condicional Contínuo", desc: "Descreve ações hipotéticas em andamento." },
-            conditionalPerfect: { name: "Condicional Perfeito", desc: "Descreve ações hipotéticas completadas." },
-            conditionalPerfectContinuous: { name: "Condicional Perfeito Contínuo", desc: "Descreve ações hipotéticas em andamento que teriam continuado." }
+            conditionalSimple: { name: "Conditional Simple", desc: "Describes hypothetical situations." },
+            conditionalContinuous: { name: "Conditional Continuous", desc: "Describes hypothetical actions in progress." },
+            conditionalPerfect: { name: "Conditional Perfect", desc: "Describes hypothetical actions that would have been completed." },
+            conditionalPerfectContinuous: { name: "Conditional Perfect Continuous", desc: "Describes hypothetical actions that would have been in progress." }
         }
     }
 };
 
-const emptyTense = (): ConjugationTable => ({ I: '-', you: '-', "he/she/it": '-', we: '-', they: '-' });
-
-function generateDefectiveTenses(verb: VerbData): TenseGroups {
-    const f = verb.forms;
-    const model = verb.model;
-    const tenses: any = {}; // Using any here to construct flexibly, but aiming for TenseGroups structure
-
-    if (model === 'modal_pure') {
-        tenses.presentSimple = {
-            I: f.base, you: f.base, "he/she/it": f.base, we: f.base, they: f.base
-        };
-        if (f.pastSimple && f.pastSimple !== '-') {
-            tenses.pastSimple = {
-                I: f.pastSimple, you: f.pastSimple, "he/she/it": f.pastSimple, we: f.pastSimple, they: f.pastSimple
-            };
-        }
-    } else if (model === 'impersonal') {
-        if (f.thirdPerson) {
-            tenses.presentSimple = { ...emptyTense(), "he/she/it": f.thirdPerson };
-        }
-        if (f.presentParticiple) {
-            tenses.presentContinuous = { ...emptyTense(), "he/she/it": `is ${f.presentParticiple}` };
-        }
-        if (f.pastSimple) {
-            tenses.pastSimple = { ...emptyTense(), "he/she/it": f.pastSimple };
-        }
-        tenses.futureSimple = { ...emptyTense(), "he/she/it": `will ${f.base}` };
-    } else if (model === 'restricted_past') {
-        tenses.pastSimple = {
-            I: f.pastSimple, you: f.pastSimple, "he/she/it": f.pastSimple, we: f.pastSimple, they: f.pastSimple
-        };
-    } else if (model === 'archaic_quoted') {
-        tenses.pastSimple = {
-            I: f.pastSimple, you: '-', "he/she/it": f.pastSimple, we: '-', they: '-'
-        };
-    }
-
-    return tenses;
-}
-
 export function generateTenses(verb: VerbData): TenseGroups {
-    if (verb.model) {
+    if (verb.tags.includes('defective') || verb.tags.includes('modal')) {
         return generateDefectiveTenses(verb);
     }
 
-    const f = verb.forms;
-    const pp = f.pastParticiple;
-    const ing = f.presentParticiple;
-    const base = f.base;
+    // Base forms
+    const f = {
+        base: verb.infinitive,
+        pastSimple: verb.forms.pastSimple.split('/')[0], // Take primary if multiple
+        pastParticiple: verb.forms.pastParticiple.split('/')[0],
+        gerund: verb.infinitive + "ing", // Simple approximation, refining below
+        thirdPerson: verb.infinitive + "s" // Simple approximation
+    };
 
+    // Refine Gerund/ThirdPerson logic (basic rules)
+    if (f.base.endsWith('e') && !f.base.endsWith('ee')) {
+        f.gerund = f.base.slice(0, -1) + "ing";
+    }
+    if (f.base.endsWith('ss') || f.base.endsWith('sh') || f.base.endsWith('ch') || f.base.endsWith('x') || f.base.endsWith('o')) {
+        f.thirdPerson = f.base + "es";
+    } else if (f.base.endsWith('y') && !/[aeiou]y/.test(f.base)) {
+        f.thirdPerson = f.base.slice(0, -1) + "ies";
+    }
+
+    // Handle "to be" exception
+    if (verb.infinitive === "be") {
+        return {
+            presentSimple: { I: "am", you: "are", "he/she/it": "is", we: "are", they: "are" },
+            presentContinuous: { I: "am being", you: "are being", "he/she/it": "is being", we: "are being", they: "are being" },
+            presentPerfect: { I: "have been", you: "have been", "he/she/it": "has been", we: "have been", they: "have been" },
+            presentPerfectContinuous: { I: "have been being", you: "have been being", "he/she/it": "has been being", we: "have been being", they: "have been being" },
+
+            pastSimple: { I: "was", you: "were", "he/she/it": "was", we: "were", they: "were" },
+            pastContinuous: { I: "was being", you: "were being", "he/she/it": "was being", we: "were being", they: "were being" },
+            pastPerfect: { I: "had been", you: "had been", "he/she/it": "had been", we: "had been", they: "had been" },
+            pastPerfectContinuous: { I: "had been being", you: "had been being", "he/she/it": "had been being", we: "had been being", they: "had been being" },
+
+            futureSimple: { I: "will be", you: "will be", "he/she/it": "will be", we: "will be", they: "will be" },
+            futureContinuous: { I: "will be being", you: "will be being", "he/she/it": "will be being", we: "will be being", they: "will be being" },
+            futurePerfect: { I: "will have been", you: "will have been", "he/she/it": "will have been", we: "will have been", they: "will have been" },
+            futurePerfectContinuous: { I: "will have been being", you: "will have been being", "he/she/it": "will have been being", we: "will have been being", they: "will have been being" },
+
+            conditionalSimple: { I: "would be", you: "would be", "he/she/it": "would be", we: "would be", they: "would be" },
+            conditionalContinuous: { I: "would be being", you: "would be being", "he/she/it": "would be being", we: "would be being", they: "would be being" },
+            conditionalPerfect: { I: "would have been", you: "would have been", "he/she/it": "would have been", we: "would have been", they: "would have been" },
+            conditionalPerfectContinuous: { I: "would have been being", you: "would have been being", "he/she/it": "would have been being", we: "would have been being", they: "would have been being" }
+        };
+    }
+
+    // Standard Conjugation logic
     return {
         presentSimple: {
             I: f.base,
@@ -98,26 +98,27 @@ export function generateTenses(verb: VerbData): TenseGroups {
             they: f.base
         },
         presentContinuous: {
-            I: `am ${ing}`,
-            you: `are ${ing}`,
-            "he/she/it": `is ${ing}`,
-            we: `are ${ing}`,
-            they: `are ${ing}`
+            I: `am ${f.gerund}`,
+            you: `are ${f.gerund}`,
+            "he/she/it": `is ${f.gerund}`,
+            we: `are ${f.gerund}`,
+            they: `are ${f.gerund}`
         },
         presentPerfect: {
-            I: `have ${pp}`,
-            you: `have ${pp}`,
-            "he/she/it": `has ${pp}`,
-            we: `have ${pp}`,
-            they: `have ${pp}`
+            I: `have ${f.pastParticiple}`,
+            you: `have ${f.pastParticiple}`,
+            "he/she/it": `has ${f.pastParticiple}`,
+            we: `have ${f.pastParticiple}`,
+            they: `have ${f.pastParticiple}`
         },
         presentPerfectContinuous: {
-            I: `have been ${ing}`,
-            you: `have been ${ing}`,
-            "he/she/it": `has been ${ing}`,
-            we: `have been ${ing}`,
-            they: `have been ${ing}`
+            I: `have been ${f.gerund}`,
+            you: `have been ${f.gerund}`,
+            "he/she/it": `has been ${f.gerund}`,
+            we: `have been ${f.gerund}`,
+            they: `have been ${f.gerund}`
         },
+
         pastSimple: {
             I: f.pastSimple,
             you: f.pastSimple,
@@ -126,81 +127,96 @@ export function generateTenses(verb: VerbData): TenseGroups {
             they: f.pastSimple
         },
         pastContinuous: {
-            I: `was ${ing}`,
-            you: `were ${ing}`,
-            "he/she/it": `was ${ing}`,
-            we: `were ${ing}`,
-            they: `were ${ing}`
+            I: `was ${f.gerund}`,
+            you: `were ${f.gerund}`,
+            "he/she/it": `was ${f.gerund}`,
+            we: `were ${f.gerund}`,
+            they: `were ${f.gerund}`
         },
         pastPerfect: {
-            I: `had ${pp}`,
-            you: `had ${pp}`,
-            "he/she/it": `had ${pp}`,
-            we: `had ${pp}`,
-            they: `had ${pp}`
+            I: `had ${f.pastParticiple}`,
+            you: `had ${f.pastParticiple}`,
+            "he/she/it": `had ${f.pastParticiple}`,
+            we: `had ${f.pastParticiple}`,
+            they: `had ${f.pastParticiple}`
         },
         pastPerfectContinuous: {
-            I: `had been ${ing}`,
-            you: `had been ${ing}`,
-            "he/she/it": `had been ${ing}`,
-            we: `had been ${ing}`,
-            they: `had been ${ing}`
+            I: `had been ${f.gerund}`,
+            you: `had been ${f.gerund}`,
+            "he/she/it": `had been ${f.gerund}`,
+            we: `had been ${f.gerund}`,
+            they: `had been ${f.gerund}`
         },
+
         futureSimple: {
-            I: `will ${base}`,
-            you: `will ${base}`,
-            "he/she/it": `will ${base}`,
-            we: `will ${base}`,
-            they: `will ${base}`
+            I: `will ${f.base}`,
+            you: `will ${f.base}`,
+            "he/she/it": `will ${f.base}`,
+            we: `will ${f.base}`,
+            they: `will ${f.base}`
         },
         futureContinuous: {
-            I: `will be ${ing}`,
-            you: `will be ${ing}`,
-            "he/she/it": `will be ${ing}`,
-            we: `will be ${ing}`,
-            they: `will be ${ing}`
+            I: `will be ${f.gerund}`,
+            you: `will be ${f.gerund}`,
+            "he/she/it": `will be ${f.gerund}`,
+            we: `will be ${f.gerund}`,
+            they: `will be ${f.gerund}`
         },
         futurePerfect: {
-            I: `will have ${pp}`,
-            you: `will have ${pp}`,
-            "he/she/it": `will have ${pp}`,
-            we: `will have ${pp}`,
-            they: `will have ${pp}`
+            I: `will have ${f.pastParticiple}`,
+            you: `will have ${f.pastParticiple}`,
+            "he/she/it": `will have ${f.pastParticiple}`,
+            we: `will have ${f.pastParticiple}`,
+            they: `will have ${f.pastParticiple}`
         },
         futurePerfectContinuous: {
-            I: `will have been ${ing}`,
-            you: `will have been ${ing}`,
-            "he/she/it": `will have been ${ing}`,
-            we: `will have been ${ing}`,
-            they: `will have been ${ing}`
+            I: `will have been ${f.gerund}`,
+            you: `will have been ${f.gerund}`,
+            "he/she/it": `will have been ${f.gerund}`,
+            we: `will have been ${f.gerund}`,
+            they: `will have been ${f.gerund}`
         },
+
         conditionalSimple: {
-            I: `would ${base}`,
-            you: `would ${base}`,
-            "he/she/it": `would ${base}`,
-            we: `would ${base}`,
-            they: `would ${base}`
+            I: `would ${f.base}`,
+            you: `would ${f.base}`,
+            "he/she/it": `would ${f.base}`,
+            we: `would ${f.base}`,
+            they: `would ${f.base}`
         },
         conditionalContinuous: {
-            I: `would be ${ing}`,
-            you: `would be ${ing}`,
-            "he/she/it": `would be ${ing}`,
-            we: `would be ${ing}`,
-            they: `would be ${ing}`
+            I: `would be ${f.gerund}`,
+            you: `would be ${f.gerund}`,
+            "he/she/it": `would be ${f.gerund}`,
+            we: `would be ${f.gerund}`,
+            they: `would be ${f.gerund}`
         },
         conditionalPerfect: {
-            I: `would have ${pp}`,
-            you: `would have ${pp}`,
-            "he/she/it": `would have ${pp}`,
-            we: `would have ${pp}`,
-            they: `would have ${pp}`
+            I: `would have ${f.pastParticiple}`,
+            you: `would have ${f.pastParticiple}`,
+            "he/she/it": `would have ${f.pastParticiple}`,
+            we: `would have ${f.pastParticiple}`,
+            they: `would have ${f.pastParticiple}`
         },
         conditionalPerfectContinuous: {
-            I: `would have been ${ing}`,
-            you: `would have been ${ing}`,
-            "he/she/it": `would have been ${ing}`,
-            we: `would have been ${ing}`,
-            they: `would have been ${ing}`
+            I: `would have been ${f.gerund}`,
+            you: `would have been ${f.gerund}`,
+            "he/she/it": `would have been ${f.gerund}`,
+            we: `would have been ${f.gerund}`,
+            they: `would have been ${f.gerund}`
+        }
+    };
+}
+
+function generateDefectiveTenses(verb: VerbData): TenseGroups {
+    // Basic implementation for modals - usually they lack many tenses
+    return {
+        presentSimple: {
+            I: verb.infinitive,
+            you: verb.infinitive,
+            "he/she/it": verb.infinitive, // Modals don't add 's'
+            we: verb.infinitive,
+            they: verb.infinitive
         }
     };
 }

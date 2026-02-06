@@ -271,7 +271,7 @@ export default function PracticeClient({ allVerbs }: PracticeClientProps) {
                         {/* Inputs */}
                         <div className={styles.inputsGrid}>
                             <div className={styles.inputGroup}>
-                                <label className={styles.label}>Passado Simples</label>
+                                <label className={styles.label}>Past Simple</label>
                                 <input
                                     ref={simpleInputRef}
                                     type="text"
@@ -283,20 +283,20 @@ export default function PracticeClient({ allVerbs }: PracticeClientProps) {
                                         styles.input,
                                         getInputClass(isSimpleCorrect)
                                     )}
-                                    placeholder="ex: went"
+                                    placeholder="e.g. went"
                                     autoComplete="off"
                                     autoCorrect="off"
                                     autoCapitalize="none"
                                 />
                                 {state.isChecked && (
                                     <div className={styles.answerReveal}>
-                                        Resposta: <span>{state.currentVerb.forms.pastSimple}</span>
+                                        Answer: <span>{state.currentVerb.forms.pastSimple}</span>
                                     </div>
                                 )}
                             </div>
 
                             <div className={styles.inputGroup}>
-                                <label className={styles.label}>Particípio Passado</label>
+                                <label className={styles.label}>Past Participle</label>
                                 <input
                                     type="text"
                                     value={state.inputParticiple}
@@ -307,14 +307,14 @@ export default function PracticeClient({ allVerbs }: PracticeClientProps) {
                                         styles.input,
                                         getInputClass(isParticipleCorrect)
                                     )}
-                                    placeholder="ex: gone"
+                                    placeholder="e.g. gone"
                                     autoComplete="off"
                                     autoCorrect="off"
                                     autoCapitalize="none"
                                 />
                                 {state.isChecked && (
                                     <div className={styles.answerReveal}>
-                                        Resposta: <span>{state.currentVerb.forms.pastParticiple}</span>
+                                        Answer: <span>{state.currentVerb.forms.pastParticiple}</span>
                                     </div>
                                 )}
                             </div>
