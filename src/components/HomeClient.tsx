@@ -201,7 +201,11 @@ function HomeContent({ initialVerbs }: HomeClientProps) {
 // Wrapper for Suspense
 export default function HomeClient(props: HomeClientProps) {
     return (
-        <Suspense fallback={<div className="loading-spinner">Carregando...</div>}>
+        <Suspense fallback={
+            <div className="loading-screen">
+                <div className="loading-spinner" />
+            </div>
+        }>
             <HomeContent {...props} />
         </Suspense>
     )
