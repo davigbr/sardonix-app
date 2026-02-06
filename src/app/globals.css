@@ -1883,6 +1883,7 @@ body {
   /* Adjust tags for mobile padding */
   .verb-tags-mini {
     top: var(--space-5);
-    right: var(--space-4);
+    right: var(--space-12);
+    /* Clear the heart icon */
   }
 }
